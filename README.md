@@ -28,16 +28,24 @@ Download the newest version of this repository (**Code → Download ZIP**, or `g
 | `MuServer\4.MuServer\Test-1` | The game server (all new content) |
 | `MuServer\5.AntiServer` | Anti-hack server |
 | `Client` | Game client |
-| `GetMain` | `GetMainInfo.exe`: writes the client settings (IP, port…) into `Client\Data\SPK` |
+| `GetMain` | Source settings of the client (do not run `GetMainInfo.exe`, see below) |
 | `Database` | Database script + setup script |
+| `Scripts` | `set-ip.ps1` (used by `SET-IP.bat`) |
 
-### Playing over LAN / internet (optional)
-Replace `127.0.0.1` with your IP in:
-- `MuServer\1.ConnectServer\ServerList.xml`
-- `MuServer\4.MuServer\Test-1\Data\MapServerInfo.ini`
-- `GetMain\GetEngine.ini` (`IpAddress`)
+### Hosting for other players (LAN / internet) – one click
+1. Run **`SET-IP.bat`**. It shows a menu:
+   - `127.0.0.1`: only this PC;
+   - your **LAN** IP(s): players in your home network;
+   - your **public** IP: players over the internet (found automatically);
+   - or any IP you type.
 
-Then run `GetMain\GetMainInfo.exe`.
+   It writes the IP everywhere it is needed: the server list, the map server, the client (`Client\Data\SPK\ConnectIP.bmd`) and the launcher. It also opens the ports in Windows Firewall (44495/TCP, 55562/UDP, 56132/TCP).
+2. For the internet, forward the same 3 ports on your router to this PC.
+3. Restart the servers (`START-SERVER.bat`) and give the players the **`Client`** folder. It already connects to your IP.
+
+Without the menu: `SET-IP.bat 192.168.1.50`. To go back: `SET-IP.bat 127.0.0.1`.
+
+> Do **not** run `GetMain\GetMainInfo.exe`. It rebuilds `ServerData.bmd` from the older files in `GetMain\Data` and would remove custom items from the client. `SET-IP.bat` is all you need.
 
 ### Notes
 - **Game Masters:** add your accounts to `MuServer\4.MuServer\Test-1\Data\Util\GameMaster.xml`.
@@ -70,16 +78,24 @@ Then run `GetMain\GetMainInfo.exe`.
 | `MuServer\4.MuServer\Test-1` | Гейм сървърът (всички нови неща) |
 | `MuServer\5.AntiServer` | Анти-хак сървър |
 | `Client` | Клиентът |
-| `GetMain` | `GetMainInfo.exe`: записва настройките на клиента (IP, порт…) в `Client\Data\SPK` |
+| `GetMain` | Изходни настройки на клиента (не пускай `GetMainInfo.exe`, виж по-долу) |
 | `Database` | Скрипт за базата + скрипт за настройка |
+| `Scripts` | `set-ip.ps1` (ползва се от `SET-IP.bat`) |
 
-### Игра в LAN / интернет (по желание)
-Смени `127.0.0.1` с твоето IP в:
-- `MuServer\1.ConnectServer\ServerList.xml`
-- `MuServer\4.MuServer\Test-1\Data\MapServerInfo.ini`
-- `GetMain\GetEngine.ini` (`IpAddress`)
+### Сървър за други играчи (LAN / интернет) – с един клик
+1. Пусни **`SET-IP.bat`**. Показва меню:
+   - `127.0.0.1`: само този компютър;
+   - твоето **LAN** IP: играчи в домашната мрежа;
+   - твоето **публично** IP: играчи през интернет (намира го само);
+   - или IP, което въвеждаш.
 
-След това пусни `GetMain\GetMainInfo.exe`.
+   Записва IP-то навсякъде, където трябва: списъка сървъри, мап сървъра, клиента (`Client\Data\SPK\ConnectIP.bmd`) и лаунчера. Отваря и портовете в Windows Firewall (44495/TCP, 55562/UDP, 56132/TCP).
+2. За интернет пренасочи същите 3 порта в рутера към този компютър.
+3. Рестартирай сървърите (`START-SERVER.bat`) и дай на играчите папка **`Client`**. Тя вече се свързва към твоето IP.
+
+Без меню: `SET-IP.bat 192.168.1.50`. За връщане: `SET-IP.bat 127.0.0.1`.
+
+> **Не** пускай `GetMain\GetMainInfo.exe`. Той създава наново `ServerData.bmd` от по-старите файлове в `GetMain\Data` и ще махне новите предмети от клиента. `SET-IP.bat` е достатъчен.
 
 ### Бележки
 - **Гейм мастъри:** добави своите акаунти в `MuServer\4.MuServer\Test-1\Data\Util\GameMaster.xml`.

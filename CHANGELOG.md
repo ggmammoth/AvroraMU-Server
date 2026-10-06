@@ -10,6 +10,7 @@ Every version of this repository is complete: just download the newest one. Noth
 ## English
 
 ### 06.10.2026
+- **SET-IP.bat:** one click sets your server IP (this PC, LAN, internet or any IP) everywhere it is needed, client included, and opens the firewall ports.
 - **Ready to play:**
   - `SETUP-DATABASE.bat` creates the database and the ODBC connection;
   - `START-SERVER.bat` and `START-GAME.bat` start everything;
@@ -44,6 +45,7 @@ Every version of this repository is complete: just download the newest one. Noth
 ## Български
 
 ### 06.10.2026
+- **SET-IP.bat:** с един клик задава IP-то на сървъра (този компютър, LAN, интернет или друго) навсякъде, където трябва, включително в клиента, и отваря портовете във firewall.
 - **Готово за игра:**
   - `SETUP-DATABASE.bat` създава базата и ODBC връзката;
   - `START-SERVER.bat` и `START-GAME.bat` пускат всичко;
