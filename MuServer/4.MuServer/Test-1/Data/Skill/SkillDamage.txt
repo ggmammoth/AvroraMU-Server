@@ -1,0 +1,4 @@
+//Config to increase/decrease damage for each skill.
+//	#Skill		#DamageRateUser		#DamageRateMonster
+
+end

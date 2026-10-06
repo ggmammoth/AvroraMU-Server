@@ -1,0 +1,472 @@
+//=========================================================================================================================================
+// [QUESTS] CIDADES HUNTS MOBS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+735            95             00        193             137            03             //QUEST FEREA
+end
+//=========================================================================================================================================
+// [SPANWS] Swamp of DARKNESS
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      BeginPosX      EndPosY       Direction           Comment
+
+
+679            95             5         232            198             -1             //Ferea Knight
+679            95             5         232            198             -1             //Ferea Knight
+679            95             5         232            198             -1             //Ferea Knight
+680            95             5         232            198             -1             //Ferea Knight
+680            95             5         232            198             -1             //Ferea Knight
+680            95             5         232            198             -1             //Ferea Knight
+681            95             5         232            198             -1             //Ferea Knight
+681            95             5         232            198             -1             //Ferea Knight
+
+679            95             5         234            214             -1             //Ferea Knight
+679            95             5         234            214             -1             //Ferea Knight
+679            95             5         234            214             -1             //Ferea Knight
+680            95             5         234            214             -1             //Ferea Knight
+680            95             5         234            214             -1             //Ferea Knight
+680            95             5         234            214             -1             //Ferea Knight
+681            95             5         234            214             -1             //Ferea Knight
+681            95             5         234            214             -1             //Ferea Knight
+
+679            95             5         221            218             -1             //Ferea Knight
+679            95             5         221            218             -1             //Ferea Knight
+679            95             5         221            218             -1             //Ferea Knight
+680            95             5         221            218             -1             //Ferea Knight
+680            95             5         221            218             -1             //Ferea Knight
+680            95             5         221            218             -1             //Ferea Knight
+681            95             5         221            218             -1             //Ferea Knight
+681            95             5         221            218             -1             //Ferea Knight
+
+679            95             5         164            136             -1             //Ferea Knight
+679            95             5         164            136             -1             //Ferea Knight
+679            95             5         164            136             -1             //Ferea Knight
+680            95             5         164            136             -1             //Ferea Knight
+680            95             5         164            136             -1             //Ferea Knight
+680            95             5         164            136             -1             //Ferea Knight
+681            95             5         164            136             -1             //Ferea Knight
+681            95             5         164            136             -1             //Ferea Knight
+
+679            95             5         205            114             -1             //Ferea Knight
+679            95             5         205            114             -1             //Ferea Knight
+679            95             5         205            114             -1             //Ferea Knight
+680            95             5         205            114             -1             //Ferea Knight
+680            95             5         205            114             -1             //Ferea Knight
+680            95             5         205            114             -1             //Ferea Knight
+681            95             5         205            114             -1             //Ferea Knight
+681            95             5         205            114             -1             //Ferea Knight
+
+679            95             5         195            102             -1             //Ferea Knight
+679            95             5         195            102             -1             //Ferea Knight
+679            95             5         195            102             -1             //Ferea Knight
+680            95             5         195            102             -1             //Ferea Knight
+680            95             5         195            102             -1             //Ferea Knight
+680            95             5         195            102             -1             //Ferea Knight
+681            95             5         195            102             -1             //Ferea Knight
+681            95             5         195            102             -1             //Ferea Knight
+
+679            95             5         205            224             -1             //Ferea Knight
+679            95             5         205            224             -1             //Ferea Knight
+679            95             5         205            224             -1             //Ferea Knight
+680            95             5         205            224             -1             //Ferea Knight
+680            95             5         205            224             -1             //Ferea Knight
+680            95             5         205            224             -1             //Ferea Knight
+681            95             5         205            224             -1             //Ferea Knight
+681            95             5         205            224             -1             //Ferea Knight
+
+679            95             5         203            208             -1             //Ferea Knight
+679            95             5         203            208             -1             //Ferea Knight
+679            95             5         203            208             -1             //Ferea Knight
+680            95             5         203            208             -1             //Ferea Knight
+680            95             5         203            208             -1             //Ferea Knight
+680            95             5         203            208             -1             //Ferea Knight
+681            95             5         203            208             -1             //Ferea Knight
+681            95             5         203            208             -1             //Ferea Knight
+
+679            95             5         238            105             -1             //Ferea Knight
+679            95             5         238            105             -1             //Ferea Knight
+679            95             5         238            105             -1             //Ferea Knight
+680            95             5         238            105             -1             //Ferea Knight
+680            95             5         238            105             -1             //Ferea Knight
+680            95             5         238            105             -1             //Ferea Knight
+681            95             5         238            105             -1             //Ferea Knight
+681            95             5         238            105             -1             //Ferea Knight
+
+679            95             5         169            154             -1             //Ferea Knight
+679            95             5         169            154             -1             //Ferea Knight
+679            95             5         169            154             -1             //Ferea Knight
+680            95             5         169            154             -1             //Ferea Knight
+680            95             5         169            154             -1             //Ferea Knight
+680            95             5         169            154             -1             //Ferea Knight
+681            95             5         169            154             -1             //Ferea Knight
+681            95             5         169            154             -1             //Ferea Knight
+
+679            95             5         157            170             -1             //Ferea Knight
+679            95             5         157            170             -1             //Ferea Knight
+679            95             5         157            170             -1             //Ferea Knight
+680            95             5         157            170             -1             //Ferea Knight
+680            95             5         157            170             -1             //Ferea Knight
+680            95             5         157            170             -1             //Ferea Knight
+681            95             5         157            170             -1             //Ferea Knight
+681            95             5         157            170             -1             //Ferea Knight
+
+679            95             5         238            053             -1             //Ferea Knight
+679            95             5         238            053             -1             //Ferea Knight
+679            95             5         238            053             -1             //Ferea Knight
+680            95             5         238            053             -1             //Ferea Knight
+680            95             5         238            053             -1             //Ferea Knight
+680            95             5         238            053             -1             //Ferea Knight
+681            95             5         238            053             -1             //Ferea Knight
+681            95             5         238            053             -1             //Ferea Knight
+
+679            95             5         240            037             -1             //Ferea Knight
+679            95             5         240            037             -1             //Ferea Knight
+679            95             5         240            037             -1             //Ferea Knight
+680            95             5         240            037             -1             //Ferea Knight
+680            95             5         240            037             -1             //Ferea Knight
+680            95             5         240            037             -1             //Ferea Knight
+681            95             5         240            037             -1             //Ferea Knight
+681            95             5         240            037             -1             //Ferea Knight
+
+679            95             5         226            019             -1             //Ferea Knight
+679            95             5         226            019             -1             //Ferea Knight
+679            95             5         226            019             -1             //Ferea Knight
+680            95             5         226            019             -1             //Ferea Knight
+680            95             5         226            019             -1             //Ferea Knight
+680            95             5         226            019             -1             //Ferea Knight
+681            95             5         226            019             -1             //Ferea Knight
+681            95             5         226            019             -1             //Ferea Knight
+
+679            95             5         215            042             -1             //Ferea Knight
+679            95             5         215            042             -1             //Ferea Knight
+679            95             5         215            042             -1             //Ferea Knight
+680            95             5         215            042             -1             //Ferea Knight
+680            95             5         215            042             -1             //Ferea Knight
+680            95             5         215            042             -1             //Ferea Knight
+681            95             5         215            042             -1             //Ferea Knight
+681            95             5         215            042             -1             //Ferea Knight
+
+679            95             5         211            013             -1             //Ferea Knight
+679            95             5         211            013             -1             //Ferea Knight
+679            95             5         211            013             -1             //Ferea Knight
+680            95             5         211            013             -1             //Ferea Knight
+680            95             5         211            013             -1             //Ferea Knight
+680            95             5         211            013             -1             //Ferea Knight
+681            95             5         211            013             -1             //Ferea Knight
+681            95             5         211            013             -1             //Ferea Knight
+
+679            95             5         194            032             -1             //Ferea Knight
+679            95             5         194            032             -1             //Ferea Knight
+679            95             5         194            032             -1             //Ferea Knight
+680            95             5         194            032             -1             //Ferea Knight
+680            95             5         194            032             -1             //Ferea Knight
+680            95             5         194            032             -1             //Ferea Knight
+681            95             5         194            032             -1             //Ferea Knight
+681            95             5         194            032             -1             //Ferea Knight
+
+679            95             5         169            013             -1             //Ferea Knight
+679            95             5         169            013             -1             //Ferea Knight
+679            95             5         169            013             -1             //Ferea Knight
+680            95             5         169            013             -1             //Ferea Knight
+680            95             5         169            013             -1             //Ferea Knight
+680            95             5         169            013             -1             //Ferea Knight
+681            95             5         169            013             -1             //Ferea Knight
+681            95             5         169            013             -1             //Ferea Knight
+
+679            95             5         142            020             -1             //Ferea Knight
+679            95             5         142            020             -1             //Ferea Knight
+679            95             5         142            020             -1             //Ferea Knight
+680            95             5         142            020             -1             //Ferea Knight
+680            95             5         142            020             -1             //Ferea Knight
+680            95             5         142            020             -1             //Ferea Knight
+681            95             5         142            020             -1             //Ferea Knight
+681            95             5         142            020             -1             //Ferea Knight
+
+679            95             5         182            073             -1             //Ferea Knight
+679            95             5         182            073             -1             //Ferea Knight
+679            95             5         182            073             -1             //Ferea Knight
+680            95             5         182            073             -1             //Ferea Knight
+680            95             5         182            073             -1             //Ferea Knight
+680            95             5         182            073             -1             //Ferea Knight
+681            95             5         182            073             -1             //Ferea Knight
+681            95             5         182            073             -1             //Ferea Knight
+
+679            95             5         155            071             -1             //Ferea Knight
+679            95             5         155            071             -1             //Ferea Knight
+679            95             5         155            071             -1             //Ferea Knight
+680            95             5         155            071             -1             //Ferea Knight
+680            95             5         155            071             -1             //Ferea Knight
+680            95             5         155            071             -1             //Ferea Knight
+681            95             5         155            071             -1             //Ferea Knight
+681            95             5         155            071             -1             //Ferea Knight
+
+679            95             5         127            073             -1             //Ferea Knight
+679            95             5         127            073             -1             //Ferea Knight
+679            95             5         127            073             -1             //Ferea Knight
+680            95             5         127            073             -1             //Ferea Knight
+680            95             5         127            073             -1             //Ferea Knight
+680            95             5         127            073             -1             //Ferea Knight
+681            95             5         127            073             -1             //Ferea Knight
+681            95             5         127            073             -1             //Ferea Knight
+
+
+679            95             5         071            070             -1             //Ferea Knight
+679            95             5         071            070             -1             //Ferea Knight
+679            95             5         071            070             -1             //Ferea Knight
+680            95             5         071            070             -1             //Ferea Knight
+680            95             5         071            070             -1             //Ferea Knight
+680            95             5         071            070             -1             //Ferea Knight
+681            95             5         071            070             -1             //Ferea Knight
+681            95             5         071            070             -1             //Ferea Knight
+
+679            95             5         068            014             -1             //Ferea Knight
+679            95             5         068            014             -1             //Ferea Knight
+679            95             5         068            014             -1             //Ferea Knight
+680            95             5         068            014             -1             //Ferea Knight
+680            95             5         068            014             -1             //Ferea Knight
+680            95             5         068            014             -1             //Ferea Knight
+681            95             5         068            014             -1             //Ferea Knight
+681            95             5         068            014             -1             //Ferea Knight
+
+679            95             5         118            019             -1             //Ferea Knight
+679            95             5         118            019             -1             //Ferea Knight
+679            95             5         118            019             -1             //Ferea Knight
+680            95             5         118            019             -1             //Ferea Knight
+680            95             5         118            019             -1             //Ferea Knight
+680            95             5         118            019             -1             //Ferea Knight
+681            95             5         118            019             -1             //Ferea Knight
+681            95             5         118            019             -1             //Ferea Knight
+
+679            95             5         060            055             -1             //Ferea Knight
+679            95             5         060            055             -1             //Ferea Knight
+679            95             5         060            055             -1             //Ferea Knight
+680            95             5         060            055             -1             //Ferea Knight
+680            95             5         060            055             -1             //Ferea Knight
+680            95             5         060            055             -1             //Ferea Knight
+681            95             5         060            055             -1             //Ferea Knight
+681            95             5         060            055             -1             //Ferea Knight
+
+679            95             5         088            089             -1             //Ferea Knight
+679            95             5         088            089             -1             //Ferea Knight
+679            95             5         088            089             -1             //Ferea Knight
+680            95             5         088            089             -1             //Ferea Knight
+680            95             5         088            089             -1             //Ferea Knight
+680            95             5         088            089             -1             //Ferea Knight
+681            95             5         088            089             -1             //Ferea Knight
+681            95             5         088            089             -1             //Ferea Knight
+
+679            95             5         115            108             -1             //Ferea Knight
+679            95             5         115            108             -1             //Ferea Knight
+679            95             5         115            108             -1             //Ferea Knight
+680            95             5         115            108             -1             //Ferea Knight
+680            95             5         115            108             -1             //Ferea Knight
+680            95             5         115            108             -1             //Ferea Knight
+681            95             5         115            108             -1             //Ferea Knight
+681            95             5         115            108             -1             //Ferea Knight
+
+679            95             5         135            169             -1             //Ferea Knight
+679            95             5         135            169             -1             //Ferea Knight
+679            95             5         135            169             -1             //Ferea Knight
+680            95             5         135            169             -1             //Ferea Knight
+680            95             5         135            169             -1             //Ferea Knight
+680            95             5         135            169             -1             //Ferea Knight
+681            95             5         135            169             -1             //Ferea Knight
+681            95             5         135            169             -1             //Ferea Knight
+
+679            95             5         107            233             -1             //Ferea Knight
+679            95             5         107            233             -1             //Ferea Knight
+679            95             5         107            233             -1             //Ferea Knight
+680            95             5         107            233             -1             //Ferea Knight
+680            95             5         107            233             -1             //Ferea Knight
+680            95             5         107            233             -1             //Ferea Knight
+681            95             5         107            233             -1             //Ferea Knight
+681            95             5         107            233             -1             //Ferea Knight
+
+679            95             5         119            142             -1             //Ferea Knight
+679            95             5         119            142             -1             //Ferea Knight
+679            95             5         119            142             -1             //Ferea Knight
+680            95             5         119            142             -1             //Ferea Knight
+680            95             5         119            142             -1             //Ferea Knight
+680            95             5         119            142             -1             //Ferea Knight
+681            95             5         119            142             -1             //Ferea Knight
+681            95             5         119            142             -1             //Ferea Knight
+
+679            95             5         031            184             -1             //Ferea Knight
+679            95             5         031            184             -1             //Ferea Knight
+679            95             5         031            184             -1             //Ferea Knight
+680            95             5         031            184             -1             //Ferea Knight
+680            95             5         031            184             -1             //Ferea Knight
+680            95             5         031            184             -1             //Ferea Knight
+681            95             5         031            184             -1             //Ferea Knight
+681            95             5         031            184             -1             //Ferea Knight
+
+679            95             5         034            241             -1             //Ferea Knight
+679            95             5         034            241             -1             //Ferea Knight
+679            95             5         034            241             -1             //Ferea Knight
+680            95             5         034            241             -1             //Ferea Knight
+680            95             5         034            241             -1             //Ferea Knight
+680            95             5         034            241             -1             //Ferea Knight
+681            95             5         034            241             -1             //Ferea Knight
+681            95             5         034            241             -1             //Ferea Knight
+
+679            95             5         097            170             -1             //Ferea Knight
+679            95             5         097            170             -1             //Ferea Knight
+679            95             5         097            170             -1             //Ferea Knight
+680            95             5         097            170             -1             //Ferea Knight
+680            95             5         097            170             -1             //Ferea Knight
+680            95             5         097            170             -1             //Ferea Knight
+681            95             5         097            170             -1             //Ferea Knight
+681            95             5         097            170             -1             //Ferea Knight
+
+679            95             5         036            016             -1             //Ferea Knight
+679            95             5         036            016             -1             //Ferea Knight
+679            95             5         036            016             -1             //Ferea Knight
+680            95             5         036            016             -1             //Ferea Knight
+680            95             5         036            016             -1             //Ferea Knight
+680            95             5         036            016             -1             //Ferea Knight
+681            95             5         036            016             -1             //Ferea Knight
+681            95             5         036            016             -1             //Ferea Knight
+
+679            95             5         037            219             -1             //Ferea Knight
+679            95             5         037            219             -1             //Ferea Knight
+679            95             5         037            219             -1             //Ferea Knight
+680            95             5         037            219             -1             //Ferea Knight
+680            95             5         037            219             -1             //Ferea Knight
+680            95             5         037            219             -1             //Ferea Knight
+681            95             5         037            219             -1             //Ferea Knight
+681            95             5         037            219             -1             //Ferea Knight
+
+679            95             5         124            218             -1             //Ferea Knight
+679            95             5         124            218             -1             //Ferea Knight
+679            95             5         124            218             -1             //Ferea Knight
+680            95             5         124            218             -1             //Ferea Knight
+680            95             5         124            218             -1             //Ferea Knight
+680            95             5         124            218             -1             //Ferea Knight
+681            95             5         124            218             -1             //Ferea Knight
+681            95             5         124            218             -1             //Ferea Knight
+
+679            95             5         046            055             -1             //Ferea Knight
+679            95             5         046            055             -1             //Ferea Knight
+679            95             5         046            055             -1             //Ferea Knight
+680            95             5         046            055             -1             //Ferea Knight
+680            95             5         046            055             -1             //Ferea Knight
+680            95             5         046            055             -1             //Ferea Knight
+681            95             5         046            055             -1             //Ferea Knight
+681            95             5         046            055             -1             //Ferea Knight
+
+679            95             5         081            163             -1             //Ferea Knight
+679            95             5         081            163             -1             //Ferea Knight
+679            95             5         081            163             -1             //Ferea Knight
+680            95             5         081            163             -1             //Ferea Knight
+680            95             5         081            163             -1             //Ferea Knight
+680            95             5         081            163             -1             //Ferea Knight
+681            95             5         081            163             -1             //Ferea Knight
+681            95             5         081            163             -1             //Ferea Knight
+
+679            95             5         016            204             -1             //Ferea Knight
+679            95             5         016            204             -1             //Ferea Knight
+679            95             5         016            204             -1             //Ferea Knight
+680            95             5         016            204             -1             //Ferea Knight
+680            95             5         016            204             -1             //Ferea Knight
+680            95             5         016            204             -1             //Ferea Knight
+681            95             5         016            204             -1             //Ferea Knight
+681            95             5         016            204             -1             //Ferea Knight
+
+679            95             5         078            192             -1             //Ferea Knight
+679            95             5         078            192             -1             //Ferea Knight
+679            95             5         078            192             -1             //Ferea Knight
+680            95             5         078            192             -1             //Ferea Knight
+680            95             5         078            192             -1             //Ferea Knight
+680            95             5         078            192             -1             //Ferea Knight
+681            95             5         078            192             -1             //Ferea Knight
+681            95             5         078            192             -1             //Ferea Knight
+
+679            95             5         048            035             -1             //Ferea Knight
+679            95             5         048            035             -1             //Ferea Knight
+679            95             5         048            035             -1             //Ferea Knight
+680            95             5         048            035             -1             //Ferea Knight
+680            95             5         048            035             -1             //Ferea Knight
+680            95             5         048            035             -1             //Ferea Knight
+681            95             5         048            035             -1             //Ferea Knight
+681            95             5         048            035             -1             //Ferea Knight
+
+679            95             5         059            170             -1             //Ferea Knight
+679            95             5         059            170             -1             //Ferea Knight
+679            95             5         059            170             -1             //Ferea Knight
+680            95             5         059            170             -1             //Ferea Knight
+680            95             5         059            170             -1             //Ferea Knight
+680            95             5         059            170             -1             //Ferea Knight
+681            95             5         059            170             -1             //Ferea Knight
+681            95             5         059            170             -1             //Ferea Knight
+
+679            95             5         015            238             -1             //Ferea Knight
+679            95             5         015            238             -1             //Ferea Knight
+679            95             5         015            238             -1             //Ferea Knight
+680            95             5         015            238             -1             //Ferea Knight
+680            95             5         015            238             -1             //Ferea Knight
+680            95             5         015            238             -1             //Ferea Knight
+681            95             5         015            238             -1             //Ferea Knight
+681            95             5         015            238             -1             //Ferea Knight
+
+679            95             5         060            240             -1             //Ferea Knight
+679            95             5         060            240             -1             //Ferea Knight
+679            95             5         060            240             -1             //Ferea Knight
+680            95             5         060            240             -1             //Ferea Knight
+680            95             5         060            240             -1             //Ferea Knight
+680            95             5         060            240             -1             //Ferea Knight
+681            95             5         060            240             -1             //Ferea Knight
+681            95             5         060            240             -1             //Ferea Knight
+
+679            95             5         024            058             -1             //Ferea Knight
+679            95             5         024            058             -1             //Ferea Knight
+679            95             5         024            058             -1             //Ferea Knight
+680            95             5         024            058             -1             //Ferea Knight
+680            95             5         024            058             -1             //Ferea Knight
+680            95             5         024            058             -1             //Ferea Knight
+681            95             5         024            058             -1             //Ferea Knight
+681            95             5         024            058             -1             //Ferea Knight
+
+679            95             5         019            163             -1             //Ferea Knight
+679            95             5         019            163             -1             //Ferea Knight
+679            95             5         019            163             -1             //Ferea Knight
+680            95             5         019            163             -1             //Ferea Knight
+680            95             5         019            163             -1             //Ferea Knight
+680            95             5         019            163             -1             //Ferea Knight
+681            95             5         019            163             -1             //Ferea Knight
+681            95             5         019            163             -1             //Ferea Knight
+
+
+679            95             5         165            097             -1             //Ferea Knight hot
+679            95             5         165            097             -1             //Ferea Knight hot
+679            95             5         165            097             -1             //Ferea Knight hot
+680            95             5         165            097             -1             //Ferea Knight hot
+680            95             5         165            097             -1             //Ferea Knight hot
+680            95             5         165            097             -1             //Ferea Knight hot
+681            95             5         165            097             -1             //Ferea Knight hot
+681            95             5         165            097             -1             //Ferea Knight hot
+681            95             5         165            097             -1             //Ferea Knight hot
+681            95             5         165            097             -1             //Ferea Knight hot
+
+
+679            95             5         114            194             -1             //Ferea Knight HOT
+679            95             5         114            194             -1             //Ferea Knight HOT
+679            95             5         114            194             -1             //Ferea Knight HOT
+680            95             5         114            194             -1             //Ferea Knight HOT
+680            95             5         114            194             -1             //Ferea Knight HOT
+680            95             5         114            194             -1             //Ferea Knight HOT
+681            95             5         114            194             -1             //Ferea Knight HOT
+681            95             5         114            194             -1             //Ferea Knight HOT
+681            95             5         114            194             -1             //Ferea Knight HOT
+681            95             5         114            194             -1             //Ferea Knight HOT
+
+
+
+
+
+
+
+
+end
+
+

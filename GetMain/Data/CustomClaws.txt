@@ -1,0 +1,23 @@
+//===============================================================================================================
+// CustomGloves Config File
+//===============================================================================================================
+//GlovesID	Model				LeftIndex	LeftModel				RightIndex	RightModel        		ColorR	ColorG	ColorB	name
+46		"BloodangelClo"			643			"BloodangelClo_L"		644			"BloodangelClo_R"		205		192		176		//ok
+52		"Sword52"				645			"Sword52_L"				646			"Sword52_R"				127		127		127		//ok
+60		"Sword60"				647			"Sword60_L"				648			"Sword60_R"				255		232		112		//ok
+61		"Sword61"				649			"Sword61_L"				650			"Sword61_R"				253		255		119		//ok
+81		"GloveDragon"			651			"GloveDragonL"			652			"GloveDragonR"			255		48		48		//ok
+102		"BloodangelClo"			653			"BloodangelClo_L"		654			"BloodangelClo_R"		205		192		176		//ok
+108		"Sword108"				655			"Sword108_L"			656			"Sword108_R"			0		0		0		//ok
+111		"Sword111"				657			"Sword111_L"			658			"Sword111_R"			0		0		0		//ok
+114		"Sword114"				659			"Sword114_L"			660			"Sword114_R"			0		0		0		//ok
+117		"Sword117"				661			"Sword117_L"			662			"Sword117_R"			0		0		0		//ok
+120		"sword46_decrypted"		663			"sword46_L_decrypted"	664			"sword46_R_decrypted"	0		0		0		//ok
+123		"Brilliantsword47"		665			"Brilliantsword47_L"	666			"Brilliantsword47_R"	0		0		0		//ok
+126		"sword48"				667			"sword48_L"				668			"sword48_R"				0		0		0		//ok
+129		"lightning_claw"		669			"lightning_claw_L"		670			"lightning_claw_R"		0		0		0		//ok
+132		"sword50"				671			"sword50_L"				672			"sword50_R"				0		0		0		//ok
+135		"VuotThanhLong"			673			"VuotThanhLong_L"		674			"VuotThanhLong_R"		0		0		0		//ok
+138		"VuotThongThien"		675			"VuotThongThien_L"		676			"VuotThongThien_R"		0		0		0		//ok
+105		"Sword105"				677			"Sword105_L"			678			"Sword105_R"			205		192		176		//ok
+end 

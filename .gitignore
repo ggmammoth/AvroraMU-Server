@@ -1,0 +1,14 @@
+# logs / crash dumps / local backups never go to GitHub
+*.log
+*.dmp
+*.pdb
+*.ilk
+*.old*
+*.pre-CASE*
+*.before*
+**/6.Log/
+**/LOG_*/
+**/Logs/
+**/20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]*.txt
+Client/Photos/
+Client/Screen*/

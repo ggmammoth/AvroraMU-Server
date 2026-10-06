@@ -1,0 +1,389 @@
+0
+//EventName     DropZen  ItemDropRate  ItemDropCount  SetItemDropRate  ItemDropType  Fireworks
+"Silver Medal"  1000     100           1              0                0             0          0
+end
+
+1
+//Type  ItemIndex  MinLevel  MaxLevel  Skill  Luck  Option  Excellent  SetOption  RateDrop
+0       10         3         3         1      0     0       0          0          5000      //Light Saber
+0       10         3         3         1      0     1       0          0          2500      //Light Saber
+0       10         3         3         1      0     2       0          0          1300      //Light Saber
+0       10         3         3         1      0     4       0          0          800       //Light Saber
+0       10         3         3         1      0     7       0          0          400       //Light Saber
+0       10         3         3         1      1     0       0          0          5000      //Light Saber
+0       10         3         3         1      1     1       0          0          2500      //Light Saber
+0       10         3         3         1      1     2       0          0          1300      //Light Saber
+0       10         3         3         1      1     4       0          0          800       //Light Saber
+0       10         3         3         1      1     7       0          0          400       //Light Saber
+0       11         3         3         1      0     0       0          0          5000      //Legendary Sword
+0       11         3         3         1      0     1       0          0          2500      //Legendary Sword
+0       11         3         3         1      0     2       0          0          1300      //Legendary Sword
+0       11         3         3         1      0     4       0          0          800       //Legendary Sword
+0       11         3         3         1      0     7       0          0          400       //Legendary Sword
+0       11         3         3         1      1     0       0          0          5000      //Legendary Sword
+0       11         3         3         1      1     1       0          0          2500      //Legendary Sword
+0       11         3         3         1      1     2       0          0          1300      //Legendary Sword
+0       11         3         3         1      1     4       0          0          800       //Legendary Sword
+0       11         3         3         1      1     7       0          0          400       //Legendary Sword
+0       13         3         3         1      0     0       0          0          5000      //Double Blade
+0       13         3         3         1      0     1       0          0          2500      //Double Blade
+0       13         3         3         1      0     2       0          0          1300      //Double Blade
+0       13         3         3         1      0     4       0          0          800       //Double Blade
+0       13         3         3         1      0     7       0          0          400       //Double Blade
+0       13         3         3         1      1     0       0          0          5000      //Double Blade
+0       13         3         3         1      1     1       0          0          2500      //Double Blade
+0       13         3         3         1      1     2       0          0          1300      //Double Blade
+0       13         3         3         1      1     4       0          0          800       //Double Blade
+0       13         3         3         1      1     7       0          0          400       //Double Blade
+1       7          3         3         1      0     0       0          0          5000      //Larkan Axe
+1       7          3         3         1      0     1       0          0          2500      //Larkan Axe
+1       7          3         3         1      0     2       0          0          1300      //Larkan Axe
+1       7          3         3         1      0     4       0          0          800       //Larkan Axe
+1       7          3         3         1      0     7       0          0          400       //Larkan Axe
+1       7          3         3         1      1     0       0          0          5000      //Larkan Axe
+1       7          3         3         1      1     1       0          0          2500      //Larkan Axe
+1       7          3         3         1      1     2       0          0          1300      //Larkan Axe
+1       7          3         3         1      1     4       0          0          800       //Larkan Axe
+1       7          3         3         1      1     7       0          0          400       //Larkan Axe
+2       3          3         3         1      0     0       0          0          5000      //Great Hammer
+2       3          3         3         1      0     1       0          0          2500      //Great Hammer
+2       3          3         3         1      0     2       0          0          1300      //Great Hammer
+2       3          3         3         1      0     4       0          0          800       //Great Hammer
+2       3          3         3         1      0     7       0          0          400       //Great Hammer
+2       3          3         3         1      1     0       0          0          5000      //Great Hammer
+2       3          3         3         1      1     1       0          0          2500      //Great Hammer
+2       3          3         3         1      1     2       0          0          1300      //Great Hammer
+2       3          3         3         1      1     4       0          0          800       //Great Hammer
+2       3          3         3         1      1     7       0          0          400       //Great Hammer
+3       0          3         3         1      0     0       0          0          5000      //Light Spear
+3       0          3         3         1      0     1       0          0          2500      //Light Spear
+3       0          3         3         1      0     2       0          0          1300      //Light Spear
+3       0          3         3         1      0     4       0          0          800       //Light Spear
+3       0          3         3         1      0     7       0          0          400       //Light Spear
+3       0          3         3         1      1     0       0          0          5000      //Light Spear
+3       0          3         3         1      1     1       0          0          2500      //Light Spear
+3       0          3         3         1      1     2       0          0          1300      //Light Spear
+3       0          3         3         1      1     4       0          0          800       //Light Spear
+3       0          3         3         1      1     7       0          0          400       //Light Spear
+3       4          3         3         1      0     0       0          0          5000      //Serpent Spear
+3       4          3         3         1      0     1       0          0          2500      //Serpent Spear
+3       4          3         3         1      0     2       0          0          1300      //Serpent Spear
+3       4          3         3         1      0     4       0          0          800       //Serpent Spear
+3       4          3         3         1      0     7       0          0          400       //Serpent Spear
+3       4          3         3         1      1     0       0          0          5000      //Serpent Spear
+3       4          3         3         1      1     1       0          0          2500      //Serpent Spear
+3       4          3         3         1      1     2       0          0          1300      //Serpent Spear
+3       4          3         3         1      1     4       0          0          800       //Serpent Spear
+3       4          3         3         1      1     7       0          0          400       //Serpent Spear
+4       11         3         3         1      0     0       0          0          5000      //Light Crossbow
+4       11         3         3         1      0     1       0          0          2500      //Light Crossbow
+4       11         3         3         1      0     2       0          0          1300      //Light Crossbow
+4       11         3         3         1      0     4       0          0          800       //Light Crossbow
+4       11         3         3         1      0     7       0          0          400       //Light Crossbow
+4       11         3         3         1      1     0       0          0          5000      //Light Crossbow
+4       11         3         3         1      1     1       0          0          2500      //Light Crossbow
+4       11         3         3         1      1     2       0          0          1300      //Light Crossbow
+4       11         3         3         1      1     4       0          0          800       //Light Crossbow
+4       11         3         3         1      1     7       0          0          400       //Light Crossbow
+4       3          3         3         1      0     0       0          0          5000      //Battle Bow
+4       3          3         3         1      0     1       0          0          2500      //Battle Bow
+4       3          3         3         1      0     2       0          0          1300      //Battle Bow
+4       3          3         3         1      0     4       0          0          800       //Battle Bow
+4       3          3         3         1      0     7       0          0          400       //Battle Bow
+4       3          3         3         1      1     0       0          0          5000      //Battle Bow
+4       3          3         3         1      1     1       0          0          2500      //Battle Bow
+4       3          3         3         1      1     2       0          0          1300      //Battle Bow
+4       3          3         3         1      1     4       0          0          800       //Battle Bow
+4       3          3         3         1      1     7       0          0          400       //Battle Bow
+5       2          3         3         0      0     0       0          0          5000      //Serpent Staff
+5       2          3         3         0      0     1       0          0          2500      //Serpent Staff
+5       2          3         3         0      0     2       0          0          1300      //Serpent Staff
+5       2          3         3         0      0     4       0          0          800       //Serpent Staff
+5       2          3         3         0      0     7       0          0          400       //Serpent Staff
+5       2          3         3         0      1     0       0          0          5000      //Serpent Staff
+5       2          3         3         0      1     1       0          0          2500      //Serpent Staff
+5       2          3         3         0      1     2       0          0          1300      //Serpent Staff
+5       2          3         3         0      1     4       0          0          800       //Serpent Staff
+5       2          3         3         0      1     7       0          0          400       //Serpent Staff
+5       3          3         3         0      0     0       0          0          5000      //Thunder Staff
+5       3          3         3         0      0     1       0          0          2500      //Thunder Staff
+5       3          3         3         0      0     2       0          0          1300      //Thunder Staff
+5       3          3         3         0      0     4       0          0          800       //Thunder Staff
+5       3          3         3         0      0     7       0          0          400       //Thunder Staff
+5       3          3         3         0      1     0       0          0          5000      //Thunder Staff
+5       3          3         3         0      1     1       0          0          2500      //Thunder Staff
+5       3          3         3         0      1     2       0          0          1300      //Thunder Staff
+5       3          3         3         0      1     4       0          0          800       //Thunder Staff
+5       3          3         3         0      1     7       0          0          400       //Thunder Staff
+6       6          3         3         1      0     0       0          0          5000      //Skull Shield
+6       6          3         3         1      0     1       0          0          2500      //Skull Shield
+6       6          3         3         1      0     2       0          0          1300      //Skull Shield
+6       6          3         3         1      0     4       0          0          800       //Skull Shield
+6       6          3         3         1      0     7       0          0          400       //Skull Shield
+6       6          3         3         1      1     0       0          0          5000      //Skull Shield
+6       6          3         3         1      1     1       0          0          2500      //Skull Shield
+6       6          3         3         1      1     2       0          0          1300      //Skull Shield
+6       6          3         3         1      1     4       0          0          800       //Skull Shield
+6       6          3         3         1      1     7       0          0          400       //Skull Shield
+6       5          3         3         1      0     0       0          0          5000      //Dragon Slayer Shield
+6       5          3         3         1      0     1       0          0          2500      //Dragon Slayer Shield
+6       5          3         3         1      0     2       0          0          1300      //Dragon Slayer Shield
+6       5          3         3         1      0     4       0          0          800       //Dragon Slayer Shield
+6       5          3         3         1      0     7       0          0          400       //Dragon Slayer Shield
+6       5          3         3         1      1     0       0          0          5000      //Dragon Slayer Shield
+6       5          3         3         1      1     1       0          0          2500      //Dragon Slayer Shield
+6       5          3         3         1      1     2       0          0          1300      //Dragon Slayer Shield
+6       5          3         3         1      1     4       0          0          800       //Dragon Slayer Shield
+6       5          3         3         1      1     7       0          0          400       //Dragon Slayer Shield
+7       6          3         3         0      0     0       0          0          5000      //Scale Helm
+7       6          3         3         0      0     1       0          0          2500      //Scale Helm
+7       6          3         3         0      0     2       0          0          1300      //Scale Helm
+7       6          3         3         0      0     4       0          0          800       //Scale Helm
+7       6          3         3         0      0     7       0          0          400       //Scale Helm
+7       6          3         3         0      1     0       0          0          5000      //Scale Helm
+7       6          3         3         0      1     1       0          0          2500      //Scale Helm
+7       6          3         3         0      1     2       0          0          1300      //Scale Helm
+7       6          3         3         0      1     4       0          0          800       //Scale Helm
+7       6          3         3         0      1     7       0          0          400       //Scale Helm
+8       6          3         3         0      0     0       0          0          5000      //Scale Armor
+8       6          3         3         0      0     1       0          0          2500      //Scale Armor
+8       6          3         3         0      0     2       0          0          1300      //Scale Armor
+8       6          3         3         0      0     4       0          0          800       //Scale Armor
+8       6          3         3         0      0     7       0          0          400       //Scale Armor
+8       6          3         3         0      1     0       0          0          5000      //Scale Armor
+8       6          3         3         0      1     1       0          0          2500      //Scale Armor
+8       6          3         3         0      1     2       0          0          1300      //Scale Armor
+8       6          3         3         0      1     4       0          0          800       //Scale Armor
+8       6          3         3         0      1     7       0          0          400       //Scale Armor
+9       6          3         3         0      0     0       0          0          5000      //Scale Pants
+9       6          3         3         0      0     1       0          0          2500      //Scale Pants
+9       6          3         3         0      0     2       0          0          1300      //Scale Pants
+9       6          3         3         0      0     4       0          0          800       //Scale Pants
+9       6          3         3         0      0     7       0          0          400       //Scale Pants
+9       6          3         3         0      1     0       0          0          5000      //Scale Pants
+9       6          3         3         0      1     1       0          0          2500      //Scale Pants
+9       6          3         3         0      1     2       0          0          1300      //Scale Pants
+9       6          3         3         0      1     4       0          0          800       //Scale Pants
+9       6          3         3         0      1     7       0          0          400       //Scale Pants
+10      6          3         3         0      0     0       0          0          5000      //Scale Gloves
+10      6          3         3         0      0     1       0          0          2500      //Scale Gloves
+10      6          3         3         0      0     2       0          0          1300      //Scale Gloves
+10      6          3         3         0      0     4       0          0          800       //Scale Gloves
+10      6          3         3         0      0     7       0          0          400       //Scale Gloves
+10      6          3         3         0      1     0       0          0          5000      //Scale Gloves
+10      6          3         3         0      1     1       0          0          2500      //Scale Gloves
+10      6          3         3         0      1     2       0          0          1300      //Scale Gloves
+10      6          3         3         0      1     4       0          0          800       //Scale Gloves
+10      6          3         3         0      1     7       0          0          400       //Scale Gloves
+11      6          3         3         0      0     0       0          0          5000      //Scale Boots
+11      6          3         3         0      0     1       0          0          2500      //Scale Boots
+11      6          3         3         0      0     2       0          0          1300      //Scale Boots
+11      6          3         3         0      0     4       0          0          800       //Scale Boots
+11      6          3         3         0      0     7       0          0          400       //Scale Boots
+11      6          3         3         0      1     0       0          0          5000      //Scale Boots
+11      6          3         3         0      1     1       0          0          2500      //Scale Boots
+11      6          3         3         0      1     2       0          0          1300      //Scale Boots
+11      6          3         3         0      1     4       0          0          800       //Scale Boots
+11      6          3         3         0      1     7       0          0          400       //Scale Boots
+7       8          3         3         0      0     0       0          0          5000      //Brass Helm
+7       8          3         3         0      0     1       0          0          2500      //Brass Helm
+7       8          3         3         0      0     2       0          0          1300      //Brass Helm
+7       8          3         3         0      0     4       0          0          800       //Brass Helm
+7       8          3         3         0      0     7       0          0          400       //Brass Helm
+7       8          3         3         0      1     0       0          0          5000      //Brass Helm
+7       8          3         3         0      1     1       0          0          2500      //Brass Helm
+7       8          3         3         0      1     2       0          0          1300      //Brass Helm
+7       8          3         3         0      1     4       0          0          800       //Brass Helm
+7       8          3         3         0      1     7       0          0          400       //Brass Helm
+8       8          3         3         0      0     0       0          0          5000      //Brass Armor
+8       8          3         3         0      0     1       0          0          2500      //Brass Armor
+8       8          3         3         0      0     2       0          0          1300      //Brass Armor
+8       8          3         3         0      0     4       0          0          800       //Brass Armor
+8       8          3         3         0      0     7       0          0          400       //Brass Armor
+8       8          3         3         0      1     0       0          0          5000      //Brass Armor
+8       8          3         3         0      1     1       0          0          2500      //Brass Armor
+8       8          3         3         0      1     2       0          0          1300      //Brass Armor
+8       8          3         3         0      1     4       0          0          800       //Brass Armor
+8       8          3         3         0      1     7       0          0          400       //Brass Armor
+9       8          3         3         0      0     0       0          0          5000      //Brass Pants
+9       8          3         3         0      0     1       0          0          2500      //Brass Pants
+9       8          3         3         0      0     2       0          0          1300      //Brass Pants
+9       8          3         3         0      0     4       0          0          800       //Brass Pants
+9       8          3         3         0      0     7       0          0          400       //Brass Pants
+9       8          3         3         0      1     0       0          0          5000      //Brass Pants
+9       8          3         3         0      1     1       0          0          2500      //Brass Pants
+9       8          3         3         0      1     2       0          0          1300      //Brass Pants
+9       8          3         3         0      1     4       0          0          800       //Brass Pants
+9       8          3         3         0      1     7       0          0          400       //Brass Pants
+10      8          3         3         0      0     0       0          0          5000      //Brass Gloves
+10      8          3         3         0      0     1       0          0          2500      //Brass Gloves
+10      8          3         3         0      0     2       0          0          1300      //Brass Gloves
+10      8          3         3         0      0     4       0          0          800       //Brass Gloves
+10      8          3         3         0      0     7       0          0          400       //Brass Gloves
+10      8          3         3         0      1     0       0          0          5000      //Brass Gloves
+10      8          3         3         0      1     1       0          0          2500      //Brass Gloves
+10      8          3         3         0      1     2       0          0          1300      //Brass Gloves
+10      8          3         3         0      1     4       0          0          800       //Brass Gloves
+10      8          3         3         0      1     7       0          0          400       //Brass Gloves
+11      8          3         3         0      0     0       0          0          5000      //Brass Boots
+11      8          3         3         0      0     1       0          0          2500      //Brass Boots
+11      8          3         3         0      0     2       0          0          1300      //Brass Boots
+11      8          3         3         0      0     4       0          0          800       //Brass Boots
+11      8          3         3         0      0     7       0          0          400       //Brass Boots
+11      8          3         3         0      1     0       0          0          5000      //Brass Boots
+11      8          3         3         0      1     1       0          0          2500      //Brass Boots
+11      8          3         3         0      1     2       0          0          1300      //Brass Boots
+11      8          3         3         0      1     4       0          0          800       //Brass Boots
+11      8          3         3         0      1     7       0          0          400       //Brass Boots
+7       4          3         3         0      0     0       0          0          5000      //Bone Helm
+7       4          3         3         0      0     1       0          0          2500      //Bone Helm
+7       4          3         3         0      0     2       0          0          1300      //Bone Helm
+7       4          3         3         0      0     4       0          0          800       //Bone Helm
+7       4          3         3         0      0     7       0          0          400       //Bone Helm
+7       4          3         3         0      1     0       0          0          5000      //Bone Helm
+7       4          3         3         0      1     1       0          0          2500      //Bone Helm
+7       4          3         3         0      1     2       0          0          1300      //Bone Helm
+7       4          3         3         0      1     4       0          0          800       //Bone Helm
+7       4          3         3         0      1     7       0          0          400       //Bone Helm
+8       4          3         3         0      0     0       0          0          5000      //Bone Armor
+8       4          3         3         0      0     1       0          0          2500      //Bone Armor
+8       4          3         3         0      0     2       0          0          1300      //Bone Armor
+8       4          3         3         0      0     4       0          0          800       //Bone Armor
+8       4          3         3         0      0     7       0          0          400       //Bone Armor
+8       4          3         3         0      1     0       0          0          5000      //Bone Armor
+8       4          3         3         0      1     1       0          0          2500      //Bone Armor
+8       4          3         3         0      1     2       0          0          1300      //Bone Armor
+8       4          3         3         0      1     4       0          0          800       //Bone Armor
+8       4          3         3         0      1     7       0          0          400       //Bone Armor
+9       4          3         3         0      0     0       0          0          5000      //Bone Pants
+9       4          3         3         0      0     1       0          0          2500      //Bone Pants
+9       4          3         3         0      0     2       0          0          1300      //Bone Pants
+9       4          3         3         0      0     4       0          0          800       //Bone Pants
+9       4          3         3         0      0     7       0          0          400       //Bone Pants
+9       4          3         3         0      1     0       0          0          5000      //Bone Pants
+9       4          3         3         0      1     1       0          0          2500      //Bone Pants
+9       4          3         3         0      1     2       0          0          1300      //Bone Pants
+9       4          3         3         0      1     4       0          0          800       //Bone Pants
+9       4          3         3         0      1     7       0          0          400       //Bone Pants
+10      4          3         3         0      0     0       0          0          5000      //Bone Gloves
+10      4          3         3         0      0     1       0          0          2500      //Bone Gloves
+10      4          3         3         0      0     2       0          0          1300      //Bone Gloves
+10      4          3         3         0      0     4       0          0          800       //Bone Gloves
+10      4          3         3         0      0     7       0          0          400       //Bone Gloves
+10      4          3         3         0      1     0       0          0          5000      //Bone Gloves
+10      4          3         3         0      1     1       0          0          2500      //Bone Gloves
+10      4          3         3         0      1     2       0          0          1300      //Bone Gloves
+10      4          3         3         0      1     4       0          0          800       //Bone Gloves
+10      4          3         3         0      1     7       0          0          400       //Bone Gloves
+11      4          3         3         0      0     0       0          0          5000      //Bone Boots
+11      4          3         3         0      0     1       0          0          2500      //Bone Boots
+11      4          3         3         0      0     2       0          0          1300      //Bone Boots
+11      4          3         3         0      0     4       0          0          800       //Bone Boots
+11      4          3         3         0      0     7       0          0          400       //Bone Boots
+11      4          3         3         0      1     0       0          0          5000      //Bone Boots
+11      4          3         3         0      1     1       0          0          2500      //Bone Boots
+11      4          3         3         0      1     2       0          0          1300      //Bone Boots
+11      4          3         3         0      1     4       0          0          800       //Bone Boots
+11      4          3         3         0      1     7       0          0          400       //Bone Boots
+13      0          0         0         0      0     0       0          0          5000      //Guardian Angel
+13      0          0         0         0      0     1       0          0          2500      //Guardian Angel
+13      0          0         0         0      0     2       0          0          1300      //Guardian Angel
+13      0          0         0         0      0     4       0          0          800       //Guardian Angel
+13      0          0         0         0      0     7       0          0          400       //Guardian Angel
+13      0          0         0         0      1     0       0          0          5000      //Guardian Angel
+13      0          0         0         0      1     1       0          0          2500      //Guardian Angel
+13      0          0         0         0      1     2       0          0          1300      //Guardian Angel
+13      0          0         0         0      1     4       0          0          800       //Guardian Angel
+13      0          0         0         0      1     7       0          0          400       //Guardian Angel
+13      1          0         0         0      0     0       0          0          5000      //Imp
+13      1          0         0         0      0     1       0          0          2500      //Imp
+13      1          0         0         0      0     2       0          0          1300      //Imp
+13      1          0         0         0      0     4       0          0          800       //Imp
+13      1          0         0         0      0     7       0          0          400       //Imp
+13      1          0         0         0      1     0       0          0          5000      //Imp
+13      1          0         0         0      1     1       0          0          2500      //Imp
+13      1          0         0         0      1     2       0          0          1300      //Imp
+13      1          0         0         0      1     4       0          0          800       //Imp
+13      1          0         0         0      1     7       0          0          400       //Imp
+13      2          0         0         0      0     0       0          0          5000      //Horn of Uniria
+13      2          0         0         0      0     1       0          0          2500      //Horn of Uniria
+13      2          0         0         0      0     2       0          0          1300      //Horn of Uniria
+13      2          0         0         0      0     4       0          0          800       //Horn of Uniria
+13      2          0         0         0      0     7       0          0          400       //Horn of Uniria
+13      2          0         0         0      1     0       0          0          5000      //Horn of Uniria
+13      2          0         0         0      1     1       0          0          2500      //Horn of Uniria
+13      2          0         0         0      1     2       0          0          1300      //Horn of Uniria
+13      2          0         0         0      1     4       0          0          800       //Horn of Uniria
+13      2          0         0         0      1     7       0          0          400       //Horn of Uniria
+13      8          0         0         0      0     0       0          0          5000      //Ring of Ice
+13      8          0         0         0      0     1       0          0          2500      //Ring of Ice
+13      8          0         0         0      0     2       0          0          1300      //Ring of Ice
+13      8          0         0         0      0     4       0          0          800       //Ring of Ice
+13      8          0         0         0      0     7       0          0          400       //Ring of Ice
+13      8          0         0         0      1     0       0          0          5000      //Ring of Ice
+13      8          0         0         0      1     1       0          0          2500      //Ring of Ice
+13      8          0         0         0      1     2       0          0          1300      //Ring of Ice
+13      8          0         0         0      1     4       0          0          800       //Ring of Ice
+13      8          0         0         0      1     7       0          0          400       //Ring of Ice
+13      9          0         0         0      0     0       0          0          5000      //Ring of Poison
+13      9          0         0         0      0     1       0          0          2500      //Ring of Poison
+13      9          0         0         0      0     2       0          0          1300      //Ring of Poison
+13      9          0         0         0      0     4       0          0          800       //Ring of Poison
+13      9          0         0         0      0     7       0          0          400       //Ring of Poison
+13      9          0         0         0      1     0       0          0          5000      //Ring of Poison
+13      9          0         0         0      1     1       0          0          2500      //Ring of Poison
+13      9          0         0         0      1     2       0          0          1300      //Ring of Poison
+13      9          0         0         0      1     4       0          0          800       //Ring of Poison
+13      9          0         0         0      1     7       0          0          400       //Ring of Poison
+13      12         0         0         0      0     0       0          0          5000      //Pendant of Lighting
+13      12         0         0         0      0     1       0          0          2500      //Pendant of Lighting
+13      12         0         0         0      0     2       0          0          1300      //Pendant of Lighting
+13      12         0         0         0      0     4       0          0          800       //Pendant of Lighting
+13      12         0         0         0      0     7       0          0          400       //Pendant of Lighting
+13      12         0         0         0      1     0       0          0          5000      //Pendant of Lighting
+13      12         0         0         0      1     1       0          0          2500      //Pendant of Lighting
+13      12         0         0         0      1     2       0          0          1300      //Pendant of Lighting
+13      12         0         0         0      1     4       0          0          800       //Pendant of Lighting
+13      12         0         0         0      1     7       0          0          400       //Pendant of Lighting
+13      13         0         0         0      0     0       0          0          5000      //Pendant of Fire
+13      13         0         0         0      0     1       0          0          2500      //Pendant of Fire
+13      13         0         0         0      0     2       0          0          1300      //Pendant of Fire
+13      13         0         0         0      0     4       0          0          800       //Pendant of Fire
+13      13         0         0         0      0     7       0          0          400       //Pendant of Fire
+13      13         0         0         0      1     0       0          0          5000      //Pendant of Fire
+13      13         0         0         0      1     1       0          0          2500      //Pendant of Fire
+13      13         0         0         0      1     2       0          0          1300      //Pendant of Fire
+13      13         0         0         0      1     4       0          0          800       //Pendant of Fire
+13      13         0         0         0      1     7       0          0          400       //Pendant of Fire
+14      13         0         0         0      0     0       0          0          5000      //Jewel of Bless
+14      13         0         0         0      0     1       0          0          2500      //Jewel of Bless
+14      13         0         0         0      0     2       0          0          1300      //Jewel of Bless
+14      13         0         0         0      0     4       0          0          800       //Jewel of Bless
+14      13         0         0         0      0     7       0          0          400       //Jewel of Bless
+14      13         0         0         0      1     0       0          0          5000      //Jewel of Bless
+14      13         0         0         0      1     1       0          0          2500      //Jewel of Bless
+14      13         0         0         0      1     2       0          0          1300      //Jewel of Bless
+14      13         0         0         0      1     4       0          0          800       //Jewel of Bless
+14      13         0         0         0      1     7       0          0          400       //Jewel of Bless
+14      14         0         0         0      0     0       0          0          5000      //Jewel of Soul
+14      14         0         0         0      0     1       0          0          2500      //Jewel of Soul
+14      14         0         0         0      0     2       0          0          1300      //Jewel of Soul
+14      14         0         0         0      0     4       0          0          800       //Jewel of Soul
+14      14         0         0         0      0     7       0          0          400       //Jewel of Soul
+14      14         0         0         0      1     0       0          0          5000      //Jewel of Soul
+14      14         0         0         0      1     1       0          0          2500      //Jewel of Soul
+14      14         0         0         0      1     2       0          0          1300      //Jewel of Soul
+14      14         0         0         0      1     4       0          0          800       //Jewel of Soul
+14      14         0         0         0      1     7       0          0          400       //Jewel of Soul
+12      15         0         0         0      0     0       0          0          5000      //Jewel of Chaos
+12      15         0         0         0      0     1       0          0          2500      //Jewel of Chaos
+12      15         0         0         0      0     2       0          0          1300      //Jewel of Chaos
+12      15         0         0         0      0     4       0          0          800       //Jewel of Chaos
+12      15         0         0         0      0     7       0          0          400       //Jewel of Chaos
+12      15         0         0         0      1     0       0          0          5000      //Jewel of Chaos
+12      15         0         0         0      1     1       0          0          2500      //Jewel of Chaos
+12      15         0         0         0      1     2       0          0          1300      //Jewel of Chaos
+12      15         0         0         0      1     4       0          0          800       //Jewel of Chaos
+12      15         0         0         0      1     7       0          0          400       //Jewel of Chaos
+end
+

@@ -1,0 +1,137 @@
+//Section   Type   MaxSocket   Comment
+//CASE-20261003-007: MuServer2 SocketItemType rows for items that exist in Test-1 (Blessed Archangel weapons excluded)
+0           26     5           //Flameberge
+0           27     5           //Sword Breaker
+0           28     5           //Rune Bastard Sword
+0           30     5           //Asura
+0           101    5           //Prickle Glove
+0           107    5           //Pantera Claws
+0           108    5           //Devast Claws
+0           88     5           //HellFire Blade
+0           85     5           //Brutal Edge
+2           16     5           //Frost Mace
+2           17     5           //Absolute Scepter
+2           19     5           //Thunderbolt
+2           40     5           //Verdant Scepter
+4           23     5           //Dark Stinger
+4           25     5           //Angelic Bow
+4           50     5           //Emerald Bow
+5           20     5           //Eternal Wing Stick
+5           30     5           //Deadly Staff
+5           31     5           //Inberial Staff
+5           32     5           //Summon Spirit Stick
+5           37     5           //Spite Staff
+5           110    5           //Celestia Stick
+6           17     5           //Crimson Glory
+6           18     5           //Salamander Shield
+6           19     5           //Frost Barrier
+6           20     5           //Guardian Shield
+6           24     5           //Dark Devil Shield
+6           25     5           //Magic Knight Shield
+6           26     5           //Ambition Shield
+6           36     5           //Aurelius Shield
+6           37     5           //Celestia Shield
+6           38     5           //Hell Fire Shield
+6           39     5           //Verdant Shield
+6           40     5           //Blizzardborn Shield
+6           50     5           //Emerald Shield
+7           44     5           //Eternal Wing Helm
+7           45     5           //Titan Helm
+7           46     5           //Brave Helm
+7           49     5           //Seraphim Helm
+7           50     5           //Divine Helm
+7           51     5           //Royal Mask
+7           52     5           //Hades Helm
+7           53     5           //Succubus Helm
+7           54     5           //Hellfire Helm
+7           55     5           //Dark Devil Helm
+7           56     5           //Emerald Helm
+7           58     5           //Ambition Mask
+7           77     5           //Bloody Dragon Helm
+7           166    5           //Tigris Helm
+7           167    5           //Crimson Skull Helm
+7           200    5           //Verdant Warden Helm
+7           201    5           //Blizzardborn Helm
+7           202    5           //Celestia Helm
+8           44     5           //Eternal Wing Armor
+8           45     5           //Titan Armor
+8           46     5           //Brave Armor
+8           47     5           //Phantom Armor
+8           48     5           //Destroy Armor
+8           49     5           //Seraphim Armor
+8           50     5           //Divine Armor
+8           51     5           //Royal Armor
+8           52     5           //Hades Armor
+8           53     5           //Succubus Armor
+8           54     5           //Hellfire Armor
+8           55     5           //Dark Devil Armor
+8           56     5           //Emerald Armor
+8           57     5           //Aurelius Armor
+8           58     5           //Ambition Armor
+8           77     5           //Bloody Dragon Armor
+8           166    5           //Tigris Armor
+8           167    5           //Crimson Skull Armor
+8           200    5           //Verdant Warden Armor
+8           201    5           //Blizzardborn Armor
+8           202    5           //Celestia Armor
+9           44     5           //Eternal Wing Pants
+9           45     5           //Titan  Pants
+9           46     5           //Brave Pants
+9           47     5           //Phantom  Pants
+9           48     5           //Destroy Pants
+9           49     5           //Seraphim Pants
+9           50     5           //Divine Pants
+9           51     5           //Royal Pants
+9           52     5           //Hades Pants
+9           53     5           //Succubus Pants
+9           54     5           //Hellfire Pants
+9           55     5           //Dark Devil Pants
+9           56     5           //Emerald Pants
+9           57     5           //Aurelius Pants
+9           58     5           //Ambition Pants
+9           77     5           //Bloody Dragon Pants
+9           166    5           //Tigris Pants
+9           167    5           //Crimson Skull Pants
+9           200    5           //Verdant Warden Pants
+9           201    5           //Blizzardborn Pants
+9           202    5           //Celestia Pants
+10          44     5           //Eternal Wing Gloves
+10          45     5           //Titan  Gloves
+10          46     5           //Brave Gloves
+10          47     5           //Phantom  Gloves
+10          48     5           //Destroy Gloves
+10          49     5           //Seraphim Gloves
+10          50     5           //Divine Gloves
+10          51     5           //Royal Gloves
+10          52     5           //Hades Gloves
+10          53     5           //Succubus Gloves
+10          54     5           //Hellfire Gloves
+10          55     5           //Dark Devil Gloves
+10          56     5           //Emerald Gloves
+10          57     5           //Aurelius Gloves
+10          58     5           //Ambition Gloves
+10          200    5           //Verdant Warden Gloves
+10          201    5           //Blizzardborn Gloves
+10          202    5           //Celestia Gloves
+11          44     5           //Eternal Wing Boots
+11          45     5           //Titan Boots
+11          46     5           //Brave Boots
+11          47     5           //Phantom Boots
+11          48     5           //Destroy Boots
+11          49     5           //Seraphim Boots
+11          50     5           //Divine Boots
+11          51     5           //Royal Boots
+11          52     5           //Hades Boots
+11          53     5           //Succubus Boots
+11          54     5           //Hellfire Boots
+11          55     5           //Dark Devil Boots
+11          56     5           //Emerald Boots
+11          57     5           //Aurelius Boots
+11          58     5           //Ambition Boots
+11          77     5           //Bloody Dragon Boots
+11          166    5           //Tigris Boots
+11          167    5           //Crimson Skull Boots
+11          200    5           //Verdant Warden Boots
+11          201    5           //Blizzardborn Boots
+11          202    5           //Celestia Boots
+end

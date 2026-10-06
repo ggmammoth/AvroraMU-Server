@@ -1,0 +1,27 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// SHOP DL
+////////////////////////////////////////////////////////////////////////////////
+7 	26 	0	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Adamantine Mask
+//7 	27 	0 	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Dark Steel Mask
+8 	26 	0 	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Adamantine Armor
+//8 	27 	0 	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Dark Steel Armor
+9 	26 	0 	0 	0 	1	0  	0  	0	0	0	255	255	255	255	255		//Adamantine Pants
+//9 	27 	0 	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Dark Steel Pants
+10 	26 	0 	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Adamantine Gloves
+//10 	27 	0	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Dark Steel Gloves
+11 	26 	0	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Adamantine Boots
+//11 	27 	0 	0 	0 	1 	0  	0  	0	0	0	255	255	255	255	255		//Dark Steel Boots
+//2 	8 	0	0 	1 	1 	0   0  	0	0	0	255	255	255	255	255		//Battle Scepter
+2 	9 	0 	0 	1 	1 	0   0  	0	0	0	255	255	255	255	255		//Master Scepter
+6 	1 	0 	0 	1 	1 	0   0  	0	0	0	255	255	255	255	255		//Master Scepter
+
+
+12 	21 	0 	0 	0 	1 	0 	0  	0	0	0	255	255	255	255	255	 	//Scroll of FireBurst
+12 	22 	0 	0 	0 	1 	0 	0  	0	0	0	255	255	255	255	255	 	//Scroll of Summon
+12 	23 	0 	0 	0 	1 	0 	0  	0	0	0	255	255	255	255	255	 	//Scroll of Critical Damage
+12 	24 	0 	0 	0 	1 	0 	0  	0	0	0	255	255	255	255	255	 	//Scroll of Electric Spark
+12 	35 	0 	0 	0 	1 	0  	0 	0	0	0	255	255	255	255	255		//Scroll of Fire Scream
+12 	48 	0 	0 	0 	1 	0 	0  	0	0	0	255	255	255	255	255	 	//Scroll Of Birds
+
+
+end

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<TaiSinh>
+	<Enabled>
+		<Config BatTat="1" TaiSinh="1" ThoiGian="3" ChonLaiNv="1" GioiHan="20" />
+	</Enabled>
+	<DieuKienLevel>
+		<Config LevelReq="400" AfterRelifeLevel="10" AfterRelifeReset="1" />
+	</DieuKienLevel>
+	<DieuKienRelife>
+		<Config Lan0="100" Point="25000" SlotChaos_0="100" SlotBless_0="200" SlotSoul_0="300" SlotLife_0="400" SlotCre_0="500" />
+		<Config Lan1="200" Point="35000" SlotChaos_1="600" SlotBless_1="700" SlotSoul_1="800" SlotLife_1="900" SlotCre_1="1000" />
+		<Config Lan2="300" Point="45000" SlotChaos_2="11" SlotBless_2="12" SlotSoul_2="13" SlotLife_2="14" SlotCre_2="15" />
+		<Config Lan3="400" Point="55000" SlotChaos_3="16" SlotBless_3="17" SlotSoul_3="18" SlotLife_3="19" SlotCre_3="20" />
+		<Config Lan4="500" Point="650001" SlotChaos_4="21" SlotBless_4="22" SlotSoul_4="23" SlotLife_4="24" SlotCre_4="25" />
+		<Config Lan5="600" Point="75000" SlotChaos_5="26" SlotBless_5="27" SlotSoul_5="28" SlotLife_5="29" SlotCre_5="30" />
+		<Config Lan6="700" Point="85000" SlotChaos_6="31" SlotBless_6="32" SlotSoul_6="33" SlotLife_6="34" SlotCre_6="35" />
+		<Config Lan7="800" Point="95000" SlotChaos_7="36" SlotBless_7="37" SlotSoul_7="38" SlotLife_7="39" SlotCre_7="40" />
+		<Config Lan8="900" Point="100500" SlotChaos_8="41" SlotBless_8="42" SlotSoul_8="43" SlotLife_8="44" SlotCre_8="45" />
+		<Config Lan9="1000" Point="115000" SlotChaos_9="46" SlotBless_9="47" SlotSoul_9="48" SlotLife_9="49" SlotCre_9="50" />
+		<Config Lan10="1100" Point="125000" SlotChaos_10="46" SlotBless_10="47" SlotSoul_10="48" SlotLife_10="49" SlotCre_10="50" />
+		<Config Lan11="1200" Point="135000" SlotChaos_11="51" SlotBless_11="52" SlotSoul_11="53" SlotLife_11="54" SlotCre_11="55" />
+		<Config Lan12="1300" Point="145000" SlotChaos_12="56" SlotBless_12="57" SlotSoul_12="58" SlotLife_12="59" SlotCre_12="60" />
+		<Config Lan13="1400" Point="155000" SlotChaos_13="61" SlotBless_13="62" SlotSoul_13="63" SlotLife_13="64" SlotCre_13="65" />
+		<Config Lan14="1500" Point="165000" SlotChaos_14="66" SlotBless_14="67" SlotSoul_14="68" SlotLife_14="69" SlotCre_14="70" />
+		<Config Lan15="1600" Point="175000" SlotChaos_15="71" SlotBless_15="72" SlotSoul_15="73" SlotLife_15="74" SlotCre_15="75" />
+		<Config Lan16="1700" Point="185000" SlotChaos_16="76" SlotBless_16="77" SlotSoul_16="78" SlotLife_16="79" SlotCre_16="80" />
+		<Config Lan17="1800" Point="195000" SlotChaos_17="81" SlotBless_17="82" SlotSoul_17="83" SlotLife_17="84" SlotCre_17="85" />
+		<Config Lan18="1900" Point="205000" SlotChaos_18="86" SlotBless_18="87" SlotSoul_18="88" SlotLife_18="89" SlotCre_18="90" />
+		<Config Lan19="2000" Point="215000" SlotChaos_19="91" SlotBless_19="92" SlotSoul_19="93" SlotLife_19="94" SlotCre_19="95" />
+	</DieuKienRelife>
+</TaiSinh>

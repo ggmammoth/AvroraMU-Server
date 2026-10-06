@@ -1,0 +1,3 @@
+//Index   Npc	NpcMap	NpcX	NpcY	MoveMap	MoveX	MoveY	MinLevel	MaxLevel	MinReset	MaxReset	MinMReset	MaxMReset	AccountLevel	PKMove	Comment
+
+end

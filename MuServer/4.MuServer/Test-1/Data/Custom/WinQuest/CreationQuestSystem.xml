@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<WinQuest Enable="1" ResetNhiemVu="25">
+	<Message>
+		<Msg Index="0" Text="Feature temporarily disabled" />
+		<Msg Index="1" Text="Requirements not met" />
+	</Message>
+	<NPC Class="735" Map="0" PosX="131" PosY="133" Dir="1" Name="Quest" />
+</WinQuest>

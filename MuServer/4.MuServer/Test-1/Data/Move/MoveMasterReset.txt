@@ -1,0 +1,23 @@
+// Grand reset (Master Reset) requirements for Move.txt entries (CASE-20261005-001, values = MuServer2 MinMasterReset). Read by CMove::LoadMasterReset.
+//Index  MinMasterReset  MaxMasterReset
+84      1               -1              //Premium Arena 2
+85      3               -1              //Premium Arena 3
+87      1               -1              //Stadium 2
+28      1               -1              //Kanturu_ruin1
+29      1               -1              //Kanturu_ruin2
+45      1               -1              //Kanturu_ruin_island
+30      2               -1              //Kanturu_Remain
+46      2               -1              //Karutan1
+47      2               -1              //Karutan2
+24      2               -1              //LorenDeep
+26      2               -1              //Crywolf
+53      2               -1              //Barracks
+42      3               -1              //Vulcanus
+34      3               -1              //Raklion
+89      3               -1              //Raklion 2
+33      3               -1              //Swamp_of_Calmness
+68      4               -1              //Nars
+63      5               -1              //Nixies Lake
+62      5               -1              //Ferea
+81      5               -1              //Old Kethotum
+end

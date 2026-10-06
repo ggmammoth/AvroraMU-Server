@@ -1,0 +1,51 @@
+﻿<EventThanMa>
+	<!-- Event occurrence time -->
+    <EventTime>
+	    <Time Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="09" Minute="45" Second="0" />
+        <Time Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="21" Minute="45" Second="0" />
+	</EventTime>
+	<!-- Config
+	- If the NPC is changed after starting GameServer, Monster must also be reloaded to reload the NPC
+	-->
+	<EvenNPC EnabledEvent="1" NPCClass="729" NPCMap="0" NPCX="131" NPCY = "135" NPCDir="3"/>	
+	
+	<!--Round timings-->
+	<EventStage  WarningTime = "3" StandTime="1" EventTime="15" CloseTime="0" />		
+	
+	<!--Event Config All-->
+	<EventConfig  EventMap = "87" WaitingGate="399" AngelTeamGate="400" DevilTeamGate="401" SetSkin="0" MinUser="1" MaxUser="40" />	
+	
+	<!--Requirement config for joining-->
+	<EventYeuCau  ReqZen="50000" ReqWC="100" ReqWP="0" ReqGP="0" ReqItemIndex = "-1" ReqItemLevel="-1" ReqItemCount="-1" MinLevel="200" MaxLevel="400" MinReset="-1" MaxReset="-1" MinMasterReset="-1" MaxMasterReset="-1"/>
+	
+	<!--Reward config for killing the enemy team-->
+	<EventRewardKill  WC="500" WP="0" GP="0" />	
+	
+	<!--Reward config for the winning team-->
+	<EventRewardTeam  WC="100000" WP="0" GP="0" />		
+	
+	<MessageInfo>
+		<Message Index="0" Text="[God-Demon War] will close in %d minutes" />
+		<Message Index="1" Text="[God-Demon War] Not enough participants!" />
+		<Message Index="2" Text="[God-Demon War] has closed!" />
+		<Message Index="3" Text="[God-Demon War] will start in %d minutes" />
+		<Message Index="4" Text="[God-Demon War] has begun!" />
+		<Message Index="5" Text="[God-Demon War] has ended!" />
+		<Message Index="6" Text="[God-Demon War] You cannot participate!" />
+		<Message Index="7" Text="[God-Demon War] It's not time yet!" />
+		<Message Index="8" Text="[God-Demon War] You do not have the required item to participate!" />
+		<Message Index="9" Text="[God-Demon War] You do not have enough fee to participate!" />
+		<Message Index="10" Text="Angel Team Wins" />
+		<Message Index="11" Text="Devil Team Wins" />
+		<Message Index="12" Text="The Demon King Subjugation event has begun" />
+		<Message Index="13" Text="You need %d level to move" />
+		<Message Index="14" Text="You need max %d level to move" />
+		<Message Index="15" Text="You need %d resets to move" />
+		<Message Index="16" Text="You need max %d resets to move" />
+		<Message Index="17" Text="Required: %d relife to enter." />
+		<Message Index="18" Text="%d relife is not allowed" />
+		<Message Index="19" Text="%d - Angel Vs Devil - %d" />
+		<Message Index="20" Text="%d - Devil Vs Angel - %d" />
+
+	</MessageInfo>		
+</EventThanMa>

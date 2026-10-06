@@ -1,0 +1,28 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Gift"	 1000	   100		  1		  0		    0		   0	0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent	SetOption	DropRate
+10          21     0          0          0       0      0        1			0			80
+10          22     0          0          0       0      0        1           0			80
+10          23     0          0          0       0      0        1           0			80
+10          24     0          0          0       0      0        1           0			80
+10          28     0          0          0       0      0        1           0			80
+10          42     0          0          0       0      0        1           0			80
+
+10          21     0          0          0       1      0        1			0			15
+10          22     0          0          0       1      0        1           0			15
+10          23     0          0          0       1      0        1           0			15
+10          24     0          0          0       1      0        1           0			15
+10          28     0          0          0       1      0        1           0			15
+10          42     0          0          0       1      0        1           0			15
+
+10          21     0          0          0       0      0        2			0			5
+10          22     0          0          0       0      0        2           0			5
+10          23     0          0          0       0      0        2           0			5
+10          24     0          0          0       0      0        2           0			5
+10          28     0          0          0       0      0        2           0			5
+10          42     0          0          0       0      0        2           0			5
+end

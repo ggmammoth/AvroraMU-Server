@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Harmony Enable="1" PriceType="1" Price="5000" Rate="80">
+	<Message>
+		<Msg Index="0" Text="" />
+		<Msg Index="1" Text="[Creation Stone] Item does not meet requirements!" />
+		<Msg Index="2" Text="[Creation Stone] You need to place [%s]!" />
+		<Msg Index="3" Text="[Sorry] You have failed!" />
+		<Msg Index="4" Text="You Need [%s] %s To Use This!" />
+		<Msg Index="5" Text="This guy doesn't even have a Creation Stone to use!!" />
+	</Message>
+	<NPC NPCClass="734" NPCMap="0" NPCX="143" NPCY="140" NPCDir="1" Name="Harmony Stone Socket" />
+	<OptWeapon>
+		<Option OptIndex="16" Name="Increase minimum attack power" Level="0" Rate="10" />
+		<Option OptIndex="32" Name="Increase maximum attack power" Level="0" Rate="10" />
+		<Option OptIndex="48" Name="Reduce Strength requirement" Level="0" Rate="10" />
+		<Option OptIndex="64" Name="Reduce Agility requirement" Level="0" Rate="10" />
+		<Option OptIndex="86" Name="Increase attack power (min/max)" Level="6" Rate="100" />
+		<Option OptIndex="102" Name="Increase critical damage" Level="6" Rate="10" />
+		<Option OptIndex="121" Name="Increase skill damage" Level="9" Rate="10" />
+		<Option OptIndex="137" Name="Increase attack rate in (PVP)" Level="9" Rate="10" />
+		<Option OptIndex="153" Name="Increase SD reduction chance" Level="9" Rate="10" />
+		<Option OptIndex="173" Name="Increase SD ignore chance" Level="13" Rate="10" />
+	</OptWeapon>
+	<OptStaff>
+		<Option OptIndex="16" Name="Increase magic attack power" Level="0" Rate="100" />
+		<Option OptIndex="32" Name="Reduce Strength requirement" Level="0" Rate="100" />
+		<Option OptIndex="48" Name="Reduce Agility requirement" Level="0" Rate="100" />
+		<Option OptIndex="70" Name="Increase skill damage" Level="6" Rate="100" />
+		<Option OptIndex="86" Name="Increase critical damage" Level="6" Rate="100" />
+		<Option OptIndex="105" Name="Increase SD reduction chance" Level="9" Rate="100" />
+		<Option OptIndex="121" Name="Increase attack rate in (PVP)" Level="9" Rate="100" />
+		<Option OptIndex="141" Name="Increase SD ignore chance" Level="13" Rate="100" />
+	</OptStaff>
+	<OptItem>
+		<Option OptIndex="16" Name="Increase Defense" Level="0" Rate="80" />
+		<Option OptIndex="35" Name="Increase maximum AG" Level="3" Rate="80" />
+		<Option OptIndex="51" Name="Increase maximum HP" Level="3" Rate="80" />
+		<Option OptIndex="70" Name="Auto HP recovery" Level="6" Rate="80" />
+		<Option OptIndex="89" Name="Auto Mana recovery" Level="9" Rate="80" />
+		<Option OptIndex="105" Name="Increase defense rate in (PVP)" Level="9" Rate="90" />
+		<Option OptIndex="121" Name="Reduce damage" Level="9" Rate="90" />
+		<Option OptIndex="141" Name="Increase SD absorption chance" Level="13" Rate="90" />
+	</OptItem>
+</Harmony>

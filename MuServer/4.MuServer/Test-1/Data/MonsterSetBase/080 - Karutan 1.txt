@@ -1,0 +1,289 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+// [NPCS] KARUTAN
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+577            80             00         121            102            03             //Leina the General Goods Merchan
+238            80             00         118            127            03             //Weapons Merchant Bolo
+240            80             00         123            132            02             //Safety Guardian
+240            80             00         122            096            03             //Safety Guardian
+240            80             00         157            127            01             //Safety Guardian
+253            80             00         126            132            01             //Potion Girl
+//375            80             00         130            134            02             //Chaos Card
+
+end
+
+//=========================================================================================================================================
+// [QUESTS] CIDADES HUNTS MOBS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+735            80             00        119             122            03             //QUEST KARUTAN
+
+end
+
+//=========================================================================================================================================
+// [SPOTS] KANTURU 1 2 3
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+
+end
+
+//=========================================================================================================================================
+// [SPOTS] KARUTAN
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+569            80             5         121            043             -1             //Venomous Chain Scorpion
+
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+569            80             5         130            064             -1             //Venomous Chain Scorpion
+
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+569            80             5         166            092             -1             //Venomous Chain Scorpion
+
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+569            80             5         178            117             -1             //Venomous Chain Scorpion
+
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+569            80             5         214            117             -1             //Venomous Chain Scorpion
+
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+569            80             5         142            152             -1             //Venomous Chain Scorpion
+
+570            80             5         213            039             -1             //Bone Scorpion
+570            80             5         213            039             -1             //Bone Scorpion
+570            80             5         213            039             -1             //Bone Scorpion
+570            80             5         213            039             -1             //Bone Scorpion
+570            80             5         213            039             -1             //Bone Scorpion
+570            80             5         213            039             -1             //Bone Scorpion
+570            80             5         213            039             -1             //Bone Scorpion
+570            80             5         213            039             -1             //Bone Scorpion
+
+570            80             5         166            048             -1             //Bone Scorpion
+570            80             5         166            048             -1             //Bone Scorpion
+570            80             5         166            048             -1             //Bone Scorpion
+570            80             5         166            048             -1             //Bone Scorpion
+570            80             5         166            048             -1             //Bone Scorpion
+570            80             5         166            048             -1             //Bone Scorpion
+570            80             5         166            048             -1             //Bone Scorpion
+570            80             5         166            048             -1             //Bone Scorpion
+
+570            80             5         214            089             -1             //Bone Scorpion
+570            80             5         214            089             -1             //Bone Scorpion
+570            80             5         214            089             -1             //Bone Scorpion
+570            80             5         214            089             -1             //Bone Scorpion
+570            80             5         214            089             -1             //Bone Scorpion
+570            80             5         214            089             -1             //Bone Scorpion
+570            80             5         214            089             -1             //Bone Scorpion
+570            80             5         214            089             -1             //Bone Scorpion
+
+570            80             5         227            107             -1             //Bone Scorpion
+570            80             5         227            107             -1             //Bone Scorpion
+570            80             5         227            107             -1             //Bone Scorpion
+570            80             5         227            107             -1             //Bone Scorpion
+570            80             5         227            107             -1             //Bone Scorpion
+570            80             5         227            107             -1             //Bone Scorpion
+570            80             5         227            107             -1             //Bone Scorpion
+570            80             5         227            107             -1             //Bone Scorpion
+
+
+570            80             5         171            150             -1             //Bone Scorpion
+570            80             5         171            150             -1             //Bone Scorpion
+570            80             5         171            150             -1             //Bone Scorpion
+570            80             5         171            150             -1             //Bone Scorpion
+570            80             5         171            150             -1             //Bone Scorpion
+570            80             5         171            150             -1             //Bone Scorpion
+570            80             5         171            150             -1             //Bone Scorpion
+570            80             5         171            150             -1             //Bone Scorpion
+
+571            80             5         225            161             -1             //Orcus
+571            80             5         225            161             -1             //Orcus
+571            80             5         225            161             -1             //Orcus
+571            80             5         225            161             -1             //Orcus
+571            80             5         225            161             -1             //Orcus
+571            80             5         225            161             -1             //Orcus
+571            80             5         225            161             -1             //Orcus
+571            80             5         225            161             -1             //Orcus
+
+
+571            80             5         210            191             -1             //Orcus
+571            80             5         210            191             -1             //Orcus
+571            80             5         210            191             -1             //Orcus
+571            80             5         210            191             -1             //Orcus
+571            80             5         210            191             -1             //Orcus
+571            80             5         210            191             -1             //Orcus
+571            80             5         210            191             -1             //Orcus
+571            80             5         210            191             -1             //Orcus
+
+
+571            80             5         183            190             -1             //Orcus
+571            80             5         183            190             -1             //Orcus
+571            80             5         183            190             -1             //Orcus
+571            80             5         183            190             -1             //Orcus
+571            80             5         183            190             -1             //Orcus
+571            80             5         183            190             -1             //Orcus
+571            80             5         183            190             -1             //Orcus
+571            80             5         183            190             -1             //Orcus
+
+571            80             5         120            180             -1             //Orcus
+571            80             5         120            180             -1             //Orcus
+571            80             5         120            180             -1             //Orcus
+571            80             5         120            180             -1             //Orcus
+571            80             5         120            180             -1             //Orcus
+571            80             5         120            180             -1             //Orcus
+571            80             5         120            180             -1             //Orcus
+571            80             5         120            180             -1             //Orcus
+
+
+573            80             5         096            189             -1             //Crypta
+573            80             5         096            189             -1             //Crypta
+573            80             5         096            189             -1             //Crypta
+573            80             5         096            189             -1             //Crypta
+573            80             5         096            189             -1             //Crypta
+573            80             5         096            189             -1             //Crypta
+573            80             5         096            189             -1             //Crypta
+573            80             5         096            189             -1             //Crypta
+
+573            80             5         100            124             -1             //Crypta
+573            80             5         100            124             -1             //Crypta
+573            80             5         100            124             -1             //Crypta
+573            80             5         100            124             -1             //Crypta
+573            80             5         100            124             -1             //Crypta
+573            80             5         100            124             -1             //Crypta
+573            80             5         100            124             -1             //Crypta
+573            80             5         100            124             -1             //Crypta
+
+573            80             5         067            129             -1             //Crypta
+573            80             5         067            129             -1             //Crypta
+573            80             5         067            129             -1             //Crypta
+573            80             5         067            129             -1             //Crypta
+573            80             5         067            129             -1             //Crypta
+573            80             5         067            129             -1             //Crypta
+573            80             5         067            129             -1             //Crypta
+573            80             5         067            129             -1             //Crypta
+
+574            80             5         056            160             -1             //Crypos
+574            80             5         056            160             -1             //Crypos
+574            80             5         056            160             -1             //Crypos
+574            80             5         056            160             -1             //Crypos
+574            80             5         056            160             -1             //Crypos
+574            80             5         056            160             -1             //Crypos
+574            80             5         056            160             -1             //Crypos
+574            80             5         056            160             -1             //Crypos
+
+
+574            80             5         032            138             -1             //Crypos
+574            80             5         032            138             -1             //Crypos
+574            80             5         032            138             -1             //Crypos
+574            80             5         032            138             -1             //Crypos
+574            80             5         032            138             -1             //Crypos
+574            80             5         032            138             -1             //Crypos
+574            80             5         032            138             -1             //Crypos
+574            80             5         032            138             -1             //Crypos
+
+
+574            80             5         034            090             -1             //Crypos
+574            80             5         034            090             -1             //Crypos
+574            80             5         034            090             -1             //Crypos
+574            80             5         034            090             -1             //Crypos
+574            80             5         034            090             -1             //Crypos
+574            80             5         034            090             -1             //Crypos
+574            80             5         034            090             -1             //Crypos
+574            80             5         034            090             -1             //Crypos
+
+
+574            80             5         033            067             -1             //Crypos
+574            80             5         033            067             -1             //Crypos
+574            80             5         033            067             -1             //Crypos
+574            80             5         033            067             -1             //Crypos
+574            80             5         033            067             -1             //Crypos
+574            80             5         033            067             -1             //Crypos
+574            80             5         033            067             -1             //Crypos
+574            80             5         033            067             -1             //Crypos
+
+574            80             5         091            072             -1             //Crypos
+574            80             5         091            072             -1             //Crypos
+574            80             5         091            072             -1             //Crypos
+574            80             5         091            072             -1             //Crypos
+574            80             5         091            072             -1             //Crypos
+574            80             5         091            072             -1             //Crypos
+574            80             5         091            072             -1             //Crypos
+574            80             5         091            072             -1             //Crypos
+
+
+573            80             5         040            182             -1             //HOT
+573            80             5         040            182             -1             //HOT
+573            80             5         040            182             -1             //HOT
+573            80             5         040            182             -1             //HOT
+573            80             5         040            182             -1             //HOT
+573            80             5         040            182             -1             //HOT
+574            80             5         040            182             -1             //HOT
+574            80             5         040            182             -1             //HOT
+574            80             5         040            182             -1             //HOT
+574            80             5         040            182             -1             //HOT
+574            80             5         040            182             -1             //HOT
+
+
+
+
+
+//570            80             5         157            067             -1             //Bone Scorpion                 HOT SPOT
+//571            80             5         157            067             -1             //Orcus                         HOT SPOT
+//573            80             5         157            067             -1             //Crypta                        HOT SPOT
+//569            80             5         157            067             -1             //Venomous Chain Scorpion       HOT SPOT
+//574            80             5         157            067             -1             //Crypos                        HOT SPOT
+//570            80             5         157            067             -1             //Bone Scorpion                 HOT SPOT
+//571            80             5         157            067             -1             //Orcus                         HOT SPOT
+//573            80             5         157            067             -1             //Crypta                        HOT SPOT
+//569            80             5         157            067             -1             //Venomous Chain Scorpion       HOT SPOT
+//574            80             5         157            067             -1             //Crypos                        HOT SPOT
+//570            80             5         157            067             -1             //Bone Scorpion                 HOT SPOT
+//571            80             5         157            067             -1             //Orcus                         HOT SPOT
+//573            80             5         157            067             -1             //Crypta                        HOT SPOT
+//569            80             5         157            067             -1             //Venomous Chain Scorpion       HOT SPOT
+//574            80             5         157            067             -1             //Crypos                        HOT SPOT
+
+end

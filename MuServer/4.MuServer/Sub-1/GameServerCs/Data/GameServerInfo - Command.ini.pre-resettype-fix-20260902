@@ -1,0 +1,318 @@
+[GameServerInfo]
+;==================================================
+; Post Command Settings
+;==================================================
+CommandPostType = 5
+
+;==================================================
+; Enable/disable auto add point (/add str agi vit cmd ene)
+;==================================================
+CommandAddPointAutoEnable_AL0 = 1
+CommandAddPointAutoEnable_AL1 = 1
+CommandAddPointAutoEnable_AL2 = 1
+CommandAddPointAutoEnable_AL3 = 1
+;==================================================
+CommandResetKeepDLCommandPoint_AL0 = 0
+CommandResetKeepDLCommandPoint_AL1 = 0
+CommandResetKeepDLCommandPoint_AL2 = 0
+CommandResetKeepDLCommandPoint_AL3 = 0
+;==================================================
+; Change Command Settings (Complete quest, Command 9)
+;==================================================
+CommandChangeLimit_AL0 = 2
+CommandChangeLimit_AL1 = 2
+CommandChangeLimit_AL2 = 2
+CommandChangeLimit_AL3 = 2
+
+;==================================================
+; Ware Command Settings
+;==================================================
+CommandWareNumber_AL0 = 5
+CommandWareNumber_AL1 = 10
+CommandWareNumber_AL2 = 30
+CommandWareNumber_AL3 = 250
+
+;==================================================
+; Reset Command Settings
+; CommandResetType
+; 0 = Keep points
+; 1 = Reset per Table, Clear points
+; 2 = Reset per Table, Keep points
+;==================================================
+CommandResetType = 2
+; Enable/disable AutoReset (1:On 0:Off)
+CommandResetAutoEnable_AL0 = 1
+CommandResetAutoEnable_AL1 = 1
+CommandResetAutoEnable_AL2 = 1
+CommandResetAutoEnable_AL3 = 1
+
+CommandResetCheckItem_AL0 = 0
+CommandResetCheckItem_AL1 = 0
+CommandResetCheckItem_AL2 = 0
+CommandResetCheckItem_AL3 = 0
+
+;Move character to safe zone (0 = No / 1 = Yes)
+CommandResetMove_AL0 = 0
+CommandResetMove_AL1 = 0
+CommandResetMove_AL2 = 0
+CommandResetMove_AL3 = 0
+
+;Clear character quests (0 = No / 1 = Yes)
+CommandResetQuest_AL0 = 0
+CommandResetQuest_AL1 = 0
+CommandResetQuest_AL2 = 0
+CommandResetQuest_AL3 = 0
+
+;Clear character skills (0 = No / 1 = Yes)
+CommandResetSkill_AL0 = 0
+CommandResetSkill_AL1 = 0
+CommandResetSkill_AL2 = 0
+CommandResetSkill_AL3 = 0
+CommandResetLevel_AL0 = 400
+CommandResetLevel_AL1 = 400
+CommandResetLevel_AL2 = 400
+CommandResetLevel_AL3 = 400
+
+;Zen required to reset
+CommandResetMoney_AL0 = 20000000
+CommandResetMoney_AL1 = 15000000
+CommandResetMoney_AL2 = 10000000
+CommandResetMoney_AL3 = 10000000
+;Number of resets gained (+) when using "/reset"
+CommandResetCount_AL0 = 1
+CommandResetCount_AL1 = 1
+CommandResetCount_AL2 = 1
+CommandResetCount_AL3 = 1
+
+; Maximum total resets, server-wide
+CommandResetLimit_AL0 = 10000
+CommandResetLimit_AL1 = 10000
+CommandResetLimit_AL2 = 10000
+CommandResetLimit_AL3 = 10000
+
+; Maximum resets per day, server-wide
+CommandResetLimitDay_AL0 = 10000
+CommandResetLimitDay_AL1 = 10000
+CommandResetLimitDay_AL2 = 10000
+CommandResetLimitDay_AL3 = 10000
+
+; Maximum resets per week, server-wide
+CommandResetLimitWek_AL0 = 10000
+CommandResetLimitWek_AL1 = 10000
+CommandResetLimitWek_AL2 = 10000
+CommandResetLimitWek_AL3 = 10000
+
+; Maximum resets per month, server-wide
+CommandResetLimitMon_AL0 = 10000
+CommandResetLimitMon_AL1 = 10000
+CommandResetLimitMon_AL2 = 10000
+CommandResetLimitMon_AL3 = 10000
+
+;Level after a successful reset
+CommandResetStartLevel_AL0 = 10
+CommandResetStartLevel_AL1 = 10
+CommandResetStartLevel_AL2 = 10
+CommandResetStartLevel_AL3 = 10
+
+;Points gained on a successful reset
+CommandResetPoint_AL0 = 0
+CommandResetPoint_AL1 = 0
+CommandResetPoint_AL2 = 0
+CommandResetPoint_AL3 = 0
+
+;Percentage rate of points received (per Reset table)
+CommandResetPointRateDW = 100
+CommandResetPointRateDK = 100
+CommandResetPointRateFE = 100
+CommandResetPointRateMG = 100
+CommandResetPointRateDL = 100
+CommandResetPointRateSU = 100
+CommandResetPointRateRF = 100
+
+;==================================================
+; MasterReset Command
+; (1:On 0:Off)
+;==================================================
+
+
+CommandMasterResetType = 0
+
+; Check equipment (0=No/1=Yes).
+CommandMasterResetCheckItem_AL0 = 0
+CommandMasterResetCheckItem_AL1 = 0
+CommandMasterResetCheckItem_AL2 = 0
+CommandMasterResetCheckItem_AL3 = 0
+
+; Move character to safe zone (0=No/1=Yes).
+CommandMasterResetMove_AL0 = 1
+CommandMasterResetMove_AL1 = 1
+CommandMasterResetMove_AL2 = 1
+CommandMasterResetMove_AL3 = 1
+
+; Clear character quests (0=No/1=Yes).
+CommandMasterResetQuest_AL0 = 0
+CommandMasterResetQuest_AL1 = 0
+CommandMasterResetQuest_AL2 = 0
+CommandMasterResetQuest_AL3 = 0
+
+; Clear character skills (0=No/1=Yes).
+CommandMasterResetSkill_AL0 = 0
+CommandMasterResetSkill_AL1 = 0
+CommandMasterResetSkill_AL2 = 0
+CommandMasterResetSkill_AL3 = 0
+
+; Level required to use "/mreset"
+CommandMasterResetLevel_AL0 = 400
+CommandMasterResetLevel_AL1 = 400
+CommandMasterResetLevel_AL2 = 400
+CommandMasterResetLevel_AL3 = 400
+
+; Required reset to use "/mreset"
+CommandMasterResetReset_AL0 = 0
+CommandMasterResetReset_AL1 = 0
+CommandMasterResetReset_AL2 = 0
+CommandMasterResetReset_AL3 = 0
+
+; Zen required to use "/mreset"
+CommandMasterResetMoney_AL0 = 0
+CommandMasterResetMoney_AL1 = 0
+CommandMasterResetMoney_AL2 = 0
+CommandMasterResetMoney_AL3 = 0
+
+; Number of resets added when performing MasterReset
+CommandMasterResetCount_AL0 = 1					
+CommandMasterResetCount_AL1 = 1	
+CommandMasterResetCount_AL2 = 1	
+CommandMasterResetCount_AL3 = 1
+
+; Maximum MasterReset count
+CommandMasterResetLimit_AL0 = 10000
+CommandMasterResetLimit_AL1 = 10000
+CommandMasterResetLimit_AL2 = 10000
+CommandMasterResetLimit_AL3 = 10000
+
+; Maximum MasterResets per day
+CommandMasterResetLimitDay_AL0 = 1000
+CommandMasterResetLimitDay_AL1 = 1
+CommandMasterResetLimitDay_AL2 = 1
+CommandMasterResetLimitDay_AL3 = 1
+
+;Maximum MasterResets per week
+CommandMasterResetLimitWek_AL0 = 1000
+CommandMasterResetLimitWek_AL1 = 7
+CommandMasterResetLimitWek_AL2 = 7
+CommandMasterResetLimitWek_AL3 = 7
+
+; Maximum MasterResets per month
+CommandMasterResetLimitMon_AL0 = 30
+CommandMasterResetLimitMon_AL1 = 30
+CommandMasterResetLimitMon_AL2 = 30
+CommandMasterResetLimitMon_AL3 = 30
+
+; Character level after using "/mreset"
+CommandMasterResetStartLevel_AL0 = 400
+CommandMasterResetStartLevel_AL1 = 400
+CommandMasterResetStartLevel_AL2 = 400
+CommandMasterResetStartLevel_AL3 = 400
+
+; Reset count after using "/mreset"
+CommandMasterResetStartReset_AL0 = 1
+CommandMasterResetStartReset_AL1 = 1
+CommandMasterResetStartReset_AL2 = 1
+CommandMasterResetStartReset_AL3 = 1
+
+; Points gained
+CommandMasterResetPoint_AL0 = 400
+CommandMasterResetPoint_AL1 = 400
+CommandMasterResetPoint_AL2 = 400
+CommandMasterResetPoint_AL3 = 400
+
+; Master points required to use the /mreset command
+CommandMasterResetPointRateDW = 400
+CommandMasterResetPointRateDK = 400
+CommandMasterResetPointRateFE = 400
+CommandMasterResetPointRateMG = 400
+CommandMasterResetPointRateDL = 400
+CommandMasterResetPointRateSU = 400
+CommandMasterResetPointRateRF = 400
+
+;Clear all of the character's Resets (1:On 0:Off)
+CommandMasterResetRemoveReset_AL0 = 0
+CommandMasterResetRemoveReset_AL1 = 0
+CommandMasterResetRemoveReset_AL2 = 0
+CommandMasterResetRemoveReset_AL3 = 0
+
+;==================================================
+; Marry Command Settings
+;==================================================
+CommandMarryLevel = 150
+CommandMarryCost = 350
+CommandMarryNoticeDelay = 60
+CommandMarryMinTime = 604800
+CommandMarryOnlyGM = 1
+
+;==================================================
+; Command Open WareHouse (Allow using the shared warehouse command /kho)
+;==================================================
+CommandOpenWareOnlySafeZone = 0
+
+;==================================================
+; Command Change Class
+;==================================================
+CommandChangeClassToDW = 1			//1 On:0 Off
+CommandChangeClassToDK = 1			//1 On:0 Off
+CommandChangeClassToELF = 1			//1 On:0 Off
+CommandChangeClassToMG = 1			//1 On:0 Off
+CommandChangeClassToDL = 1			//1 On:0 Off
+CommandChangeClassToSU = 1			//1 On:0 Off
+CommandChangeClassToRF = 1			//1 On:0 Off
+
+ClearMasterChangeClass = 0			//Clear Master Points when changing class, 1 On/0 Off
+
+
+;==================================================
+; Reward Command Settings
+;==================================================
+CommandRewardMaxType = 3
+CommandRewardMaxValue = 100
+CommandRewardType1Text = [%s] %s has been given %d Cash(s)!
+CommandRewardType2Text = [%s] %s has been given %d Gold(s)!
+CommandRewardType3Text = [%s] %s has been given %d PcPoint(s)!
+
+;==================================================
+; RewardAll Command Settings (Reward for all players)
+;==================================================
+CommandRewardAllMaxType = 3
+CommandRewardAllMaxValue = 100
+CommandRewardAllType1Text = [%s] Gave %d Cash(s) to everyone!
+CommandRewardAllType2Text = [%s] Gave %d Gold(s) to everyone!
+CommandRewardAllType3Text = [%s] Gave %d PcPoint(s) to everyone!
+
+;==================================================
+; Command Rename (Premium)
+;==================================================
+CommandRenameDelay_AL0 = 60
+CommandRenameDelay_AL1 = 60
+CommandRenameDelay_AL2 = 60
+CommandRenameDelay_AL3 = 60
+; Rename command requires a ticket
+CommandRenameNeedTicket = 0
+
+;==================================================
+; Gift Command Settings (/tanthu)
+; configured in EventItemBag Gift!
+;==================================================
+CommandGiftLimit = 1
+
+;==================================================
+; Help Command (/ajuda)
+; Recommended Max 5 monsters
+;==================================================
+CommandHelpMonsterIndex = 151
+CommandHelpMonsterAmount = 3
+
+;==================================================
+; Command Bloc
+;==================================================
+CommandBlocAccShowMessage = 1
+CommandBlocCharShowMessage = 1

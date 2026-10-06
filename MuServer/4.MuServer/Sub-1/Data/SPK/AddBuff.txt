@@ -1,0 +1,26 @@
+0
+//EffectID	Timer	Power1	Power2	Power3	Power4	Name Comment
+1	30	100	200	300	400	// Elf Attack Buff
+2	30	100	200	300	400	// Elf Defense Buff
+4	30	100	200	300	400	// DW ManaShield Buff
+5	30	100	200	300	400	// Critical Damage Buff
+8	30	100	200	300	400	// DK Increase HP Buff
+9	30	100	200	300	400	// Increase Mana Buff
+71	30	100	200	300	400	// Summoner Reflect Damage Buff
+82	30	100	200	300	400	// Increase Minimum Attack Power
+129	30	100	200	300	400	// Ignore Defense Buff - Penetration
+130	30	100	200	300	400	// Increase Stamina Buff
+131	30	100	200	300	400	// Defense Rate Buff
+end
+
+1
+//EffectID	Timer	Power1	Power2	Power3	Power4	Name Comment
+44	30	100	200	300	400	// Increase Agility Buff (xShop)
+45	30	100	200	300	400	// Increase Defense Buff (xShop)
+46	30	100	200	300	400	// Increase Damage Buff (xShop)
+47	30	100	200	300	400	// Increase Magic Damage Buff (xShop)
+48	30	100	200	300	400	// Increase Stamina - HP Buff (xShop)
+49	30	100	200	300	400	// Increase Energy - Mana Buff (xShop)
+89	30	100	200	300	400	// Increase Critical Damage Buff (xShop)
+90	30	100	200	300	400	// Increase Excellent Damage Buff (xShop)
+end

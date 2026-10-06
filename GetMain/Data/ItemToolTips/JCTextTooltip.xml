@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TooltipText>
+	<TextList>
+<Text Index="1" Value="[+9] Damage: +100"/> 
+<Text Index="2" Value="[+11] Damage: +200"/> 
+<Text Index="3" Value="[+13] Damage: +300"/> 
+<Text Index="4" Value="[+15] Damage: +500 & Str x2: +2%"/> 
+
+<Text Index="5" Value="[+9] Damage: +600"/> 
+<Text Index="6" Value="[+11] Damage: +700"/> 
+<Text Index="7" Value="[+13] Damage: +800"/> 
+<Text Index="8" Value="[+15] Damage: +1000 & Str x2: +4%"/> 
+
+<Text Index="9" Value="[+9] Damage: +1100"/> 
+<Text Index="10" Value="[+11] Damage: +1200"/> 
+<Text Index="11" Value="[+13] Damage: +1300"/> 
+<Text Index="12" Value="[+15] Damage: +1500 & Str x2: +6%"/> 
+
+<Text Index="13" Value="[+9] Damage: +1600"/> 
+<Text Index="14" Value="[+11] Damage: +1700"/> 
+<Text Index="15" Value="[+13] Damage: +1800"/> 
+<Text Index="16" Value="[+15] Damage: +2000 & Str x2: +8%"/> 
+
+<Text Index="17" Value="[+9] Damage: +2100"/> 
+<Text Index="18" Value="[+11] Damage: +2200"/> 
+<Text Index="19" Value="[+13] Damage: +2300"/> 
+<Text Index="20" Value="[+15] Damage: +2500 & Str x2: +10%"/> 
+
+<Text Index="21" Value="[+9] Damage: +2600"/> 
+<Text Index="22" Value="[+11] Damage: +2700"/> 
+<Text Index="23" Value="[+13] Damage: +2800"/> 
+<Text Index="24" Value="[+15] Damage: +3000 & Str x2: +12%"/> 
+
+<Text Index="25" Value="[+9] Damage: +3100"/> 
+<Text Index="26" Value="[+11] Damage: +3200"/> 
+<Text Index="27" Value="[+13] Damage: +3300"/> 
+<Text Index="28" Value="[+15] Damage: +3500 & Str x2: +14%"/> 
+
+<Text Index="29" Value="[+9] Damage: +3600"/> 
+<Text Index="30" Value="[+11] Damage: +3700"/> 
+<Text Index="31" Value="[+13] Damage: +3800"/> 
+<Text Index="32" Value="[+15] Damage: +4000 & Str x2: +16%"/> 
+
+<Text Index="33" Value="[+9] Damage: +4100"/> 
+<Text Index="34" Value="[+11] Damage: +4200"/> 
+<Text Index="35" Value="[+13] Damage: +4300"/> 
+<Text Index="36" Value="[+15] Damage: +4500 & Str x2: +18%"/>
+		
+<Text Index="37" Value="[+9] Damage: +4600"/> 
+<Text Index="38" Value="[+11] Damage: +4700"/> 
+<Text Index="39" Value="[+13] Damage: +4800"/> 
+<Text Index="40" Value="[+15] Damage: +5000 & Str x2: +20%"/> 
+
+<Text Index="41" Value="[+9] Damage: +5100"/> 
+<Text Index="42" Value="[+11] Damage: +5200"/> 
+<Text Index="43" Value="[+13] Damage: +5300"/> 
+<Text Index="44" Value="[+15] Damage: +5500 & Str x2: +22%"/> 
+
+<Text Index="45" Value="[+9] Damage: +5600"/> 
+<Text Index="46" Value="[+11] Damage: +5700"/> 
+<Text Index="47" Value="[+13] Damage: +5800"/> 
+<Text Index="48" Value="[+15] Damage: +6000 & Str x2: +24%"/> 
+
+<Text Index="49" Value="[+9] Damage: +6100"/> 
+<Text Index="50" Value="[+11] Damage: +6200"/> 
+<Text Index="51" Value="[+13] Damage: +6300"/> 
+<Text Index="52" Value="[+15] Damage: +6500 & Str x2: +26%"/> 
+
+<Text Index="53" Value="[+9] Damage: +6600"/> 
+<Text Index="54" Value="[+11] Damage: +6700"/> 
+<Text Index="55" Value="[+13] Damage: +6800"/> 
+<Text Index="56" Value="[+15] Damage: +7000 & Str x2: +28%"/> 
+
+<Text Index="57" Value="[+9] Damage: +7100"/> 
+<Text Index="58" Value="[+11] Damage: +7200"/> 
+<Text Index="59" Value="[+13] Damage: +7300"/> 
+<Text Index="60" Value="[+15] Damage: +7500 & Str x2: +30%"/> 
+
+<Text Index="61" Value="[+9] Damage: +7600"/> 
+<Text Index="62" Value="[+11] Damage: +7700"/> 
+<Text Index="63" Value="[+13] Damage: +7800"/> 
+<Text Index="64" Value="[+15] Damage: +8000 & Str x2: +32%"/> 
+
+<Text Index="65" Value="[+9] Damage: +8100"/> 
+<Text Index="66" Value="[+11] Damage: +8200"/> 
+<Text Index="67" Value="[+13] Damage: +8300"/> 
+<Text Index="68" Value="[+15] Damage: +8500 & Str x2: +34%"/> 
+
+<Text Index="69" Value="[+9] Damage: +8600"/> 
+<Text Index="70" Value="[+11] Damage: +8700"/> 
+<Text Index="71" Value="[+13] Damage: +8800"/> 
+<Text Index="72" Value="[+15] Damage: +9000 & Str x2: +36%"/> 
+
+<Text Index="73" Value="[+9] Damage: +9100"/> 
+<Text Index="74" Value="[+11] Damage: +9200"/> 
+<Text Index="75" Value="[+13] Damage: +9300"/> 
+<Text Index="76" Value="[+15] Damage: +9500 & Str x2: +38%"/> 
+
+<Text Index="77" Value="[+9] Damage: +9600"/> 
+<Text Index="78" Value="[+11] Damage: +9700"/> 
+<Text Index="79" Value="[+13] Damage: +9800"/> 
+<Text Index="80" Value="[+15] Damage: +10000 & Str x2: +40%"/> 
+
+<Text Index="81" Value="[+9] Increase HP/SD: +1000"/> 
+<Text Index="82" Value="[+11] Defense: +100"/> 
+<Text Index="83" Value="[+13] Damage: +200"/> 
+<Text Index="84" Value="[+15] Perfect Damage: +5%"/> 
+
+<Text Index="85" Value="[+9] Increase HP/SD: +2000"/> 
+<Text Index="86" Value="[+11] Defense: +200"/> 
+<Text Index="87" Value="[+13] Damage: +400"/> 
+<Text Index="88" Value="[+15] Perfect Damage: +10%"/> 
+
+<Text Index="89" Value="[+9] Increase HP/SD: +3000"/> 
+<Text Index="90" Value="[+11] Defense: +300"/> 
+<Text Index="91" Value="[+13] Damage: +600"/> 
+<Text Index="92" Value="[+15] Perfect Damage: +15%"/> 
+
+<Text Index="93" Value="[+9] Increase HP/SD: +4000"/> 
+<Text Index="94" Value="[+11] Defense: +400"/> 
+<Text Index="95" Value="[+13] Damage: +800"/> 
+<Text Index="96" Value="[+15] Perfect Damage: +20%"/> 
+
+<Text Index="97" Value="[+9] Increase HP/SD: +5000"/> 
+<Text Index="98" Value="[+11] Defense: +500"/> 
+<Text Index="99" Value="[+13] Damage: +1000"/> 
+<Text Index="100" Value="[+15] Perfect Damage: +25%"/> 
+
+<Text Index="101" Value="[+9] Increase HP/SD: +6000"/> 
+<Text Index="102" Value="[+11] Defense: +600"/> 
+<Text Index="103" Value="[+13] Damage: +1200"/> 
+<Text Index="104" Value="[+15] Perfect Damage: +30%"/> 
+
+<Text Index="105" Value="[+9] Increase HP/SD: +200"/> 
+<Text Index="106" Value="[+11] Damage: +100"/> 
+<Text Index="107" Value="[+13] STHH & STCM: +10%"/> 
+<Text Index="108" Value="[+15] LBPT Resistance: +5%"/> 
+
+<Text Index="109" Value="[+9] Defense: +100"/> 
+<Text Index="110" Value="[+11] Defense: +100"/> 
+<Text Index="111" Value="[+13] Defense: +100"/> 
+<Text Index="112" Value="[+15] Damage Reflection: +2%"/> 
+
+<Text Index="113" Value="[+9] Defense: +200"/> 
+<Text Index="114" Value="[+11] Defense: +200"/> 
+<Text Index="115" Value="[+13] Defense: +200"/> 
+<Text Index="116" Value="[+15] Damage Reflection: +4%"/> 
+
+<Text Index="117" Value="[+9] Defense: +300"/> 
+<Text Index="118" Value="[+11] Defense: +300"/> 
+<Text Index="119" Value="[+13] Defense: +300"/> 
+<Text Index="120" Value="[+15] Damage Reflection: +6%"/>
+		
+<Text Index="121" Value="[+9] Defense: +400"/> 
+<Text Index="122" Value="[+11] Defense: +400"/> 
+<Text Index="123" Value="[+13] Defense: +400"/> 
+<Text Index="124" Value="[+15] Damage Reflection: +8%"/> 
+
+<Text Index="125" Value="[+9] Defense: +500"/> 
+<Text Index="126" Value="[+11] Defense: +500"/> 
+<Text Index="127" Value="[+13] Defense: +500"/> 
+<Text Index="128" Value="[+15] Damage Reflection: +10%"/> 
+
+<Text Index="129" Value="[+9] Defense: +600"/> 
+<Text Index="130" Value="[+11] Defense: +600"/> 
+<Text Index="131" Value="[+13] Defense: +600"/> 
+<Text Index="132" Value="[+15] Damage Reflection: +12%"/> 
+
+<Text Index="133" Value="[+9] Defense: +700"/> 
+<Text Index="134" Value="[+11] Defense: +700"/> 
+<Text Index="135" Value="[+13] Defense: +700"/> 
+<Text Index="136" Value="[+15] Damage Reflection: +14%"/> 
+
+<Text Index="137" Value="[+9] Defense: +800"/> 
+<Text Index="138" Value="[+11] Defense: +800"/> 
+<Text Index="139" Value="[+13] Defense: +800"/> 
+<Text Index="140" Value="[+15] Damage Reflection: +16%"/> 
+
+<Text Index="141" Value="[+9] Defense: +900"/> 
+<Text Index="142" Value="[+11] Defense: +900"/> 
+<Text Index="143" Value="[+13] Defense: +900"/> 
+<Text Index="144" Value="[+15] Damage Reflection: +18%"/> 
+
+<Text Index="145" Value="[+9] Defense: +1000"/> 
+<Text Index="146" Value="[+11] Defense: +1000"/> 
+<Text Index="147" Value="[+13] Defense: +1000"/> 
+<Text Index="148" Value="[+15] Damage Reflection: +20%"/> 
+
+<Text Index="149" Value="[+9] Defense: +1100"/> 
+<Text Index="150" Value="[+11] Defense: +1100"/> 
+<Text Index="151" Value="[+13] Defense: +1100"/> 
+<Text Index="152" Value="[+15] Damage Reflection: +22%"/> 
+
+<Text Index="153" Value="[+9] Defense: +1200"/> 
+<Text Index="154" Value="[+11] Defense: +1200"/> 
+<Text Index="155" Value="[+13] Defense: +1200"/> 
+<Text Index="156" Value="[+15] Damage Reflection: +24%"/> 
+
+<Text Index="157" Value="[+9] Defense: +1300"/> 
+<Text Index="158" Value="[+11] Defense: +1300"/> 
+<Text Index="159" Value="[+13] Defense: +1300"/> 
+<Text Index="160" Value="[+15] Damage Reflection: +26%"/> 
+
+<Text Index="161" Value="[+9] Defense: +1400"/> 
+<Text Index="162" Value="[+11] Defense: +1400"/> 
+<Text Index="163" Value="[+13] Defense: +1400"/> 
+<Text Index="164" Value="[+15] Damage Reflection: +28%"/> 
+
+<Text Index="165" Value="[+9] Defense: +1600"/> 
+<Text Index="166" Value="[+11] Defense: +1600"/> 
+<Text Index="167" Value="[+13] Defense: +1600"/> 
+<Text Index="168" Value="[+15] Damage Reflection: +30%"/> 
+
+<Text Index="169" Value="[+9] Defense: +1800"/> 
+<Text Index="170" Value="[+11] Defense: +1800"/> 
+<Text Index="171" Value="[+13] Defense: +1800"/> 
+<Text Index="172" Value="[+15] Damage Reflection: +32%"/> 
+
+<Text Index="173" Value="[+9] Defense: +2000"/> 
+<Text Index="174" Value="[+11] Defense: +2000"/> 
+<Text Index="175" Value="[+13] Defense: +2000"/> 
+<Text Index="176" Value="[+15] Damage Reflection: +34%"/> 
+
+<Text Index="177" Value="[+9] Defense: +2200"/> 
+<Text Index="178" Value="[+11] Defense: +2200"/> 
+<Text Index="179" Value="[+13] Defense: +2200"/> 
+<Text Index="180" Value="[+15] Damage Reflection: +36%"/> 
+
+<Text Index="181" Value="[+9] Defense: +2400"/> 
+<Text Index="182" Value="[+11] Defense: +2400"/> 
+<Text Index="183" Value="[+13] Defense: +2400"/> 
+<Text Index="184" Value="[+15] Damage Reflection: +38%"/> 
+
+<Text Index="185" Value="[+9] Defense: +2600"/> 
+<Text Index="186" Value="[+11] Defense: +2600"/> 
+<Text Index="187" Value="[+13] Defense: +2600"/> 
+<Text Index="188" Value="[+15] Damage Reflection: +40%"/> 
+
+<Text Index="189" Value="[+9] Defense: +2800"/> 
+<Text Index="190" Value="[+11] Defense: +2800"/> 
+<Text Index="191" Value="[+13] Defense: +2800"/> 
+<Text Index="192" Value="[+15] Damage Reflection: +42%"/> 
+
+<Text Index="193" Value="[+9] Defense: +3000"/> 
+<Text Index="194" Value="[+11] Defense: +3000"/> 
+<Text Index="195" Value="[+13] Defense: +3000"/> 
+<Text Index="196" Value="[+15] Damage Reflection: +44%"/>
+		
+<Text Index="197" Value="[+9] Defense: +3200"/> 
+<Text Index="198" Value="[+11] Defense: +3200"/> 
+<Text Index="199" Value="[+13] Defense: +3200"/> 
+<Text Index="200" Value="[+15] Damage Reflection: +46%"/> 
+
+<Text Index="201" Value="[+9] Defense: +3400"/> 
+<Text Index="202" Value="[+11] Defense: +3400"/> 
+<Text Index="203" Value="[+13] Defense: +3400"/> 
+<Text Index="204" Value="[+15] Damage Reflection: +48%"/> 
+
+<Text Index="205" Value="[+9] Defense: +3600"/> 
+<Text Index="206" Value="[+11] Defense: +3600"/> 
+<Text Index="207" Value="[+13] Defense: +3600"/> 
+<Text Index="208" Value="[+15] Damage Reflection: +50%"/> 
+
+<Text Index="209" Value="[+9] Defense: +3800"/> 
+<Text Index="210" Value="[+11] Defense: +3800"/> 
+<Text Index="211" Value="[+13] Defense: +3800"/> 
+<Text Index="212" Value="[+15] Damage Reflection: +52%"/> 
+
+<Text Index="213" Value="[+9] Defense: +4000"/> 
+<Text Index="214" Value="[+11] Defense: +4000"/> 
+<Text Index="215" Value="[+13] Defense: +4000"/> 
+<Text Index="216" Value="[+15] Damage Reflection: +54%"/> 
+
+<Text Index="217" Value="[+9] Defense: +4200"/> 
+<Text Index="218" Value="[+11] Defense: +4200"/> 
+<Text Index="219" Value="[+13] Defense: +4200"/> 
+<Text Index="220" Value="[+15] Damage Reflection: +56%"/> 
+
+<Text Index="221" Value="[+9] Defense: +4400"/> 
+<Text Index="222" Value="[+11] Defense: +4400"/> 
+<Text Index="223" Value="[+13] Defense: +4400"/> 
+<Text Index="224" Value="[+15] Damage Reflection: +58%"/> 
+
+<Text Index="225" Value="[+9] Defense: +4600"/> 
+<Text Index="226" Value="[+11] Defense: +4600"/> 
+<Text Index="227" Value="[+13] Defense: +4600"/> 
+<Text Index="228" Value="[+15] Damage Reflection: +60%"/> 
+
+<Text Index="229" Value="[+9] Defense: +4800"/> 
+<Text Index="230" Value="[+11] Defense: +4800"/> 
+<Text Index="231" Value="[+13] Defense: +4800"/> 
+<Text Index="232" Value="[+15] Damage Reflection: +62%"/> 
+
+<Text Index="233" Value="[+9] Defense: +5000"/> 
+<Text Index="234" Value="[+11] Defense: +5000"/> 
+<Text Index="235" Value="[+13] Defense: +5000"/> 
+<Text Index="236" Value="[+15] Damage Reflection: +64%"/> 
+
+<Text Index="237" Value="[+9] Defense: +5200"/> 
+<Text Index="238" Value="[+11] Defense: +5200"/> 
+<Text Index="239" Value="[+13] Defense: +5200"/> 
+<Text Index="240" Value="[+15] Damage Reflection: +66%"/> 
+
+<Text Index="241" Value="[+9] Defense: +5400"/> 
+<Text Index="242" Value="[+11] Defense: +5400"/> 
+<Text Index="243" Value="[+13] Defense: +5400"/> 
+<Text Index="244" Value="[+15] Damage Reflection: +68%"/> 
+
+<Text Index="245" Value="[+9] Defense: +5600"/> 
+<Text Index="246" Value="[+11] Defense: +5600"/> 
+<Text Index="247" Value="[+13] Defense: +5600"/> 
+<Text Index="248" Value="[+15] Damage Reflection: +70%"/>
+		
+	</TextList>
+</TooltipText>

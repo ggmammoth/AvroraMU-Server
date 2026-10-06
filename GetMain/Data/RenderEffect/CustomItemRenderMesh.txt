@@ -1,0 +1,46 @@
+//-----------------------------------------------------------------------------------------------------
+// Index: Chỉ mục của item (ItemIndex)
+// GroupId: Số chỉ mục (index) mô hình mesh
+// #RenderFlag: Nếu giá trị âm, sử dụng renderbody
+//   -RENDER_COLOR             1        // Kết xuất màu
+//   -RENDER_TEXTURE           2        // Kết xuất texture
+//   -RENDER_CHROME            4        // Kết xuất chrome
+//   -RENDER_METAL             8        // Kết xuất kim loại
+//   -RENDER_LIGHTMAP          16       // Kết xuất bản đồ ánh sáng (lightmap)
+//   -RENDER_SHADOWMAP         32       // Kết xuất bản đồ bóng (shadowmap)
+//   -RENDER_BRIGHT            64       // Kết xuất độ sáng
+//   -RENDER_DARK              128      // Kết xuất độ tối
+//   -RENDER_EXTRA             256      // Kết xuất hiệu ứng bổ sung
+//   -RENDER_CHROME2           512      // Kết xuất chrome phiên bản 2
+//   -RENDER_WAVE              1024     // Kết xuất gợn sóng (wave)
+//   -RENDER_CHROME3           2048     // Kết xuất chrome phiên bản 3
+//   -RENDER_CHROME4           4096     // Kết xuất chrome phiên bản 4
+//   -RENDER_NODEPTH           8192     // Kết xuất không sử dụng độ sâu (no depth)
+//   -RENDER_CHROME5           16384    // Kết xuất chrome phiên bản 5
+//   -RENDER_OIL               32768    // Kết xuất hiệu ứng dầu (oil)
+//   -RENDER_CHROME6           65536    // Kết xuất chrome phiên bản 6
+//   -RENDER_CHROME7           131072   // Kết xuất chrome phiên bản 7
+//   -RENDER_DOPPELGANGER      262144   // Kết xuất hiệu ứng Doppelganger
+//   -RENDER_CHROME8           524288   // Kết xuất chrome phiên bản 8
+//
+// #Texture: Chỉ số (index) ảnh; mặc định -1
+// #Color: Kích hoạt đọc giá trị BodyLightColor (RGB)
+// #BodyLightColor RGB: giá trị kiểu float (0.0 ~ 1.0), tính bằng (0 ~ 255) / 255
+// #Luminosity: giá trị float (0.0 ~ 1.0) quy định độ sáng
+// #RenderType: Kiểu hiệu ứng chuyển động texture
+//   -Default                  -1        // Mặc định (không chuyển động)
+//   -MovementX                0         // Chuyển động theo trục X
+//   -MovementY                1         // Chuyển động theo trục Y
+//   -MovementX Negative       2         // Chuyển động ngược trục X
+//   -MovementY Negative       3         // Chuyển động ngược trục Y
+//   -MovementFrameXY          4         // Chuyển động khung hình cả X và Y
+//   -MovementFrameY           5         // Chuyển động khung hình theo Y
+//
+// #TimeEffect: Thời gian hiệu ứng chuyển động texture, sử dụng calc Render22
+// #TimeTexture: Thời gian trộn (blend) ánh sáng mesh
+
+//----------------------------------------------------------------------------------------------------------------------------------------
+//#Index     #GroupId #RenderFlag #Texture #Color #BodyLightColor     #Luminosity  #RenderType #TimeEffect #TimeTexture #GlowLevel
+//----------------------------------------------------------------------------------------------------------------------------------------
+
+end

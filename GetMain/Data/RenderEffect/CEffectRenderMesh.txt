@@ -1,0 +1,5 @@
+// Bronze Coin
+// Type  Index 	Red	  Green  Blue   Group  RenderEffect  EffectType  TimeEffectType  TextureID  TimeTextureID  LevelGlow  Comment																							   
+   13	 166	1.0	  1.0	 1.0	0	   2	         -1	         1.0		     -1	        -1	           0          // render coin
+   13	 166	0.78  0.58	 0.20   0	   70	         -1	         1.0		     -1	        -1	           0          // effect glow Gold
+end

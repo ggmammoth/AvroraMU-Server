@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StartUp>
+  <Process Run="True" Delay="300" Path="..\5.AntiServer\AntiServer.exe" Parameters="" />
+  <Process Run="True" Delay="300" Path="..\1.ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="300" Path="..\2.DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="300" Path="..\3.JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="300" Path="..\4.MuServer\Sub-1\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="300" Path="..\4.MuServer\Test-1\GameServer\GameServerTest.exe" Parameters="" />
+</StartUp>

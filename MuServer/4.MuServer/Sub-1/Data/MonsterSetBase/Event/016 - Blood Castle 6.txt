@@ -1,0 +1,127 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+// NPCS
+//=========================================================================================================================================
+0
+232            16             00         010            009            01             //Archangel
+end
+
+//=========================================================================================================================================
+// MONSTERS
+//=========================================================================================================================================
+4
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+
+125            16             30         014            034            02             //Chief Skeleton Warrior
+125            16             30         014            038            02             //Chief Skeleton Warrior
+125            16             30         015            045            02             //Chief Skeleton Warrior
+125            16             30         014            029            02             //Chief Skeleton Warrior
+125            16             30         014            027            02             //Chief Skeleton Warrior
+125            16             30         014            024            02             //Chief Skeleton Warrior
+125            16             30         014            024            02             //Chief Skeleton Warrior
+125            16             30         014            021            02             //Chief Skeleton Warrior
+125            16             30         014            021            02             //Chief Skeleton Warrior
+125            16             30         014            034            02             //Chief Skeleton Warrior
+125            16             30         014            038            02             //Chief Skeleton Warrior
+125            16             30         015            045            02             //Chief Skeleton Warrior
+125            16             30         015            031            02             //Chief Skeleton Warrior
+
+126            16             30         013            023            02             //Chief Skeleton Archer
+126            16             30         015            043            02             //Chief Skeleton Archer
+126            16             30         015            030            02             //Chief Skeleton Archer
+126            16             30         015            033            02             //Chief Skeleton Archer
+126            16             30         014            021            02             //Chief Skeleton Archer
+126            16             30         013            043            02             //Chief Skeleton Archer
+126            16             30         015            026            02             //Chief Skeleton Archer
+126            16             30         013            023            02             //Chief Skeleton Archer
+126            16             30         015            043            02             //Chief Skeleton Archer
+126            16             30         015            030            02             //Chief Skeleton Archer
+126            16             30         015            033            02             //Chief Skeleton Archer
+126            16             30         014            021            02             //Chief Skeleton Archer
+126            16             30         013            043            02             //Chief Skeleton Archer
+126            16             30         015            026            02             //Chief Skeleton Archer
+
+127            16             30         015            046            02             //Dark Skull Soldier
+127            16             30         015            063            02             //Dark Skull Soldier
+127            16             30         015            053            02             //Dark Skull Soldier
+127            16             30         013            065            02             //Dark Skull Soldier
+127            16             30         014            064            02             //Dark Skull Soldier
+127            16             30         014            067            02             //Dark Skull Soldier
+127            16             30         013            053            02             //Dark Skull Soldier
+127            16             30         015            065            02             //Dark Skull Soldier
+127            16             30         015            060            02             //Dark Skull Soldier
+127            16             30         013            057            02             //Dark Skull Soldier
+127            16             30         014            063            02             //Dark Skull Soldier
+127            16             30         014            060            02             //Dark Skull Soldier
+127            16             30         014            057            02             //Dark Skull Soldier
+127            16             30         014            055            02             //Dark Skull Soldier
+127            16             30         015            046            02             //Dark Skull Soldier
+127            16             30         014            041            02             //Dark Skull Soldier
+127            16             30         014            041            02             //Dark Skull Soldier
+127            16             30         014            041            02             //Dark Skull Soldier
+127            16             30         015            063            02             //Dark Skull Soldier
+127            16             30         015            053            02             //Dark Skull Soldier
+127            16             30         013            065            02             //Dark Skull Soldier
+127            16             30         014            064            02             //Dark Skull Soldier
+127            16             30         014            067            02             //Dark Skull Soldier
+127            16             30         013            053            02             //Dark Skull Soldier
+127            16             30         015            065            02             //Dark Skull Soldier
+127            16             30         015            060            02             //Dark Skull Soldier
+127            16             30         013            057            02             //Dark Skull Soldier
+127            16             30         014            063            02             //Dark Skull Soldier
+127            16             30         014            060            02             //Dark Skull Soldier
+127            16             30         014            057            02             //Dark Skull Soldier
+127            16             30         014            055            02             //Dark Skull Soldier
+
+
+128            16             30         013            069            02             //Giant Ogre
+128            16             30         014            061            02             //Giant Ogre
+128            16             30         013            055            02             //Giant Ogre
+128            16             30         014            070            02             //Giant Ogre
+128            16             30         013            048            02             //Giant Ogre
+128            16             30         013            063            02             //Giant Ogre
+128            16             30         014            063            02             //Giant Ogre
+128            16             30         014            060            02             //Giant Ogre
+128            16             30         014            057            02             //Giant Ogre
+128            16             30         014            055            02             //Giant Ogre
+
+
+129            16             30         013            078            02             //Red Skeleton Knight
+129            16             30         014            083            02             //Red Skeleton Knight
+129            16             30         014            078            02             //Red Skeleton Knight
+129            16             30         015            078            02             //Red Skeleton Knight
+129            16             30         016            080            02             //Red Skeleton Knight
+129            16             30         015            062            02             //Red Skeleton Knight
+129            16             30         015            068            02             //Red Skeleton Knight
+129            16             30         014            047            02             //Red Skeleton Knight
+129            16             30         012            083            02             //Red Skeleton Knight
+129            16             30         017            084            02             //Red Skeleton Knight
+129            16             30         010            082            02             //Red Skeleton Knight
+129            16             30         011            088            02             //Red Skeleton Knight
+129            16             30         022            081            02             //Red Skeleton Knight
+129            16             30         021            084            02             //Red Skeleton Knight
+129            16             30         021            087            02             //Red Skeleton Knight
+129            16             30         009            081            02             //Red Skeleton Knight
+129            16             30         014            090            02             //Red Skeleton Knight
+129            16             30         014            094            02             //Red Skeleton Knight
+
+
+130            16             30         016            087            02             //Magic Skeleton
+130            16             30         014            080            02             //Magic Skeleton
+130            16             30         018            081            02             //Magic Skeleton
+130            16             30         015            083            02             //Magic Skeleton
+130            16             30         015            086            02             //Magic Skeleton
+130            16             30         018            083            02             //Magic Skeleton
+130            16             30         022            081            02             //Magic Skeleton
+130            16             30         021            084            02             //Magic Skeleton
+130            16             30         021            087            02             //Magic Skeleton
+130            16             30         009            081            02             //Magic Skeleton
+130            16             30         014            090            02             //Magic Skeleton
+130            16             30         014            094            02             //Magic Skeleton
+
+
+
+
+
+end

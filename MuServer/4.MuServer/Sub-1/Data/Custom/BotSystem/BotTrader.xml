@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+**BOT TRADE System - Item exchange bot, item mixing
+***
+-->
+
+<BotTrade Enabled="1">
+	<CreateBot>
+		<NewBot	IndexBot="0"	Class="740"	Enabled="1"		OnlyVip="0"		BotName="ItemMix"		MapID="0"	CoordX="130"	CoordY="122"	Dir="3"	CustomShowInfo="1" />
+		<NewBot	IndexBot="1"	Class="741"	Enabled="1"		OnlyVip="0"		BotName="JewelTrade"	MapID="0"	CoordX="130"	CoordY="125"	Dir="3"	CustomShowInfo="1" />
+		<NewBot	IndexBot="2"	Class="739"	Enabled="1"		OnlyVip="0"		BotName="Upgrade"		MapID="0"	CoordX="130"	CoordY="120"	Dir="3"	CustomShowInfo="1" />
+	</CreateBot>
+	
+	<!--
+	** Bot's equipped items
+	SlotItem:
+		0 = Sword	1 = Shield	2 = Helm	3 = Armor	
+		4 = Pants	5 = Gloves	6 = Boots	7 = Wings	8 = Pet
+		TypeItem = Category
+		IndexItem = ItemID.		[EX: (TypeItem, IndexItem) = (12, 200)]
+	-->
+	<ItemsBot>
+		<Items	IndexBot="0"	SlotItem="2"	TypeItem="7"	IndexItem="3"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="0"	SlotItem="3"	TypeItem="8"	IndexItem="3"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="0"	SlotItem="4"	TypeItem="9"	IndexItem="3"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="0"	SlotItem="5"	TypeItem="10"	IndexItem="3"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="0"	SlotItem="6"	TypeItem="11"	IndexItem="3"	LevelItem="9"	OptionItem="1"	/>
+																						   
+		<Items	IndexBot="1"	SlotItem="2"	TypeItem="7"	IndexItem="2"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="1"	SlotItem="3"	TypeItem="8"	IndexItem="2"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="1"	SlotItem="4"	TypeItem="9"	IndexItem="2"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="1"	SlotItem="5"	TypeItem="10"	IndexItem="2"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="1"	SlotItem="6"	TypeItem="11"	IndexItem="2"	LevelItem="9"	OptionItem="1"	/>
+																						 
+		<Items	IndexBot="2"	SlotItem="2"	TypeItem="7"	IndexItem="11"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="2"	SlotItem="3"	TypeItem="8"	IndexItem="11"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="2"	SlotItem="4"	TypeItem="9"	IndexItem="11"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="2"	SlotItem="5"	TypeItem="10"	IndexItem="11"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="2"	SlotItem="6"	TypeItem="11"	IndexItem="11"	LevelItem="9"	OptionItem="1"	/>
+		<Items	IndexBot="2"	SlotItem="7"	TypeItem="12"	IndexItem="0"	LevelItem="9"	OptionItem="1"	/>	
+	</ItemsBot>
+	
+	<!--
+	**MixData
+		MixName: Name of the Mix
+		SuccessRate: Success rate (100%)
+		PriceType: 0 - Zen; 1 - WcoinC; 2 - WcoinP; 3 -  GoblinPoint; 4-Atm
+		PriceCount: Amount of currency required
+		FailMes, SuccessMes: server-wide message (index taken from the MessageInfo section)
+	-->
+	<MixData>
+<!-- MIX SET 5 -->
+	<!-- Set DW -->                                                              
+		<Mix	MixIndex="0"	MixName="Moonlight Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="1"	MixName="Moonlight Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="2"	MixName="Moonlight Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="3"	MixName="Moonlight Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="4"	MixName="Moonlight Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set DK -->                                                              
+		<Mix	MixIndex="5"	MixName="Black Dragon Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="6"	MixName="Black Dragon Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="7"	MixName="Black Dragon Pants"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="8"	MixName="Black Dragon Gloves"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="9"	MixName="Black Dragon Boots"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set ELF -->                                                              
+		<Mix	MixIndex="10"	MixName="Goddess Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="11"	MixName="Goddess Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="12"	MixName="Goddess Pants"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="13"	MixName="Goddess Gloves"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="14"	MixName="Goddess Boots"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set MG -->                                                              
+		<Mix	MixIndex="15"	MixName="Fire God Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="16"	MixName="Fire God Pants"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="17"	MixName="Fire God Gloves"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="18"	MixName="Fire God Boots"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set DL -->                                                              
+		<Mix	MixIndex="19"	MixName="Dark King Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="20"	MixName="Dark King Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="21"	MixName="Dark King Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="22"	MixName="Dark King Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="23"	MixName="Dark King Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set SUM -->                                                              
+		<Mix	MixIndex="24"	MixName="Heavenly Flame Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="25"	MixName="Heavenly Flame Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="26"	MixName="Heavenly Flame Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="27"	MixName="Heavenly Flame Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="28"	MixName="Heavenly Flame Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set RF -->                                                              
+		<Mix	MixIndex="29"	MixName="Heavenly Flame Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="30"	MixName="Heavenly Flame Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="31"	MixName="Heavenly Flame Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="32"	MixName="Heavenly Flame Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>	
+<!-- MIX SET 6 -->
+	<!-- Set DW -->                                                              
+		<Mix	MixIndex="33"	MixName="Soul Summon Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="34"	MixName="Soul Summon Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="35"	MixName="Soul Summon Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="36"	MixName="Soul Summon Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="37"	MixName="Soul Summon Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set DK -->                                                              
+		<Mix	MixIndex="38"	MixName="Phoenix Helm"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="39"	MixName="Phoenix Armor"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="40"	MixName="Phoenix Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="41"	MixName="Phoenix Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="42"	MixName="Phoenix Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set ELF -->                                                              
+		<Mix	MixIndex="43"	MixName="Beauty Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="44"	MixName="Beauty Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="45"	MixName="Beauty Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="46"	MixName="Beauty Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="47"	MixName="Beauty Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set MG -->                                                              
+		<Mix	MixIndex="48"	MixName="Thunder Wind Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="49"	MixName="Thunder Wind Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="50"	MixName="Thunder Wind Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="51"	MixName="Thunder Wind Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set DL -->                                                              
+		<Mix	MixIndex="52"	MixName="Golden Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="53"	MixName="Golden Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="54"	MixName="Golden Pants"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="55"	MixName="Golden Gloves"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="56"	MixName="Golden Boots"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set SUM -->                                                              
+		<Mix	MixIndex="57"	MixName="Magic Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="58"	MixName="Magic Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="59"	MixName="Magic Pants"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="60"	MixName="Magic Gloves"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="61"	MixName="Magic Boots"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+	<!-- Set RF -->                                                              
+		<Mix	MixIndex="62"	MixName="White Tiger Helm"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="63"	MixName="White Tiger Armor"			 	SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="64"	MixName="White Tiger Pants"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="65"	MixName="White Tiger Boots"				SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+<!-- MIX VK 6 -->                                                              
+		<Mix	MixIndex="66"	MixName="DW Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="67"	MixName="DK Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="68"	MixName="DK Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="69"	MixName="ELF Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="70"	MixName="MG Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="71"	MixName="DL Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="72"	MixName="SUM Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="73"	MixName="SUM Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="74"	MixName="RF Weapon Tier 6"			SuccessRate="30"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+
+		<Mix	MixIndex="75"	MixName="Shield Tier 2"				SuccessRate="70"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="76"	MixName="Shield Tier 2"				SuccessRate="70"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="77"	MixName="Shield Tier 2"				SuccessRate="70"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+
+		<Mix	MixIndex="78"	MixName="Shield Tier 3"				SuccessRate="50"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="79"	MixName="Shield Tier 3"				SuccessRate="50"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="80"	MixName="Shield Tier 3"				SuccessRate="50"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="81"	MixName="Shield Tier 3"				SuccessRate="50"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="82"	MixName="Shield Tier 3"				SuccessRate="50"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+
+		<Mix	MixIndex="83"	MixName="Shield Tier 4"				SuccessRate="20"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="84"	MixName="Shield Tier 4"				SuccessRate="20"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="85"	MixName="Shield Tier 4"				SuccessRate="20"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="86"	MixName="Shield Tier 4"				SuccessRate="20"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+
+		<Mix	MixIndex="87"	MixName="Shield Tier 5"				SuccessRate="10"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+		<Mix	MixIndex="88"	MixName="Shield Tier 5"				SuccessRate="10"	PriceType="1"	PriceCount="0"	FailMes="11"	SuccessMes="12"	/>
+
+	</MixData>
+	
+	<!--
+	**Item required to trade
+	KeepLevel, KeepOption keep the exc/option of the item (1 Mix only configures keeping the option and level of 1 item)
+	-->
+	<NeedItem>
+<!-- MIX SET 5 -->
+	<!-- Set DW - Moonlight Set-->
+		<Mix MixIndex="0"	Type="7"	Index="3"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="1"	Type="8"	Index="3"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="2"	Type="9"	Index="3"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="3"	Type="10"	Index="3"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="4"	Type="11"	Index="3"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set DK - Black Dragon Set-->
+		<Mix MixIndex="5"	Type="7"	Index="1"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="6"	Type="8"	Index="1"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="7"	Type="9"	Index="1"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="8"	Type="10"	Index="1"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="9"	Type="11"	Index="1"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set ELF - Goddess Set-->
+		<Mix MixIndex="10"	Type="7"	Index="14"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="11"	Type="8"	Index="14"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="12"	Type="9"	Index="14"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="13"	Type="10"	Index="14"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="14"	Type="11"	Index="14"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set MG - Fire God Set-->
+		<Mix MixIndex="15"	Type="8"	Index="15"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="16"	Type="9"	Index="15"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="17"	Type="10"	Index="15"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="18"	Type="11"	Index="15"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set DL - Dark King Set-->
+		<Mix MixIndex="19"	Type="7"	Index="26"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="20"	Type="8"	Index="26"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="21"	Type="9"	Index="26"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="22"	Type="10"	Index="26"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="23"	Type="11"	Index="26"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set SUM - Heavenly Flame Set-->
+		<Mix MixIndex="24"	Type="7"	Index="39"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="25"	Type="8"	Index="39"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="26"	Type="9"	Index="39"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="27"	Type="10"	Index="39"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="28"	Type="11"	Index="39"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set RF - Earth Dragon Set-->
+		<Mix MixIndex="29"	Type="7"	Index="9"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="30"	Type="8"	Index="9"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="31"	Type="9"	Index="9"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="32"	Type="11"	Index="9"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+<!-- MIX SET 6 -->
+	<!-- Set DW -->	
+		<Mix MixIndex="33"	Type="7"	Index="35"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="34"	Type="8"	Index="35"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="35"	Type="9"	Index="35"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="36"	Type="10"	Index="35"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="37"	Type="11"	Index="35"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set DK -->	
+		<Mix MixIndex="38"	Type="7"	Index="16"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="39"	Type="8"	Index="16"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="40"	Type="9"	Index="16"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="41"	Type="10"	Index="16"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="42"	Type="11"	Index="16"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set ELF -->	
+		<Mix MixIndex="43"	Type="7"	Index="36"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="44"	Type="8"	Index="36"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="45"	Type="9"	Index="36"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="46"	Type="10"	Index="36"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="47"	Type="11"	Index="36"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set MG -->	
+		<Mix MixIndex="48"	Type="8"	Index="37"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="49"	Type="9"	Index="37"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="50"	Type="10"	Index="37"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="51"	Type="11"	Index="37"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set DL -->	
+		<Mix MixIndex="52"	Type="7"	Index="27"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="53"	Type="8"	Index="27"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="54"	Type="9"	Index="27"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="55"	Type="10"	Index="27"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="56"	Type="11"	Index="27"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set SUM -->	
+		<Mix MixIndex="57"	Type="7"	Index="40"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="58"	Type="8"	Index="40"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="59"	Type="9"	Index="40"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="60"	Type="10"	Index="40"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="61"	Type="11"	Index="40"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- Set RF -->	
+		<Mix MixIndex="62"	Type="7"	Index="59"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="63"	Type="8"	Index="59"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="64"	Type="9"	Index="59"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+		<Mix MixIndex="65"	Type="11"	Index="59"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+<!-- MIX VK 6 -->
+		<Mix MixIndex="66"	Type="5"	Index="9"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="67"	Type="0"	Index="17"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="68"	Type="3"	Index="10"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="69"	Type="4"	Index="17"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="70"	Type="0"	Index="25"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="71"	Type="2"	Index="11"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="72"	Type="5"	Index="16"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="73"	Type="5"	Index="21"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="74"	Type="0"	Index="32"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+<!-- MIX SHIELD -->
+	<!-- MIX SHIELD 2-->
+		<Mix MixIndex="75"	Type="6"	Index="0"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="76"	Type="6"	Index="1"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="77"	Type="6"	Index="2"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- MIX SHIELD 3-->
+		<Mix MixIndex="78"	Type="6"	Index="3"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="79"	Type="6"	Index="4"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="80"	Type="6"	Index="6"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="81"	Type="6"	Index="9"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="82"	Type="6"	Index="10"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- MIX SHIELD 4-->
+		<Mix MixIndex="83"	Type="6"	Index="5"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="84"	Type="6"	Index="7"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="85"	Type="6"	Index="8"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="86"	Type="6"	Index="11"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+	<!-- MIX SHIELD 5-->
+		<Mix MixIndex="87"	Type="6"	Index="12"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+		<Mix MixIndex="88"	Type="6"	Index="14"	MinLevel="0"	MaxLevel="15"	MinOpt="4"	MaxOpt="7"	Luck="0"	Skill="0"	NeedExc="1"	Durability="0"	KeepLevel="0"	KeepOption="0"	KeepItemMixFail="0"	Count="3"	/>
+
+	</NeedItem>
+	
+	<!--
+		Item received on success
+		Luck and Skills are a rate (0 -> 100)
+		Exc: number of excellent lines received
+	-->
+	<DataResult>
+<!-- MIX SET 5 -->
+	<!-- Set DW -->
+		<ItemResult MixIndex="0"	Type="7"	Index="35"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="1"	Type="8"	Index="35"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="2"	Type="9"	Index="35"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="3"	Type="10"	Index="35"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="4"	Type="11"	Index="35"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set DW -->
+		<ItemResult MixIndex="5"	Type="7"	Index="16"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="6"	Type="8"	Index="16"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="7"	Type="9"	Index="16"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="8"	Type="10"	Index="16"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="9"	Type="11"	Index="16"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set ELF -->
+		<ItemResult MixIndex="10"	Type="7"	Index="36"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="11"	Type="8"	Index="36"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="12"	Type="9"	Index="36"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="13"	Type="10"	Index="36"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="14"	Type="11"	Index="36"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set MG -->
+		<ItemResult MixIndex="15"	Type="8"	Index="37"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="16"	Type="9"	Index="37"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="17"	Type="10"	Index="37"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="18"	Type="11"	Index="37"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set DL -->	
+		<ItemResult MixIndex="19"	Type="7"	Index="27"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="20"	Type="8"	Index="27"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="21"	Type="9"	Index="27"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="22"	Type="10"	Index="27"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="23"	Type="11"	Index="27"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set SUM -->
+		<ItemResult MixIndex="24"	Type="7"	Index="40"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="25"	Type="8"	Index="40"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="26"	Type="9"	Index="40"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="27"	Type="10"	Index="40"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="28"	Type="11"	Index="40"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set RF -->	
+		<ItemResult MixIndex="29"	Type="7"	Index="59"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="30"	Type="8"	Index="59"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="31"	Type="9"	Index="59"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="32"	Type="11"	Index="59"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+<!-- MIX SET 6 -->
+	<!-- Set DW -->
+		<ItemResult MixIndex="33"	Type="7"	Index="18"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="34"	Type="8"	Index="18"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="35"	Type="9"	Index="18"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="36"	Type="10"	Index="18"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="37"	Type="11"	Index="18"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set DW -->
+		<ItemResult MixIndex="38"	Type="7"	Index="17"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="39"	Type="8"	Index="17"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="40"	Type="9"	Index="17"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="41"	Type="10"	Index="17"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="42"	Type="11"	Index="17"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set ELF -->
+		<ItemResult MixIndex="43"	Type="7"	Index="19"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="44"	Type="8"	Index="19"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="45"	Type="9"	Index="19"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="46"	Type="10"	Index="19"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="47"	Type="11"	Index="19"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set MG -->
+		<ItemResult MixIndex="48"	Type="8"	Index="20"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="49"	Type="9"	Index="20"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="50"	Type="10"	Index="20"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="51"	Type="11"	Index="20"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set DL -->	
+		<ItemResult MixIndex="52"	Type="7"	Index="38"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="53"	Type="8"	Index="38"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="54"	Type="9"	Index="38"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="55"	Type="10"	Index="38"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="56"	Type="11"	Index="38"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set SUM -->
+		<ItemResult MixIndex="57"	Type="7"	Index="41"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="58"	Type="8"	Index="41"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="59"	Type="9"	Index="41"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="60"	Type="10"	Index="41"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="61"	Type="11"	Index="41"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	<!-- Set RF -->	
+		<ItemResult MixIndex="62"	Type="7"	Index="60"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="63"	Type="8"	Index="60"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="64"	Type="9"	Index="60"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="65"	Type="11"	Index="60"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+<!-- MIX VK 6 -->
+		<ItemResult MixIndex="66"	Type="5"	Index="11"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="67"	Type="0"	Index="24"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="68"	Type="0"	Index="24"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="69"	Type="4"	Index="19"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="69"	Type="4"	Index="22"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="70"	Type="0"	Index="31"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="71"	Type="2"	Index="15"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="72"	Type="5"	Index="17"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="73"	Type="5"	Index="22"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="74"	Type="0"	Index="33"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+<!-- MIX SHIELD -->
+		<!-- MIX SHIELD 2-->
+		<ItemResult MixIndex="75"	Type="6"	Index="3"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="75"	Type="6"	Index="4"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="75"	Type="6"	Index="6"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="75"	Type="6"	Index="9"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="75"	Type="6"	Index="10"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="76"	Type="6"	Index="3"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="76"	Type="6"	Index="4"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="76"	Type="6"	Index="6"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="76"	Type="6"	Index="9"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="76"	Type="6"	Index="10"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="77"	Type="6"	Index="3"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="77"	Type="6"	Index="4"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="77"	Type="6"	Index="6"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="77"	Type="6"	Index="9"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="77"	Type="6"	Index="10"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<!-- MIX SHIELD 3-->
+		<ItemResult MixIndex="78"	Type="6"	Index="5"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="78"	Type="6"	Index="7"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="78"	Type="6"	Index="8"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="78"	Type="6"	Index="11"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="79"	Type="6"	Index="5"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="79"	Type="6"	Index="7"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="79"	Type="6"	Index="8"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="79"	Type="6"	Index="11"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="80"	Type="6"	Index="5"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="80"	Type="6"	Index="7"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="80"	Type="6"	Index="8"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="80"	Type="6"	Index="11"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="81"	Type="6"	Index="5"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="81"	Type="6"	Index="7"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="81"	Type="6"	Index="8"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="81"	Type="6"	Index="11"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="82"	Type="6"	Index="5"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="82"	Type="6"	Index="7"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="82"	Type="6"	Index="8"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="82"	Type="6"	Index="11"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<!-- MIX SHIELD 4-->
+		<ItemResult MixIndex="83"	Type="6"	Index="14"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="83"	Type="6"	Index="12"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="84"	Type="6"	Index="14"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="84"	Type="6"	Index="12"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="85"	Type="6"	Index="14"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="85"	Type="6"	Index="12"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="86"	Type="6"	Index="14"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="86"	Type="6"	Index="12"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<!-- MIX SHIELD 5-->
+		<ItemResult MixIndex="87"	Type="6"	Index="13"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="87"	Type="6"	Index="15"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="87"	Type="6"	Index="16"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="87"	Type="6"	Index="21"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+
+		<ItemResult MixIndex="88"	Type="6"	Index="13"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="88"	Type="6"	Index="15"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="88"	Type="6"	Index="16"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+		<ItemResult MixIndex="88"	Type="6"	Index="21"	LevelMin="0"	LevelMax="0"	OptMin="0"	OptMax="0"	Luck="20"	Skill="0"	Exc="2"	Durability="0" />
+	</DataResult>
+	
+	<!--
+		Which Index range the BOT can Mix
+		MixIndexMin, MixIndexMax: range (0 -> 500)
+		***Note: 1 BOT can have max 500 Mixes; create another BOT if more are needed
+	-->
+	<BotAsociation>
+		<Bot	IndexBot="0"	MixIndexMin="0"		MixIndexMax="32" />
+		<Bot	IndexBot="1"	MixIndexMin="33"	MixIndexMax="65" />
+		<Bot	IndexBot="2"	MixIndexMin="66"	MixIndexMax="88" />
+	</BotAsociation>
+	
+	<!--
+		Messages...
+	-->
+	<MessageInfo>
+		<Message	Index="0"	Text="I'm ready!" />
+		<Message	Index="1"	Text="Please upgrade your VIP and come back to see me!" />
+		<Message	Index="2"	Text="You need to place the correct item!" />
+		<Message	Index="3"	Text="Need %d Zen" />
+		<Message	Index="4"	Text="Need %d WcoinC" />
+		<Message	Index="5"	Text="Need %d WcoinP" />
+		<Message	Index="6"	Text="Need %d GobinCoin" />
+		<Message	Index="7"	Text="Congratulations! You Succeeded" />
+		<Message	Index="8"	Text="Too bad! You Failed" />
+		<Message	Index="9"	Text="[%s] just failed TradeMix [%s]!" />
+		<Message	Index="10"	Text="[%s] just succeeded TradeMix [%s]!" />
+		<Message	Index="11"	Text="[%s] just failed to upgrade [%s]!" />
+		<Message	Index="12"	Text="[%s] just succeeded upgrading [%s]!" />
+		<Message	Index="13"	Text="[%s] just Exchanged [%s] successfully!" />
+		
+	</MessageInfo>
+</BotTrade>
+

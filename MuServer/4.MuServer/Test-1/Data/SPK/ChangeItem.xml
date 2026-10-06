@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<SPK_ItemTrade Enable="1">
+	<NPC Class="733" Map="0" PosX="141" PosY="140" Dir="1" Name="Change Item" />
+	<Message>
+		<Msg Index="0" Text="The system is temporarily locked!" />
+		<Msg Index="1" Text="[Change Item] Item does not meet requirements!" />
+		<Msg Index="2" Text="You don't have enough currency to trade!" />
+		<Msg Index="3" Text="This Slot Has No Item!" />
+		<Msg Index="4" Text="Congratulations [%s], successfully exchanged %s for another item!" />
+		<Msg Index="5" Text="Inventory does not have 4x4 empty slots available!" />
+		<Msg Index="6" Text="%s successfully exchanged %s for %s!" />
+	</Message>
+	<GroupDoiItem NameSlot="Weapon" WCoinC="11" WCoinP="22" WCoinG="33" Ruud="44" CoinAtm="55">
+		<ItemSet7>
+			<Item Type="0" Index="14" /> <!-- Lightning Sword -->
+			<Item Type="0" Index="15" /> <!-- Iron Sword -->
+			<Item Type="0" Index="16" /> <!-- Destruction Sword -->
+			<Item Type="0" Index="17" /> <!-- Heaven Demon Sword -->
+			<Item Type="0" Index="18" /> <!-- Thunder Wind Blade -->
+			<Item Type="0" Index="19" /> <!-- Emperor Sword -->
+			<Item Type="0" Index="20" /> <!-- Raging Wind Blade -->
+			<Item Type="0" Index="21" /> <!-- Life Blade -->
+			<Item Type="0" Index="22" /> <!-- Power Blade -->
+			<Item Type="0" Index="23" /> <!-- Red Dragon Blade -->
+			<Item Type="0" Index="24" /> <!-- Yitian Blade -->
+			<Item Type="0" Index="25" /> <!-- Fire Star Sword -->
+			<Item Type="0" Index="26" /> <!-- Fire Dragon Sword -->
+		</ItemSet7>
+	</GroupDoiItem>
+	<GroupDoiItem NameSlot="Wings" WCoinC="11" WCoinP="22" WCoinG="33" Ruud="44" CoinAtm="55">
+		<ItemSet7>
+			<Item Type="12" Index="14" /> <!-- HP Boost Jewel -->
+			<Item Type="12" Index="15" /> <!-- Chaos Origin Jewel -->
+			<Item Type="12" Index="16" /> <!-- Fire Slash Jewel -->
+			<Item Type="12" Index="17" /> <!-- Heart-Piercing Arrow Jewel -->
+			<Item Type="12" Index="18" /> <!-- Ice Arrow Jewel -->
+			<Item Type="12" Index="19" /> <!-- Wind Piercing Jewel -->
+			<Item Type="12" Index="20" /> <!-- No Name -->
+			<Item Type="12" Index="21" /> <!-- Red Fire Dragon -->
+			<Item Type="12" Index="22" /> <!-- Summon Member -->
+			<Item Type="12" Index="23" /> <!-- Increase Damage -->
+			<Item Type="12" Index="24" /> <!-- Gather Energy -->
+			<Item Type="12" Index="25" /> <!-- No Name -->
+			<Item Type="12" Index="26" /> <!-- FLAGGED: unclear phrase "Cẩm Thách Huyền Bí" -->
+		</ItemSet7>
+	</GroupDoiItem>
+</SPK_ItemTrade>

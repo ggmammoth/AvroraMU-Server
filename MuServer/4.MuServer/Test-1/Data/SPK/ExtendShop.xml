@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtendShop Enable="1" CoinLimit="10000" RateExchange="5">
+    <!-- Type, Index, Level, Skill, Luck, Opt, Exc, Count (so luong tao), Price (WCoinC) -->
+    <Item Type="14" Index="13" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="5"  Price="10"   Sale="12"/> <!-- 10x Jewel of Bless -->
+    <Item Type="14" Index="14" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="10" Price="150"  Sale="18"/> <!-- 10x Jewel of Soul -->
+    <Item Type="14" Index="16" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="15" Price="200"  Sale="15"/> <!-- 10x Jewel of Life -->
+    <Item Type="14" Index="22" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="20" Price="500"  Sale="0"/> <!-- 5x Jewel of Creation -->
+    <Item Type="14" Index="31" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="25" Price="500"  Sale="5"/> <!-- 5x Jewel of Creation -->
+    <Item Type="14" Index="41" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="30" Price="500"  Sale="70"/> <!-- 5x Jewel of Creation -->
+    <Item Type="14" Index="42" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="35" Price="500"  Sale="76"/> <!-- 5x Jewel of Creation -->
+    <Item Type="12" Index="15" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="40" Price="1000" Sale="0"/> <!-- 10x Jewel of Chaos -->
+    <Item Type="14" Index="43" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="45" Price="1000" Sale="19"/> <!-- 10x Jewel of Chaos -->
+    <Item Type="14" Index="44" Level="0" Skill="0" Luck="0" Opt="0" Exc="0" Count="50" Price="1000" Sale="33"/> <!-- 10x Jewel of Chaos -->
+  
+</ExtendShop>

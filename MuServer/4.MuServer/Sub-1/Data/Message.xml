@@ -1,0 +1,859 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SPK>
+	<Message>
+		<Msg Index="0" Text="The %s event begins in %d minutes!" />
+		<Msg Index="1" Text="You have reached today's limit of %d resets!" />
+		<Msg Index="2" Text="Today's reset limit for %s is %s!" />
+		<Msg Index="3" Text="Account tier: Normal" />
+		<Msg Index="4" Text="Account tier: Silver" />
+		<Msg Index="5" Text="Account tier: Gold" />
+		<Msg Index="6" Text="Account tier: Diamond" />
+		<Msg Index="7" Text="Welcome to MU SPK, %s!" />
+		<Msg Index="8" Text="%s is now online!" />
+		<Msg Index="9" Text="%s has joined MU!" />
+		<Msg Index="10" Text="%d WCoinC has been added to your account!" />
+		<Msg Index="11" Text="%d WCoinP has been added to your account!" />
+		<Msg Index="12" Text="%d Goblin Points have been added to your account!" />
+		<Msg Index="13" Text="%d %s has been deducted from your account!" />
+		<Msg Index="14" Text="Blood Castle begins in %d minutes!" />
+		<Msg Index="15" Text="Blood Castle registration is closed!" />
+		<Msg Index="16" Text="Blood Castle %d begins in %d minutes!" />
+		<Msg Index="17" Text="Blood Castle has begun!" />
+		<Msg Index="18" Text="Blood Castle has ended!" />
+		<Msg Index="19" Text="All monsters have been defeated!" />
+		<Msg Index="20" Text="All bosses have been defeated!" />
+		<Msg Index="21" Text="You are not strong enough to enter Blood Castle!" />
+		<Msg Index="22" Text="%s dropped the Archangel Weapon!" />
+		<Msg Index="23" Text="%s obtained the Archangel Weapon!" />
+		<Msg Index="24" Text="%s destroyed the Blood Castle gate!" />
+		<Msg Index="25" Text="%s destroyed the crystal statue!" />
+		<Msg Index="26" Text="Monsters defeated: %d/%d" />
+		<Msg Index="27" Text="%s defeated all %d monsters. The jewels were sent to the inventory!" />
+		<Msg Index="28" Text="Welcome to MU Online!" />
+		<Msg Index="29" Text="A duplicated item was detected! Contact an administrator immediately." />
+		<Msg Index="30" Text="You have reached the maximum Relife count: %d/%d." />
+		<Msg Index="31" Text="You need %d levels!" />
+		<Msg Index="32" Text="You need %d resets!" />
+		<Msg Index="33" Text="You need %d Jewels of Harmony!" />
+		<Msg Index="34" Text="You need %d Jewels of Guardian!" />
+		<Msg Index="35" Text="You need %d Jewels of Soul!" />
+		<Msg Index="36" Text="You need %d Jewels of Life!" />
+		<Msg Index="37" Text="You need %d Jewels of Creation!" />
+		<Msg Index="38" Text="Please wait before trying again." />
+		<Msg Index="39" Text="%s has completed Relife %d!" />
+		<Msg Index="40" Text="You need %d more resets to trade!" />
+		<Msg Index="41" Text="You need %d more points to trade!" />
+		<Msg Index="42" Text="Trade completed successfully!" />
+		<Msg Index="43" Text="%s successfully completed reset %s!" />
+		<Msg Index="44" Text="%d Ruud has been added to your account!" />
+		<Msg Index="45" Text="%d ATM points have been added to your account!" />
+		<Msg Index="46" Text="This action cannot be used right now!" />
+		<Msg Index="47" Text="Please wait a moment!" />
+		<Msg Index="48" Text="The difference exceeds the allowed limit of %d." />
+		<Msg Index="49" Text="%s won %s from the Lucky Spin!" />
+		<Msg Index="50" Text="You need %d more WCoinC to spin!" />
+		<Msg Index="51" Text="You received %d WCoinC!" />
+		<Msg Index="52" Text="You received %d WCoinP!" />
+		<Msg Index="53" Text="You received %d PC Points!" />
+		<Msg Index="54" Text="You received %d Ruud!" />
+		<Msg Index="55" Text="You unlocked inventory slot %d!" />
+		<Msg Index="56" Text="You need %d Coins to purchase this!" />
+		<Msg Index="57" Text="Slot %d is already unlocked!" />
+		<Msg Index="58" Text="Auto Potion has been enabled." />
+		<Msg Index="59" Text="Auto Potion has been disabled." />
+		<Msg Index="60" Text="Chaos Castle closes in %d minutes!" />
+		<Msg Index="61" Text="Chaos Castle registration is closed!" />
+		<Msg Index="62" Text="Chaos Castle %d opens in %d minutes!" />
+		<Msg Index="63" Text="Chaos Castle has begun!" />
+		<Msg Index="64" Text="Chaos Castle has ended!" />
+		<Msg Index="65" Text="This command cannot be used on this map!" />
+		<Msg Index="66" Text="You need %d Zen!" />
+		<Msg Index="67" Text="Two items of the same type are required." />
+		<Msg Index="68" Text="Only weapons are accepted." />
+		<Msg Index="69" Text="The items are not in the correct positions." />
+		<Msg Index="70" Text="Items of the same type are required." />
+		<Msg Index="71" Text="Items of the same level are required!" />
+		<Msg Index="72" Text="These items cannot be combined." />
+		<Msg Index="73" Text="Ancient items cannot be combined." />
+		<Msg Index="74" Text="Your inventory is full!" />
+		<Msg Index="75" Text="Combination failed!" />
+		<Msg Index="76" Text="Combination successful!" />
+		<Msg Index="77" Text="You are not a VIP member!" />
+		<Msg Index="78" Text="(%s)(%s) opened the Combination system!" />
+		<Msg Index="79" Text="I am ready!" />
+		<Msg Index="80" Text="You need %d more WCoinP to meet the %d WCoinP trade requirement!" />
+		<Msg Index="81" Text="You need %d more WCoinC to meet the %d WCoinC trade requirement!" />
+		<Msg Index="82" Text="You need %d more Zen to meet the %d Zen trade requirement!" />
+		<Msg Index="83" Text="You need %d Zen to use /post!" />
+		<Msg Index="84" Text="You must be level %d to use /post!" />
+		<Msg Index="85" Text="You need %d resets to use /post!" />
+		<Msg Index="86" Text="Wait %d seconds before posting again!" />
+		<Msg Index="87" Text="You do not have permission to use this command!" />
+		<Msg Index="88" Text="%s %s" />
+		<Msg Index="89" Text="Only a Game Master may use this command!" />
+		<Msg Index="90" Text="You do not have permission to use /add!" />
+		<Msg Index="91" Text="You used %d points and have %d remaining!" />
+		<Msg Index="92" Text="You have no points left to add!" />
+		<Msg Index="93" Text="You are not a murderer and do not need to clear PK status!" />
+		<Msg Index="94" Text="%s defeated a Dark Knight!" />
+		<Msg Index="95" Text="%s defeated a Dark Wizard!" />
+		<Msg Index="96" Text="%s defeated a Fairy Elf!" />
+		<Msg Index="97" Text="%s defeated a Magic Gladiator!" />
+		<Msg Index="98" Text="%s defeated a Dark Lord!" />
+		<Msg Index="99" Text="%s defeated a Summoner!" />
+		<Msg Index="100" Text="%s defeated a Rage Fighter!" />
+		<Msg Index="101" Text="%s defeated Golden Goblin!" />
+		<Msg Index="102" Text="%s defeated Golden Fire Flame Ghost!" />
+		<Msg Index="103" Text="%s defeated Golden Titan!" />
+		<Msg Index="104" Text="%s defeated Golden Soldier!" />
+		<Msg Index="105" Text="%s defeated Golden Vepar!" />
+		<Msg Index="106" Text="%s defeated Golden Tantalose!" />
+		<Msg Index="107" Text="%s defeated Golden Great Dragon!" />
+		<Msg Index="108" Text="%s defeated Golden Lizard King!" />
+		<Msg Index="109" Text="%s defeated Golden Assassin!" />
+		<Msg Index="110" Text="%s defeated Golden Wheel!" />
+		<Msg Index="111" Text="%s defeated Golden Iron Knight!" />
+		<Msg Index="112" Text="%s defeated Golden Devil!" />
+		<Msg Index="113" Text="%s defeated Golden Stone Golem!" />
+		<Msg Index="114" Text="%s defeated Golden Warrior!" />
+		<Msg Index="115" Text="%s defeated Golden Crust!" />
+		<Msg Index="116" Text="%s defeated Golden Satyros!" />
+		<Msg Index="117" Text="%s defeated Golden Battle Guard!" />
+		<Msg Index="118" Text="%s defeated Golden Fire Golem!" />
+		<Msg Index="119" Text="%s defeated Golden Dragon!" />
+		<Msg Index="120" Text="%s defeated Golden Rabbit!" />
+		<Msg Index="121" Text="%s destroyed the Small Crystal!" />
+		<Msg Index="122" Text="%s destroyed the Large Crystal!" />
+		<Msg Index="123" Text="%s destroyed the Soul Crystal!" />
+		<Msg Index="124" Text="%s defeated Golden Hell Maine!" />
+		<Msg Index="125" Text="%s defeated Golden Erohim!" />
+		<Msg Index="126" Text="%s defeated Golden Kundun!" />
+		<Msg Index="127" Text="%s defeated Golden Medusa!" />
+		<Msg Index="128" Text="%s defeated Golden Selupan!" />
+		<Msg Index="129" Text="%s defeated the Fist Demon King!" />
+		<Msg Index="130" Text="%s defeated the Dragon Demon King!" />
+		<Msg Index="131" Text="%s defeated the Blood Demon King!" />
+		<Msg Index="132" Text="%s defeated Pharaoh!" />
+		<Msg Index="133" Text="%s defeated Anubis!" />
+		<Msg Index="134" Text="%s defeated the Water Emperor!" />
+		<Msg Index="135" Text="%s defeated Blue Pegasus!" />
+		<Msg Index="136" Text="%s defeated Green Pegasus!" />
+		<Msg Index="137" Text="%s defeated Red Pegasus!" />
+		<Msg Index="138" Text="%s defeated the Bull King!" />
+		<Msg Index="139" Text="%s defeated the Monkey King!" />
+		<Msg Index="140" Text="%s defeated the Infernal Beast!" />
+		<Msg Index="141" Text="%s defeated the Flame Lord!" />
+		<Msg Index="142" Text="%s defeated the Evil General!" />
+		<Msg Index="143" Text="%s defeated the Demon General!" />
+		<Msg Index="144" Text="%s defeated the Fake Crab!" />
+		<Msg Index="145" Text="%s defeated the Real Crab! The Royal Treasure has appeared!" />
+		<Msg Index="146" Text="%s defeated the Royal Treasure and received a mysterious item!" />
+		<Msg Index="147" Text="%s defeated the Demon King!" />
+		<Msg Index="148" Text="%s defeated Medusa!" />
+		<Msg Index="149" Text="%s defeated Golden Medusa!" />
+		<Msg Index="150" Text="%s defeated the Red Dragon!" />
+		<Msg Index="151" Text="%s defeated the Peerless War God!" />
+		<Msg Index="152" Text="%s defeated Kundun!" />
+		<Msg Index="153" Text="%s is hunting the Jade Rabbit!" />
+		<Msg Index="154" Text="154" />
+		<Msg Index="155" Text="155" />
+		<Msg Index="156" Text="156" />
+		<Msg Index="157" Text="157" />
+		<Msg Index="158" Text="158" />
+		<Msg Index="159" Text="159" />
+		<Msg Index="160" Text="160" />
+		<Msg Index="161" Text="161" />
+		<Msg Index="162" Text="162" />
+		<Msg Index="163" Text="163" />
+		<Msg Index="164" Text="164" />
+		<Msg Index="165" Text="165" />
+		<Msg Index="166" Text="166" />
+		<Msg Index="167" Text="167" />
+		<Msg Index="168" Text="168" />
+		<Msg Index="169" Text="You need %d %s to receive this buff." />
+		<Msg Index="170" Text="Trading is not allowed on this map!" />
+		<Msg Index="171" Text="Monsters defeated: %d/%d" />
+		<Msg Index="172" Text="%s defeated all %d monsters. The jewels were sent to the inventory!" />
+		<Msg Index="173" Text="You cannot reset more than %d times!" />
+		<Msg Index="174" Text="Remove all equipped items before resetting!" />
+		<Msg Index="175" Text="No tracking target was found!" />
+		<Msg Index="176" Text="Invitations have been disabled!" />
+		<Msg Index="177" Text="Item created successfully!" />
+		<Msg Index="178" Text="Friend invitations have been enabled!" />
+		<Msg Index="179" Text="Relife successful! Total Relifes: %d." />
+		<Msg Index="180" Text="You do not have the items required for Relife!" />
+		<Msg Index="181" Text="You need %d more resets for Relife!" />
+		<Msg Index="182" Text="You need %d Zen for Relife!" />
+		<Msg Index="183" Text="The Relife limit is %d!" />
+		<Msg Index="184" Text="Auto Add Stats: Enabled (%d)" />
+		<Msg Index="185" Text="Auto Add Stats: Disabled" />
+		<Msg Index="186" Text="Auto Reset has been enabled!" />
+		<Msg Index="187" Text="Auto Reset has been disabled!" />
+		<Msg Index="188" Text="Relife is not available right now!" />
+		<Msg Index="189" Text="You need %d more levels for Relife!" />
+		<Msg Index="190" Text="Reset is not available right now!" />
+		<Msg Index="191" Text="You must reach level %d to reset!" />
+		<Msg Index="192" Text="You need %d Zen to reset!" />
+		<Msg Index="193" Text="You do not have permission to reset!" />
+		<Msg Index="194" Text="Switched to warehouse %d!" />
+		<Msg Index="195" Text="Invalid value! The maximum is 10." />
+		<Msg Index="196" Text="The warehouse cannot be opened right now!" />
+		<Msg Index="197" Text="Quest upgraded successfully!" />
+		<Msg Index="198" Text="You have reached the final quest!" />
+		<Msg Index="199" Text="Your PK status has been cleared!" />
+		<Msg Index="200" Text="Event" />
+		<Msg Index="201" Text="has begun!" />
+		<Msg Index="202" Text="has ended!" />
+		<Msg Index="203" Text="%s successfully upgraded %s!" />
+		<Msg Index="204" Text="%s returned the item to the Chaos Goblin!" />
+		<Msg Index="205" Text="Locked!" />
+		<Msg Index="206" Text="The password may contain no more than 4 characters!" />
+		<Msg Index="207" Text="Thank you for using our service!" />
+		<Msg Index="208" Text="Automatic invitation acceptance has been enabled!" />
+		<Msg Index="209" Text="The daily reset limit is %d!" />
+		<Msg Index="210" Text="The weekly reset limit is %d!" />
+		<Msg Index="211" Text="The monthly reset limit is %d!" />
+		<Msg Index="212" Text="The daily Relife limit is %d!" />
+		<Msg Index="213" Text="The weekly Relife limit is %d!" />
+		<Msg Index="214" Text="The monthly Relife limit is %d!" />
+		<Msg Index="215" Text="Devil Square registration closes in %d minutes!" />
+		<Msg Index="216" Text="Devil Square registration is closed!" />
+		<Msg Index="217" Text="Devil Square %d begins in %d minutes!" />
+		<Msg Index="218" Text="Devil Square has begun!" />
+		<Msg Index="219" Text="Devil Square has ended!" />
+		<Msg Index="220" Text="You are not strong enough to enter Devil Square!" />
+		<Msg Index="221" Text="Murderers cannot reset!" />
+		<Msg Index="222" Text="%s and %s have entered the Duel Arena!" />
+		<Msg Index="223" Text="The Duel Arena is full!" />
+		<Msg Index="224" Text="%s defeated %s in the Duel Arena!" />
+		<Msg Index="225" Text="The player is offline." />
+		<Msg Index="226" Text="You cannot request a duel right now." />
+		<Msg Index="227" Text="The player automatically declined your duel request!" />
+		<Msg Index="228" Text="Your duel request has been sent!" />
+		<Msg Index="229" Text="That player is already in a duel!" />
+		<Msg Index="230" Text="You cannot duel during a Guild War!" />
+		<Msg Index="231" Text="That player cannot duel during a Guild War!" />
+		<Msg Index="232" Text="Duels are not allowed on this map!" />
+		<Msg Index="233" Text="Duels are unavailable during Castle Siege!" />
+		<Msg Index="234" Text="Player not found!" />
+		<Msg Index="235" Text="You are already in combat!" />
+		<Msg Index="236" Text="The other player is already in combat!" />
+		<Msg Index="237" Text="The other player declined your request!" />
+		<Msg Index="238" Text="White Dragon Temple registration closes in %d minutes!" />
+		<Msg Index="239" Text="White Dragon Temple registration is closed!" />
+		<Msg Index="240" Text="White Dragon Temple %d begins in %d seconds!" />
+		<Msg Index="241" Text="White Dragon Temple has begun!" />
+		<Msg Index="242" Text="White Dragon Temple has ended!" />
+		<Msg Index="243" Text="You are not strong enough to enter White Dragon Temple!" />
+		<Msg Index="244" Text="You need a ticket to enter White Dragon Temple!" />
+		<Msg Index="245" Text="%s dropped the Dragon Pearl!" />
+		<Msg Index="246" Text="%s obtained the Dragon Pearl!" />
+		<Msg Index="247" Text="Moss the Merchant has appeared!" />
+		<Msg Index="248" Text="Moss the Merchant has disappeared!" />
+		<Msg Index="249" Text="You cannot move right now!" />
+		<Msg Index="250" Text="Murderers are not allowed to move!" />
+		<Msg Index="251" Text="Your equipment does not meet the move requirements!" />
+		<Msg Index="252" Text="You must be at least level %d to move!" />
+		<Msg Index="253" Text="You must belong to a Gens family to move!" />
+		<Msg Index="254" Text="You need %d resets to move there!" />
+		<Msg Index="255" Text="You must have no more than %d resets to move there!" />
+		<Msg Index="256" Text="You must be no higher than level %d to move there!" />
+		<Msg Index="257" Text="Moving costs %d Zen!" />
+		<Msg Index="258" Text="Senior is currently unavailable!" />
+		<Msg Index="259" Text="Senior is unavailable during Castle Siege!" />
+		<Msg Index="260" Text="Only members of the castle-owning guild may use Senior!" />
+		<Msg Index="261" Text="Only the Guild Master may use Senior!" />
+		<Msg Index="262" Text="The Guardsman is currently unavailable!" />
+		<Msg Index="263" Text="You have joined the guild successfully!" />
+		<Msg Index="264" Text="You do not meet the requirements to create a guild!" />
+		<Msg Index="265" Text="The shop is empty!" />
+		<Msg Index="266" Text="You cannot move while riding this pet!" />
+		<Msg Index="267" Text="You are not strong enough to enter Double Goer!" />
+		<Msg Index="268" Text="Teleportation failed!" />
+		<Msg Index="269" Text="You cannot change maps right now!" />
+		<Msg Index="270" Text="Ice Walker has emerged from the frozen ground!" />
+		<Msg Index="271" Text="Ice Walker has been defeated!" />
+		<Msg Index="272" Text="You must be level 40 to drop this item!" />
+		<Msg Index="273" Text="You will be moved in %d seconds!" />
+		<Msg Index="274" Text="You must be level 80 to drop this item!" />
+		<Msg Index="275" Text="The battle will resume in 1 minute!" />
+		<Msg Index="276" Text="Wings are required to enter this map!" />
+		<Msg Index="277" Text="The Hatchery gate is closed!" />
+		<Msg Index="278" Text="You may add only %d points!" />
+		<Msg Index="279" Text="You have been silenced for %d seconds!" />
+		<Msg Index="280" Text="Message 280 is not configured." />
+		<Msg Index="281" Text="Nightmare has appeared! Defeat it to open the Refinery Tower!" />
+		<Msg Index="282" Text="Nightmare has been defeated! The Refinery Tower is now open!" />
+		<Msg Index="283" Text="Time is up! You will be removed from the event!" />
+		<Msg Index="284" Text="Selupan has appeared! The Hatchery gate closes in %d minutes!" />
+		<Msg Index="285" Text="The Hatchery gate is closed!" />
+		<Msg Index="286" Text="%s defeated Selupan, claimed valuable loot, and received 10,000 WCoinC!" />
+		<Msg Index="287" Text="The Hatchery gate will reopen in %d minutes!" />
+		<Msg Index="288" Text="The Kanturu gate is now open!" />
+		<Msg Index="289" Text="The Hatchery gate is now open!" />
+		<Msg Index="290" Text="This item does not belong to you!" />
+		<Msg Index="291" Text="You cannot disconnect during a trade!" />
+		<Msg Index="292" Text="You cannot disconnect while using the warehouse!" />
+		<Msg Index="293" Text="You cannot disconnect while using the Chaos Machine!" />
+		<Msg Index="294" Text="You cannot disconnect while your pet is training!" />
+		<Msg Index="295" Text="You cannot disconnect during combat!" />
+		<Msg Index="296" Text="Congratulations! You have reached the maximum level!" />
+		<Msg Index="297" Text="Congratulations! You have reached the maximum Master Level!" />
+		<Msg Index="298" Text="The Refinery Tower will close in 60 minutes!" />
+		<Msg Index="299" Text="The Refinery Tower will close in 20 minutes!" />
+		<Msg Index="300" Text="You cannot chat with yourself!" />
+		<Msg Index="301" Text="The King of MU event has ended!" />
+		<Msg Index="302" Text="The King of MU event begins in %d minutes!" />
+		<Msg Index="303" Text="Guild %s has captured the castle in the King of MU event!" />
+		<Msg Index="304" Text="The King of MU event begins in %d seconds!" />
+		<Msg Index="305" Text="Remove all equipped items first!" />
+		<Msg Index="306" Text="You must belong to a guild to participate!" />
+		<Msg Index="307" Text="Your guild has already captured the castle!" />
+		<Msg Index="308" Text="You are not in the correct position!" />
+		<Msg Index="309" Text="Your guild needs at least %d members to participate!" />
+		<Msg Index="310" Text="Your guild currently controls the castle!" />
+		<Msg Index="311" Text="[King of MU] The event ends in %d minutes!" />
+		<Msg Index="312" Text="Congratulations! You have married %s!" />
+		<Msg Index="313" Text="Your inventory has been cleared!" />
+		<Msg Index="314" Text="This game server was developed by TEAM MU HOI UC!" />
+		<Msg Index="315" Text="%s defeated %s!" />
+		<Msg Index="316" Text="%s defeated %s!" />
+		<Msg Index="317" Text="%s exchanged Excellent items for %d WCoinC and %d WCoinP!" />
+		<Msg Index="318" Text="You cannot marry yourself!" />
+		<Msg Index="319" Text="VIP status added successfully!" />
+		<Msg Index="320" Text="Account not found!" />
+		<Msg Index="321" Text="%s - You no longer require my assistance!" />
+		<Msg Index="322" Text="%s - Your VIP package cannot use this buff!" />
+		<Msg Index="323" Text="%s - You need %d Zen!" />
+		<Msg Index="324" Text="%s - You need %d PC Points!" />
+		<Msg Index="325" Text="%s - You must belong to Vanert!" />
+		<Msg Index="326" Text="%s - You must belong to Duprian!" />
+		<Msg Index="327" Text="%s - This reward is available only to Duprian members!" />
+		<Msg Index="328" Text="%s - This reward is available only to Vanert members!" />
+		<Msg Index="329" Text="%s - You need %d Gens contribution points!" />
+		<Msg Index="330" Text="%s - Buff duration: %d minutes!" />
+		<Msg Index="331" Text="%s - %d Zen has been deducted!" />
+		<Msg Index="332" Text="%s - %d PC Points have been deducted!" />
+		<Msg Index="333" Text="%s - The buff was applied successfully!" />
+		<Msg Index="334" Text="You are already married!" />
+		<Msg Index="335" Text="That character is already married!" />
+		<Msg Index="336" Text="Usage: /marry to [name], /marry divorce, or /marry track." />
+		<Msg Index="337" Text="You must wait one week after marriage before divorcing!" />
+		<Msg Index="338" Text="Your divorce is complete. You are single again!" />
+		<Msg Index="339" Text="You are not married!" />
+		<Msg Index="340" Text="Tracking successful!" />
+		<Msg Index="341" Text="Trace completed successfully!" />
+		<Msg Index="342" Text="%s has married %s!" />
+		<Msg Index="343" Text="%s and %s are now divorced!" />
+		<Msg Index="344" Text="[Marriage System] Character" />
+		<Msg Index="345" Text="%s and %s are now married!" />
+		<Msg Index="346" Text="[Marriage System] Same-sex marriage is not supported!" />
+		<Msg Index="347" Text="You must be at least level %d to use this command!" />
+		<Msg Index="348" Text="The other character must also be at least level %d!" />
+		<Msg Index="349" Text="Usage: /class dw, dk, elf, mg, dl, su, rf" />
+		<Msg Index="350" Text="Select a class different from your current class!" />
+		<Msg Index="351" Text="This command can only be used in town!" />
+		<Msg Index="352" Text="Today's reset limit increased by %d, for a total of %d." />
+		<Msg Index="353" Text="The buff has been removed." />
+		<Msg Index="354" Text="The Sky Event has not begun yet!" />
+		<Msg Index="355" Text="You are performing actions too quickly!" />
+		<Msg Index="356" Text="Support buffs received." />
+		<Msg Index="357" Text="Parties cannot be created on this map." />
+		<Msg Index="358" Text="The item has been locked." />
+		<Msg Index="359" Text="Invalid password!" />
+		<Msg Index="360" Text="You need at least %d Zen to use this command!" />
+		<Msg Index="361" Text="Stand at the correct location in Devias 2!" />
+		<Msg Index="362" Text="The other character must also stand at the correct location in Devias 2!" />
+		<Msg Index="363" Text="Information: Minimum level: %d, tracking fee: %d Zen." />
+		<Msg Index="364" Text="You cannot divorce while your spouse is offline!" />
+		<Msg Index="365" Text="The other character is offline!" />
+		<Msg Index="366" Text="This class is not available yet!" />
+		<Msg Index="367" Text="Character %s is offline!" />
+		<Msg Index="368" Text="Balgass has joined Kundun's forces and is preparing to attack Crywolf Fortress!" />
+		<Msg Index="369" Text="Balgass's army is ready to invade Crywolf!" />
+		<Msg Index="370" Text="Balgass's army is marching toward Crywolf Fortress!" />
+		<Msg Index="371" Text="Balgass's forces are approaching Crywolf!" />
+		<Msg Index="372" Text="No Elf is protecting the altar. The Sacred Wolf Statue is undefended!" />
+		<Msg Index="373" Text="Balgass survived until the end of the battle!" />
+		<Msg Index="374" Text="Defense failed! Balgass captured the Sacred Wolf Statue!" />
+		<Msg Index="375" Text="Defense successful! The Sacred Wolf Statue is safe!" />
+		<Msg Index="376" Text="Altar contract registration begins in %d seconds!" />
+		<Msg Index="377" Text="Altar contract registration begins in %d minutes!" />
+		<Msg Index="378" Text="Balgass's army attacks in %d seconds!" />
+		<Msg Index="379" Text="Balgass's army attacks in %d minutes!" />
+		<Msg Index="380" Text="No Elf is protecting the altar. The Sacred Wolf Statue is undefended!" />
+		<Msg Index="381" Text="Balgass has arrived! Protect the Sacred Wolf Statue!" />
+		<Msg Index="382" Text="Balgass's army has begun attacking the Sacred Wolf Statue!" />
+		<Msg Index="383" Text="The heroes have defeated Balgass's army!" />
+		<Msg Index="384" Text="MVP Rank: %d" />
+		<Msg Index="385" Text="MVP Experience: %d" />
+		<Msg Index="386" Text="Balgass was defeated by %s!" />
+		<Msg Index="387" Text="Balgass has been defeated!" />
+		<Msg Index="388" Text="Dark Elf %d was defeated by %s!" />
+		<Msg Index="389" Text="MVP Points: %d" />
+		<Msg Index="390" Text="Connected to Altar %d!" />
+		<Msg Index="391" Text="%s completed the contract with Altar %d!" />
+		<Msg Index="392" Text="Altar %d has been contracted successfully!" />
+		<Msg Index="393" Text="Altar %d cannot be contracted at this time!" />
+		<Msg Index="394" Text="Altar %d has already been contracted twice!" />
+		<Msg Index="395" Text="Invalid position for Altar %d!" />
+		<Msg Index="396" Text="%s is attempting to contract Altar %d!" />
+		<Msg Index="397" Text="The altar contract will complete automatically in 5 seconds!" />
+		<Msg Index="398" Text="Do not move while completing the altar contract!" />
+		<Msg Index="399" Text="The contract with Altar %d was canceled!" />
+		<Msg Index="400" Text="The Sacred Wolf Statue's shield has disappeared!" />
+		<Msg Index="401" Text="Contracts: %d, Statue HP: %d" />
+		<Msg Index="402" Text="The Sacred Wolf Statue's shield has been restored!" />
+		<Msg Index="403" Text="Only Elves level 260 or above may contract an altar!" />
+		<Msg Index="404" Text="No character was found!" />
+		<Msg Index="405" Text="Usage: /reward [type] [value]" />
+		<Msg Index="406" Text="This reward type is not supported!" />
+		<Msg Index="407" Text="The reward amount exceeds the allowed limit!" />
+		<Msg Index="408" Text="Reward added successfully!" />
+		<Msg Index="409" Text="You cannot reward yourself!" />
+		<Msg Index="410" Text="Usage: /reload [type]. Example: /reload common" />
+		<Msg Index="411" Text="Reload completed successfully!" />
+		<Msg Index="412" Text="Usage: /reward [type] [value]" />
+		<Msg Index="413" Text="The name must contain 4 to 10 characters!" />
+		<Msg Index="414" Text="This feature is disabled for your account!" />
+		<Msg Index="415" Text="Wait %d seconds before using this again!" />
+		<Msg Index="416" Text="Castle Siege has ended!" />
+		<Msg Index="417" Text="Castle Siege registration has begun!" />
+		<Msg Index="418" Text="Sign of Lord registration has begun!" />
+		<Msg Index="419" Text="The participating-guild selection phase has begun!" />
+		<Msg Index="420" Text="Guild selection for Castle Siege is complete!" />
+		<Msg Index="421" Text="Castle Siege preparation has begun!" />
+		<Msg Index="422" Text="Castle Siege begins in %d minutes!" />
+		<Msg Index="423" Text="Castle Siege is now in progress!" />
+		<Msg Index="424" Text="Guild %s successfully defended the castle!" />
+		<Msg Index="425" Text="Guild %s is the new owner of the castle!" />
+		<Msg Index="426" Text="The castle owner has not been determined!" />
+		<Msg Index="427" Text="Only the statue holder may enter!" />
+		<Msg Index="428" Text="That name is already registered!" />
+		<Msg Index="429" Text="Rename failed. Please try again!" />
+		<Msg Index="430" Text="Character %s has been renamed to %s!" />
+		<Msg Index="431" Text="Leave your guild before changing your name!" />
+		<Msg Index="432" Text="%s has been promoted to Assistant Guild Master!" />
+		<Msg Index="433" Text="%s has been promoted to Battle Master!" />
+		<Msg Index="434" Text="%s has been demoted to guild member!" />
+		<Msg Index="435" Text="Guild %s's type has been changed to %d!" />
+		<Msg Index="436" Text="Your guild has joined alliance %s!" />
+		<Msg Index="437" Text="Your guild is now hostile toward %s!" />
+		<Msg Index="438" Text="Guild %s has joined alliance %s!" />
+		<Msg Index="439" Text="Your guild has left the faction!" />
+		<Msg Index="440" Text="Guild %s has left alliance %s!" />
+		<Msg Index="441" Text="Your guild is no longer allied with %s!" />
+		<Msg Index="442" Text="Your guild is no longer hostile toward %s!" />
+		<Msg Index="443" Text="Alliance %s has been dissolved!" />
+		<Msg Index="444" Text="This command cannot be used right now!" />
+		<Msg Index="445" Text="You and your opponent must both be level %d for a duel!" />
+		<Msg Index="446" Text="Ban failed. Please check the information!" />
+		<Msg Index="447" Text="Account banned successfully!" />
+		<Msg Index="448" Text="Life Stones can only be summoned during Castle Siege!" />
+		<Msg Index="449" Text="Only the attacking side may summon a Life Stone!" />
+		<Msg Index="450" Text="A Life Stone has already been summoned!" />
+		<Msg Index="451" Text="Life Stones cannot be summoned inside the Dragon Tower!" />
+		<Msg Index="452" Text="Life Stone summoned successfully!" />
+		<Msg Index="453" Text="Failed to summon the Life Stone!" />
+		<Msg Index="454" Text="Character banned successfully!" />
+		<Msg Index="455" Text="The event has ended with no winner!" />
+		<Msg Index="456" Text="Move quickly to coordinates X:%d Y:%d!" />
+		<Msg Index="457" Text="The event has been canceled!" />
+		<Msg Index="458" Text="Your extended inventory has been unlocked!" />
+		<Msg Index="459" Text="The extended inventory has already been purchased!" />
+		<Msg Index="460" Text="The event has begun at %s!" />
+		<Msg Index="461" Text="The event ends in %d minutes!" />
+		<Msg Index="462" Text="The event ends in %d seconds!" />
+		<Msg Index="463" Text="%s has won the event!" />
+		<Msg Index="464" Text="Soldiers can only be summoned during Castle Siege!" />
+		<Msg Index="465" Text="Only the defending side may summon soldiers!" />
+		<Msg Index="466" Text="Only the Guild Master or Assistant Guild Master may summon soldiers!" />
+		<Msg Index="467" Text="The maximum number of soldiers has been reached!" />
+		<Msg Index="468" Text="Soldier summoned successfully!" />
+		<Msg Index="469" Text="Failed to summon the soldier!" />
+		<Msg Index="470" Text="[EVENT] Registration closes in %d seconds!" />
+		<Msg Index="471" Text="[EVENT] Registration is closed!" />
+		<Msg Index="472" Text="[EVENT] The event was canceled due to an unexpected problem!" />
+		<Msg Index="473" Text="[EVENT] %s has started a new event!" />
+		<Msg Index="474" Text="[EVENT] Type /thamgia to join!" />
+		<Msg Index="475" Text="[EVENT] Player %s has joined!" />
+		<Msg Index="476" Text="The Find the GM event ends in %d seconds!" />
+		<Msg Index="477" Text="The Find the GM event ended with no winner!" />
+		<Msg Index="478" Text="The Find the GM event has been canceled!" />
+		<Msg Index="479" Text="Find the GM %s has begun on map %s at %d/%d!" />
+		<Msg Index="480" Text="The server has shut down!" />
+		<Msg Index="481" Text="The server will shut down in %d seconds!" />
+		<Msg Index="482" Text="A duplicated item was detected. Please contact an administrator!" />
+		<Msg Index="483" Text="Your chat restriction has expired!" />
+		<Msg Index="484" Text="You will be disconnected in %d seconds!" />
+		<Msg Index="485" Text="Auto-protection with %s has been enabled!" />
+		<Msg Index="486" Text="Auto-protection with %s has been disabled!" />
+		<Msg Index="487" Text="The server will shut down in 1 minute!" />
+		<Msg Index="488" Text="The server will shut down in 3 minutes!" />
+		<Msg Index="489" Text="The server will shut down in 5 minutes!" />
+		<Msg Index="490" Text="The battle will begin in 10 seconds!" />
+		<Msg Index="491" Text="%s obtained %d jewels!" />
+		<Msg Index="492" Text="Your party password is: %s" />
+		<Msg Index="493" Text="Castle Deep will begin in 5 minutes." />
+		<Msg Index="494" Text="Incorrect password." />
+		<Msg Index="495" Text="You are already in a party." />
+		<Msg Index="496" Text="You cannot send a request to yourself." />
+		<Msg Index="497" Text="You are already in this party." />
+		<Msg Index="498" Text="Castle Deep has begun!" />
+		<Msg Index="499" Text="Please remove the Errtel before placing the item!" />
+		<Msg Index="500" Text="The King of MU event has begun!" />
+		<Msg Index="501" Text="Castle Deep has ended." />
+		<Msg Index="502" Text="Congratulations! You have received a gift!" />
+		<Msg Index="503" Text="You have already claimed all available gifts!" />
+		<Msg Index="504" Text="[Russian Roulette] The event is closed!" />
+		<Msg Index="505" Text="[Russian Roulette] The event has begun!" />
+		<Msg Index="506" Text="[Russian Roulette] Time is up!" />
+		<Msg Index="507" Text="[Russian Roulette] The event has been canceled!" />
+		<Msg Index="508" Text="[Russian Roulette] Registration is open! Maximum players: %d." />
+		<Msg Index="509" Text="[Russian Roulette] Type /thamgia to join!" />
+		<Msg Index="510" Text="[Russian Roulette] Player %d, %s, has joined!" />
+		<Msg Index="511" Text="[Russian Roulette] %s has won the event!" />
+		<Msg Index="512" Text="[Russian Roulette] Loading the chamber..." />
+		<Msg Index="513" Text="[Russian Roulette] Spinning the cylinder..." />
+		<Msg Index="514" Text="[Russian Roulette] Pulling the trigger..." />
+		<Msg Index="515" Text="[Russian Roulette] BANG!!!" />
+		<Msg Index="516" Text="[Russian Roulette] Headshot! %s has been eliminated!" />
+		<Msg Index="517" Text="[Russian Roulette] %s survived!" />
+		<Msg Index="518" Text="[King of MU] The grand rewards are being distributed!" />
+		<Msg Index="519" Text="[King of MU] Guild %s has won the event!" />
+		<Msg Index="520" Text="[King of MU] Castle occupation time: %d minutes!" />
+		<Msg Index="521" Text="[King of MU] All online members of the winning guild receive:" />
+		<Msg Index="522" Text="[King of MU] 10 WCoinC!" />
+		<Msg Index="523" Text="[King of MU] Top contributors:" />
+		<Msg Index="524" Text="[King of MU] %d: %s (Guild: %s)!" />
+		<Msg Index="525" Text="[King of MU] Reward: 10 WCoinC per round!" />
+		<Msg Index="526" Text="[King of MU] There is no winner!" />
+		<Msg Index="527" Text="Erohim was defeated by %s." />
+		<Msg Index="528" Text="%s was defeated by %s." />
+		<Msg Index="529" Text="529" />
+		<Msg Index="530" Text="530" />
+		<Msg Index="531" Text="531" />
+		<Msg Index="532" Text="532" />
+		<Msg Index="533" Text="Usage: /top [ranking] [class]. Example: /top rr dk" />
+		<Msg Index="534" Text="Supported classes: dk, dw, fe, mg, dl, su" />
+		<Msg Index="535" Text="No results were found!" />
+		<Msg Index="536" Text="Rank %d: %s (%d points)" />
+		<Msg Index="537" Text="Your points have been reset!" />
+		<Msg Index="538" Text="%s has reached rank %s!" />
+		<Msg Index="539" Text="You have reached rank %s!" />
+		<Msg Index="540" Text="I am currently locked. :(" />
+		<Msg Index="541" Text="You need 64 matching fragments!" />
+		<Msg Index="542" Text="Thank you! I have received the items and issued your reward." />
+		<Msg Index="543" Text="Sorry, I do not accept these items!" />
+		<Msg Index="544" Text="Your items were exchanged for the reward successfully!" />
+		<Msg Index="545" Text="%s successfully upgraded %s." />
+		<Msg Index="546" Text="%s successfully upgraded %s to +%d." />
+		<Msg Index="547" Text="%s failed to upgrade %s +%d." />
+		<Msg Index="548" Text="%s failed to upgrade %s." />
+		<Msg Index="549" Text="%s failed to create wings." />
+		<Msg Index="550" Text="The item lock has been removed!" />
+		<Msg Index="551" Text="Golden Fenrir" />
+		<Msg Index="552" Text="[PickUp %s] Enabled!" />
+		<Msg Index="553" Text="[PickUp %s] Disabled!" />
+		<Msg Index="554" Text="[PickUp] Disabled!" />
+		<Msg Index="555" Text="Master Skill points reset successfully!" />
+		<Msg Index="556" Text="Failed to reset Master Skill points!" />
+		<Msg Index="557" Text="[BuyVip] You do not meet the purchase requirements!" />
+		<Msg Index="558" Text="[BuyVip] You have subscribed to the %s package!" />
+		<Msg Index="559" Text="[BuyVip] The selected package is below your current VIP tier!" />
+		<Msg Index="560" Text="Blue Fenrir" />
+		<Msg Index="561" Text="Black Fenrir" />
+		<Msg Index="562" Text="Red Fenrir" />
+		<Msg Index="563" Text="Custom Attack cannot be used while MU Helper is active!" />
+		<Msg Index="564" Text="MU Helper and Custom Attack cannot be used at the same time!" />
+		<Msg Index="565" Text="You cannot use an item above level %d!" />
+		<Msg Index="566" Text="Cost: %d WCoinC!" />
+		<Msg Index="567" Text="Cost: %d WCoinP!" />
+		<Msg Index="568" Text="Cost: %d Goblin Points!" />
+		<Msg Index="569" Text="The Alliance team has won the event!" />
+		<Msg Index="570" Text="The Phantom team has won the event!" />
+		<Msg Index="571" Text="[GvGEvent] You do not have the required entry item!" />
+		<Msg Index="572" Text="[GvGEvent] You must belong to a guild to enter!" />
+		<Msg Index="573" Text="[GvGEvent] The Guild Master must enter first!" />
+		<Msg Index="574" Text="[GvGEvent] Guild %s scored %d points!" />
+		<Msg Index="575" Text="[GvGEvent] The event has been canceled!" />
+		<Msg Index="576" Text="[GvGEvent] Guild %s has won the event!" />
+		<Msg Index="577" Text="[Coin Exchange] Required: %d WCoinC!" />
+		<Msg Index="578" Text="[Coin Exchange] Required: %d WCoinP!" />
+		<Msg Index="579" Text="[Coin Exchange] Required: %d Goblin Points!" />
+		<Msg Index="580" Text="Find the Game Master and request a trade!" />
+		<Msg Index="581" Text="%s has won the Find the GM event!" />
+		<Msg Index="582" Text="The Find the GM event will end in %d minutes!" />
+		<Msg Index="583" Text="[Pega Pega] Registration is closed!" />
+		<Msg Index="584" Text="[Pega Pega] The event has already started. Entry denied!" />
+		<Msg Index="585" Text="[Pega Pega] Time is up!" />
+		<Msg Index="586" Text="[Pega Pega] The event has been canceled!" />
+		<Msg Index="587" Text="[Pega Pega] Registration is open!" />
+		<Msg Index="588" Text="[Pega Pega] Type /muon to join!" />
+		<Msg Index="589" Text="[Pega Pega] Player %s has joined!" />
+		<Msg Index="590" Text="[Pega Pega] %s is the winner!" />
+		<Msg Index="591" Text="[Pega Pega] %s has been caught!" />
+		<Msg Index="592" Text="[Quest %d] You must be at least level %d!" />
+		<Msg Index="593" Text="[Quest %d] You need at least %d resets!" />
+		<Msg Index="594" Text="[Quest %d] You need at least %d Master Resets!" />
+		<Msg Index="595" Text="[Quest %d] You need at least %d Zen!" />
+		<Msg Index="596" Text="596" />
+		<Msg Index="597" Text="[Quest %d] The appropriate VIP package is required!" />
+		<Msg Index="598" Text="[Quest %d] Required item: %s!" />
+		<Msg Index="599" Text="599" />
+		<Msg Index="600" Text="[Quest] Congratulations! You have completed every quest!" />
+		<Msg Index="601" Text="[PvP] %s versus %s. Let the battle begin!" />
+		<Msg Index="602" Text="[PvP] %s %d - %d %s!" />
+		<Msg Index="603" Text="[PvP] %s has won!" />
+		<Msg Index="604" Text="[PvP] The battle has begun!" />
+		<Msg Index="605" Text="[MataMata] Registration is closed!" />
+		<Msg Index="606" Text="[MataMata] The event has begun!" />
+		<Msg Index="607" Text="[MataMata] Time is up!" />
+		<Msg Index="608" Text="[MataMata] The event has been canceled!" />
+		<Msg Index="609" Text="[MataMata] Registration is open! Maximum players: %d." />
+		<Msg Index="610" Text="[MataMata] Type /muon to join!" />
+		<Msg Index="611" Text="[MataMata] Player %d, %s, has joined!" />
+		<Msg Index="612" Text="[MataMata] 1st Place - %s (%d points)!" />
+		<Msg Index="613" Text="[MataMata] 2nd Place - %s (%d points)!" />
+		<Msg Index="614" Text="[MataMata] 3rd Place - %s (%d points)!" />
+		<Msg Index="615" Text="[MataMata] Your rank: %d (%d points)!" />
+		<Msg Index="616" Text="[MataMata] Current score: %d!" />
+		<Msg Index="617" Text="The new name contains invalid characters!" />
+		<Msg Index="618" Text="You need at least %d Master Resets!" />
+		<Msg Index="619" Text="This action is unavailable at %d or more Master Resets!" />
+		<Msg Index="620" Text="Usage: /goi [bless, soul, chaos...] [10, 20, 30]" />
+		<Msg Index="621" Text="Usage: /tach [bless, soul, chaos...] [10, 20, 30]" />
+		<Msg Index="622" Text="You do not have the required items!" />
+		<Msg Index="623" Text="Command completed successfully!" />
+		<Msg Index="624" Text="Your warehouse is full!" />
+		<Msg Index="625" Text="TvT Event registration closes in %d minutes!" />
+		<Msg Index="626" Text="You must join a team before entering the TvT Event!" />
+		<Msg Index="627" Text="TvT Event registration is closed!" />
+		<Msg Index="628" Text="The TvT Event will begin in %d minutes!" />
+		<Msg Index="629" Text="The TvT Event has begun!" />
+		<Msg Index="630" Text="The TvT Event has ended!" />
+		<Msg Index="631" Text="You are not eligible for this TvT Event!" />
+		<Msg Index="632" Text="The TvT Event is not open yet!" />
+		<Msg Index="633" Text="You do not have the required entry item for the TvT Event!" />
+		<Msg Index="634" Text="You do not meet the purchase requirements!" />
+		<Msg Index="635" Text="This command cannot be used during a trade!" />
+		<Msg Index="636" Text="Command discount: %d Zen!" />
+		<Msg Index="637" Text="Cost: %d WCoinC, %d WCoinP, and %d Goblin Points!" />
+		<Msg Index="638" Text="Use the command again to continue." />
+		<Msg Index="639" Text="Another guild member is currently using the Guild Warehouse!" />
+		<Msg Index="640" Text="You do not have permission to use the Guild Warehouse!" />
+		<Msg Index="641" Text="%s banned character %s for %d days!" />
+		<Msg Index="642" Text="%s banned %s's account for %d days!" />
+		<Msg Index="643" Text="643" />
+		<Msg Index="644" Text="[Trade] Minimum required: %d Zen!" />
+		<Msg Index="645" Text="[Trade] Minimum required: %d WCoinC!" />
+		<Msg Index="646" Text="[Trade] Minimum required: %d WCoinP!" />
+		<Msg Index="647" Text="[Trade] Minimum required: %d Goblin Points!" />
+		<Msg Index="648" Text="[Trade] %s does not meet the minimum value requirement!" />
+		<Msg Index="649" Text="[Quest %d] You need %d WCoinC!" />
+		<Msg Index="650" Text="[Quest %d] You need %d Zen!" />
+		<Msg Index="651" Text="[Quest %d] You need %d PC Points!" />
+		<Msg Index="652" Text="[Quest %d] Your warehouse has no room for the reward!" />
+		<Msg Index="653" Text="[Coin Exchange] Exchange completed successfully!" />
+		<Msg Index="654" Text="Defeat %d more monsters to complete the quest!" />
+		<Msg Index="655" Text="Quest completed!" />
+		<Msg Index="656" Text="[Quest %d] You do not have the required patent!" />
+		<Msg Index="657" Text="[Quest %d] You need %d more kills to continue!" />
+		<Msg Index="658" Text="658" />
+		<Msg Index="659" Text="You cannot enter this room! You will be removed in %d seconds!" />
+		<Msg Index="660" Text="[Quest] You have already completed this quest!" />
+		<Msg Index="661" Text="The level difference exceeds %d. The match would be unfair!" />
+		<Msg Index="662" Text="[SPRING EVENT] The White Rabbit Army has retreated!" />
+		<Msg Index="663" Text="[SUMMER EVENT] The event has ended. See you next year!" />
+		<Msg Index="664" Text="Enter the Guild vs. Guild arena here!" />
+		<Msg Index="665" Text="[GvGEvent] Registration is closed!" />
+		<Msg Index="666" Text="[GvGEvent] The event begins in %d minutes!" />
+		<Msg Index="667" Text="[GvGEvent] The event has begun!" />
+		<Msg Index="668" Text="[GvGEvent] The event has ended!" />
+		<Msg Index="669" Text="[GvGEvent] You are not eligible for this event!" />
+		<Msg Index="670" Text="[GvGEvent] The event is not open yet!" />
+		<Msg Index="671" Text="[OffPvP] Enabled!" />
+		<Msg Index="672" Text="[OffPvP] Disabled!" />
+		<Msg Index="673" Text="[Lock] Enabled. Your items are now locked!" />
+		<Msg Index="674" Text="[Lock] The password may contain no more than 8 characters!" />
+		<Msg Index="675" Text="[Lock] Enabled! Type /mokhoa to unlock your items." />
+		<Msg Index="676" Text="[Lock] Disabled!" />
+		<Msg Index="677" Text="[Lock] Incorrect password!" />
+		<Msg Index="678" Text="678" />
+		<Msg Index="679" Text="This command can only be used in a safe zone!" />
+		<Msg Index="680" Text="The Personal Store is empty or contains items without prices!" />
+		<Msg Index="681" Text="ATTENTION! Every item in this store is priced in Jewels of Bless!" />
+		<Msg Index="682" Text="ATTENTION! Every item in this store is priced in Jewels of Soul!" />
+		<Msg Index="683" Text="ATTENTION! Every item in this store is priced in Jewels of Chaos!" />
+		<Msg Index="684" Text="ATTENTION! Every item in this store is priced in WCoinC!" />
+		<Msg Index="685" Text="ATTENTION! Every item in this store is priced in WCoinP!" />
+		<Msg Index="686" Text="ATTENTION! Every item in this store is priced in Goblin Points!" />
+		<Msg Index="687" Text="You must open your Personal Store first!" />
+		<Msg Index="688" Text="This command will be executed in %d minutes!" />
+		<Msg Index="689" Text="Your Personal Store time has expired!" />
+		<Msg Index="690" Text="[Custom Attack] Disabled!" />
+		<Msg Index="691" Text="[Custom Attack] This feature cannot be used here!" />
+		<Msg Index="692" Text="[Custom Attack] You do not have the required skill!" />
+		<Msg Index="693" Text="[Custom Attack] Remaining time: %d minutes!" />
+		<Msg Index="694" Text="[Custom Attack] Time is up!" />
+		<Msg Index="695" Text="[Custom Attack] Enabled!" />
+		<Msg Index="696" Text="[OffAttack] Enable Custom Attack first!" />
+		<Msg Index="697" Text="[OffAttack] This feature cannot be used here!" />
+		<Msg Index="698" Text="This guild does not exist!" />
+		<Msg Index="699" Text="[PvP] Time is up!" />
+		<Msg Index="700" Text="[PvP] The event has been canceled!" />
+		
+		<Msg Index="701" Text="[BossGuild] Preparing to distribute rewards!" />
+		<Msg Index="702" Text="[BossGuild] Guild [%s] has won" />
+		<Msg Index="703" Text="Guild [%s] each member contributes %d Guild points" />
+		<Msg Index="704" Text="Winning guild: Each participating member will receive [ %d WC, %d WP, %d GP ]" />
+		<Msg Index="705" Text="[BossGuild] Event ended!" />
+		<Msg Index="706" Text="[BossGuild] Ended without a winning guild!" />
+		<Msg Index="707" Text="[BossGuild] Starts in %d minutes!" />
+		<Msg Index="708" Text="[BossGuild] Starts in %d seconds!" />
+		<Msg Index="709" Text="[BossGuild] Event started!" />
+		<Msg Index="710" Text="[BossGuild] Ends in %d minutes!" />
+		<Msg Index="711" Text="[BossGuild] Guild %s defeated Boss %s" />
+		<Msg Index="712" Text="[BossGuild] All bosses have been defeated! The event ends in 1 minute." />
+		<Msg Index="713" Text="Sky Event has started" />
+		<Msg Index="714" Text="Character %s has won." />
+		<Msg Index="715" Text="Sky Event Stage %d" />
+		<Msg Index="716" Text="Sky Event closes in %d minutes!" />
+		<Msg Index="717" Text="Sky Event entrance is closed!" />
+		<Msg Index="718" Text="Sky Event stage %d - Duration: %d minutes!" />
+		<Msg Index="719" Text="[Mini Castle Siege] Guild [%s] has won!" />
+		<Msg Index="720" Text="Participating members will receive %d WC, %d WP, %d GP, %d Ruud" />
+		<Msg Index="721" Text="[Mini Castle Siege] Starts in %d minutes!" />
+		<Msg Index="722" Text="[Mini Castle Siege] Starts in %d seconds!" />
+		<Msg Index="723" Text="[Mini Castle Siege] Event started!" />
+		<Msg Index="724" Text="[Mini Castle Siege] Ends in %d minutes!" />
+		<Msg Index="725" Text="[Mini Castle Siege] Event ended!" />
+		
+		<Msg Index="726" Text="You are performing actions too fast, please wait!" />
+		<Msg Index="727" Text="The event has not started yet" />
+		<Msg Index="728" Text="[BossGuild] Your guild information was not found" />
+		<Msg Index="729" Text="[BossGuild] You are not in a guild and cannot participate!" />
+		<Msg Index="730" Text="[BossGuild] Your guild does not have enough participants!" />
+		<Msg Index="731" Text="Invalid information" />
+		<Msg Index="732" Text="Please enter all password fields." />
+		<Msg Index="733" Text="The old and new passwords are identical!" />
+		<Msg Index="734" Text="Password confirmation does not match!" />
+		<Msg Index="735" Text="Not enough WCoin. The cost is %d WC" />
+		<Msg Index="736" Text="Invalid account" />
+		<Msg Index="737" Text="The old password is incorrect" />
+		<Msg Index="738" Text="Password changed successfully!" />
+		<Msg Index="739" Text="You need %d WCoinC to rename your character!" />
+		<Msg Index="740" Text="Not enough inventory space!" />
+		<Msg Index="741" Text="[Helper] Disable" />
+		<Msg Index="742" Text="[OffHelper] Disabled" />
+		<Msg Index="743" Text="Offline mode is not allowed on this map!" />
+		<Msg Index="744" Text="Offline mode started" />
+		<Msg Index="745" Text="You need a Star item +%d to join event %d!" />
+		<Msg Index="746" Text="Sky Event %d is full." />
+		<Msg Index="747" Text="You are acting too quickly. Please wait!" />
+		<Msg Index="748" Text="[Mini Castle Siege] Your guild information was not found" />
+		<Msg Index="749" Text="[Mini Castle Siege] You are not in a guild and cannot participate!" />
+		<Msg Index="750" Text="[Mini Castle Siege] Your guild does not have enough participants!" />
+		<Msg Index="751" Text="You do not have enough WCoinC. Required: %d!" />
+		<Msg Index="752" Text="You do not have enough WCoinP. Required: %d!" />
+		<Msg Index="753" Text="You do not have enough Goblin Points. Required: %d!" />
+		<Msg Index="754" Text="You do not have enough WCoinR. Required: %d!" />
+		<Msg Index="755" Text="You do not have enough ATM. Required: %d!" />
+		<Msg Index="756" Text="Name color updated successfully!" />
+		<Msg Index="757" Text="You have reached today&apos;s GemShop spending limit" />
+		<Msg Index="758" Text="Your remaining spending allowance is insufficient to buy an item" />
+		<Msg Index="759" Text="You do not have enough WC to buy this item" />
+		<Msg Index="760" Text="Item purchased successfully" />
+		<Msg Index="761" Text="You can exchange at most 10,000,000 at a time!" />
+		<Msg Index="762" Text="Not enough ATM to exchange" />
+		<Msg Index="763" Text="Successfully exchanged %d ATM for %d WC" />
+		<Msg Index="764" Text="Please close and reopen the item window" />
+		<Msg Index="765" Text="Not enough Zen to reset" />
+		<Msg Index="766" Text="Acc: %s" />
+		<Msg Index="767" Text="Level: %d" />
+		<Msg Index="768" Text="Resets: %d" />
+		<Msg Index="769" Text="MResets: %d" />
+		<Msg Index="770" Text="%s (DW)" />
+		<Msg Index="771" Text="%s (DK)" />
+		<Msg Index="772" Text="%s (FE)" />
+		<Msg Index="773" Text="%s (MG)" />
+		<Msg Index="774" Text="%s (DL)" />
+		<Msg Index="775" Text="%s (SU)" />
+		<Msg Index="776" Text="%s (RF)" />
+		<Msg Index="777" Text="Character does not exist or is offline!" />
+		<Msg Index="778" Text="Exceeds the allowed limit" />
+		<Msg Index="779" Text="Added %d resets. You now have %d resets!" />
+		<Msg Index="780" Text="Check for empty space in your inventory" />
+		<Msg Index="781" Text="Not enough inventory space. Requires %dx%d empty slots" />
+		<Msg Index="782" Text="VIP character does not meet requirements" />
+		<Msg Index="783" Text="Cannot Continue" />
+		
+		<Msg Index="784" Text="Please place the item correctly" />
+		<Msg Index="785" Text="No Mix Result !!" />
+		<Msg Index="786" Text="Error: missing Result item 2" />
+		<Msg Index="787" Text="That is not an excellent item. Are you trying to trick me?!" />
+		<Msg Index="788" Text="The trade contains a non-excellent item. Trade canceled." />
+		<Msg Index="789" Text="There are no excellent items to purchase." />
+		<Msg Index="790" Text="Item exchange failed." />
+		<Msg Index="791" Text="Bring more items next time." />
+		<Msg Index="792" Text="I only buy items from VIP accounts" />
+		<Msg Index="793" Text="I am ready." />
+		
+		<Msg Index="800" Text="Blood Castle %d" />
+		<Msg Index="801" Text="Chaos Castle %d" />
+		<Msg Index="802" Text="Devil Square %d" />
+		<Msg Index="803" Text="Stage %d" />
+		<Msg Index="804" Text="All Maps" />
+		<Msg Index="805" Text="Unknown Map" />
+		<Msg Index="806" Text="Year" />
+		<Msg Index="807" Text="Month" />
+		<Msg Index="808" Text="Day" />
+		<Msg Index="809" Text="DoW" />
+		<Msg Index="810" Text="Hour" />
+		<Msg Index="811" Text="Minute" />
+		<Msg Index="812" Text="Second" />
+		<Msg Index="813" Text="[BloodCastle] %s" />
+		<Msg Index="814" Text="[ChaosCastle] %s" />
+		<Msg Index="815" Text="[Devil Square] %s" />
+		<Msg Index="816" Text="[Invasion] %s" />
+		<Msg Index="817" Text="[CTC Mini] %s" />
+		<Msg Index="818" Text="[Sky Event] %s" />
+		<Msg Index="819" Text="[Item 380] %s" />
+		<Msg Index="820" Text="[Item 380 Type] %s" />
+		<Msg Index="821" Text="[Item Drop] %s" />
+		<Msg Index="822" Text="[Item Move] %s" />
+		<Msg Index="823" Text="[Item Option] %s" />
+		<Msg Index="824" Text="[Item Stack] %s" />
+		<Msg Index="825" Text="[Set Item Option] %s" />
+		<Msg Index="826" Text="[Set Item Type] %s" />
+		<Msg Index="827" Text="[Socket Item Option] %s" />
+		<Msg Index="828" Text="[Socket Item Type] %s" />
+		<Msg Index="829" Text="[Item Value] %s" />
+		<Msg Index="830" Text="[Jewel Of Harmony] %s" />
+		<Msg Index="831" Text="Data saved and reloaded successfully!" />
+		<Msg Index="832" Text="reloaded successfully" />
+		<Msg Index="833" Text="Are you sure you want to delete everything?" />
+		<Msg Index="834" Text="Confirmation" />
+		<Msg Index="835" Text="Saved and reloaded successfully!" />
+		<Msg Index="836" Text="Blood Castle Manager" />
+		<Msg Index="837" Text="Unable to open the file for saving!" />
+		<Msg Index="838" Text="Error" />
+		<Msg Index="839" Text="Chaos Castle Manager" />
+		<Msg Index="840" Text="Devil Square Manager" />
+		<Msg Index="841" Text="Invasion Event &amp; Schedule Manager" />
+		<Msg Index="842" Text="Unable to open InvasionManager.ini for writing!" />
+		<Msg Index="843" Text="Config.xml not found!" />
+		<Msg Index="844" Text="Warning" />
+		<Msg Index="845" Text="GameServer Manager" />
+		<Msg Index="846" Text="Are you sure you want to delete this map and all items assigned to it?" />
+		<Msg Index="847" Text="Are you sure you want to delete this item?" />
+		<Msg Index="848" Text="Unable to open SetItemOption.txt for saving!" />
+		<Msg Index="849" Text="Unable to open SetItemType.txt for saving!" />
+		<Msg Index="850" Text="Unable to open SocketItemOption.txt for saving!" />
+		<Msg Index="851" Text="Unable to open JewelOfHarmonyType.txt for saving!" />
+		<Msg Index="852" Text="Top-up milestone configuration saved successfully!" />
+		<Msg Index="853" Text="Success" />
+		<Msg Index="854" Text="Unable to save the top-up milestone configuration!" />
+		<Msg Index="855" Text="Defeat %d more %s in %s to complete the quest!" />
+	</Message>
+</SPK>

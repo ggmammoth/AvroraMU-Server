@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop created with GoldMU.Net [Shop Editor]
+//Phone: 0987 819 266
+///////////////////////////
+//Shop: 008 - Zienna the Weapon Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur		Skill	Luck	Option	ExcOpt	Anc		JoH		Oex		Socket1	Socket2	Socket3	Socket4	Socket5	ItemName
+/////////////////////////////////////////////////////////////////////////////
+//
+8		15		0		0		1		1		0		0		0		0		0		255		255		255		255		255		//Storm Armor
+8		20		0		0		1		1		0		0		0		0		0		255		255		255		255		255		//Thunder Wind Armor
+0		31		0		0		1		1		0		0		0		0		0		255		255		255		255		255		//Fire Star Sword
+9		15		0		0		1		1		0		0		0		0		0		255		255		255		255		255		//Storm Pants
+9		20		0		0		1		1		0		0		0		0		0		255		255		255		255		255		//Thunder Wind Pants
+10		15		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Storm Gloves
+10		20		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Thunder Wind Gloves
+11		15		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Storm Boots
+11		20		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Thunder Wind Boots
+15		29		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Light Storm
+12		16		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Fire Slash Jewel
+12		13		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Spinning Stab Jewel
+12		47		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Fire Sword Jewel
+end

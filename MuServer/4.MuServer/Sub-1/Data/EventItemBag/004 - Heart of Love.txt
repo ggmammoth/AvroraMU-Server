@@ -1,0 +1,119 @@
+0
+//EventName      DropZen  ItemDropRate  ItemDropCount  SetItemDropRate  ItemDropType  Fireworks
+"Heart of Love"  500000   90            1              0                0             0          0
+end
+
+1
+//Type  ItemIndex  MinLevel  MaxLevel  Skill  Luck  Option  Excellent  SetOption  RateDrop
+4       5          4         11        1      0     0       0          0          5000      //Silver Bow
+4       5          4         11        1      0     1       0          0          2500      //Silver Bow
+4       5          4         11        1      0     2       0          0          1300      //Silver Bow
+4       5          4         11        1      0     4       0          0          800       //Silver Bow
+4       5          4         11        1      0     7       0          0          400       //Silver Bow
+4       5          4         11        1      1     0       0          0          5000      //Silver Bow
+4       5          4         11        1      1     1       0          0          2500      //Silver Bow
+4       5          4         11        1      1     2       0          0          1300      //Silver Bow
+4       5          4         11        1      1     4       0          0          800       //Silver Bow
+4       5          4         11        1      1     7       0          0          400       //Silver Bow
+0       13         4         11        1      0     0       0          0          5000      //Double Blade
+0       13         4         11        1      0     1       0          0          2500      //Double Blade
+0       13         4         11        1      0     2       0          0          1300      //Double Blade
+0       13         4         11        1      0     4       0          0          800       //Double Blade
+0       13         4         11        1      0     7       0          0          400       //Double Blade
+0       13         4         11        1      1     0       0          0          5000      //Double Blade
+0       13         4         11        1      1     1       0          0          2500      //Double Blade
+0       13         4         11        1      1     2       0          0          1300      //Double Blade
+0       13         4         11        1      1     4       0          0          800       //Double Blade
+0       13         4         11        1      1     7       0          0          400       //Double Blade
+5       5          4         11        0      0     0       0          0          5000      //Legendary Staff
+5       5          4         11        0      0     1       0          0          2500      //Legendary Staff
+5       5          4         11        0      0     2       0          0          1300      //Legendary Staff
+5       5          4         11        0      0     4       0          0          800       //Legendary Staff
+5       5          4         11        0      0     7       0          0          400       //Legendary Staff
+5       5          4         11        0      1     0       0          0          5000      //Legendary Staff
+5       5          4         11        0      1     1       0          0          2500      //Legendary Staff
+5       5          4         11        0      1     2       0          0          1300      //Legendary Staff
+5       5          4         11        0      1     4       0          0          800       //Legendary Staff
+5       5          4         11        0      1     7       0          0          400       //Legendary Staff
+2       8          4         11        1      0     0       0          0          5000      //Battle Scepter
+2       8          4         11        1      0     1       0          0          2500      //Battle Scepter
+2       8          4         11        1      0     2       0          0          1300      //Battle Scepter
+2       8          4         11        1      0     4       0          0          800       //Battle Scepter
+2       8          4         11        1      0     7       0          0          400       //Battle Scepter
+2       8          4         11        1      1     0       0          0          5000      //Battle Scepter
+2       8          4         11        1      1     1       0          0          2500      //Battle Scepter
+2       8          4         11        1      1     2       0          0          1300      //Battle Scepter
+2       8          4         11        1      1     4       0          0          800       //Battle Scepter
+2       8          4         11        1      1     7       0          0          400       //Battle Scepter
+0       31         4         11        1      0     0       0          0          5000      //Rune Blade
+0       31         4         11        1      0     1       0          0          2500      //Rune Blade
+0       31         4         11        1      0     2       0          0          1300      //Rune Blade
+0       31         4         11        1      0     4       0          0          800       //Rune Blade
+0       31         4         11        1      0     7       0          0          400       //Rune Blade
+0       31         4         11        1      1     0       0          0          5000      //Rune Blade
+0       31         4         11        1      1     1       0          0          2500      //Rune Blade
+0       31         4         11        1      1     2       0          0          1300      //Rune Blade
+0       31         4         11        1      1     4       0          0          800       //Rune Blade
+0       31         4         11        1      1     7       0          0          400       //Rune Blade
+0       32         4         11        1      0     0       0          0          5000      //Claws Earth Dragon
+0       32         4         11        1      0     1       0          0          2500      //Claws Earth Dragon
+0       32         4         11        1      0     2       0          0          1300      //Claws Earth Dragon
+0       32         4         11        1      0     4       0          0          800       //Claws Earth Dragon
+0       32         4         11        1      0     7       0          0          400       //Claws Earth Dragon
+0       32         4         11        1      1     0       0          0          5000      //Claws Earth Dragon
+0       32         4         11        1      1     1       0          0          2500      //Claws Earth Dragon
+0       32         4         11        1      1     2       0          0          1300      //Claws Earth Dragon
+0       32         4         11        1      1     4       0          0          800       //Claws Earth Dragon
+0       32         4         11        1      1     7       0          0          400       //Claws Earth Dragon
+5       23         4         11        1      0     0       0          0          5000      //Book of Ghost Phantom
+5       23         4         11        1      0     1       0          0          2500      //Book of Ghost Phantom
+5       23         4         11        1      0     2       0          0          1300      //Book of Ghost Phantom
+5       23         4         11        1      0     4       0          0          800       //Book of Ghost Phantom
+5       23         4         11        1      0     7       0          0          400       //Book of Ghost Phantom
+5       23         4         11        1      1     0       0          0          5000      //Book of Ghost Phantom
+5       23         4         11        1      1     1       0          0          2500      //Book of Ghost Phantom
+5       23         4         11        1      1     2       0          0          1300      //Book of Ghost Phantom
+5       23         4         11        1      1     4       0          0          800       //Book of Ghost Phantom
+5       23         4         11        1      1     7       0          0          400       //Book of Ghost Phantom
+5       14         4         11        0      0     0       0          0          5000      //Mystery Stick
+5       14         4         11        0      0     1       0          0          2500      //Mystery Stick
+5       14         4         11        0      0     2       0          0          1300      //Mystery Stick
+5       14         4         11        0      0     4       0          0          800       //Mystery Stick
+5       14         4         11        0      0     7       0          0          400       //Mystery Stick
+5       14         4         11        0      1     0       0          0          5000      //Mystery Stick
+5       14         4         11        0      1     1       0          0          2500      //Mystery Stick
+5       14         4         11        0      1     2       0          0          1300      //Mystery Stick
+5       14         4         11        0      1     4       0          0          800       //Mystery Stick
+5       14         4         11        0      1     7       0          0          400       //Mystery Stick
+14      13         0         0         0      0     0       0          0          5000      //Jewel of Bless
+14      13         0         0         0      0     1       0          0          2500      //Jewel of Bless
+14      13         0         0         0      0     2       0          0          1300      //Jewel of Bless
+14      13         0         0         0      0     4       0          0          800       //Jewel of Bless
+14      13         0         0         0      0     7       0          0          400       //Jewel of Bless
+14      13         0         0         0      1     0       0          0          5000      //Jewel of Bless
+14      13         0         0         0      1     1       0          0          2500      //Jewel of Bless
+14      13         0         0         0      1     2       0          0          1300      //Jewel of Bless
+14      13         0         0         0      1     4       0          0          800       //Jewel of Bless
+14      13         0         0         0      1     7       0          0          400       //Jewel of Bless
+14      14         0         0         0      0     0       0          0          5000      //Jewel of Soul
+14      14         0         0         0      0     1       0          0          2500      //Jewel of Soul
+14      14         0         0         0      0     2       0          0          1300      //Jewel of Soul
+14      14         0         0         0      0     4       0          0          800       //Jewel of Soul
+14      14         0         0         0      0     7       0          0          400       //Jewel of Soul
+14      14         0         0         0      1     0       0          0          5000      //Jewel of Soul
+14      14         0         0         0      1     1       0          0          2500      //Jewel of Soul
+14      14         0         0         0      1     2       0          0          1300      //Jewel of Soul
+14      14         0         0         0      1     4       0          0          800       //Jewel of Soul
+14      14         0         0         0      1     7       0          0          400       //Jewel of Soul
+12      15         0         0         0      0     0       0          0          5000      //Jewel of Chaos
+12      15         0         0         0      0     1       0          0          2500      //Jewel of Chaos
+12      15         0         0         0      0     2       0          0          1300      //Jewel of Chaos
+12      15         0         0         0      0     4       0          0          800       //Jewel of Chaos
+12      15         0         0         0      0     7       0          0          400       //Jewel of Chaos
+12      15         0         0         0      1     0       0          0          5000      //Jewel of Chaos
+12      15         0         0         0      1     1       0          0          2500      //Jewel of Chaos
+12      15         0         0         0      1     2       0          0          1300      //Jewel of Chaos
+12      15         0         0         0      1     4       0          0          800       //Jewel of Chaos
+12      15         0         0         0      1     7       0          0          400       //Jewel of Chaos
+end
+

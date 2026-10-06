@@ -1,0 +1,163 @@
+0
+//Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice   ModelName
+  0       7412        0              15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel Of Level
+  1       7413        0              15             0                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel181"    //Jewel Of Skill
+  2       7414        0              15             *                0                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel182"    //Jewel Of Luck
+  3       7415        0              15             *                *                0                6                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel183"    //Jewel Of Adicional
+  4       7416        0              15             *                *                *                *                0                  5                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel184"    //Jewel Of Excelentt
+  5       7417        0              15             *                *                *                *                *                  *                  *                  0                     5                     *                  *                 *               100                100               100               100               20          "Jewel185"    //Jewel Of Socket
+  6       7418        0              15             *                *                *                *                *                  *                  1                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel187"    //Jewel Of Ancient 1
+  7       7419        0              15             *                *                *                *                *                  *                  2                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel188"    //Jewel Of Ancient 2
+  8       7420        0              15             *                *                *                *                *                  6                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel186"    //Jewel Of Full
+  9       7427        0              15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel189"    //Jewel Of Full
+  10      7442        0              15             *                *                1                *                *                  *                  *                  *                     *                     *                  *                 *               0                  0                 0                 0                 20          "Jewel183"    //Jewel of Remove Additional
+  11      7443        0              15             *                *                *                *                1                  *                  *                  *                     *                     *                  *                 *               0                  0                 0                 0                 20          "Jewel186"    //Jewel of Remove Excellent
+  12      7444        0              15             *                *                *                *                0                  2                  *                  *                     *                     0                  0                 *               100                100               100               100               20          "Jewel_wings_up"//Jewel of Excellent Wings
+  13      7445        9              9              *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel of Level +10
+  14      7446        10             10             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel of Level +11
+  15      7447        11             11             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel of Level +12
+  16      7448        12             12             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel of Level +13
+  17      7449        13             13             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel of Level +14
+  18      7450        14             14             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel of Level +15
+  19      7451        0              14             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Jewel180"    //Jewel of Level MAX
+  20      7452        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "jewel_socket_up"//Socket Upgrade (Lv1)
+  21      7453        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "jewel_socket_up"//Socket Upgrade (Lv2)
+  22      7481        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Wing_coreSM"   //Pure Core of Virtue (+15 Wings 5.0 -> 5.5)
+  23      7482        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Wing_coreBK"   //Pure Core of Destruction (+15 Wings 5.0 -> 5.5)
+  24      7483        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Wing_coreELFA" //Pure Core of Fantasy (+15 Wings 5.0 -> 5.5)
+  25      7484        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Wing_coreMG"   //Pure Core of Punishment (+15 Wings 5.0 -> 5.5)
+  26      7485        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Wing_coreDL"   //Pure Core of Zero (+15 Wings 5.0 -> 5.5)
+  27      7486        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Wing_coreSUMM" //Pure Core of Barrier (+15 Wings 5.0 -> 5.5)
+  28      7487        15             15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *               100                100               100               100               20          "Wing_coreRF"   //Pure Core of Oath (+15 Wings 5.0 -> 5.5)
+end
+
+1
+//Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
+  0       1       0         0         0         0           0           0
+  1       0       1         0         0         0           0           0
+  2       0       0         1         0         0           0           0
+  3       0       0         0         7         0           0           0
+  4       0       0         0         0         1           0           0
+  5       0       0         0         0         0           0           1
+  6       0       0         0         0         0           5           0
+  7       0       0         0         0         0           6           0
+  8       15      1         1         7         6           0           0
+  9       0       0         0         0         0           0           0
+  12      0        0          0          0          1            0            0
+  13      1        0          0          0          0            0            0
+  14      1        0          0          0          0            0            0
+  15      1        0          0          0          0            0            0
+  16      1        0          0          0          0            0            0
+  17      1        0          0          0          0            0            0
+  18      1        0          0          0          0            0            0
+  19      15       0          0          0          0            0            0
+end
+
+2
+//Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
+  10      0        0          0          7          0            0            0
+  11      0        0          0          0          1            0            0
+  13      9        0          0          0          0            0            0
+  14      10       0          0          0          0            0            0
+  15      11       0          0          0          0            0            0
+  16      12       0          0          0          0            0            0
+  17      13       0          0          0          0            0            0
+  18      14       0          0          0          0            0            0
+end
+
+3
+//Index   ItemIndex   CreateItemIndex	Type
+9         18          19              	1
+9         22          23                1
+20        3636        3639            0   //7/52 Hades Helm -> 7/55 Dark Devil Helm
+20        4148        4151            0   //8/52 Hades Armor -> 8/55 Dark Devil Armor
+20        4660        4663            0   //9/52 Hades Pants -> 9/55 Dark Devil Pants
+20        5172        5175            0   //10/52 Hades Gloves -> 10/55 Dark Devil Gloves
+20        5684        5687            0   //11/52 Hades Boots -> 11/55 Dark Devil Boots
+21        3639        3785            0   //7/55 Dark Devil Helm -> 7/201 Blizzardborn Helm
+21        4151        4297            0   //8/55 Dark Devil Armor -> 8/201 Blizzardborn Armor
+21        4663        4809            0   //9/55 Dark Devil Pants -> 9/201 Blizzardborn Pants
+21        5175        5321            0   //10/55 Dark Devil Gloves -> 10/201 Blizzardborn Gloves
+21        5687        5833            0   //11/55 Dark Devil Boots -> 11/201 Blizzardborn Boots
+20        2591        2597            0   //5/31 Inberial Staff -> 5/37 Spite Staff
+20        3630        3629            0   //7/46 Brave Helm -> 7/45 Titan Helm
+20        4142        4141            0   //8/46 Brave Armor -> 8/45 Titan Armor
+20        4654        4653            0   //9/46 Brave Pants -> 9/45 Titan  Pants
+20        5166        5165            0   //10/46 Brave Gloves -> 10/45 Titan  Gloves
+20        5678        5677            0   //11/46 Brave Boots -> 11/45 Titan Boots
+21        3629        3638            0   //7/45 Titan Helm -> 7/54 Hellfire Helm
+21        4141        4150            0   //8/45 Titan Armor -> 8/54 Hellfire Armor
+21        4653        4662            0   //9/45 Titan  Pants -> 9/54 Hellfire Pants
+21        5165        5174            0   //10/45 Titan  Gloves -> 10/54 Hellfire Gloves
+21        5677        5686            0   //11/45 Titan Boots -> 11/54 Hellfire Boots
+20        27          26              0   //0/27 Sword Breaker -> 0/26 Flameberge
+21        26          88              0   //0/26 Flameberge -> 0/88 HellFire Blade
+20        3633        3634            0   //7/49 Seraphim Helm -> 7/50 Divine Helm
+20        4145        4146            0   //8/49 Seraphim Armor -> 8/50 Divine Armor
+20        4657        4658            0   //9/49 Seraphim Pants -> 9/50 Divine Pants
+20        5169        5170            0   //10/49 Seraphim Gloves -> 10/50 Divine Gloves
+20        5681        5682            0   //11/49 Seraphim Boots -> 11/50 Divine Boots
+21        3634        3640            0   //7/50 Divine Helm -> 7/56 Emerald Helm
+21        4146        4152            0   //8/50 Divine Armor -> 8/56 Emerald Armor
+21        4658        4664            0   //9/50 Divine Pants -> 9/56 Emerald Pants
+21        5170        5176            0   //10/50 Divine Gloves -> 10/56 Emerald Gloves
+21        5682        5688            0   //11/50 Divine Boots -> 11/56 Emerald Boots
+20        2071        2073            0   //4/23 Dark Stinger -> 4/25 Angelic Bow
+21        2073        2098            0   //4/25 Angelic Bow -> 4/50 Emerald Bow
+20        3635        3642            0   //7/51 Royal Mask -> 7/58 Ambition Mask
+20        4147        4154            0   //8/51 Royal Armor -> 8/58 Ambition Armor
+20        4659        4666            0   //9/51 Royal Pants -> 9/58 Ambition Pants
+20        5171        5178            0   //10/51 Royal Gloves -> 10/58 Ambition Gloves
+20        5683        5690            0   //11/51 Royal Boots -> 11/58 Ambition Boots
+21        3642        3784            0   //7/58 Ambition Mask -> 7/200 Verdant Warden Helm
+21        4154        4296            0   //8/58 Ambition Armor -> 8/200 Verdant Warden Armor
+21        4666        4808            0   //9/58 Ambition Pants -> 9/200 Verdant Warden Pants
+21        5178        5320            0   //10/58 Ambition Gloves -> 10/200 Verdant Warden Gloves
+21        5690        5832            0   //11/58 Ambition Boots -> 11/200 Verdant Warden Boots
+20        1041        1043            0   //2/17 Absolute Scepter -> 2/19 Thunderbolt
+21        1043        1064            0   //2/19 Thunderbolt -> 2/40 Verdant Scepter
+20        3628        3637            0   //7/44 Ethernal Wing Helm -> 7/53 Succubus Helm
+20        4140        4149            0   //8/44 Ethernal Wing Armor -> 8/53 Succubus Armor
+20        4652        4661            0   //9/44 Ethernal Wing Pants -> 9/53 Succubus Pants
+20        5164        5173            0   //10/44 Eternal Wing Gloves -> 10/53 Succubus Gloves
+20        5676        5685            0   //11/44 Eternal Wing Boots -> 11/53 Succubus Boots
+21        3637        3786            0   //7/53 Succubus Helm -> 7/202 Celestia Helm
+21        4149        4298            0   //8/53 Succubus Armor -> 8/202 Celestia Armor
+21        4661        4810            0   //9/53 Succubus Pants -> 9/202 Celestia Pants
+21        5173        5322            0   //10/53 Succubus Gloves -> 10/202 Celestia Gloves
+21        5685        5834            0   //11/53 Succubus Boots -> 11/202 Celestia Boots
+20        2580        2592            0   //5/20 Eternal Wing Stick -> 5/32 Summon Spirit Stick
+21        2592        2670            0   //5/32 Summon Spirit Stick -> 5/110 Celestia Stick
+20        3750        3751            0   //7/166 Tigris Helm -> 7/167 Crimson Skull Helm
+20        4262        4263            0   //8/166 Tigris Armor -> 8/167 Crimson Skull Armor
+20        4774        4775            0   //9/166 Tigris Pants -> 9/167 Crimson Skull Pants
+20        5798        5799            0   //11/166 Tigris Boots -> 11/167 Crimson Skull Boots
+21        3751        3661            0   //7/167 Crimson Skull Helm -> 7/77 Bloody Dragon Helm
+21        4263        4173            0   //8/167 Crimson Skull Armor -> 8/77 Bloody Dragon Armor
+21        4775        4685            0   //9/167 Crimson Skull Pants -> 9/77 Bloody Dragon Pants
+21        5799        5709            0   //11/167 Crimson Skull Boots -> 11/77 Bloody Dragon Boots
+20        107         108             0   //0/107 Pantera Claws -> 0/108 Devast Claws
+21        108         101             0   //0/108 Devast Claws -> 0/101 Prickle Glove
+20        4144        4143            0   //8/48 Destroy Armor -> 8/47 Phantom Armor
+20        4656        4655            0   //9/48 Destroy Pants -> 9/47 Phantom  Pants
+20        5168        5167            0   //10/48 Destroy Gloves -> 10/47 Phantom  Gloves
+20        5680        5679            0   //11/48 Destroy Boots -> 11/47 Phantom Boots
+21        4143        4153            0   //8/47 Phantom Armor -> 8/57 Aurelius Armor
+21        4655        4665            0   //9/47 Phantom  Pants -> 9/57 Aurelius Pants
+21        5167        5177            0   //10/47 Phantom  Gloves -> 10/57 Aurelius Gloves
+21        5679        5689            0   //11/47 Phantom Boots -> 11/57 Aurelius Boots
+20        30          85              0   //0/30 Asura -> 0/85 Xenoblade
+21        85          28              0   //0/85 Xenoblade -> 0/28 Rune Bastard Sword
+20        3092        3096            0   //6/20 Guardian Shield -> 6/24 Dark Devil Shield
+21        3096        3112            0   //6/24 Dark Devil Shield -> 6/40 Blizzardborn Shield
+20        3090        3097            0   //6/18 Salamander Shield -> 6/25 Magic Knight Shield
+21        3097        3108            0   //6/25 Magic Knight Shield -> 6/36 Aurelius Shield
+21        3098        3111            0   //6/26 Ambition Shield -> 6/39 Verdant Shield
+22        6414        6424            1   //Wings of Virtue [Lvl 5] -> Wings of Virtue [Lvl 5.5]
+23        6415        6425            1   //Destruction Wings [Lvl 5] -> Destruction Wings [Lvl 5.5]
+24        6416        6426            1   //Wings of Fantasy [Lvl 5] -> Wings of Fantasy [Lvl 5.5]
+25        6417        6427            1   //Wings of Punishment [Lvl 5] -> Wings of Punishment [Lvl 5.5]
+26        6418        6428            1   //Cloack of Zero [Lvl 5] -> Cloack of Zero [Lvl 5.5]
+27        6419        6429            1   //Wings of Barrier [Lvl 5] -> Wings of Barrier [Lvl 5.5]
+28        6420        6430            1   //Cloack of Oath [Lvl 5] -> Cloack of Oath [Lvl 5.5]
+end

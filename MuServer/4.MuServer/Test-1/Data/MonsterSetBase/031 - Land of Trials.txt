@@ -1,0 +1,251 @@
+//=========================================================================================================================================
+// NPCS
+//=========================================================================================================================================
+0
+
+253            31             00         55  12            03             //Potion girl
+
+end		
+//=========================================================================================================================================
+// SPOT
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+
+292            31             00         118               150          118         150          -1          08        //bee
+67             31             00         059               029          059         029          -1          20        //Metal Balrog with Ruud
+67             31             00         080               045          080         045          -1          20        //Metal Balrog with Ruud
+67             31             00         037               032          037         032          -1          20        //Metal Balrog with Ruud
+
+
+
+end
+
+//=========================================================================================================================================
+// MONSTERS
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+
+
+
+
+294            31             2         131            027            -1             //Ax Warrior
+294            31             2         131            027            -1             //Ax Warrior
+294            31             2         131            027            -1             //Ax Warrior
+294            31             2         131            027            -1             //Ax Warrior
+294            31             2         131            027            -1             //Ax Warrior
+294            31             2         131            027            -1             //Ax Warrior
+294            31             2         131            027            -1             //Ax Warrior
+294            31             2         131            027            -1             //Ax Warrior
+
+
+290            31             2         206            013            -1             //Lizard Warrior
+290            31             2         206            013            -1             //Lizard Warrior
+290            31             2         206            013            -1             //Lizard Warrior
+290            31             2         206            013            -1             //Lizard Warrior
+290            31             2         206            013            -1             //Lizard Warrior
+290            31             2         206            013            -1             //Lizard Warrior
+290            31             2         206            013            -1             //Lizard Warrior
+290            31             2         206            013            -1             //Lizard Warrior
+
+
+290            31             2         152            074            -1             //Lizard Warrior
+290            31             2         152            074            -1             //Lizard Warrior
+290            31             2         152            074            -1             //Lizard Warrior
+290            31             2         152            074            -1             //Lizard Warrior
+290            31             2         152            074            -1             //Lizard Warrior
+290            31             2         152            074            -1             //Lizard Warrior
+290            31             2         152            074            -1             //Lizard Warrior
+290            31             2         152            074            -1             //Lizard Warrior
+
+
+293            31             2         223            060            -1             //Poison Golem
+293            31             2         223            060            -1             //Poison Golem
+293            31             2         223            060            -1             //Poison Golem
+293            31             2         223            060            -1             //Poison Golem
+293            31             2         223            060            -1             //Poison Golem
+293            31             2         223            060            -1             //Poison Golem
+293            31             2         223            060            -1             //Poison Golem
+293            31             2         223            060            -1             //Poison Golem
+
+
+293            31             2         076            147            -1             //Poison Golem
+293            31             2         076            147            -1             //Poison Golem
+293            31             2         076            147            -1             //Poison Golem
+293            31             2         076            147            -1             //Poison Golem
+293            31             2         076            147            -1             //Poison Golem
+293            31             2         076            147            -1             //Poison Golem
+293            31             2         076            147            -1             //Poison Golem
+293            31             2         076            147            -1             //Poison Golem
+
+
+
+293            31             2         215            109            -1             //Poison Golem
+293            31             2         215            109            -1             //Poison Golem
+293            31             2         215            109            -1             //Poison Golem
+293            31             2         215            109            -1             //Poison Golem
+293            31             2         215            109            -1             //Poison Golem
+293            31             2         215            109            -1             //Poison Golem
+293            31             2         215            109            -1             //Poison Golem
+293            31             2         215            109            -1             //Poison Golem
+
+
+
+292            31             2         235            181            -1             //Queen Bee
+292            31             2         235            181            -1             //Queen Bee
+292            31             2         235            181            -1             //Queen Bee
+292            31             2         235            181            -1             //Queen Bee
+292            31             2         235            181            -1             //Queen Bee
+292            31             2         235            181            -1             //Queen Bee
+292            31             2         235            181            -1             //Queen Bee
+292            31             2         235            181            -1             //Queen Bee
+
+
+
+292            31             2         237            194            -1             //Queen Bee
+292            31             2         237            194            -1             //Queen Bee
+292            31             2         237            194            -1             //Queen Bee
+292            31             2         237            194            -1             //Queen Bee
+292            31             2         237            194            -1             //Queen Bee
+292            31             2         237            194            -1             //Queen Bee
+292            31             2         237            194            -1             //Queen Bee
+292            31             2         237            194            -1             //Queen Bee
+
+
+
+292            31             2         180            173            -1             //Queen Bee
+292            31             2         180            173            -1             //Queen Bee
+292            31             2         180            173            -1             //Queen Bee
+292            31             2         180            173            -1             //Queen Bee
+292            31             2         180            173            -1             //Queen Bee
+292            31             2         180            173            -1             //Queen Bee
+292            31             2         180            173            -1             //Queen Bee
+292            31             2         180            173            -1             //Queen Bee
+
+
+292            31             2         145            213            -1             //Queen Bee
+292            31             2         145            213            -1             //Queen Bee
+292            31             2         145            213            -1             //Queen Bee
+292            31             2         145            213            -1             //Queen Bee
+292            31             2         145            213            -1             //Queen Bee
+292            31             2         145            213            -1             //Queen Bee
+292            31             2         145            213            -1             //Queen Bee
+292            31             2         145            213            -1             //Queen Bee
+
+
+
+292            31             2         133            230            -1             //Queen Bee
+292            31             2         133            230            -1             //Queen Bee
+292            31             2         133            230            -1             //Queen Bee
+292            31             2         133            230            -1             //Queen Bee
+292            31             2         133            230            -1             //Queen Bee
+292            31             2         133            230            -1             //Queen Bee
+292            31             2         133            230            -1             //Queen Bee
+292            31             2         133            230            -1             //Queen Bee
+
+
+
+292            31             2         132            157            -1             //Queen Bee
+292            31             2         132            157            -1             //Queen Bee
+291            31             2         132            157            -1             //Fire Golem
+291            31             2         132            157            -1             //Fire Golem
+291            31             2         132            157            -1             //Fire Golem
+291            31             2         132            157            -1             //Fire Golem
+292            31             2         132            157            -1             //Queen Bee
+292            31             2         132            157            -1             //Queen Bee
+
+291            31             2         228            228            -1             //Fire Golem
+291            31             2         228            228            -1             //Fire Golem
+291            31             2         228            228            -1             //Fire Golem
+291            31             2         228            228            -1             //Fire Golem
+291            31             2         228            228            -1             //Fire Golem
+291            31             2         228            228            -1             //Fire Golem
+291            31             2         228            228            -1             //Fire Golem
+291            31             2         228            228            -1             //Fire Golem
+
+291            31             2         064            235            -1             //Fire Golem
+291            31             2         064            235            -1             //Fire Golem
+291            31             2         064            235            -1             //Fire Golem
+291            31             2         064            235            -1             //Fire Golem
+291            31             2         064            235            -1             //Fire Golem
+291            31             2         064            235            -1             //Fire Golem
+291            31             2         064            235            -1             //Fire Golem
+291            31             2         064            235            -1             //Fire Golem
+
+291            31             2         080            192            -1             //Fire Golem
+291            31             2         080            192            -1             //Fire Golem
+291            31             2         080            192            -1             //Fire Golem
+291            31             2         080            192            -1             //Fire Golem
+291            31             2         080            192            -1             //Fire Golem
+291            31             2         080            192            -1             //Fire Golem
+291            31             2         080            192            -1             //Fire Golem
+291            31             2         080            192            -1             //Fire Golem
+
+291            31             2         098            200            -1             //Fire Golem
+291            31             2         098            200            -1             //Fire Golem
+291            31             2         098            200            -1             //Fire Golem
+291            31             2         098            200            -1             //Fire Golem
+291            31             2         098            200            -1             //Fire Golem
+291            31             2         098            200            -1             //Fire Golem
+291            31             2         098            200            -1             //Fire Golem
+291            31             2         098            200            -1             //Fire Golem
+
+291            31             2         047            204            -1             //Fire Golem
+291            31             2         047            204            -1             //Fire Golem
+291            31             2         047            204            -1             //Fire Golem
+291            31             2         047            204            -1             //Fire Golem
+291            31             2         047            204            -1             //Fire Golem
+291            31             2         047            204            -1             //Fire Golem
+291            31             2         047            204            -1             //Fire Golem
+291            31             2         047            204            -1             //Fire Golem
+
+291            31             2         032            182            -1             //Fire Golem
+291            31             2         032            182            -1             //Fire Golem
+291            31             2         032            182            -1             //Fire Golem
+291            31             2         032            182            -1             //Fire Golem
+291            31             2         032            182            -1             //Fire Golem
+291            31             2         032            182            -1             //Fire Golem
+291            31             2         032            182            -1             //Fire Golem
+291            31             2         032            182            -1             //Fire Golem
+
+
+291            31             2         169            123            -1             //Fire Golem
+293            31             2         169            123            -1             //Poison Golem
+293            31             2         169            123            -1             //Poison Golem
+291            31             2         169            123            -1             //Fire Golem
+291            31             2         169            123            -1             //Fire Golem
+291            31             2         169            123            -1             //Fire Golem
+293            31             2         169            123            -1             //Poison Golem
+293            31             2         169            123            -1             //Poison Golem
+
+
+
+
+295            31             30         220            211            -1             //Erohim
+835            31             30         220            211            -1             //Pharaon
+900            31             30         220            211            -1             //Abbadon
+
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

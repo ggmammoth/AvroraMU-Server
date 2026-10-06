@@ -1,0 +1,24 @@
+//Type: 1 = Nỏ ; 0 = Cung;
+//Skill: 266,267,268,269,270,271,272,273,274,294,295,296,297,298,321,324,335,365,509
+//Nỏ
+//ID		ItemIndex		Type		Skill		ModelName				R		G		B
+0			2078			1			321			"absolute_gunbow"		253 	255 	119		// Nỏ Thiên Tử
+
+
+//Cung
+//ID		ItemIndex		Type		Skill		ModelName					R		G		B
+1			2148            0			509			"bloodangel_bow"      		205		192		176
+2			2149            0			509			"Darkangel_Bow"	      		255 	226 	115
+3			2150            0			509			"HolyAngelBow"            	255 	197 	57
+4			2151           	0			509			"hs_soularcherbow_s"      	239     154     70
+5			2152            0			509			"blue_eyebow_stand"       	122     139     168
+6			2153            0			509			"mastery_bow6_stand"      	78 		17 		166
+7			2154            0			509			"mastery_bow07_decrypted" 	140 	128 	083
+8			2155            0			509			"BrilliantBow" 				140 	128 	083
+9			2156            0			509			"apocalypse_bow" 			255 	150 	150
+10			2157            0			509			"lightning_bow" 			25		25		112
+11			2158            0			509			"TempleGuard_bow" 			128 	100 	30
+12			2159            0			509			"CungThanhLong" 			0		0		0
+13			2160            0			509			"CungThongThien" 			0		0		0
+
+end

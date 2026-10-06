@@ -1,0 +1,6 @@
+[Config]
+NpcID = 544
+NpcMap = 0
+NpcX = 130
+NpcY = 133
+DelAfterRelog = 1

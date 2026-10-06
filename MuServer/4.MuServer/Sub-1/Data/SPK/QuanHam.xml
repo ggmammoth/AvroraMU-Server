@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<QuanHam Enable="1" ThongBao="1" GioiHan="20" ThoiGian="0">
+	<Message>
+		<Msg Index="0" Text="This feature has been disabled" />
+		<Msg Index="1" Text="You need %d %s to upgrade" />
+		<Msg Index="2" Text="You need %d %s to upgrade" />
+		<Msg Index="3" Text="Congratulations, you just upgraded Military Rank to Lv %d" />
+		<Msg Index="4" Text="%s just upgraded Military Rank to Lv %d" />
+		<Msg Index="5" Text="You have reached the maximum level of %d" />
+		<Msg Index="6" Text="Please wait %d seconds before buying again!" />
+		<Msg Index="7" Text="Bank does not have enough gems" />
+	</Message>
+	<ConfigQuanHam>
+		<CapDo LvQuanHam="0" YCItemSL="0" YCItemID="0" YCWC="0" YCWP="0" YCGP="0" TangMau="0" TangSD="0" TangST="0" TangPT="0" />
+		<CapDo LvQuanHam="1" YCItemSL="10" YCItemID="6" YCWC="1" YCWP="1" YCGP="1" TangMau="10000" TangSD="10000" TangST="10000" TangPT="1" />
+		<CapDo LvQuanHam="2" YCItemSL="10" YCItemID="6" YCWC="2" YCWP="2" YCGP="2" TangMau="20000" TangSD="20000" TangST="20000" TangPT="2" />
+		<CapDo LvQuanHam="3" YCItemSL="10" YCItemID="6" YCWC="3" YCWP="3" YCGP="3" TangMau="30000" TangSD="30000" TangST="30000" TangPT="3" />
+		<CapDo LvQuanHam="4" YCItemSL="10" YCItemID="6" YCWC="4" YCWP="4" YCGP="4" TangMau="40000" TangSD="40000" TangST="40000" TangPT="4" />
+		<CapDo LvQuanHam="5" YCItemSL="10" YCItemID="6" YCWC="5" YCWP="5" YCGP="5" TangMau="50000" TangSD="50000" TangST="50000" TangPT="5" />
+		<CapDo LvQuanHam="6" YCItemSL="10" YCItemID="6" YCWC="6" YCWP="6" YCGP="6" TangMau="60000" TangSD="60000" TangST="60000" TangPT="6" />
+		<CapDo LvQuanHam="7" YCItemSL="10" YCItemID="6" YCWC="7" YCWP="7" YCGP="7" TangMau="70000" TangSD="70000" TangST="70000" TangPT="7" />
+		<CapDo LvQuanHam="8" YCItemSL="10" YCItemID="6" YCWC="8" YCWP="8" YCGP="8" TangMau="80000" TangSD="80000" TangST="80000" TangPT="8" />
+		<CapDo LvQuanHam="9" YCItemSL="10" YCItemID="6" YCWC="9" YCWP="9" YCGP="9" TangMau="90000" TangSD="90000" TangST="90000" TangPT="9" />
+		<CapDo LvQuanHam="10" YCItemSL="10" YCItemID="6" YCWC="600000" YCWP="100" YCGP="200" TangMau="110000" TangSD="110000" TangST="110000" TangPT="10" />
+		<CapDo LvQuanHam="11" YCItemSL="10" YCItemID="6" YCWC="610000" YCWP="100" YCGP="200" TangMau="120000" TangSD="120000" TangST="120000" TangPT="11" />
+		<CapDo LvQuanHam="12" YCItemSL="10" YCItemID="6" YCWC="620000" YCWP="100" YCGP="200" TangMau="130000" TangSD="130000" TangST="130000" TangPT="12" />
+		<CapDo LvQuanHam="13" YCItemSL="10" YCItemID="6" YCWC="630000" YCWP="100" YCGP="200" TangMau="140000" TangSD="140000" TangST="140000" TangPT="13" />
+		<CapDo LvQuanHam="14" YCItemSL="10" YCItemID="6" YCWC="640000" YCWP="100" YCGP="200" TangMau="150000" TangSD="150000" TangST="150000" TangPT="14" />
+		<CapDo LvQuanHam="15" YCItemSL="10" YCItemID="6" YCWC="650000" YCWP="100" YCGP="200" TangMau="160000" TangSD="160000" TangST="160000" TangPT="15" />
+		<CapDo LvQuanHam="16" YCItemSL="10" YCItemID="6" YCWC="660000" YCWP="100" YCGP="200" TangMau="170000" TangSD="170000" TangST="170000" TangPT="16" />
+		<CapDo LvQuanHam="17" YCItemSL="10" YCItemID="6" YCWC="670000" YCWP="100" YCGP="200" TangMau="180000" TangSD="180000" TangST="180000" TangPT="17" />
+		<CapDo LvQuanHam="18" YCItemSL="10" YCItemID="6" YCWC="680000" YCWP="100" YCGP="200" TangMau="190000" TangSD="190000" TangST="190000" TangPT="18" />
+		<CapDo LvQuanHam="19" YCItemSL="10" YCItemID="6" YCWC="690000" YCWP="100" YCGP="200" TangMau="200000" TangSD="200000" TangST="200000" TangPT="19" />
+		<CapDo LvQuanHam="20" YCItemSL="10" YCItemID="6" YCWC="600000" YCWP="100" YCGP="200" TangMau="210000" TangSD="210000" TangST="210000" TangPT="20" />
+		<CapDo LvQuanHam="21" YCItemSL="10" YCItemID="6" YCWC="610000" YCWP="100" YCGP="200" TangMau="220000" TangSD="220000" TangST="220000" TangPT="21" />
+		<CapDo LvQuanHam="22" YCItemSL="10" YCItemID="6" YCWC="220000" YCWP="100" YCGP="200" TangMau="230000" TangSD="230000" TangST="230000" TangPT="22" />
+		<CapDo LvQuanHam="23" YCItemSL="10" YCItemID="6" YCWC="230000" YCWP="100" YCGP="200" TangMau="240000" TangSD="240000" TangST="240000" TangPT="23" />
+		<CapDo LvQuanHam="24" YCItemSL="10" YCItemID="6" YCWC="240000" YCWP="100" YCGP="200" TangMau="250000" TangSD="250000" TangST="250000" TangPT="24" />
+		<CapDo LvQuanHam="25" YCItemSL="10" YCItemID="6" YCWC="250000" YCWP="100" YCGP="200" TangMau="250000" TangSD="250000" TangST="250000" TangPT="25" />
+		<CapDo LvQuanHam="26" YCItemSL="10" YCItemID="6" YCWC="0" YCWP="100" YCGP="0" TangMau="0" TangSD="0" TangST="0" TangPT="0" />
+	</ConfigQuanHam>
+</QuanHam>

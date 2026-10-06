@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ServerList>
+  <Server Code="4" IP="127.0.0.1" Port="55932" Visible="1" Name="Sub-1" />
+  <Server Code="7" IP="127.0.0.1" Port="56132" Visible="1" Name="Test-1" />
+  <Server Code="119" IP="127.0.0.1" Port="55989" Visible="0" Name="GameServer_CS" />
+</ServerList>

@@ -1,0 +1,335 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+// [NPCS]
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+240            56             00         133            113            02             //Safety Guardian
+end
+
+//=========================================================================================================================================
+// [QUESTS] CIDADES HUNTS MOBS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+735            56             00        144             113            01             //QUEST SWAMP OF PEACE
+//257            56             00        133             104            02             ///Shadow Phantom Soldier
+//253            56             00        215             209            02             ///Potion Girl
+
+end
+
+
+
+
+//=========================================================================================================================================
+// [SPOTS] SWAMP OF PEACE (SWAMP OF CALMESS)
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+end
+
+//=========================================================================================================================================
+// [SPOTS] SWAMP OF PEACE (SWAMP OF CALMESS)
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+448            56             5         067            238             -1             //Ghost Napin
+448            56             5         067            238             -1             //Ghost Napin
+448            56             5         067            238             -1             //Ghost Napin
+448            56             5         067            238             -1             //Ghost Napin
+448            56             5         067            238             -1             //Ghost Napin
+448            56             5         067            238             -1             //Ghost Napin
+448            56             5         067            238             -1             //Ghost Napin
+448            56             5         067            238             -1             //Ghost Napin
+
+448            56             5         010            239             -1             //Ghost Napin
+448            56             5         010            239             -1             //Ghost Napin
+448            56             5         010            239             -1             //Ghost Napin
+448            56             5         010            239             -1             //Ghost Napin
+448            56             5         010            239             -1             //Ghost Napin
+448            56             5         010            239             -1             //Ghost Napin
+448            56             5         010            239             -1             //Ghost Napin
+448            56             5         010            239             -1             //Ghost Napin
+
+446            56             5         011            182             -1             //Shadow Look
+446            56             5         011            182             -1             //Shadow Look
+446            56             5         011            182             -1             //Shadow Look
+446            56             5         011            182             -1             //Shadow Look
+446            56             5         011            182             -1             //Shadow Look
+446            56             5         011            182             -1             //Shadow Look
+446            56             5         011            182             -1             //Shadow Look
+446            56             5         011            182             -1             //Shadow Look
+
+446            56             5         047            203             -1             //Shadow Look
+446            56             5         047            203             -1             //Shadow Look
+446            56             5         047            203             -1             //Shadow Look
+446            56             5         047            203             -1             //Shadow Look
+446            56             5         047            203             -1             //Shadow Look
+446            56             5         047            203             -1             //Shadow Look
+446            56             5         047            203             -1             //Shadow Look
+446            56             5         047            203             -1             //Shadow Look
+
+449            56             5         109            231             -1             //Blaze Napin
+449            56             5         109            231             -1             //Blaze Napin
+449            56             5         109            231             -1             //Blaze Napin
+449            56             5         109            231             -1             //Blaze Napin
+449            56             5         109            231             -1             //Blaze Napin
+449            56             5         109            231             -1             //Blaze Napin
+449            56             5         109            231             -1             //Blaze Napin
+449            56             5         109            231             -1             //Blaze Napin
+
+449            56             5         096            166             -1             //Blaze Napin
+449            56             5         096            166             -1             //Blaze Napin
+449            56             5         096            166             -1             //Blaze Napin
+449            56             5         096            166             -1             //Blaze Napin
+449            56             5         096            166             -1             //Blaze Napin
+449            56             5         096            166             -1             //Blaze Napin
+449            56             5         096            166             -1             //Blaze Napin
+449            56             5         096            166             -1             //Blaze Napin
+
+449            56             5         133            229             -1             //Blaze Napin
+449            56             5         133            229             -1             //Blaze Napin
+449            56             5         133            229             -1             //Blaze Napin
+449            56             5         133            229             -1             //Blaze Napin
+449            56             5         133            229             -1             //Blaze Napin
+449            56             5         133            229             -1             //Blaze Napin
+449            56             5         133            229             -1             //Blaze Napin
+449            56             5         133            229             -1             //Blaze Napin
+
+442            56             5         025            045             -1             //Sapi-Duo
+442            56             5         025            045             -1             //Sapi-Duo
+442            56             5         025            045             -1             //Sapi-Duo
+442            56             5         025            045             -1             //Sapi-Duo
+442            56             5         025            045             -1             //Sapi-Duo
+442            56             5         025            045             -1             //Sapi-Duo
+442            56             5         025            045             -1             //Sapi-Duo
+442            56             5         025            045             -1             //Sapi-Duo
+
+442            56             5         028            008             -1             //Sapi-Duo
+442            56             5         028            008             -1             //Sapi-Duo
+442            56             5         028            008             -1             //Sapi-Duo
+442            56             5         028            008             -1             //Sapi-Duo
+442            56             5         028            008             -1             //Sapi-Duo
+442            56             5         028            008             -1             //Sapi-Duo
+442            56             5         028            008             -1             //Sapi-Duo
+442            56             5         028            008             -1             //Sapi-Duo
+
+442            56             5         052            027             -1             //Sapi-Duo
+442            56             5         052            027             -1             //Sapi-Duo
+442            56             5         052            027             -1             //Sapi-Duo
+442            56             5         052            027             -1             //Sapi-Duo
+442            56             5         052            027             -1             //Sapi-Duo
+442            56             5         052            027             -1             //Sapi-Duo
+442            56             5         052            027             -1             //Sapi-Duo
+442            56             5         052            027             -1             //Sapi-Duo
+
+442            56             5         064            076             -1             //Sapi-Duo
+442            56             5         064            076             -1             //Sapi-Duo
+442            56             5         064            076             -1             //Sapi-Duo
+442            56             5         064            076             -1             //Sapi-Duo
+442            56             5         064            076             -1             //Sapi-Duo
+442            56             5         064            076             -1             //Sapi-Duo
+442            56             5         064            076             -1             //Sapi-Duo
+442            56             5         064            076             -1             //Sapi-Duo
+
+442            56             5         059            092             -1             //Sapi-Duo
+442            56             5         059            092             -1             //Sapi-Duo
+442            56             5         059            092             -1             //Sapi-Duo
+442            56             5         059            092             -1             //Sapi-Duo
+442            56             5         059            092             -1             //Sapi-Duo
+442            56             5         059            092             -1             //Sapi-Duo
+442            56             5         059            092             -1             //Sapi-Duo
+442            56             5         059            092             -1             //Sapi-Duo
+
+447            56             5         019            125             -1             //Thunder Napin
+447            56             5         019            125             -1             //Thunder Napin
+447            56             5         019            125             -1             //Thunder Napin
+447            56             5         019            125             -1             //Thunder Napin
+447            56             5         019            125             -1             //Thunder Napin
+447            56             5         019            125             -1             //Thunder Napin
+447            56             5         019            125             -1             //Thunder Napin
+447            56             5         019            125             -1             //Thunder Napin
+
+444            56             5         234            012             -1             //Shadow Pawn
+444            56             5         234            012             -1             //Shadow Pawn
+444            56             5         234            012             -1             //Shadow Pawn
+444            56             5         234            012             -1             //Shadow Pawn
+444            56             5         234            012             -1             //Shadow Pawn
+444            56             5         234            012             -1             //Shadow Pawn
+444            56             5         234            012             -1             //Shadow Pawn
+444            56             5         234            012             -1             //Shadow Pawn
+
+444            56             5         209            048             -1             //Shadow Pawn
+444            56             5         209            048             -1             //Shadow Pawn
+444            56             5         209            048             -1             //Shadow Pawn
+444            56             5         209            048             -1             //Shadow Pawn
+444            56             5         209            048             -1             //Shadow Pawn
+444            56             5         209            048             -1             //Shadow Pawn
+444            56             5         209            048             -1             //Shadow Pawn
+444            56             5         209            048             -1             //Shadow Pawn
+
+444            56             5         175            027             -1             //Shadow Pawn
+444            56             5         175            027             -1             //Shadow Pawn
+444            56             5         175            027             -1             //Shadow Pawn
+444            56             5         175            027             -1             //Shadow Pawn
+444            56             5         175            027             -1             //Shadow Pawn
+444            56             5         175            027             -1             //Shadow Pawn
+444            56             5         175            027             -1             //Shadow Pawn
+444            56             5         175            027             -1             //Shadow Pawn
+
+444            56             5         154            013             -1             //Shadow Pawn
+444            56             5         154            013             -1             //Shadow Pawn
+444            56             5         154            013             -1             //Shadow Pawn
+444            56             5         154            013             -1             //Shadow Pawn
+444            56             5         154            013             -1             //Shadow Pawn
+444            56             5         154            013             -1             //Shadow Pawn
+444            56             5         154            013             -1             //Shadow Pawn
+444            56             5         154            013             -1             //Shadow Pawn
+
+445            56             5         124            017             -1             //Shadow Knight
+445            56             5         124            017             -1             //Shadow Knight
+445            56             5         124            017             -1             //Shadow Knight
+445            56             5         124            017             -1             //Shadow Knight
+445            56             5         124            017             -1             //Shadow Knight
+445            56             5         124            017             -1             //Shadow Knight
+445            56             5         124            017             -1             //Shadow Knight
+445            56             5         124            017             -1             //Shadow Knight
+
+445            56             5         135            031             -1             //Shadow Knight
+445            56             5         135            031             -1             //Shadow Knight
+445            56             5         135            031             -1             //Shadow Knight
+445            56             5         135            031             -1             //Shadow Knight
+445            56             5         135            031             -1             //Shadow Knight
+445            56             5         135            031             -1             //Shadow Knight
+445            56             5         135            031             -1             //Shadow Knight
+445            56             5         135            031             -1             //Shadow Knight
+
+443            56             5         145            043             -1             //Sapi-Tres
+443            56             5         145            043             -1             //Sapi-Tres
+443            56             5         145            043             -1             //Sapi-Tres
+443            56             5         145            043             -1             //Sapi-Tres
+443            56             5         145            043             -1             //Sapi-Tres
+443            56             5         145            043             -1             //Sapi-Tres
+443            56             5         145            043             -1             //Sapi-Tres
+443            56             5         145            043             -1             //Sapi-Tres
+
+443            56             5         231            083             -1             //Sapi-Tres
+443            56             5         231            083             -1             //Sapi-Tres
+443            56             5         231            083             -1             //Sapi-Tres
+443            56             5         231            083             -1             //Sapi-Tres
+443            56             5         231            083             -1             //Sapi-Tres
+443            56             5         231            083             -1             //Sapi-Tres
+443            56             5         231            083             -1             //Sapi-Tres
+443            56             5         231            083             -1             //Sapi-Tres
+
+443            56             5         161            039             -1             //Sapi-Tres
+443            56             5         161            039             -1             //Sapi-Tres
+443            56             5         161            039             -1             //Sapi-Tres
+443            56             5         161            039             -1             //Sapi-Tres
+443            56             5         161            039             -1             //Sapi-Tres
+443            56             5         161            039             -1             //Sapi-Tres
+443            56             5         161            039             -1             //Sapi-Tres
+443            56             5         161            039             -1             //Sapi-Tres
+
+
+557            56             5         169            219             -1             //Sapi Queen
+557            56             5         169            219             -1             //Sapi Queen
+557            56             5         169            219             -1             //Sapi Queen
+557            56             5         169            219             -1             //Sapi Queen
+557            56             5         169            219             -1             //Sapi Queen
+557            56             5         169            219             -1             //Sapi Queen
+557            56             5         169            219             -1             //Sapi Queen
+557            56             5         169            219             -1             //Sapi Queen
+
+557            56             5         237            237             -1             //Sapi Queen
+557            56             5         237            237             -1             //Sapi Queen
+557            56             5         237            237             -1             //Sapi Queen
+557            56             5         237            237             -1             //Sapi Queen
+557            56             5         237            237             -1             //Sapi Queen
+557            56             5         237            237             -1             //Sapi Queen
+557            56             5         237            237             -1             //Sapi Queen
+557            56             5         237            237             -1             //Sapi Queen
+
+557            56             5         224            214             -1             //Sapi Queen
+557            56             5         224            214             -1             //Sapi Queen
+557            56             5         224            214             -1             //Sapi Queen
+557            56             5         224            214             -1             //Sapi Queen
+557            56             5         224            214             -1             //Sapi Queen
+557            56             5         224            214             -1             //Sapi Queen
+557            56             5         224            214             -1             //Sapi Queen
+557            56             5         224            214             -1             //Sapi Queen
+
+557            56             5         190            192             -1             //Sapi Queen
+557            56             5         190            192             -1             //Sapi Queen
+557            56             5         190            192             -1             //Sapi Queen
+557            56             5         190            192             -1             //Sapi Queen
+557            56             5         190            192             -1             //Sapi Queen
+557            56             5         190            192             -1             //Sapi Queen
+557            56             5         190            192             -1             //Sapi Queen
+557            56             5         190            192             -1             //Sapi Queen
+
+558            56             5         222            184             -1             //Ice Napin
+558            56             5         222            184             -1             //Ice Napin
+558            56             5         222            184             -1             //Ice Napin
+558            56             5         222            184             -1             //Ice Napin
+558            56             5         222            184             -1             //Ice Napin
+558            56             5         222            184             -1             //Ice Napin
+558            56             5         222            184             -1             //Ice Napin
+558            56             5         222            184             -1             //Ice Napin
+
+558            56             5         222            149             -1             //Ice Napin
+558            56             5         222            149             -1             //Ice Napin
+558            56             5         222            149             -1             //Ice Napin
+558            56             5         222            149             -1             //Ice Napin
+558            56             5         222            149             -1             //Ice Napin
+558            56             5         222            149             -1             //Ice Napin
+558            56             5         222            149             -1             //Ice Napin
+558            56             5         222            149             -1             //Ice Napin
+
+559            56             5         181            140             -1             //Shadow Master
+559            56             5         181            140             -1             //Shadow Master
+559            56             5         181            140             -1             //Shadow Master
+559            56             5         181            140             -1             //Shadow Master
+559            56             5         181            140             -1             //Shadow Master
+559            56             5         181            140             -1             //Shadow Master
+559            56             5         181            140             -1             //Shadow Master
+559            56             5         181            140             -1             //Shadow Master
+
+559            56             5         181            118             -1             //Shadow Master
+559            56             5         181            118             -1             //Shadow Master
+559            56             5         181            118             -1             //Shadow Master
+559            56             5         181            118             -1             //Shadow Master
+559            56             5         181            118             -1             //Shadow Master
+559            56             5         181            118             -1             //Shadow Master
+559            56             5         181            118             -1             //Shadow Master
+559            56             5         181            118             -1             //Shadow Master
+
+559            56             5         206            114             -1             //Shadow Master
+559            56             5         206            114             -1             //Shadow Master
+559            56             5         206            114             -1             //Shadow Master
+559            56             5         206            114             -1             //Shadow Master
+559            56             5         206            114             -1             //Shadow Master
+559            56             5         206            114             -1             //Shadow Master
+559            56             5         206            114             -1             //Shadow Master
+559            56             5         206            114             -1             //Shadow Master
+
+
+442            56             5         039            118             -1             //HOT SPOT Swamp 
+444            56             5         039            118             -1             //HOT SPOT Swamp 
+446            56             5         039            118             -1             //HOT SPOT Swamp 
+447            56             5         039            118             -1             //HOT SPOT Swamp 
+449            56             5         039            118             -1             //HOT SPOT Swamp 
+557            56             5         039            118             -1             //HOT SPOT Swamp 
+558            56             5         039            118             -1             //HOT SPOT Swamp 
+559            56             5         039            118             -1             //HOT SPOT Swamp 
+442            56             5         039            118             -1             //HOT SPOT Swamp 
+444            56             5         039            118             -1             //HOT SPOT Swamp 
+
+
+
+
+
+end

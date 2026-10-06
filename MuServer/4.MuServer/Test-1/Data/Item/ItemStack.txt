@@ -1,0 +1,77 @@
+//Index   Level   MaxStack   CreateIndex   BreakUp
+2055      *       255        *             0             // Crossbow Arrow
+2063      *       255        *             0             // Bow Arrow
+6159      *       255        *             1             // Chaos Origin Jewel
+6176      *       255        *             1             // (Box) Dragon Weapon
+6178      *       255        *             1             // (Box) Jewelry
+6688      *       20         *             0             // Armor Fragment
+6689      *       20         *             0             // Goddess Protection
+6690      *       10         *             0             // Wolf Fang
+7168      *       255        *             0             // Apple
+7169      *       255        *             0             // Small Health Potion
+7170      *       255        *             0             // Health Potion
+7171      *       255        *             0             // Large Health Potion
+7172      *       255        *             0             // Small Mana Potion
+7173      *       255        *             0             // Mana Potion
+7174      *       255        *             0             // Large Mana Potion
+7175      *       255        *             0             // Combination Potion
+7176      *       255        *             0             // Antidote
+7181      *       255        *             1             // Wish Jewel
+7182      *       255        *             1             // Spirit Jewel
+7184      *       255        *             1             // Life Jewel
+7189      *       255        *             0             // Rena Emblem
+7190      *       255        *             1             // Creation Jewel
+7197      *       5          7196          0             // Kundun Emblem
+7199      *       255        *             1             // Guardian Stone
+7203      *       255        *             0             // Small SD Potion
+7204      *       255        *             0             // Medium SD Potion
+7205      *       255        *             0             // Large SD Potion
+7206      *       255        *             0             // Small Combination Potion
+7207      *       255        *             0             // Medium Combination Potion
+7208      *       255        *             0             // Large Combination Potion
+7209      *       255        *             1             // Primal Stone
+7210      *       255        *             1             // Creation Stone
+7211      *       255        *             1             // Basic Refining Stone
+7212      *       255        *             1             // Advanced Refining Stone
+7220      *       255        *             1             // GM Gift
+7238      *       255        *             0             // Premium HP Potion
+7239      *       255        *             0             // Premium Mana Potion
+7268      *       255        *             0             // Lucky Coin
+7269      *       5          7270          0             // Annotation Scroll
+7278      *       5          7279          0             // Dopple Emblem
+7412      *       255        *             1             // Level Jewel
+7413      *       255        *             1             // Ultimate Skill Jewel
+7414      *       255        *             1             // Luck Jewel
+7415      *       255        *             1             // Feature Jewel
+7416      *       255        *             1             // Perfect Jewel
+7417      *       255        *             1             // Socket Jewel
+7418      *       255        *             1             // Divine Jewel Type 1
+7419      *       255        *             1             // Divine Jewel Type 2
+7420      *       255        *             1             // Full Jewel
+7427      *       255        *             1             // Advancement Jewel
+7325      *       255        *             1             // (Box) Level 7
+7326      *       255        *             1             // (Box) Level 8
+7327      *       255        *             1             // (Box) 400
+7388      *       255        *             1             // Blood God Box
+7389      *       255        *             1             // Dark God Box
+7390      *       255        *             1             // Holy God Box
+7391      *       255        *             1             // Awakening Box
+7392      *       255        *             1             // Blue Eye Box
+7393      *       255        *             1             // Silver Heart Box
+7394      *       255        *             1             // Fierce Lion Box
+7395      *       255        *             1             // Nebula Box
+7396      *       255        *             1             // Apocalypse Box
+7397      *       255        *             1             // Thunder Box
+7398      *       255        *             1             // Legend Box
+7402      *       255        *             1             // Wing Feather Box
+7403      *       255        *             1             // Pet Feather Box
+7404      *       255        *             1             // Box Custom 1
+7405      *       255        *             1             // Box Custom 2
+7406      *       255        *             1             // Box Custom 3
+7407      *       255        *             1             // Box Custom 4
+7179      8       255        *             1             // Lucky Box
+7179      9       255        *             1             // Lucky Box
+7179      10      255        *             1             // Lucky Box
+7179      11      255        *             1             // Lucky Box
+7179      12      255        *             1             // Lucky Box
+end

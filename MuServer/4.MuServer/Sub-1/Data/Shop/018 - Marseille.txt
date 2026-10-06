@@ -1,0 +1,41 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop created with GoldMU.Net [Shop Editor]
+//Phone: 0987 819 266
+///////////////////////////
+//Shop: 018 - Marseille
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur		Skill	Luck	Option	ExcOpt	Anc		JoH		Oex		Socket1	Socket2	Socket3	Socket4	Socket5	ItemName
+/////////////////////////////////////////////////////////////////////////////
+//
+7		39		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Sorcerer Helm
+7		40		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Heavenly Flame Helm
+7		41		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Magic Helm
+7		42		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Demon Subduing Helm
+8		39		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Sorcerer Armor
+8		40		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Heavenly Flame Armor
+8		41		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Magic Armor
+8		42		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Demon Subduing Armor
+9		39		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Sorcerer Pants
+9		40		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Heavenly Flame Pants
+9		41		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Magic Pants
+9		42		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Demon Subduing Pants
+10		39		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Sorcerer Gloves
+10		40		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Heavenly Flame Gloves
+10		41		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Magic Gloves
+10		42		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Demon Subduing Gloves
+11		39		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Sorcerer Boots
+11		40		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Heavenly Flame Boots
+11		41		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Magic Boots
+11		42		0		0		0		1		0		0		0		0		0		255		255		255		255		255		//Demon Subduing Boots
+15		3		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Fireball
+15		10		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Sound Wave
+15		1		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Meteorite
+15		19		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Lightning
+15		20		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Blood Drain
+15		21		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Electric Shock
+15		22		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Reflection
+15		23		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Attack Protection
+15		24		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Sleep
+15		26		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Decrease Attack Power
+15		27		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Book of Decrease Defense
+end

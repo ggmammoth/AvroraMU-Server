@@ -1,0 +1,116 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br MAMMOTH SPOTS
+//=========================================================================================================================================
+// NPCS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+259            25             00         007            019            02             //Oracle Layla
+end
+
+
+
+//=========================================================================================================================================
+// [SPOTS] KALIMA 2
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+180            25             0          035            049            035          049         -1             8            //Schinker
+180            25             0          039            113            039          113         -1             8            //Schinker
+end
+//=========================================================================================================================================
+// MONSTERS
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+
+177            25             2          014           020            4            //Aegis
+177            25             2          014           020            4            //Aegis
+177            25             2          014           020            4            //Aegis
+177            25             2          014           020            4            //Aegis
+177            25             2          014           020            4            //Aegis
+177            25             2          014           020            4            //Aegis
+177            25             2          014           020            4            //Aegis
+177            25             2          014           020            4            //Aegis
+
+
+177            25             2          060           024            4            //Aegis
+177            25             2          060           024            4            //Aegis
+177            25             2          060           024            4            //Aegis
+177            25             2          060           024            4            //Aegis
+177            25             2          060           024            4            //Aegis
+177            25             2          060           024            4            //Aegis
+177            25             2          060           024            4            //Aegis
+177            25             2          060           024            4            //Aegis
+
+
+
+178            25             2          099           10            4            //Rogue Centurion
+178            25             2          099           10            4            //Rogue Centurion
+178            25             2          099           10            4            //Rogue Centurion
+178            25             2          099           10            4            //Rogue Centurion
+178            25             2          099           10            4            //Rogue Centurion
+178            25             2          099           10            4            //Rogue Centurion
+178            25             2          099           10            4            //Rogue Centurion
+178            25             2          099           10            4            //Rogue Centurion
+
+
+
+
+176            25             2          111           35            4            //Blood Soldier
+176            25             2          111           35            4            //Blood Soldier
+176            25             2          111           35            4            //Blood Soldier
+176            25             2          111           35            4            //Blood Soldier
+176            25             2          111           35            4            //Blood Soldier
+176            25             2          111           35            4            //Blood Soldier
+176            25             2          111           35            4            //Blood Soldier
+176            25             2          111           35            4            //Blood Soldier
+
+
+174            25             2          110           64            4            //Death Angel
+174            25             2          110           64            4            //Death Angel
+174            25             2          110           64            4            //Death Angel
+174            25             2          110           64            4            //Death Angel
+174            25             2          110           64            4            //Death Angel
+174            25             2          110           64            4            //Death Angel
+174            25             2          110           64            4            //Death Angel
+174            25             2          110           64            4            //Death Angel
+
+
+174            25             2          101           101            4            //Death Angel
+174            25             2          101           101            4            //Death Angel
+174            25             2          101           101            4            //Death Angel
+174            25             2          101           101            4            //Death Angel
+174            25             2          101           101            4            //Death Angel
+174            25             2          101           101            4            //Death Angel
+174            25             2          101           101            4            //Death Angel
+174            25             2          101           101            4            //Death Angel
+
+
+
+
+179            25             2          86           77            4            //Necron
+179            25             2          86           77            4            //Necron
+179            25             2          86           77            4            //Necron
+179            25             2          86           77            4            //Necron
+179            25             2          86           77            4            //Necron
+179            25             2          86           77            4            //Necron
+179            25             2          86           77            4            //Necron
+179            25             2          86           77            4            //Necron
+
+
+175            25             2          61           74            4            //Death Centurion
+175            25             2          61           74            4            //Death Centurion
+175            25             2          61           74            4            //Death Centurion
+175            25             2          61           74            4            //Death Centurion
+175            25             2          61           74            4            //Death Centurion
+175            25             2          61           74            4            //Death Centurion
+175            25             2          61           74            4            //Death Centurion
+175            25             2          61           74            4            //Death Centurion
+
+
+
+181            25             30         026            076            -1             //Illusion of Kundun
+end
+
+

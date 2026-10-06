@@ -1,0 +1,510 @@
+//Section   Type   MaxSocket   Comment
+0           26     5           //Fire Dragon Sword
+0           27     5           //Jade Sword
+0           28     5           //Overlord Sword
+0           47     5           //Emperor's Blade
+0           51     5           //Emperor's Sword
+0           52     5           //Lightning Claw
+0           60     5           //Emperor's Claw
+0           61     5           //Emperor's Claw
+0           81     5           //Blood Dragon Claw
+0           83     5           //Emperor's Blade
+2           16     5           //Ice Crystal Mace
+2           17     5           //Thunder Wind Scepter
+2           24     5           //King's Mace
+2           25     5           //Emperor's Scepter
+3           11     5           //Devil Claw
+4           23     5           //Heaven Rain Bow
+4           30     5           //Emperor's Crossbow
+5           30     5           //Gladiator Staff
+5           31     5           //Devil King Staff
+5           32     5           //Astrologer Staff
+5           35     5           //Summoning Staff
+5           49     5           //Fire Dragon Staff
+5           50     5           //Heaven Maiden Hound
+6           17     5           //Glory Shield
+6           18     5           //Gladiator Shield
+6           19     5           //Ice Crystal Shield
+6           20     5           //Aries Shield
+7           30     5           //Divine Demon Helm
+7           45     5           //Mythical Helm
+7           46     5           //Golden Dragon Helm
+7           49     5           //Heaven Rain Helm
+7           50     5           //Parrot Helm
+7           51     5           //Emperor Helm
+7           52     5           //Devil King Helm
+7           53     5           //Astrologer Helm
+7           77     5           //Blood Dragon Helm
+7           100    5           //Blood God Helm DK
+7           101    5           //Blood God Helm DW
+7           102    5           //Blood God Helm ELF
+7           103    5           //Blood God Helm SM
+7           105    5           //Blood God Helm DL
+7           106    5           //Blood God Helm RF
+7           107    5           //Dark God Helm DK
+7           108    5           //Dark God Helm DW
+7           109    5           //Dark God Helm Elf
+7           110    5           //Dark God Helm SM
+7           112    5           //Dark God Helm DL
+7           113    5           //Dark God Helm RF
+7           114    5           //Holy God Helm DK
+7           115    5           //Holy God Helm DW
+7           116    5           //Holy God Helm Elf
+7           117    5           //Holy God Helm SM
+7           119    5           //Holy God Helm DL
+7           120    5           //Holy God Helm RF
+7           121    5           //Awakening Helm DK
+7           122    5           //Awakening Helm DW
+7           123    5           //Awakening Helm Elf
+7           124    5           //Awakening Helm SM
+7           126    5           //Awakening Helm DL
+7           127    5           //Awakening Helm RF
+7           128    5           //Blue Eye Helm DK
+7           129    5           //Blue Eye Helm DW
+7           130    5           //Blue Eye Helm Elf
+7           131    5           //Blue Eye Helm SM
+7           133    5           //Blue Eye Helm DL
+7           134    5           //Blue Eye Helm RF
+7           135    5           //Silver Heart Helm DK
+7           136    5           //Silver Heart Helm DW
+7           137    5           //Silver Heart Helm Elf
+7           138    5           //Silver Heart Helm SM
+7           140    5           //Silver Heart Helm DL
+7           141    5           //Silver Heart Helm RF
+7           142    5           //Fierce Lion Helm DK
+7           143    5           //Fierce Lion Helm DW
+7           144    5           //Fierce Lion Helm Elf
+7           145    5           //Fierce Lion Helm SM
+7           147    5           //Fierce Lion Helm DL
+7           148    5           //Fierce Lion Helm RF
+7           149    5           //Nebula Helm DK
+7           150    5           //Nebula Helm DW
+7           151    5           //Nebula Helm Elf
+7           152    5           //Nebula Helm SM
+7           154    5           //Nebula Helm DL
+7           155    5           //Nebula Helm RF
+7           156    5           //Apocalypse Helm DK
+7           157    5           //Apocalypse Helm DW
+7           158    5           //Apocalypse Helm Elf
+7           159    5           //Apocalypse Helm SM
+7           161    5           //Apocalypse Helm DL
+7           162    5           //Apocalypse Helm RF
+7           163    5           //Thunder Helm DK
+7           164    5           //Thunder Helm DW
+7           165    5           //Thunder Helm Elf
+7           166    5           //Thunder Helm SM
+7           168    5           //Thunder Helm DL
+7           169    5           //Thunder Helm RF
+7           170    5           //Legendary Helm DK
+7           171    5           //Legendary Helm DW
+7           172    5           //Legendary Helm Elf
+7           173    5           //Legendary Helm SM
+7           175    5           //Legendary Helm DL
+7           176    5           //Legendary Helm RF
+7           177    5           //Azure Dragon Helm DK
+7           178    5           //Azure Dragon Helm DW
+7           179    5           //Azure Dragon Helm Elf
+7           180    5           //Azure Dragon Helm SM
+7           182    5           //Azure Dragon Helm DL
+7           183    5           //Azure Dragon Helm RF
+7           184    5           //Heaven-Piercing Helm DK
+7           185    5           //Heaven-Piercing Helm DW
+7           186    5           //Heaven-Piercing Helm Elf
+7           187    5           //Heaven-Piercing Helm SM
+7           189    5           //Heaven-Piercing Helm DL
+7           190    5           //Heaven-Piercing Helm RF
+8           30     5           //Divine Demon Armor
+8           45     5           //Mythical Armor
+8           46     5           //Golden Dragon Armor
+8           47     5           //Phantom Armor
+8           48     5           //Destruction Armor
+8           49     5           //Heaven Rain Armor
+8           50     5           //Parrot Armor
+8           51     5           //Emperor Armor
+8           52     5           //Devil King Armor
+8           53     5           //Astrologer Armor
+8           77     5           //Blood Dragon Armor
+8           100    5           //Blood God Armor DK
+8           101    5           //Blood God Armor DW
+8           102    5           //Blood God Armor Elf
+8           103    5           //Blood God Armor SM
+8           104    5           //Blood God Armor MG
+8           105    5           //Blood God Armor DL
+8           106    5           //Blood God Armor RF
+8           107    5           //Dark God Armor DK
+8           108    5           //Dark God Armor DW
+8           109    5           //Dark God Armor Elf
+8           110    5           //Dark God Armor SM
+8           111    5           //Dark God Armor MG
+8           112    5           //Dark God Armor DL
+8           113    5           //Dark God Armor RF
+8           114    5           //Holy God Armor DK
+8           115    5           //Holy God Armor DW
+8           116    5           //Holy God Armor Elf
+8           117    5           //Holy God Armor SM
+8           118    5           //Holy God Armor MG
+8           119    5           //Holy God Armor DL
+8           120    5           //Holy God Armor RF
+8           121    5           //Awakening Armor DK
+8           122    5           //Awakening Armor DW
+8           123    5           //Awakening Armor Elf
+8           124    5           //Awakening Armor SM
+8           125    5           //Awakening Armor MG
+8           126    5           //Awakening Armor DL
+8           127    5           //Awakening Armor RF
+8           128    5           //Blue Eye Armor DK
+8           129    5           //Blue Eye Armor DW
+8           130    5           //Blue Eye Armor Elf
+8           131    5           //Blue Eye Armor SM
+8           132    5           //Blue Eye Armor MG
+8           133    5           //Blue Eye Armor DL
+8           134    5           //Blue Eye Armor RF
+8           135    5           //Silver Heart Armor DK
+8           136    5           //Silver Heart Armor DW
+8           137    5           //Silver Heart Armor Elf
+8           138    5           //Silver Heart Armor SM
+8           139    5           //Silver Heart Armor MG
+8           140    5           //Silver Heart Armor DL
+8           141    5           //Silver Heart Armor RF
+8           142    5           //Fierce Lion Armor DK
+8           143    5           //Fierce Lion Armor DW
+8           144    5           //Fierce Lion Armor Elf
+8           145    5           //Fierce Lion Armor SM
+8           146    5           //Fierce Lion Armor MG
+8           147    5           //Fierce Lion Armor DL
+8           148    5           //Fierce Lion Armor RF
+8           149    5           //Nebula Armor DK
+8           150    5           //Nebula Armor DW
+8           151    5           //Nebula Armor Elf
+8           152    5           //Nebula Armor SM
+8           153    5           //Nebula Armor MG
+8           154    5           //Nebula Armor DL
+8           155    5           //Nebula Armor RF
+8           156    5           //Apocalypse Armor DK
+8           157    5           //Apocalypse Armor DW
+8           158    5           //Apocalypse Armor Elf
+8           159    5           //Apocalypse Armor SM
+8           160    5           //Apocalypse Armor MG
+8           161    5           //Apocalypse Armor DL
+8           162    5           //Apocalypse Armor RF
+8           163    5           //Thunder Armor DK
+8           164    5           //Thunder Armor DW
+8           165    5           //Thunder Armor Elf
+8           166    5           //Thunder Armor SM
+8           167    5           //Thunder Armor MG
+8           168    5           //Thunder Armor DL
+8           169    5           //Thunder Armor RF
+8           170    5           //Legendary Armor DK
+8           171    5           //Legendary Armor DW
+8           172    5           //Legendary Armor Elf
+8           173    5           //Legendary Armor SM
+8           174    5           //Legendary Armor MG
+8           175    5           //Legendary Armor DL
+8           176    5           //Legendary Armor RF
+8           177    5           //Azure Dragon Armor DK
+8           178    5           //Azure Dragon Armor DW
+8           179    5           //Azure Dragon Armor Elf
+8           180    5           //Azure Dragon Armor SM
+8           181    5           //Azure Dragon Armor MG
+8           182    5           //Azure Dragon Armor DL
+8           183    5           //Azure Dragon Armor RF
+8           184    5           //Heaven-Piercing Armor DK
+8           185    5           //Heaven-Piercing Armor DW
+8           186    5           //Heaven-Piercing Armor Elf
+8           187    5           //Heaven-Piercing Armor SM
+8           188    5           //Heaven-Piercing Armor MG
+8           189    5           //Heaven-Piercing Armor DL
+8           190    5           //Heaven-Piercing Armor RF
+9           30     5           //Divine Demon Pants
+9           45     5           //Mythical Pants
+9           46     5           //Golden Dragon Pants
+9           47     5           //Phantom Pants
+9           48     5           //Destruction Pants
+9           49     5           //Heaven Rain Pants
+9           50     5           //Parrot Pants
+9           51     5           //Emperor Pants
+9           52     5           //Devil King Pants
+9           53     5           //Astrologer Pants
+9           77     5           //Blood Dragon Pants
+9           100    5           //Blood God Pants DK
+9           101    5           //Blood God Pants DW
+9           102    5           //Blood God Pants Elf
+9           103    5           //Blood God Pants SM
+9           104    5           //Blood God Pants MG
+9           105    5           //Blood God Pants DL
+9           106    5           //Blood God Pants RF
+9           107    5           //Dark God Pants DK
+9           108    5           //Dark God Pants DW
+9           109    5           //Dark God Pants Elf
+9           110    5           //Dark God Pants SM
+9           111    5           //Dark God Pants MG
+9           112    5           //Dark God Pants DL
+9           113    5           //Dark God Pants RF
+9           114    5           //Holy God Pants DK
+9           115    5           //Holy God Pants DW
+9           116    5           //Holy God Pants Elf
+9           117    5           //Holy God Pants SM
+9           118    5           //Holy God Pants MG
+9           119    5           //Holy God Pants DL
+9           120    5           //Holy God Pants RF
+9           121    5           //Awakening Pants DK
+9           122    5           //Awakening Pants DW
+9           123    5           //Awakening Pants Elf
+9           124    5           //Awakening Pants SM
+9           125    5           //Awakening Pants MG
+9           126    5           //Awakening Pants DL
+9           127    5           //Awakening Pants RF
+9           128    5           //Blue Eye Pants DK
+9           129    5           //Blue Eye Pants DW
+9           130    5           //Blue Eye Pants Elf
+9           131    5           //Blue Eye Pants SM
+9           132    5           //Blue Eye Pants MG
+9           133    5           //Blue Eye Pants DL
+9           134    5           //Blue Eye Pants RF
+9           135    5           //Silver Heart Pants DK
+9           136    5           //Silver Heart Pants DW
+9           137    5           //Silver Heart Pants Elf
+9           138    5           //Silver Heart Pants SM
+9           139    5           //Silver Heart Pants MG
+9           140    5           //Silver Heart Pants DL
+9           141    5           //Silver Heart Pants RF
+9           142    5           //Fierce Lion Pants DK
+9           143    5           //Fierce Lion Pants DW
+9           144    5           //Fierce Lion Pants Elf
+9           145    5           //Fierce Lion Pants SM
+9           146    5           //Fierce Lion Pants MG
+9           147    5           //Fierce Lion Pants DL
+9           148    5           //Fierce Lion Pants RF
+9           149    5           //Nebula Pants DK
+9           150    5           //Nebula Pants DW
+9           151    5           //Nebula Pants Elf
+9           152    5           //Nebula Pants SM
+9           153    5           //Nebula Pants MG
+9           154    5           //Nebula Pants DL
+9           155    5           //Nebula Pants RF
+9           156    5           //Apocalypse Pants DK
+9           157    5           //Apocalypse Pants DW
+9           158    5           //Apocalypse Pants Elf
+9           159    5           //Apocalypse Pants SM
+9           160    5           //Apocalypse Pants MG
+9           161    5           //Apocalypse Pants DL
+9           162    5           //Apocalypse Pants RF
+9           163    5           //Thunder Pants DK
+9           164    5           //Thunder Pants DW
+9           165    5           //Thunder Pants Elf
+9           166    5           //Thunder Pants SM
+9           167    5           //Thunder Pants MG
+9           168    5           //Thunder Pants DL
+9           169    5           //Thunder Pants RF
+9           170    5           //Legendary Pants DK
+9           171    5           //Legendary Pants DW
+9           172    5           //Legendary Pants Elf
+9           173    5           //Legendary Pants SM
+9           174    5           //Legendary Pants MG
+9           175    5           //Legendary Pants DL
+9           176    5           //Legendary Pants RF
+9           177    5           //Azure Dragon Pants DK
+9           178    5           //Azure Dragon Pants DW
+9           179    5           //Azure Dragon Pants Elf
+9           180    5           //Azure Dragon Pants SM
+9           181    5           //Azure Dragon Pants MG
+9           182    5           //Azure Dragon Pants DL
+9           183    5           //Azure Dragon Pants RF
+9           184    5           //Heaven-Piercing Pants DK
+9           185    5           //Heaven-Piercing Pants DW
+9           186    5           //Heaven-Piercing Pants Elf
+9           187    5           //Heaven-Piercing Pants SM
+9           188    5           //Heaven-Piercing Pants MG
+9           189    5           //Heaven-Piercing Pants DL
+9           190    5           //Heaven-Piercing Pants RF
+10          30     5           //Divine Demon Gloves
+10          45     5           //Mythical Gloves
+10          46     5           //Golden Dragon Gloves
+10          47     5           //Phantom Gloves
+10          48     5           //Destruction Gloves
+10          49     5           //Heaven Rain Gloves
+10          50     5           //Parrot Gloves
+10          51     5           //Emperor Gloves
+10          52     5           //Devil King Gloves
+10          53     5           //Astrologer Gloves
+10          100    5           //Blood God Gloves DK
+10          101    5           //Blood God Gloves DW
+10          102    5           //Blood God Gloves Elf
+10          103    5           //Blood God Gloves SM
+10          104    5           //Blood God Gloves MG
+10          105    5           //Blood God Gloves DL
+10          107    5           //Dark God Gloves DK
+10          108    5           //Dark God Gloves DW
+10          109    5           //Dark God Gloves Elf
+10          110    5           //Dark God Gloves SM
+10          111    5           //Dark God Gloves MG
+10          112    5           //Dark God Gloves DL
+10          114    5           //Holy God Gloves DK
+10          115    5           //Holy God Gloves DW
+10          116    5           //Holy God Gloves Elf
+10          117    5           //Holy God Gloves SM
+10          118    5           //Holy God Gloves MG
+10          119    5           //Holy God Gloves DL
+10          121    5           //Awakening Gloves DK
+10          122    5           //Awakening Gloves DW
+10          123    5           //Awakening Gloves Elf
+10          124    5           //Awakening Gloves SM
+10          125    5           //Awakening Gloves MG
+10          126    5           //Awakening Gloves DL
+10          128    5           //Blue Eye Gloves DK
+10          129    5           //Blue Eye Gloves DW
+10          130    5           //Blue Eye Gloves Elf
+10          131    5           //Blue Eye Gloves SM
+10          132    5           //Blue Eye Gloves MG
+10          133    5           //Blue Eye Gloves DL
+10          135    5           //Silver Heart Gloves DK
+10          136    5           //Silver Heart Gloves DW
+10          137    5           //Silver Heart Gloves Elf
+10          138    5           //Silver Heart Gloves SM
+10          139    5           //Silver Heart Gloves MG
+10          140    5           //Silver Heart Gloves DL
+10          142    5           //Fierce Lion Gloves DK
+10          143    5           //Fierce Lion Gloves DW
+10          144    5           //Fierce Lion Gloves Elf
+10          145    5           //Fierce Lion Gloves SM
+10          146    5           //Fierce Lion Gloves MG
+10          147    5           //Fierce Lion Gloves DL
+10          149    5           //Nebula Gloves DK
+10          150    5           //Nebula Gloves DW
+10          151    5           //Nebula Gloves Elf
+10          152    5           //Nebula Gloves SM
+10          153    5           //Nebula Gloves MG
+10          154    5           //Nebula Gloves DL
+10          156    5           //Apocalypse Gloves DK
+10          157    5           //Apocalypse Gloves DW
+10          158    5           //Apocalypse Gloves Elf
+10          159    5           //Apocalypse Gloves SM
+10          160    5           //Apocalypse Gloves MG
+10          161    5           //Apocalypse Gloves DL
+10          163    5           //Thunder Gloves DK
+10          164    5           //Thunder Gloves DW
+10          165    5           //Thunder Gloves Elf
+10          166    5           //Thunder Gloves SM
+10          167    5           //Thunder Gloves MG
+10          168    5           //Thunder Gloves DL
+10          170    5           //Legendary Gloves DK
+10          171    5           //Legendary Gloves DW
+10          172    5           //Legendary Gloves Elf
+10          173    5           //Legendary Gloves SM
+10          174    5           //Legendary Gloves MG
+10          175    5           //Legendary Gloves DL
+10          177    5           //Azure Dragon Gloves DK
+10          178    5           //Azure Dragon Gloves DW
+10          179    5           //Azure Dragon Gloves Elf
+10          180    5           //Azure Dragon Gloves SM
+10          181    5           //Azure Dragon Gloves MG
+10          182    5           //Azure Dragon Gloves DL
+10          184    5           //Heaven-Piercing Gloves DK
+10          185    5           //Heaven-Piercing Gloves DW
+10          186    5           //Heaven-Piercing Gloves Elf
+10          187    5           //Heaven-Piercing Gloves SM
+10          188    5           //Heaven-Piercing Gloves MG
+10          189    5           //Heaven-Piercing Gloves DL
+11          30     5           //Divine Demon Boots
+11          45     5           //Mythical Boots
+11          46     5           //Golden Dragon Boots
+11          47     5           //Phantom Boots
+11          48     5           //Destruction Boots
+11          49     5           //Heaven Rain Boots
+11          50     5           //Parrot Boots
+11          51     5           //Emperor Boots
+11          52     5           //Devil King Boots
+11          53     5           //Astrologer Boots
+11          77     5           //Blood Dragon Boots
+11          100    5           //Blood God Boots DK
+11          101    5           //Blood God Boots DW
+11          102    5           //Blood God Boots Elf
+11          103    5           //Blood God Boots SM
+11          104    5           //Blood God Boots MG
+11          105    5           //Blood God Boots DL
+11          106    5           //Blood God Boots RF
+11          107    5           //Dark God Boots DK
+11          108    5           //Dark God Boots DW
+11          109    5           //Dark God Boots Elf
+11          110    5           //Dark God Boots SM
+11          111    5           //Dark God Boots MG
+11          112    5           //Dark God Boots DL
+11          113    5           //Dark God Boots RF
+11          114    5           //Holy God Boots DK
+11          115    5           //Holy God Boots DW
+11          116    5           //Holy God Boots Elf
+11          117    5           //Holy God Boots SM
+11          118    5           //Holy God Boots MG
+11          119    5           //Holy God Boots DL
+11          120    5           //Holy God Boots RF
+11          121    5           //Awakening Boots DK
+11          122    5           //Awakening Boots DW
+11          123    5           //Awakening Boots Elf
+11          124    5           //Awakening Boots SM
+11          125    5           //Awakening Boots MG
+11          126    5           //Awakening Boots DL
+11          127    5           //Awakening Boots RF
+11          128    5           //Blue Eye Boots DK
+11          129    5           //Blue Eye Boots DW
+11          130    5           //Blue Eye Boots Elf
+11          131    5           //Blue Eye Boots SM
+11          132    5           //Blue Eye Boots MG
+11          133    5           //Blue Eye Boots DL
+11          134    5           //Blue Eye Boots RF
+11          135    5           //Silver Heart Boots DK
+11          136    5           //Silver Heart Boots DW
+11          137    5           //Silver Heart Boots Elf
+11          138    5           //Silver Heart Boots SM
+11          139    5           //Silver Heart Boots MG
+11          140    5           //Silver Heart Boots DL
+11          141    5           //Silver Heart Boots RF
+11          142    5           //Fierce Lion Boots DK
+11          143    5           //Fierce Lion Boots DW
+11          144    5           //Fierce Lion Boots Elf
+11          145    5           //Fierce Lion Boots SM
+11          146    5           //Fierce Lion Boots MG
+11          147    5           //Fierce Lion Boots DL
+11          148    5           //Fierce Lion Boots RF
+11          149    5           //Nebula Boots DK
+11          150    5           //Nebula Boots DW
+11          151    5           //Nebula Boots Elf
+11          152    5           //Nebula Boots SM
+11          153    5           //Nebula Boots MG
+11          154    5           //Nebula Boots DL
+11          155    5           //Nebula Boots RF
+11          156    5           //Apocalypse Boots DK
+11          157    5           //Apocalypse Boots DW
+11          158    5           //Apocalypse Boots Elf
+11          159    5           //Apocalypse Boots SM
+11          160    5           //Apocalypse Boots MG
+11          161    5           //Apocalypse Boots DL
+11          162    5           //Apocalypse Boots RF
+11          163    5           //Thunder Boots DK
+11          164    5           //Thunder Boots DW
+11          165    5           //Thunder Boots Elf
+11          166    5           //Thunder Boots SM
+11          167    5           //Thunder Boots MG
+11          168    5           //Thunder Boots DL
+11          169    5           //Thunder Boots RF
+11          170    5           //Legendary Boots DK
+11          171    5           //Legendary Boots DW
+11          172    5           //Legendary Boots Elf
+11          173    5           //Legendary Boots SM
+11          174    5           //Legendary Boots MG
+11          175    5           //Legendary Boots DL
+11          176    5           //Legendary Boots RF
+11          177    5           //Azure Dragon Boots DK
+11          178    5           //Azure Dragon Boots DW
+11          179    5           //Azure Dragon Boots Elf
+11          180    5           //Azure Dragon Boots SM
+11          181    5           //Azure Dragon Boots MG
+11          182    5           //Azure Dragon Boots DL
+11          183    5           //Azure Dragon Boots RF
+11          184    5           //Heaven-Piercing Boots DK
+11          185    5           //Heaven-Piercing Boots DW
+11          186    5           //Heaven-Piercing Boots Elf
+11          187    5           //Heaven-Piercing Boots SM
+11          188    5           //Heaven-Piercing Boots MG
+11          189    5           //Heaven-Piercing Boots DL
+11          190    5           //Heaven-Piercing Boots RF
+end

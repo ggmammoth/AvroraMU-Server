@@ -1,0 +1,32 @@
+//Index ItemIdx    Life           Mana           Damage         Speed       X2Dmg           ExcDmg          Exp             CriDmg          Refl        PetRec          Str         Agi     Vit     Ene     Lead    Comment             
+//CASE-20261003-013 Test-1: production rows for items absent in Test-1 removed; MuServer2 mounts 13/300+ added
+	1         6956      1000      1000      6         10        1         0         1         0         0         1         0         0         0         0         0         //Ghost Horse
+	2         6957      0         0         0         0         0         0         20        0         0         1         0         0         0         0         0         //Repen (Mount)
+	3         6958      0         0         0         0         0         0         15        0         0         1         0         0         0         0         0         //Repen (Mount Evolved)
+	4         6959      2000      2000      8         20        2         0         1         0         0         1         0         0         0         0         0         //Ice Dragon
+	5         6960      2000      2000      8         20        2         0         1         0         0         1         0         0         0         0         0         //Ice Dragon (Rare)
+	6         6961      3000      3000      10        30        3         0         1         0         0         1         0         0         0         0         0         //Pierce Ryan
+	7         6962      3000      3000      10        30        3         0         1         0         0         1         0         0         0         0         0         //Pierce Ryan (Rare)
+	8         6963      4000      4000      12        40        4         0         1         0         0         1         0         0         0         0         0         //Shining Tail
+	9         6964      4000      4000      12        40        4         0         1         0         0         1         0         0         0         0         0         //Shining Tail (Rare)
+	10        6965      5000      5000      14        50        5         0         1         0         0         1         0         0         0         0         0         //Ur
+	11        6966      5000      5000      14        50        5         0         1         0         0         1         0         0         0         0         0         //Ur (Rare)
+	12        6967      1000      1000      6         10        1         0         1         0         0         1         0         0         0         0         0         //Divine Horse
+	13        6968      6000      6000      16        60        6         0         1         0         0         1         0         0         0         0         0         //Leviathan
+	14        6969      6000      6000      16        60        6         0         1         0         0         1         0         0         0         0         0         //Leviathan (Rare)
+	15        6970      10000     10000     18        70        7         0         1         0         0         1         0         0         0         0         0         //Robot Blue
+	16        6971      16000     16000     23        100       8         0         1         0         0         1         0         0         0         0         0         //Robot Red
+	17        6972      7000      7000      16        70        6         0         1         0         0         1         0         0         0         0         0         //Robot White
+	18        6973      7000      7000      18        70        7         0         1         0         0         1         0         0         0         0         0         //Taurus (Rare)
+	19        6994      1000      1000      6         10        1         0         1         0         0         1         0         0         0         0         0         //Doombringer Horse
+	20        6995      2000      2000      8         20        2         0         1         0         0         1         0         0         0         0         0         //Bloodreaper Horse
+	21        6996      3000      3000      10        30        3         0         1         0         0         1         0         0         0         0         0         //Hellfire Horse
+	22        6997      4000      4000      12        40        4         0         1         0         0         1         0         0         0         0         0         //Abyssal Horse
+	23        6998      5000      5000      14        50        5         0         1         0         0         1         0         0         0         0         0         //Deathlord Horse
+	24        6999      6000      6000      16        60        6         0         1         0         0         1         0         0         0         0         0         //Warbringer Horse
+	25        7000      7000      7000      18        70        7         0         1         0         0         1         0         0         0         0         0         //Darkslayer Horse
+	26        7001      10000     10000     18        70        7         0         1         0         0         1         0         0         0         0         0         //Apocalypse Horse Blue
+	27        7002      16000     16000     23        100       8         0         1         0         0         1         0         0         0         0         0         //Apocalypse Horse Red
+	28        7003      7000      7000      16        70        6         0         1         0         0         1         0         0         0         0         0         //Apocalypse Horse Gold
+	29        6974      10000     10000     23        100       8         0         1         0         0         1         0         0         0         0         0         //Rhino (Rare)
+end

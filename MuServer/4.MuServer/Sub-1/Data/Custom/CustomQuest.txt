@@ -1,0 +1,1040 @@
+//=========================================================================================================================================
+// CASE-20260920-001: ported from IllusionMU (quests 1-115 only; quests 116-311 need monsters/items missing from this server, see cases\CASE-20260920-001.md)
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+//=========================================================================================================================================
+// Sistema de Quests
+//=========================================================================================================================================
+
+//=========================================================================================================================================
+// Require Character Stats
+// Max 1 line per quest
+//=========================================================================================================================================
+0
+//Quest  Level  Reset  MReset  Zen   WC  WP      GP        VipLvl RankUser Kills
+1        *       0       *      0   0       0         0      *        *       *
+2        *       0       *      0   0       0         0      *        *       *
+3        *       0       *      0   0       0         0      *        *       *
+4        *       0       *      0   0       0         0      *        *       *
+5        *       0       *      0   0       0         0      *        *       *
+6        *       0       *      0   0       0         0      *        *       *
+7        *       0       *      0   0       0         0      *        *       *
+8        *       0       *      0   0       0         0      *        *       *
+9        *       0       *      0   0       0         0      *        *       *
+10       *       0       *      0   0       0         0      *        *       *
+11       *       0       *      0   0       0         0      *        *       *
+12       *       0       *      0   0       0         0      *        *       *
+13       *       0       *      0   0       0         0      *        *       *
+14       *       0       *      0   0       0         0      *        *       *
+15       *       0       *      0   0       0         0      *        *       *
+16       *       0       *      0   0       0         0      *        *       *
+17       *       0       *      0   0       0         0      *        *       *
+18       *       0       *      0   0       0         0      *        *       *
+19       *       0       *      0   0       0         0      *        *       *
+20       *       0       *      0   0       0         0      *        *       *
+21       *       0       *      0   0       0         0      *        *       *
+22       *       0       *      0   0       0         0      *        *       *
+23       *       0       *      0   0       0         0      *        *       *
+24       *       0       *      0   0       0         0      *        *       *
+25       *       0       *      0   0       0         0      *        *       *
+26       *       0       *      0   0       0         0      *        *       *
+27       *       0       *      0   0       0         0      *        *       *
+28       *       0       *      0   0       0         0      *        *       *
+29       *       0       *      0   0       0         0      *        *       *
+30       *       0       *      0   0       0         0      *        *       *
+31       *       0       *      0   0       0         0      *        *       *
+32       *       0       *      0   0       0         0      *        *       *
+33       *       0       *      0   0       0         0      *        *       *
+34       *       0       *      0   0       0         0      *        *       *
+35       *       0       *      0   0       0         0      *        *       *
+36       *       0       *      0   0       0         0      *        *       *
+37       *       0       *      0   0       0         0      *        *       *
+38       *       0       *      0   0       0         0      *        *       *
+39       *       0       *      0   0       0         0      *        *       *
+40       *       0       *      0   0       0         0      *        *       *
+41       *       0       *      0   0       0         0      *        *       *
+42       *       0       *      0   0       0         0      *        *       *
+43       *       0       *      0   0       0         0      *        *       *
+44       *       0       *      0   0       0         0      *        *       *
+45       *       0       *      0   0       0         0      *        *       *
+46       *       0       *      0   0       0         0      *        *       *
+47       *       0       *      0   0       0         0      *        *       *
+48       *       0       *      0   0       0         0      *        *       *
+49       *       0       *      0   0       0         0      *        *       *
+50       *       0       *      0   0       0         0      *        *       *
+51       *       0       *      0   0       0         0      *        *       *
+52       *       0       *      0   0       0         0      *        *       *
+53       *       0       *      0   0       0         0      *        *       *
+54       *       0       *      0   0       0         0      *        *       *
+55       *       0       *      0   0       0         0      *        *       *
+56       *       0       *      0   0       0         0      *        *       *
+57       *       0       *      0   0       0         0      *        *       *
+58       *       0       *      0   0       0         0      *        *       *
+59       *       0       *      0   0       0         0      *        *       *
+60       *       0       *      0   0       0         0      *        *       *
+61       *       0       *      0   0       0         0      *        *       *
+62       *       0       *      0   0       0         0      *        *       *
+63       *       0       *      0   0       0         0      *        *       *
+64       *       0       *      0   0       0         0      *        *       *
+65       *       0       *      0   0       0         0      *        *       *
+66       *       0       *      0   0       0         0      *        *       *
+67       *       0       *      0   0       0         0      *        *       *
+68       *       0       *      0   0       0         0      *        *       *
+69       *       0       *      0   0       0         0      *        *       *
+70       *       0       *      0   0       0         0      *        *       *
+71       *       0       *      0   0       0         0      *        *       *
+72       *       0       *      0   0       0         0      *        *       *
+73       *       0       *      0   0       0         0      *        *       *
+74       *       0       *      0   0       0         0      *        *       *
+75       *       0       *      0   0       0         0      *        *       *
+76       *       0       *      0   0       0         0      *        *       *
+77       *       0       *      0   0       0         0      *        *       *
+78       *       0       *      0   0       0         0      *        *       *
+79       *       0       *      0   0       0         0      *        *       *
+80       *       0       *      0   0       0         0      *        *       *
+81       *       0       *      0   0       0         0      *        *       *
+82       *       0       *      0   0       0         0      *        *       *
+83       *       0       *      0   0       0         0      *        *       *
+84       *       0       *      0   0       0         0      *        *       *
+85       *       0       *      0   0       0         0      *        *       *
+86       *       0       *      0   0       0         0      *        *       *
+87       *       0       *      0   0       0         0      *        *       *
+88       *       0       *      0   0       0         0      *        *       *
+89       *       0       *      0   0       0         0      *        *       *
+90       *       0       *      0   0       0         0      *        *       *
+91       *       0       *      0   0       0         0      *        *       *
+92       *       0       *      0   0       0         0      *        *       *
+93       *       0       *      0   0       0         0      *        *       *
+94       *       0       *      0   0       0         0      *        *       *
+95       *       0       *      0   0       0         0      *        *       *
+96       *       0       *      0   0       0         0      *        *       *
+97       *       0       *      0   0       0         0      *        *       *
+98       *       0       *      0   0       0         0      *        *       *
+99       *       0       *      0   0       0         0      *        *       *
+100      *       0       *      0   0       0         0      *        *       *
+101      *       0       *      0   0       0         0      *        *       *
+102      *       0       *      0   0       0         0      *        *       *
+103      *       0       *      0   0       0         0      *        *       *
+104      *       0       *      0   0       0         0      *        *       *
+105      *       0       *      0   0       0         0      *        *       *
+106      *       0       *      0   0       0         0      *        *       *
+107      *       0       *      0   0       0         0      *        *       *
+108      *       0       *      0   0       0         0      *        *       *
+109      *       0       *      0   0       0         0      *        *       *
+110      *       0       *      0   0       0         0      *        *       *
+111      *       0       *      0   0       0         0      *        *       *
+112      *       0       *      0   0       0         0      *        *       *
+113      *       0       *      0   0       0         0      *        *       *
+114      *       0       *      0   0       0         0      *        *       *
+115      *       0       *      0   0       0         0      *        *       *
+
+end
+
+//=========================================================================================================================================
+// Require Item
+// O item será removido - The Item will be removed
+//  Luck:   0 = sem Luck,   1 = com Luck,   * = qualquer
+//  Skill:  0 = sem Skill,  1 = com Skill,  * = qualquer
+//=========================================================================================================================================
+1
+//Quest Cat Item  Level Luck  Skill  Qtd
+//Lorencia
+//Pick Healing Orb
+3    12    8    *    *    *    1
+//Pick Scroll of Power Wave
+6    15    10    *    *    *    1
+//Pick Imp
+10   13    1    *    *    *    1
+
+//Noria
+//Pick Buckler 
+14   6    4    *    *    *    1
+//Pick Scroll of Teleport
+17   15    5    *    *    *    1
+//Pick Short Sword
+19   0    1    *    *    *   1
+
+//Elbeland
+//Pick Elven Axe
+23   1    4    *    *    *    1
+//Pick Battle Axe
+27   1    5    *    *    *    1
+//Pick Light Saber
+31   0    10    *    *    *    1
+
+//Devias
+//Pick Orb of Greater Damage
+36   12    10    *    *    *    1
+//Pick Tomahawk
+40   1    3    *    *    *    1
+
+//Dungeon
+//Pick Plate Shield
+43   6    9    *    *    *    1
+//Pick Tower Shield + Luck
+46   6    8    *    *    *    1
+//Pick Scroll of Flame
+49   15    4    *    *    *    1
+//Pick Orb of Twisting slash
+52   12    7    *    *    *    1
+//Pick Scroll of Twister
+55   15    7    *    *    *    1
+
+//Atlans
+//Pick Light Spear
+58   3    0    *    *    *    1
+//Pick Book of Lagle + Luck
+61   5    23    *    *    *    1
+//Pick Eclipse Boots + Luck
+64   11    35    *    *    *    1
+
+//Losttower
+//Pick Serpent Shield + Luck
+66   6    11    *    *    *    1
+//Pick Larkan Axe
+69   1    7    *    *    *    1
+//Pick Heliacal Sword
+72   0    12    *    *    *    1
+//Pick Lighting Sword
+75   0    14    *    *    *    1
+
+//Tarkan
+//Pick Black Dragon Boots + Luck
+80   11    16    *    *    *    1
+//Pick Dark Steel Boots + Luck
+83   11    27    *    1    *    1
+
+//Icarus
+//Pick Iris Armor + Luck
+85   8    36    *    *    *    1
+//Pick Ancient Pants + Luck
+88   9    41    *    *    *    1
+//Pick Divine Helm + Luck
+91   7    19    *    *    *    1
+//Pick Piercing Glove Pants + Luck
+94   9    61    *    *    *    1
+
+//Aida
+//Pick Staff Of Resurection + Luck
+98     5  6  *   *   *   1
+//Pick Dark Steel Gloves + luck 
+101    10  27  *   *   *   1
+//Pick Demonic Armor + Luck
+104    8  42  *   1   *   1
+//Pick Elemental Mace + luck
+106    2  7  *   *   *   1
+//Pick Demonic Stick + luck
+109    5  18  *   *   *   1
+//Pick Great Reign Crossbow + Skill + Luck
+112   4  19  *   *   *   1
+
+end
+
+//=========================================================================================================================================
+// Require Monster Kill
+// Max 1 monster type per quest
+//=========================================================================================================================================
+2
+//Quest   Monster    Qtd
+//Lorencia 
+1     3    50 // Spider
+2     2    50 // Budge Dragon
+//3.Pick Skull Staff + Luck
+4     0    50 // Bull Fighter
+5     1    50 // Hound
+//6.Pick Vine Helm + Luck
+7     14   50 // Skeleton
+8     4    50 // Elite Bull Fighter
+9     6    50 // Lich
+//10.Pick Elven Bow + Skill + Luck
+11    7    50 // Giant
+
+//Noria
+12     26    50 // Goblin
+13     27    50 // Chain Scorpion
+//14.Pick Buckler + Luck
+15     30    50 // Forest Monster
+16     29    50 // Hunter
+//17.Pick Skull Shield + Luck
+18     28    50 // Beetle Monster
+//19.Pick Golden Crossbow + Skill + Luck
+20     32    50 // Stone Golem
+21     33    50 // Elite Goblin
+
+//Elbeland
+22     418    50 // Strange Rabbit
+//23.Pick Bronze Pants + Luck
+24     421    50 // Polluted Butterfly
+25     419    50 // Hideous Rabbit
+26     420    50 // Werewolf
+//27.Pick Wind Pants + Luck
+28     422    50 // Cursed Lich
+29     423    50 // Totem Golem
+30     424    50 // Grizzly
+//31.Pick Plate Armor + Luck
+32     425    50 // Captain Grizzly
+
+//Golden Goblin
+33     78    1 // Golden Goblin
+//Golden Rabbit
+34     502    1 // Golden Rabbit
+
+//Devias
+35     24    100 // Worm
+//36.Pick Bone Armor + Luck
+37     23    100 // Hommerd
+38     19    100 // Yeti
+39     22    100 // Ice Monster
+//40.Pick Spirit Gloves + Luck
+41     20    100 // Elite Yeti
+
+//Dungeon
+42     12    200 // Larva
+//43.Pick Scale Armor + Luck
+44     11    200 // Ghost
+45     17    200 // Cyclops
+//46.Pick Tower Shield + Luck
+47     13    200 // Hell Spider
+48     5     200 // Hell Hound
+//49.Pick Brass Helm + Luck
+50     15    200 // Skeleton Archer
+51     16    200 // Chief Skeleton Warrior
+//52.Pick Spirit Armor + Luck
+53     8     200 // Poison Bull Fighter
+54     9     200 // Thunder Lich
+//55.Pick Plate Mask + Luck
+56     10    200 // Dark Knight
+
+//Atlans
+57     45    300 // Bahamut
+//58.Pick Plate Boots + Luck
+59     46    300 // Vepar
+60     47    300 // Valkyrie
+//61.Pick Book of Lagle + Luck
+62     51    300 // Great Bahamut
+63     52    300 // Silver Valkyrie
+//64.Pick Eclipse Boots + Luck
+65     48    300 // Lizard King
+//66.Pick Serpent Shield + Luck
+
+//Losttower
+67     36    500 // Shadow
+68     39    500 // Poison Shadow
+//69.Pick Dragon Helm + Luck
+70     41    500 // Death Cow
+71     37    500 // Devil
+//72.Pick Red Wing Armor + Luck
+73     34    500 // Cursed Wizard
+74     40    500 // Death Knight
+//75.Pick Sacred Fire Pants + Luck
+76     35    500 // Death Gorgon
+
+77     54    1 // Golden Soldier
+78     53    1 // Golden Titan
+
+//Tarkan
+79     62    700 // Mutant
+//Pick Black Dragon Boots + Luck
+81     60    700 // Bloody wolf
+82     57    700 // Iron Wheel
+//83.Pick Dark Steel Boots + Luck
+84     58    700 // Tantalos
+//83.Pick Iris Armor + Luck
+86     61    700 // Beam Knight
+
+//Icarus
+87       69     900 // Alquamos
+//88.Pick Ancient Pants + Luck
+89       71     900 // Mega Crust
+90       70     900 // Queen Rainier
+//91.Pick Divine Helm + Luck
+92       73     900 // Drakan
+93       74     900 // Alpha Crust
+//94.Pick Piercing Glove Pants + Luck
+95       72     900 // Phantom Knight
+96       75     900 // Great Drakan
+97       77     200 // Phoenix of Darkness
+//98.Pick Staff Of Resurection + Luck
+
+//Aida 1-2
+99      308    1000 // Death Tree
+100     307    1000 // Forest Orc
+//101.Pick Dark Steel Gloves + luck
+102     306    1000 // Death Rider
+103     305    1000 // Blue Golem
+//104.Pick Demonic Armor + Luck
+105      42       1 // Red Dragon
+//106.Pick Elemental Mace + luck
+107     304    1000 // Witch Queen
+108     549    1000 // Bloody Orc
+//109.Pick Demonic Stick + luck
+110     550    1000 // Bloody Death Rider
+111     551    1000 // Bloody Golem
+//112.Pick Great Reign Crossbow + Skill + Luck
+113      55       1 // Death King
+114     552    1000 // Bloody Witch Queen
+115     309     200 // Hell Maine
+
+end
+
+//=========================================================================================================================================
+// Reward Coins (Prêmio)
+// Procedure: WZ_SetCoin
+//=========================================================================================================================================
+3
+
+//Quest      Wcoin  WcoinP  GP
+//Lorencia
+1     0       5      20
+2     0       5      20
+3     0       5      20
+4     0       5      20
+5     0       5      20
+6     0       5      20
+7     0       5      20
+8     0       5      20
+//Noria
+9     0       5      20
+10    0       5      20
+11    0       5      20
+12    0       5      20
+13    0       5      20
+//Elbeland
+14    0       5      20
+15    0       5      20
+16    0       5      20
+17    0       5      20
+18    0       5      20
+19    0       5      20
+//Davias
+20    0       5      30
+21    0       5      30
+22    0       5      30
+23    0       5      30
+24    0       5      30
+25    0       5      30
+26    0       5      30
+27    0       5      30
+//Dungeon
+28    0       5      40
+29    0       5      40
+30    0       5      40
+31    0       5      40
+32    0       5      40
+33    0       5      40
+34    0       5      40
+35    0       5      40
+36    0       5      40
+37    0       5      40
+//Atlans
+38    0       5      50
+39    0       5      50
+40    0       5      50
+41    0       5      50
+42    0       5      50
+43    0       5      50
+//Losttower
+44    0       5      100
+45    0       5      100
+46    0       5      100
+47    0       5      100
+48    0       5      100
+49    0       5      100
+50    0       5      100
+//Tarkan
+51    0       5      100
+52    0       5      100
+53    0       5      100
+54    0       5      100
+55    0       5      100
+//Icarus
+56    0       5      100
+57    0       5      100
+58    0       5      100
+59    0       5      100
+60    0       5      100
+61    0       5      100
+62    0       5      100
+63    0       5      100
+//Aida   
+64    0       5      100
+65    0       5      100
+66    0       5      100
+67    0       5      100
+68    0       5      100
+69    0       5      100
+70    0       5      100
+71    0       5      100
+72    0       5      100
+73    0       5      100
+
+//Stage 2
+
+//Kanturu
+74    0       5      100
+75    0       5      100
+76    0       5      100
+77    0       5      100
+78    0       5      100
+79    0       5      100
+80    0       5      100
+81    0       5      100
+82    0       5      100
+83    0       5      100
+84    0       5      100
+85    0       5      100
+//Kanturu Relics    
+86    0       5      100
+87    0       5      100
+88    0       5      100
+89    0       5      100
+//Karuthan 1
+90    0       5      100
+91    0       5      100
+92    0       5      100
+93    0       5      100
+94    0       5      100
+//Karuthan 2
+95    0       5      100
+96    0       5      100
+97    0       5      100
+//La Cleon    
+98    0       5      100
+99    0       5      100
+100   0       5      100
+101   0       5      100
+102   0       5      100
+103   0       5      100
+104   0       5      100
+105   0       5      100
+//Swamp of Peace
+106   0       5      100
+107   0       5      100
+108   0       5      100
+109   0       5      100
+110   0       5      100
+111   0       5      100
+112   0       5      100
+113   0       5      100
+114   0       5      100
+115   0       5      100
+
+end
+//=========================================================================================================================================
+// Reward Item
+// Class:
+//  All-> *
+//  DW -> 0
+//  DK -> 1
+//  FE -> 2
+//  MG -> 3
+//  DL -> 4
+//  SU -> 5
+//  RF -> 6
+// Time: 
+// For S6 and S8 only
+//=========================================================================================================================================
+4
+//Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH  OEx Socket1 Socket2 Socket3 Socket4 Socket5 Time     Class
+
+
+//Lorencia    
+1     14      11      5      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Silver medal
+2     14      11      6      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Gold medal
+3     14      11      5      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Silver medal
+4     14      11      3      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Heart of Love
+5     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Box of Heaven 
+6     14      11      6      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Gold Medal   
+7     14      11      6      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Gold Medal   
+8     14      11      3      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Heart of Love
+//9 1,000,000 zen
+10     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Box of Heaven 
+//11 1,000,000 zen
+12     5      5      6      0      0       1      1        0       0        0      0        255     255     255     255     255     0       * //Legendary Staff + Luck + 6 + Add 28
+12     6     14      6      0      0       1      1        0       0        0      0        255     255     255     255     255     0       * //Legendary Shield + Luck + 6 + Add 28
+13     0     14      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Lightning Sword + Luck + 6 + Add 28
+13     0     14      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Lightning Sword + Luck + 6 + Add 28
+15     4     14      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //AuqaGold Crossbow + Luck + 6 + Add 28
+16     0     31      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Rune Blade + Luck + 6 + Add 28
+17     14    19      1      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Devil's Invitation +1
+17     14    19      2      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Devil's Invitation +2
+17     14    19      3      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Devil's Invitation +3
+18     2      8      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Battle Scepter + Luck + 6 + Add 28
+18     6      8      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Tower Shield + Luck + 6 + Add 28
+19     5     15      6      0      0       1      1        0       0        0      0        255     255     255     255     255     0       * //Violent Wind Stick + Luck + 6 + Add 28
+19     5     21      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Book of Samut + Luck + 6 + Add 28
+20     0     32      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Sacred Glove + Luck + 6 + Add 28
+20     0     32      6      0      1       1      1        0       0        0      0        255     255     255     255     255     0       * //Sacred Glove + Luck + 6 + Add 28
+//21 5,000,000 zen
+//22 5,000,000 zen
+23     14    13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+24     14    13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+25     14    14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+26     14    22      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+27     14    18      1      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Invisibility Cloak +1
+27     14    18      2      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Invisibility Cloak +2
+27     14    18      3      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Invisibility Cloak +3
+28     14    16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+29     14    19      1      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Devil's Invitation +1
+29     14    19      2      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Devil's Invitation +2
+29     14    19      3      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Devil's Invitation +3
+//30 5,000,000 zen
+//31 6,000,000 zen
+//32 7,000,000 zen
+33     14      22      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Creation
+33     14      22      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Creation
+33     14      22      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Creation
+33     14      22      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Creation
+33     14      22      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Creation
+33     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Life
+33     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Life
+33     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Life
+33     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Life
+33     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Life
+34     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Bless
+34     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Bless
+34     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Bless
+34     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Bless
+34     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Bless
+34     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Soul
+34     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Soul
+34     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Soul
+34     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Soul
+34     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Soul
+
+35     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Bless
+35     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Bless
+
+36     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Soul
+36     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Soul
+
+37     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Creation
+37     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Creation
+
+38     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Life
+38     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *  //Jewel of Life
+//39 8,000,000 zen
+40     14    18      1      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Invisibility Cloak +1
+40     14    18      2      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Invisibility Cloak +2
+40     14    18      3      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Invisibility Cloak +3
+//41 10,000,000 zen
+
+42     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+42     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+
+43     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+43     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+
+44     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+44     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+
+45     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+45     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+
+46     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+46     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+46     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+
+47     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+47     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+47     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+
+48     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+48     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+48     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+
+49     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+49     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+49     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+
+50     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+50     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+50     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+50     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+
+51     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+51     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+51     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+
+52     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Box of Heaven 
+52     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Box of Heaven 
+52     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Box of Heaven 
+52     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       *    //Box of Heaven 
+//53 15,000,000 zen
+
+54     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+54     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+54     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+54     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+
+55     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+55     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+55     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+
+56     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+56     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+56     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+56     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+//57 20,000,000 zen
+58     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+58     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+58     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+58     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+//59 30,000,000 zen
+60     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+60     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+60     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+60     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+//61 40,000,000 zen
+62     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+62     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+62     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+62     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+
+63     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+63     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+63     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+63     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+
+64     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+64     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+64     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+64     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+
+65     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+65     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+65     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+65     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+65     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+
+66     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+66     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+66     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+66     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+66     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+
+67     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+67     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+67     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+67     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+67     12      15       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Chaos
+
+68     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+68     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+68     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+68     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+68     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+//69 50,000,000 zen
+70     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+70     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+70     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+70     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+70     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+
+71     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+71     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+71     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+71     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+71     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+
+72     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+72     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+72     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+72     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+72     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+//73 60,000,000 zen
+//74 70,000,000 zen
+//75 80,000,000 zen
+//76 90,000,000 zen
+77     12      30      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Bless
+77     12      31      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Soul
+78     12      137     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Creation
+78     12      136     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled Life  
+//79 100,000,000 zen
+80     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+80     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+80     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+80     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+80     14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+
+81     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+81     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+81     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+81     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+81     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+
+82     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+82     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+82     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+82     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+82     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+//83 100,000,000 zen
+84     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+84     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+84     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+84     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+84     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+
+85     12      30      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Bless
+
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+86     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+
+87     12      141     1      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Chaos
+88     12      31      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Soul
+89     12      30      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Bless
+90     12      31      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Soul
+//91 120,000,000 zen
+92     12      137     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Creation
+93     12      136     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled Life  
+//94 150,000,000 zen
+
+95     14      41     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Gemstone 
+95     14      41     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Gemstone 
+95     14      41     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Gemstone 
+95     14      41     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Gemstone 
+95     14      41     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Gemstone 
+
+96     14      44     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Higher refining stone  
+96     14      44     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Higher refining stone  
+96     14      44     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Higher refining stone  
+96     14      44     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Higher refining stone  
+96     14      44     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Higher refining stone  
+
+97     14      53     0      10     0       0      0        0       0        0      0        255     255     255     255     255     0       * //Talisman of Luck  
+97     14      96     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Talisman of Chaos Assembly
+
+98     12      30      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Bless
+98     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+98     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+98     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+98     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+98     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+//99 200,000,000 zen
+//100 250,000,000 zen
+101    12      136     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled Life  
+101    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+101    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+101    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+101    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+101    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+102     14      11      7      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Box of Heaven 
+
+103     12      141     1      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Chaos
+103     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+103     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+103     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+103     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+103     12      15       0      0      0       0      0        0       0        0      0       255     255     255     255     255     0       * //Jewel of Chaos
+
+104     14      53     0      10     0       0      0        0       0        0      0        255     255     255     255     255     0       * //Talisman of Luck  
+104     14      96     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Talisman of Chaos Assembly
+
+105     12      31      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Soul
+105     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+105     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+105     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+105     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+105     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+
+106    12      136     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled Life  
+106    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+106    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+106    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+106    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+106    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+
+107     12      30      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Bless
+107     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+107     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+107     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+107     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+107     14      13      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Bless
+
+108     12      31      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Soul
+108     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+108     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+108     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+108     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+108     14      14      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Soul
+//109 300,000,000 zen
+110     12      137      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled of Creation
+110     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+110     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+110     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+110     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+110     14      22       0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Creation
+
+111    12      136     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Bundled Life  
+111    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+111    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+111    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+111    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+111    14      16      0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Life
+//112 350,000,000 zen
+113     14      53     0      10     0       0      0        0       0        0      0        255     255     255     255     255     0       * //Talisman of Luck  
+113     14      96     0      0      0       0      0        0       0        0      0        255     255     255     255     255     0       * //Talisman of Chaos Assembly
+
+114     12      139     0      0      0       0	     0        0       0        0      0        255     255     255     255     255     0       * //Bundled Gamestone  
+
+115     14      42     0      0      0       0       0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Harmony  
+115     14      42     0      0      0       0       0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Harmony  
+115     14      42     0      0      0       0       0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Harmony  
+115     14      42     0      0      0       0       0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Harmony  
+115     14      42     0      0      0       0       0        0       0        0      0        255     255     255     255     255     0       * //Jewel of Harmony  
+
+end
+
+//=========================================================================================================================================
+//Reward Buff Effect
+//=========================================================================================================================================
+5
+
+end
+
+//=========================================================================================================================================
+//Reward Experience
+//=========================================================================================================================================
+6
+//Quest     Experience  LevelUpPoints    Money           BattlePassStart
+1           0           25               0               20
+2           0           25               0               20
+3           0           25               0               20
+4           0           25               0               20
+5           0           25               0               20
+6           0           25               0               20
+7           0           25               0               20
+8           0           25               0               20
+9           0           25               1000000         20
+10          0           25               0               20
+11          0           25               1000000         20
+12          0           25               0               20
+13          0           25               0               20
+14          0           25               2000000         20
+15          0           25               3000000         20
+16          0           25               0               20
+17          0           25               0               20
+18          0           25               0               20
+19          0           25               0               20
+20          0           25               0               20
+21          0           25               5000000         20
+22          0           25               5000000         20
+23          0           25               0               20
+24          0           25               0               20
+25          0           25               0               20
+26          0           25               0               20
+27          0           25               0               20
+28          0           25               0               20
+29          0           25               0               20
+30          0           25               5000000         20
+31          0           25               6000000         20
+32          0           25               7000000         20
+33          0           25               0               20
+34          0           25               0               20
+35          0           25               0               20
+36          0           25               0               20
+37          0           25               0               20
+38          0           25               0               20
+39          0           25               800000          20
+40          0           25               0               20
+41          0           25               10000000        20
+42          0           25               0               20
+43          0           25               0               20
+44          0           25               0               20
+45          0           25               0               20
+46          0           25               0               20
+47          0           25               0               20
+48          0           25               0               20
+49          0           25               0               20
+50          0           25               0               20
+51          0           25               0               20
+52          0           25               0               20
+53          0           25               150000000       20
+54          0           25               0               20
+55          0           25               0               20
+56          0           25               0               20
+57          0           25               200000000       20
+58          0           25               0               20
+59          0           25               300000000       20
+60          0           25               0               20
+61          0           25               40000000        20
+62          0           25               0               20
+63          0           25               0               20
+64          0           25               0               20
+65          0           25               0               20
+66          0           25               0               20
+67          0           25               0               20
+68          0           25               0               20
+69          0           25               50000000        20
+70          0           25               0               20
+71          0           25               0               20
+72          0           25               0               20
+73          0           25               60000000        20
+74          0           25               70000000        20
+75          0           25               90000000        20
+76          0           25               90000000        20
+77          0           25               0               20
+78          0           25               0               20
+79          0           25               100000000       20
+80          0           25               0               20
+81          0           25               0               20
+82          0           25               0               20
+83          0           25               100000000       20
+84          0           25               0               20
+85          0           25               0               20
+86          0           25               0               20
+87          0           25               0               20
+88          0           25               0               20
+89          0           25               0               20
+90          0           25               0               20
+91          0           25               120000000       20
+92          0           25               0               20
+93          0           25               0               20
+94          0           25               150000000       20
+95          0           25               0               20
+96          0           25               0               20
+97          0           25               0               20
+98          0           25               0               20
+99          0           25               200000000       20
+100         0           25               250000000       20
+101         0           25               0               20
+102         0           25               0               20
+103         0           25               0               20
+104         0           25               0               20
+105         0           25               0               20
+106         0           25               0               20
+106         0           25               0               20
+107         0           25               0               20
+108         0           25               0               20
+109         0           25               300000000       20
+110         0           25               0               20
+111         0           25               0               20
+112         0           25               350000000       20
+113         0           25               0               20
+114         0           25               0               20
+115         0           25               0               20
+
+end

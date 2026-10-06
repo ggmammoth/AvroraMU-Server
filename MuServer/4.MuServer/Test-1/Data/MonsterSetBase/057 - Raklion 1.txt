@@ -1,0 +1,308 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+// [QUESTS] CIDADES HUNTS MOBS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+735            57             00        211             209            02             //QUEST RAKLION
+735            57             00        211             079            04             //QUEST RAKLION
+
+257            57             00        208             206            02             ///Shadow Phantom Soldier
+
+253            57             00        215             209            02             ///Potion Girl
+end
+
+
+//=========================================================================================================================================
+// [SPOTS] Raklion
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+
+
+end
+
+//=========================================================================================================================================
+// [SPOTS] RAKLION
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+454            57             5         183            185             -1             //Ice Walker
+454            57             5         183            185             -1             //Ice Walker
+454            57             5         183            185             -1             //Ice Walker
+454            57             5         183            185             -1             //Ice Walker
+454            57             5         183            185             -1             //Ice Walker
+454            57             5         183            185             -1             //Ice Walker
+454            57             5         183            185             -1             //Ice Walker
+454            57             5         183            185             -1             //Ice Walker
+
+454            57             5         178            222             -1             //Ice Walker
+454            57             5         178            222             -1             //Ice Walker
+454            57             5         178            222             -1             //Ice Walker
+454            57             5         178            222             -1             //Ice Walker
+454            57             5         178            222             -1             //Ice Walker
+454            57             5         178            222             -1             //Ice Walker
+454            57             5         178            222             -1             //Ice Walker
+454            57             5         178            222             -1             //Ice Walker
+
+454            57             5         144            225             -1             //Ice Walker
+454            57             5         144            225             -1             //Ice Walker
+454            57             5         144            225             -1             //Ice Walker
+454            57             5         144            225             -1             //Ice Walker
+454            57             5         144            225             -1             //Ice Walker
+454            57             5         144            225             -1             //Ice Walker
+454            57             5         144            225             -1             //Ice Walker
+454            57             5         144            225             -1             //Ice Walker
+
+454            57             5         153            178             -1             //Ice Walker
+454            57             5         153            178             -1             //Ice Walker
+454            57             5         153            178             -1             //Ice Walker
+454            57             5         153            178             -1             //Ice Walker
+454            57             5         153            178             -1             //Ice Walker
+454            57             5         153            178             -1             //Ice Walker
+454            57             5         153            178             -1             //Ice Walker
+454            57             5         153            178             -1             //Ice Walker
+
+455            57             5         100            180             -1             //Giant Mammoth
+455            57             5         100            180             -1             //Giant Mammoth
+455            57             5         100            180             -1             //Giant Mammoth
+455            57             5         100            180             -1             //Giant Mammoth
+455            57             5         100            180             -1             //Giant Mammoth
+455            57             5         100            180             -1             //Giant Mammoth
+455            57             5         100            180             -1             //Giant Mammoth
+455            57             5         100            180             -1             //Giant Mammoth
+
+455            57             5         088            214             -1             //Giant Mammoth
+455            57             5         088            214             -1             //Giant Mammoth
+455            57             5         088            214             -1             //Giant Mammoth
+455            57             5         088            214             -1             //Giant Mammoth
+455            57             5         088            214             -1             //Giant Mammoth
+455            57             5         088            214             -1             //Giant Mammoth
+455            57             5         088            214             -1             //Giant Mammoth
+455            57             5         088            214             -1             //Giant Mammoth
+
+455            57             5         116            161             -1             //Giant Mammoth
+455            57             5         116            161             -1             //Giant Mammoth
+455            57             5         116            161             -1             //Giant Mammoth
+455            57             5         116            161             -1             //Giant Mammoth
+455            57             5         116            161             -1             //Giant Mammoth
+455            57             5         116            161             -1             //Giant Mammoth
+455            57             5         116            161             -1             //Giant Mammoth
+455            57             5         116            161             -1             //Giant Mammoth
+
+456            57             5         131            128             -1             //Ice Giant
+456            57             5         131            128             -1             //Ice Giant
+456            57             5         131            128             -1             //Ice Giant
+456            57             5         131            128             -1             //Ice Giant
+456            57             5         131            128             -1             //Ice Giant
+456            57             5         131            128             -1             //Ice Giant
+456            57             5         131            128             -1             //Ice Giant
+456            57             5         131            128             -1             //Ice Giant
+
+456            57             5         147            142             -1             //Ice Giant
+456            57             5         147            142             -1             //Ice Giant
+456            57             5         147            142             -1             //Ice Giant
+456            57             5         147            142             -1             //Ice Giant
+456            57             5         147            142             -1             //Ice Giant
+456            57             5         147            142             -1             //Ice Giant
+456            57             5         147            142             -1             //Ice Giant
+456            57             5         147            142             -1             //Ice Giant
+
+456            57             5         126            086             -1             //Ice Giant
+456            57             5         126            086             -1             //Ice Giant
+456            57             5         126            086             -1             //Ice Giant
+456            57             5         126            086             -1             //Ice Giant
+456            57             5         126            086             -1             //Ice Giant
+456            57             5         126            086             -1             //Ice Giant
+456            57             5         126            086             -1             //Ice Giant
+456            57             5         126            086             -1             //Ice Giant
+
+457            57             5         179            137             -1             //Coolutin
+457            57             5         179            137             -1             //Coolutin
+457            57             5         179            137             -1             //Coolutin
+457            57             5         179            137             -1             //Coolutin
+457            57             5         179            137             -1             //Coolutin
+457            57             5         179            137             -1             //Coolutin
+457            57             5         179            137             -1             //Coolutin
+457            57             5         179            137             -1             //Coolutin
+
+457            57             5         216            108             -1             //Coolutin
+457            57             5         216            108             -1             //Coolutin
+457            57             5         216            108             -1             //Coolutin
+457            57             5         216            108             -1             //Coolutin
+457            57             5         216            108             -1             //Coolutin
+457            57             5         216            108             -1             //Coolutin
+457            57             5         216            108             -1             //Coolutin
+457            57             5         216            108             -1             //Coolutin
+
+457            57             5         211            160             -1             //Coolutin
+457            57             5         211            160             -1             //Coolutin
+457            57             5         211            160             -1             //Coolutin
+457            57             5         211            160             -1             //Coolutin
+457            57             5         211            160             -1             //Coolutin
+457            57             5         211            160             -1             //Coolutin
+457            57             5         211            160             -1             //Coolutin
+457            57             5         211            160             -1             //Coolutin
+
+457            57             5         200            120             -1             //Coolutin
+457            57             5         200            120             -1             //Coolutin
+457            57             5         200            120             -1             //Coolutin
+457            57             5         200            120             -1             //Coolutin
+457            57             5         200            120             -1             //Coolutin
+457            57             5         200            120             -1             //Coolutin
+457            57             5         200            120             -1             //Coolutin
+457            57             5         200            120             -1             //Coolutin
+
+458            57             5         189            058             -1             //Iron Knight
+458            57             5         189            058             -1             //Iron Knight
+458            57             5         189            058             -1             //Iron Knight
+458            57             5         189            058             -1             //Iron Knight
+458            57             5         189            058             -1             //Iron Knight
+458            57             5         189            058             -1             //Iron Knight
+458            57             5         189            058             -1             //Iron Knight
+458            57             5         189            058             -1             //Iron Knight
+
+458            57             5         220            076             -1             //Iron Knight
+458            57             5         220            076             -1             //Iron Knight
+458            57             5         220            076             -1             //Iron Knight
+458            57             5         220            076             -1             //Iron Knight
+458            57             5         220            076             -1             //Iron Knight
+458            57             5         220            076             -1             //Iron Knight
+458            57             5         220            076             -1             //Iron Knight
+458            57             5         220            076             -1             //Iron Knight
+
+458            57             5         201            28             -1             //Iron Knight
+458            57             5         201            28             -1             //Iron Knight
+458            57             5         201            28             -1             //Iron Knight
+458            57             5         201            28             -1             //Iron Knight
+458            57             5         201            28             -1             //Iron Knight
+458            57             5         201            28             -1             //Iron Knight
+458            57             5         201            28             -1             //Iron Knight
+458            57             5         201            28             -1             //Iron Knight
+
+
+562            57             5         180            099             -1             //Dark Mammoth
+562            57             5         180            099             -1             //Dark Mammoth
+562            57             5         180            099             -1             //Dark Mammoth
+562            57             5         180            099             -1             //Dark Mammoth
+562            57             5         180            099             -1             //Dark Mammoth
+562            57             5         180            099             -1             //Dark Mammoth
+562            57             5         180            099             -1             //Dark Mammoth
+562            57             5         180            099             -1             //Dark Mammoth
+
+562            57             5         054            211             -1             //Dark Mammoth
+562            57             5         054            211             -1             //Dark Mammoth
+562            57             5         054            211             -1             //Dark Mammoth
+562            57             5         054            211             -1             //Dark Mammoth
+562            57             5         054            211             -1             //Dark Mammoth
+562            57             5         054            211             -1             //Dark Mammoth
+562            57             5         054            211             -1             //Dark Mammoth
+562            57             5         054            211             -1             //Dark Mammoth
+
+562            57             5         063            160             -1             //Dark Mammoth
+562            57             5         063            160             -1             //Dark Mammoth
+562            57             5         063            160             -1             //Dark Mammoth
+562            57             5         063            160             -1             //Dark Mammoth
+562            57             5         063            160             -1             //Dark Mammoth
+562            57             5         063            160             -1             //Dark Mammoth
+562            57             5         063            160             -1             //Dark Mammoth
+562            57             5         063            160             -1             //Dark Mammoth
+
+562            57             5         105            107             -1             //Dark Mammoth
+562            57             5         105            107             -1             //Dark Mammoth
+562            57             5         105            107             -1             //Dark Mammoth
+562            57             5         105            107             -1             //Dark Mammoth
+562            57             5         105            107             -1             //Dark Mammoth
+562            57             5         105            107             -1             //Dark Mammoth
+562            57             5         105            107             -1             //Dark Mammoth
+562            57             5         105            107             -1             //Dark Mammoth
+
+563            57             5         024            220             -1             //Dark Giant
+563            57             5         024            220             -1             //Dark Giant
+563            57             5         024            220             -1             //Dark Giant
+563            57             5         024            220             -1             //Dark Giant
+563            57             5         024            220             -1             //Dark Giant
+563            57             5         024            220             -1             //Dark Giant
+563            57             5         024            220             -1             //Dark Giant
+563            57             5         024            220             -1             //Dark Giant
+
+563            57             5         032            148             -1             //Dark Giant
+563            57             5         032            148             -1             //Dark Giant
+563            57             5         032            148             -1             //Dark Giant
+563            57             5         032            148             -1             //Dark Giant
+563            57             5         032            148             -1             //Dark Giant
+563            57             5         032            148             -1             //Dark Giant
+563            57             5         032            148             -1             //Dark Giant
+563            57             5         032            148             -1             //Dark Giant
+
+563            57             5         076            085             -1             //Dark Giant
+563            57             5         076            085             -1             //Dark Giant
+563            57             5         076            085             -1             //Dark Giant
+563            57             5         076            085             -1             //Dark Giant
+563            57             5         076            085             -1             //Dark Giant
+563            57             5         076            085             -1             //Dark Giant
+563            57             5         076            085             -1             //Dark Giant
+563            57             5         076            085             -1             //Dark Giant
+
+564            57             5         029            049             -1             //Dark Coolutin
+564            57             5         029            049             -1             //Dark Coolutin
+564            57             5         029            049             -1             //Dark Coolutin
+564            57             5         029            049             -1             //Dark Coolutin
+564            57             5         029            049             -1             //Dark Coolutin
+564            57             5         029            049             -1             //Dark Coolutin
+564            57             5         029            049             -1             //Dark Coolutin
+564            57             5         029            049             -1             //Dark Coolutin
+
+564            57             5         068            025             -1             //Dark Coolutin
+564            57             5         068            025             -1             //Dark Coolutin
+564            57             5         068            025             -1             //Dark Coolutin
+564            57             5         068            025             -1             //Dark Coolutin
+564            57             5         068            025             -1             //Dark Coolutin
+564            57             5         068            025             -1             //Dark Coolutin
+564            57             5         068            025             -1             //Dark Coolutin
+564            57             5         068            025             -1             //Dark Coolutin
+
+564            57             5         027            098             -1             //Dark Coolutin
+564            57             5         027            098             -1             //Dark Coolutin
+564            57             5         027            098             -1             //Dark Coolutin
+564            57             5         027            098             -1             //Dark Coolutin
+564            57             5         027            098             -1             //Dark Coolutin
+564            57             5         027            098             -1             //Dark Coolutin
+564            57             5         027            098             -1             //Dark Coolutin
+564            57             5         027            098             -1             //Dark Coolutin
+
+565            57             5         109            018             -1             //Dark Iron Knight
+565            57             5         109            018             -1             //Dark Iron Knight
+565            57             5         109            018             -1             //Dark Iron Knight
+565            57             5         109            018             -1             //Dark Iron Knight
+565            57             5         109            018             -1             //Dark Iron Knight
+565            57             5         109            018             -1             //Dark Iron Knight
+565            57             5         109            018             -1             //Dark Iron Knight
+565            57             5         109            018             -1             //Dark Iron Knight
+
+565            57             5         128            042             -1             //Dark Iron Knight
+565            57             5         128            042             -1             //Dark Iron Knight
+565            57             5         128            042             -1             //Dark Iron Knight
+565            57             5         128            042             -1             //Dark Iron Knight
+565            57             5         128            042             -1             //Dark Iron Knight
+565            57             5         128            042             -1             //Dark Iron Knight
+565            57             5         128            042             -1             //Dark Iron Knight
+565            57             5         128            042             -1             //Dark Iron Knight
+
+
+454            57             5         148            106             -1             //Ice Walker       HOT
+455            57             5         148            106             -1             //Giant Mammoth    HOT
+456            57             5         148            106             -1             //Ice Giant        HOT
+457            57             5         148            106             -1             //Coolutin         HOT
+458            57             5         148            106             -1             //Iron Knight      HOT
+562            57             5         148            106             -1             //Dark Mammoth     HOT
+563            57             5         148            106             -1             //Dark Giant       HOT
+564            57             5         148            106             -1             //Dark Coolutin    HOT
+454            57             5         148            106             -1             //Ice Walker       HOT
+455            57             5         148            106             -1             //Giant Mammoth    HOT
+456            57             5         148            106             -1             //Ice Giant        HOT
+
+end

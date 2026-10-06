@@ -1,0 +1,316 @@
+0
+//Index     MixMoney    Rate0       Rate1       Rate2       Rate3       CountGrp    CountItm    ExeRand     
+100         100000      55          65          75          86          4           6           1           
+101         100000      100         100         100         100         4           6           1           
+102         100000      100         100         100         100         4           6           1           
+103         100000      100         100         100         100         4           6           1           
+104         100000      100         100         100         100         3           10          1           
+105         100000      100         100         100         100         3           10          1           
+106         100000      100         100         100         100         1           12          1           
+107         100000      100         100         100         100         1           10          1           
+108         100000      100         100         100         100         1           10          1           
+109         100000      100         100         100         100         1           10          1           
+110         100000      100         100         100         100         1           10          1           
+111         100000      100         100         100         100         1           10          1           
+112         100000      100         100         100         100         1           10          1           
+113         100000      100         100         100         100         1           10          1           
+114         100000      100         100         100         100         1           10          1           
+115         100000      100         100         100         100         1           10          1           
+116         100000      100         100         100         100         1           10          1           
+117         100000      100         100         100         100         1           10          1           
+// CASE-20261004-002 wing mixes 120-130 (MuServer2 recipes, see C:\avrora\cases\CASE-20261004-002.md)
+120   1250000     80    85    85    85    2     4     1   //Wings 2.5 Cloak of Death (MS2 180/181)
+121   1250000     80    85    85    85    2     4     1   //Wings 2.5 Wings of Chaos (MS2 182/183)
+122   1250000     80    85    85    85    3     4     1   //Wings 2.5 Wings of Magic (MS2 184-186)
+123   1250000     80    85    85    85    1     4     1   //Wings 2.5 Wings of Life (MS2 187)
+124   1333333     75    80    80    80    3     14    1   //Garuda's Feather (MS2 188-194)
+125   1333333     75    80    80    80    1     26    1   //Wings 4.0 (MS2 195)
+126   1000000     100   100   100   100   1     1     1   //Greater Spirit Stone (MS2 230)
+127   1250000     80    85    85    85    7     7     1   //Wings 3.5 (MS2 1051-1053, same class; MS2 "any item" ingredient dropped)
+128   1428571     70    75    75    75    7     16    1   //Wings 4.5 (MS2 1057, same class; Golden/GSS 10 -> 5)
+129   2857143     70    75    75    75    2     15    1   //Relic 5th Wing (MS2 708/1058-1060; 100x -> bundles + 5 Golden + 5 Uriel)
+130   6250000     40    40    40    40    1     5     1   //Wings 5.0 (MS2 709)
+end
+
+1
+//Index     ItemMix     Level       Count       Comment             
+100         6174        0           1           //Bundle of Wish Jewel
+100         6175        0           1           //Bundle of Spirit Jewel
+100         6281        0           1           //Bundle of Creation Jewel
+100         6285        0           1           //Bundle of Chaos Origin Jewel
+100         7344        0           1           //Bone of the God of Death
+101         6174        0           1           //Bundle of Wish Jewel
+101         6175        0           1           //Bundle of Spirit Jewel
+101         6281        0           1           //Bundle of Creation Jewel
+101         6285        0           1           //Bundle of Chaos Origin Jewel
+101         7345        0           1           //Devil King's Hide
+102         6174        0           1           //Bundle of Wish Jewel
+102         6175        0           1           //Bundle of Spirit Jewel
+102         6281        0           1           //Bundle of Creation Jewel
+102         6285        0           1           //Bundle of Chaos Origin Jewel
+102         7346        0           1           //Phoenix Feather
+103         6174        0           1           //Bundle of Wish Jewel
+103         6175        0           1           //Bundle of Spirit Jewel
+103         6281        0           1           //Bundle of Creation Jewel
+103         6285        0           1           //Bundle of Chaos Origin Jewel
+103         7347        0           1           //Fire Bat Soul
+104         6808        0           1           //Devil Angel Fragment
+104         6174        2           3           //Bundle of Wish Jewel
+104         6175        2           3           //Bundle of Spirit Jewel
+104         6280        2           1           //Bundle of Life Jewel
+104         6281        2           1           //Bundle of Creation Jewel
+104         6285        2           1           //Bundle of Chaos Origin Jewel
+105         6809        0           1           //Conquest Fragment
+105         6174        2           3           //Bundle of Wish Jewel
+105         6175        2           3           //Bundle of Spirit Jewel
+105         6280        2           1           //Bundle of Life Jewel
+105         6281        2           1           //Bundle of Creation Jewel
+105         6285        2           1           //Bundle of Chaos Origin Jewel
+106         6810        0           1           //Garuda Feather
+106         6811        0           1           //Garuda Flame
+106         6174        2           3           //Bundle of Wish Jewel
+106         6175        2           3           //Bundle of Spirit Jewel
+106         6280        2           1           //Bundle of Life Jewel
+106         6281        2           1           //Bundle of Creation Jewel
+106         6285        2           1           //Bundle of Chaos Origin Jewel
+107         6174        2           3           //Bundle of Wish Jewel
+107         6175        2           3           //Bundle of Spirit Jewel
+107         6280        2           1           //Bundle of Life Jewel
+107         6281        2           1           //Bundle of Creation Jewel
+107         6285        2           1           //Bundle of Chaos Origin Jewel
+108         6174        2           3           //Bundle of Wish Jewel
+108         6175        2           3           //Bundle of Spirit Jewel
+108         6280        2           1           //Bundle of Life Jewel
+108         6281        2           1           //Bundle of Creation Jewel
+108         6285        2           1           //Bundle of Chaos Origin Jewel
+109         6174        2           3           //Bundle of Wish Jewel
+109         6175        2           3           //Bundle of Spirit Jewel
+109         6280        2           1           //Bundle of Life Jewel
+109         6281        2           1           //Bundle of Creation Jewel
+109         6285        2           1           //Bundle of Chaos Origin Jewel
+110         6174        2           3           //Bundle of Wish Jewel
+110         6175        2           3           //Bundle of Spirit Jewel
+110         6280        2           1           //Bundle of Life Jewel
+110         6281        2           1           //Bundle of Creation Jewel
+110         6285        2           1           //Bundle of Chaos Origin Jewel
+111         6174        2           3           //Bundle of Wish Jewel
+111         6175        2           3           //Bundle of Spirit Jewel
+111         6280        2           1           //Bundle of Life Jewel
+111         6281        2           1           //Bundle of Creation Jewel
+111         6285        2           1           //Bundle of Chaos Origin Jewel
+112         6174        2           3           //Bundle of Wish Jewel
+112         6175        2           3           //Bundle of Spirit Jewel
+112         6280        2           1           //Bundle of Life Jewel
+112         6281        2           1           //Bundle of Creation Jewel
+112         6285        2           1           //Bundle of Chaos Origin Jewel
+113         6174        2           3           //Bundle of Wish Jewel
+113         6175        2           3           //Bundle of Spirit Jewel
+113         6280        2           1           //Bundle of Life Jewel
+113         6281        2           1           //Bundle of Creation Jewel
+113         6285        2           1           //Bundle of Chaos Origin Jewel
+114         6174        2           3           //Bundle of Wish Jewel
+114         6175        2           3           //Bundle of Spirit Jewel
+114         6280        2           1           //Bundle of Life Jewel
+114         6281        2           1           //Bundle of Creation Jewel
+114         6285        2           1           //Bundle of Chaos Origin Jewel
+115         6174        2           3           //Bundle of Wish Jewel
+115         6175        2           3           //Bundle of Spirit Jewel
+115         6280        2           1           //Bundle of Life Jewel
+115         6281        2           1           //Bundle of Creation Jewel
+115         6285        2           1           //Bundle of Chaos Origin Jewel
+116         6174        2           3           //Bundle of Wish Jewel
+116         6175        2           3           //Bundle of Spirit Jewel
+116         6280        2           1           //Bundle of Life Jewel
+116         6281        2           1           //Bundle of Creation Jewel
+116         6285        2           1           //Bundle of Chaos Origin Jewel
+117         6174        2           3           //Bundle of Wish Jewel
+117         6175        2           3           //Bundle of Spirit Jewel
+117         6280        2           1           //Bundle of Life Jewel
+117         6281        2           1           //Bundle of Creation Jewel
+117         6285        2           1           //Bundle of Chaos Origin Jewel
+// CASE-20261004-002 wing mixes 120-130 (MuServer2 recipes, see C:\avrora\cases\CASE-20261004-002.md)
+120   7469    0   1   //14/301 Death King's Bone
+120   7190    0   1   //14/22 Jewel of Creation
+120   6159    0   1   //12/15 Jewel of Chaos
+121   7470    0   1   //14/302 Hell Maine's Leather
+121   7190    0   1   //14/22 Jewel of Creation
+121   6159    0   1   //12/15 Jewel of Chaos
+122   7471    0   1   //14/303 Dark Phoenix Flame
+122   7190    0   1   //14/22 Jewel of Creation
+122   6159    0   1   //12/15 Jewel of Chaos
+123   7472    0   1   //14/304 Death Beam Knight Soul
+123   7190    0   1   //14/22 Jewel of Creation
+123   6159    0   1   //12/15 Jewel of Chaos
+124   7476    0   10  //14/308 Greater Spirit Stone
+124   6174    2   1   //12/30 Bundled Jewel of Bless
+124   6175    2   1   //12/31 Bundled Jewel of Soul
+124   6285    2   1   //12/141 Bundled Jewel of Chaos
+125   7474    0   1   //14/306 Garuda's Flame
+125   7475    0   1   //14/307 Garuda's Feather
+125   7478    0   10  //14/310 Golden Sentence
+125   7476    0   10  //14/308 Greater Spirit Stone
+125   6174    2   1   //12/30 Bundled Jewel of Bless
+125   6175    2   1   //12/31 Bundled Jewel of Soul
+125   6285    2   1   //12/141 Bundled Jewel of Chaos
+125   6281    2   1   //12/137 Bundled Jewel of Creation
+127   6174    0   1   //12/30 Bundled Jewel of Bless
+127   6175    0   1   //12/31 Bundled Jewel of Soul
+127   6281    0   1   //12/137 Bundled Jewel of Creation
+127   6159    0   1   //12/15 Jewel of Chaos
+127   7473    0   1   //14/305 Crystal Feather 3.5 Wings
+127   6708    0   1   //13/52 Condor Flame
+128   6174    0   1   //12/30 Bundled Jewel of Bless
+128   6175    0   1   //12/31 Bundled Jewel of Soul
+128   6281    0   1   //12/137 Bundled Jewel of Creation
+128   7477    0   1   //14/309 Crystal Feather 4.5 Wings
+128   7478    0   5   //14/310 Golden Sentence
+128   7476    0   5   //14/308 Greater Spirit Stone
+128   6159    0   1   //12/15 Jewel of Chaos
+129   6174    2   1   //12/30 Bundled Jewel of Bless
+129   6175    2   1   //12/31 Bundled Jewel of Soul
+129   6281    2   1   //12/137 Bundled Jewel of Creation
+129   6285    2   1   //12/141 Bundled Jewel of Chaos
+129   7478    0   5   //14/310 Golden Sentence
+129   7479    0   5   //14/311 Uriel Feather
+130   7480    0   1   //14/312 Relic 5th Wing
+130   6174    0   1   //12/30 Bundled Jewel of Bless
+130   6175    0   1   //12/31 Bundled Jewel of Soul
+130   6281    0   1   //12/137 Bundled Jewel of Creation
+130   6159    0   1   //12/15 Jewel of Chaos
+end
+
+2
+//Index Group   Count   IdxMin    IdxMax    Level   Skill   Luck    Opt     Exe     SetOpt    Comment             
+100     0       1       6147      6150      9       -1      -1      1       -1      0         //Random            
+100     1       1       6186      6186      9       -1      -1      1       -1      0         //Heavenly Flame Wings
+100     2       1       6193      6193      9       -1      -1      1       -1      0         //Warrior's Cloak
+100     3       1       6686      6686      9       -1      -1      1       -1      0         //Cloak
+101     0       1       6147      6150      9       -1      -1      1       -1      0         //Random            
+101     1       1       6186      6186      9       -1      -1      1       -1      0         //Heavenly Flame Wings
+101     2       1       6193      6193      9       -1      -1      1       -1      0         //Warrior's Cloak
+101     3       1       6686      6686      9       -1      -1      1       -1      0         //Cloak
+102     0       1       6147      6150      9       -1      -1      1       -1      0         //Random            
+102     1       1       6186      6186      9       -1      -1      1       -1      0         //Heavenly Flame Wings
+102     2       1       6193      6193      9       -1      -1      1       -1      0         //Warrior's Cloak
+102     3       1       6686      6686      9       -1      -1      1       -1      0         //Cloak
+103     0       1       6147      6150      9       -1      -1      1       -1      0         //Random            
+103     1       1       6186      6186      9       -1      -1      1       -1      0         //Heavenly Flame Wings
+103     2       1       6193      6193      9       -1      -1      1       -1      0         //Warrior's Cloak
+103     3       1       6686      6686      9       -1      -1      1       -1      0         //Cloak
+104     0       1       6180      6184      13      -1      -1      1       -1      0         //Random            
+104     1       1       6187      6187      13      -1      -1      1       -1      0         //Phoenix Wings
+104     2       1       6194      6194      13      -1      -1      1       -1      0         //Cloak of Authority
+105     0       1       6180      6180      13      -1      -1      1       -1      0         //Wings of Fury
+105     1       1       6187      6187      13      -1      -1      1       -1      0         //Phoenix Wings
+105     2       1       6194      6194      13      -1      -1      1       -1      0         //Cloak of Authority
+106     0       1       6297      6298      13      -1      -1      1       -1      0         //Random            
+107     0       1       6856      6872      0       -1      -1      -1      -1      0         //Random            
+108     0       1       6873      6879      0       -1      -1      -1      -1      0         //Random            
+109     0       1       6880      6889      0       -1      -1      -1      -1      0         //Random            
+110     0       1       6890      6893      0       -1      -1      -1      -1      0         //Random            
+111     0       1       6894      6896      0       -1      -1      -1      -1      0         //Random            
+112     0       1       6897      6898      0       -1      -1      -1      -1      0         //Random            
+113     0       1       6899      6900      0       -1      -1      -1      -1      0         //Random            
+114     0       1       6901      6902      0       -1      -1      -1      -1      0         //Random            
+115     0       1       6903      6904      0       -1      -1      -1      -1      0         //Random            
+116     0       1       6905      6906      0       -1      -1      -1      -1      0         //Random            
+117     0       1       6907      6908      0       -1      -1      -1      -1      0         //Random            
+// CASE-20261004-002 wing mixes 120-130 (MuServer2 recipes, see C:\avrora\cases\CASE-20261004-002.md)
+120   0   1   6193    6193    -1  -1  -1  -1  -1  0   //RF Cloak of Warrior
+120   1   1   6686    6686    -1  -1  -1  -1  -1  0   //DL Cape of Lord
+121   0   1   6149    6149    -1  -1  -1  -1  -1  0   //BK Wings of Dragon
+121   1   1   6150    6150    -1  -1  -1  -1  -1  0   //MG Wings of Darkness
+122   0   1   6148    6148    -1  -1  -1  -1  -1  0   //SM Wings of Soul
+122   1   1   6150    6150    -1  -1  -1  -1  -1  0   //MG Wings of Darkness
+122   2   1   6186    6186    -1  -1  -1  -1  -1  0   //SU Wind of Despair
+123   0   1   6147    6147    -1  -1  -1  -1  -1  0   //Elf Wings of Spirits
+124   0   1   6180    6184    -1  -1  -1  -1  -1  0   //3rd wing BK/SM/Elf/MG/DL
+124   1   1   6187    6187    -1  -1  -1  -1  -1  0   //3rd wing SU
+124   2   1   6194    6194    -1  -1  -1  -1  -1  0   //3rd wing RF
+126   0   1   2       6900    -1  -1  -1  -1  -1  0   //any item 0/2 .. 13/244 (as MS2)
+127   0   1   6180    6180    -1  -1  -1  -1  -1  0   //BK
+127   1   1   6181    6181    -1  -1  -1  -1  -1  0   //SM
+127   2   1   6182    6182    -1  -1  -1  -1  -1  0   //Elf
+127   3   1   6183    6183    -1  -1  -1  -1  -1  0   //MG
+127   4   1   6184    6184    -1  -1  -1  -1  -1  0   //DL
+127   5   1   6187    6187    -1  -1  -1  -1  -1  0   //SU
+127   6   1   6194    6194    -1  -1  -1  -1  -1  0   //RF
+128   0   1   6384    6384    -1  -1  -1  -1  -1  0   //SM
+128   1   1   6385    6385    -1  -1  -1  -1  -1  0   //BK
+128   2   1   6386    6386    -1  -1  -1  -1  -1  0   //Elf
+128   3   1   6387    6387    -1  -1  -1  -1  -1  0   //MG
+128   4   1   6388    6388    -1  -1  -1  -1  -1  0   //DL
+128   5   1   6389    6389    -1  -1  -1  -1  -1  0   //SU
+128   6   1   6390    6390    -1  -1  -1  -1  -1  0   //RF
+129   0   1   6384    6390    -1  -1  -1  -1  -1  0   //any 4.0 wing
+129   1   1   6394    6400    -1  -1  -1  -1  -1  0   //any 4.5 wing
+end
+
+3
+//Index Group   IdxMin    IdxMax    Lvl   Skill Luck  Opt   Exe   SetOpt  S1    S2    S3    S4    S5    PostMsg Comment             
+100     0       6299      6299      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Death God's Cloak
+100     1       6299      6299      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Death God's Cloak
+100     2       6299      6299      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Death God's Cloak
+100     3       6299      6299      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Death God's Cloak
+101     0       6294      6294      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Chaos Origin Wings
+101     1       6294      6294      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Chaos Origin Wings
+101     2       6294      6294      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Chaos Origin Wings
+101     3       6294      6294      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Chaos Origin Wings
+102     0       6295      6295      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Magic Wings
+102     1       6295      6295      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Magic Wings
+102     2       6295      6295      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Magic Wings
+102     3       6295      6295      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Magic Wings
+103     0       6296      6296      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Fire God Wings
+103     1       6296      6296      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Fire God Wings
+103     2       6296      6296      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Fire God Wings
+103     3       6296      6296      0     0     -1    -1    -1    0       255   255   255   255   255   989     //Fire God Wings
+104     0       6298      6298      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Wings TT - Devil
+104     1       6298      6298      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Wings TT - Devil
+104     2       6298      6298      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Wings TT - Devil
+105     0       6297      6297      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Wings of Conquest
+105     1       6297      6297      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Wings of Conquest
+105     2       6297      6297      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Wings of Conquest
+106     0       6300      6306      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+107     0       6873      6879      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+108     0       6880      6889      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+109     0       6890      6893      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+110     0       6894      6896      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+111     0       6897      6898      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+112     0       6899      6900      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+113     0       6901      6902      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+114     0       6903      6904      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+115     0       6905      6906      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+116     0       6907      6908      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+117     0       6909      6910      0     -1    -1    -1    -1    0       255   255   255   255   255   989     //Random            
+// CASE-20261004-002 wing mixes 120-130 (MuServer2 recipes, see C:\avrora\cases\CASE-20261004-002.md)
+120   0   6364    6364    0   0   -1  -2  -2  0   255 255 255 255 255 989 //RF Cloak of Warrior -> 12/220 Cloak of Death [Lvl 2.5] | luck/add/exc random
+120   1   6364    6364    0   0   -1  -2  -2  0   255 255 255 255 255 989 //DL Cape of Lord -> 12/220 Cloak of Death [Lvl 2.5] | luck/add/exc random
+121   0   6365    6365    0   0   -1  -2  -2  0   255 255 255 255 255 989 //BK Wings of Dragon -> 12/221 Wings of Chaos [Lvl 2.5] | luck/add/exc random
+121   1   6365    6365    0   0   -1  -2  -2  0   255 255 255 255 255 989 //MG Wings of Darkness -> 12/221 Wings of Chaos [Lvl 2.5] | luck/add/exc random
+122   0   6366    6366    0   0   -1  -2  -2  0   255 255 255 255 255 989 //SM Wings of Soul -> 12/222 Wings of Magic [Lvl 2.5] | luck/add/exc random
+122   1   6366    6366    0   0   -1  -2  -2  0   255 255 255 255 255 989 //MG Wings of Darkness -> 12/222 Wings of Magic [Lvl 2.5] | luck/add/exc random
+122   2   6366    6366    0   0   -1  -2  -2  0   255 255 255 255 255 989 //SU Wind of Despair -> 12/222 Wings of Magic [Lvl 2.5] | luck/add/exc random
+123   0   6367    6367    0   0   -1  -2  -2  0   255 255 255 255 255 989 //Elf Wings of Spirits -> 12/223 Wings of Life [Lvl 2.5] | luck/add/exc random
+124   0   7475    7475    0   0   -1  0   -1  0   255 255 255 255 255 989 //3rd wing BK/SM/Elf/MG/DL -> 14/307 Garuda's Feather
+124   1   7475    7475    0   0   -1  0   -1  0   255 255 255 255 255 989 //3rd wing SU -> 14/307 Garuda's Feather
+124   2   7475    7475    0   0   -1  0   -1  0   255 255 255 255 255 989 //3rd wing RF -> 14/307 Garuda's Feather
+125   0   6384    6390    0   0   -1  -2  -2  0   255 255 255 255 255 989 //no wing input -> random 4.0 (as MS2) -> random 12/240 Wings of Elysium [Lvl 4] .. 12/246 Cloak of Judgment [Lvl 4] | luck/add/exc random
+126   0   7476    7476    0   0   -1  0   -1  0   255 255 255 255 255 989 //any item 0/2 .. 13/244 (as MS2) -> 14/308 Greater Spirit Stone
+127   0   6374    6380    0   0   -1  -2  -2  0   255 255 255 255 255 989 //BK -> random 3.5 (all classes) | luck/add/exc random
+127   1   6374    6380    0   0   -1  -2  -2  0   255 255 255 255 255 989 //SM -> random 3.5 (all classes) | luck/add/exc random
+127   2   6374    6380    0   0   -1  -2  -2  0   255 255 255 255 255 989 //Elf -> random 3.5 (all classes) | luck/add/exc random
+127   3   6374    6380    0   0   -1  -2  -2  0   255 255 255 255 255 989 //MG -> random 3.5 (all classes) | luck/add/exc random
+127   4   6374    6380    0   0   -1  -2  -2  0   255 255 255 255 255 989 //DL -> random 3.5 (all classes) | luck/add/exc random
+127   5   6374    6380    0   0   -1  -2  -2  0   255 255 255 255 255 989 //SU -> random 3.5 (all classes) | luck/add/exc random
+127   6   6374    6380    0   0   -1  -2  -2  0   255 255 255 255 255 989 //RF -> random 3.5 (all classes) | luck/add/exc random
+128   0   6394    6400    0   0   -1  -2  -2  0   255 255 255 255 255 989 //SM -> random 4.5 (all classes) | luck/add/exc random
+128   1   6394    6400    0   0   -1  -2  -2  0   255 255 255 255 255 989 //BK -> random 4.5 (all classes) | luck/add/exc random
+128   2   6394    6400    0   0   -1  -2  -2  0   255 255 255 255 255 989 //Elf -> random 4.5 (all classes) | luck/add/exc random
+128   3   6394    6400    0   0   -1  -2  -2  0   255 255 255 255 255 989 //MG -> random 4.5 (all classes) | luck/add/exc random
+128   4   6394    6400    0   0   -1  -2  -2  0   255 255 255 255 255 989 //DL -> random 4.5 (all classes) | luck/add/exc random
+128   5   6394    6400    0   0   -1  -2  -2  0   255 255 255 255 255 989 //SU -> random 4.5 (all classes) | luck/add/exc random
+128   6   6394    6400    0   0   -1  -2  -2  0   255 255 255 255 255 989 //RF -> random 4.5 (all classes) | luck/add/exc random
+129   0   7480    7480    0   0   -1  0   -1  0   255 255 255 255 255 989 //any 4.0 wing -> 14/312 Relic 5th Wing
+129   1   7480    7480    0   0   -1  0   -1  0   255 255 255 255 255 989 //any 4.5 wing -> 14/312 Relic 5th Wing
+130   0   6414    6420    0   0   -1  -2  -2  0   255 255 255 255 255 989 //no wing input -> random 5.0 (as MS2) -> random 12/270 Wings of Virtue [Lvl 5] .. 12/276 Cloack of Oath [Lvl 5] | luck/add/exc random
+end

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<DungLuyen Enable="1" GiuOption="1">
+	<Message>
+		<Msg Index="0" Text="[Fusion] Feature not available" />
+		<Msg Index="1" Text="[Fusion] Item does not meet requirements!" />
+		<Msg Index="2" Text="[Fusion] You need to place [%s]!" />
+		<Msg Index="3" Text="[Fusion] Sorry, you have failed!" />
+		<Msg Index="4" Text="[Fusion] Congratulations, fusion successful!" />
+		<Msg Index="5" Text="[Fusion] Congratulations [%s], successfully fused %s!" />
+		<Msg Index="6" Text="[Fusion] Please close and reopen the fusion window!!" />
+		<Msg Index="7" Text="[Fusion] Please remove the secondary item first!!" />
+	</Message>
+	<NPC Class="736" Map="0" X="145" Y="140" Dir="1" Name="Fusion" />
+	<GroupDungLuyen Notice="1" Name="VuKhi" Rate="300" TypeFail="0">
+		<ItemChinh Type="0" Index="19" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+		<ItemPhu1>
+			<Item Type="0" Index="11" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu1>
+		<ItemPhu2>
+			<Item Type="0" Index="13" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu2>
+		<ItemPhu3>
+			<Item Type="0" Index="14" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu3>
+		<ItemKetQua Type="0" Index="18" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+	</GroupDungLuyen>
+	<GroupDungLuyen Notice="1" Name="VuKhi" Rate="100" TypeFail="0">
+		<ItemChinh Type="10" Index="19" Level="1" Skill="2" Luck="3" Option="4" Exc="5" />
+		<ItemPhu1>
+			<Item Type="0" Index="15" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu1>
+		<ItemPhu2>
+			<Item Type="0" Index="16" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu2>
+		<ItemPhu3>
+			<Item Type="0" Index="17" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu3>
+		<ItemKetQua Type="0" Index="18" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+	</GroupDungLuyen>
+	<GroupDungLuyen Notice="1" Name="Wing" Rate="0" TypeFail="0">
+		<ItemChinh Type="0" Index="18" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+		<ItemPhu1>
+			<Item Type="12" Index="30" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu1>
+		<ItemPhu2>
+			<Item Type="12" Index="31" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu2>
+		<ItemPhu3>
+			<Item Type="13" Index="30" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu3>
+		<ItemKetQua Type="0" Index="19" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+	</GroupDungLuyen>
+	<GroupDungLuyen Notice="1" Name="Ammor" Rate="0" TypeFail="0">
+		<ItemChinh Type="0" Index="18" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+		<ItemPhu1>
+			<Item Type="12" Index="30" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu1>
+		<ItemPhu2>
+			<Item Type="12" Index="31" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu2>
+		<ItemPhu3>
+			<Item Type="13" Index="30" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu3>
+		<ItemKetQua Type="0" Index="19" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+	</GroupDungLuyen>
+	<GroupDungLuyen Notice="0" Name="Helm" Rate="0" TypeFail="0">
+		<ItemChinh Type="0" Index="0" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+		<ItemPhu1>
+			<Item Type="0" Index="19" Level="0" Skill="0" Luck="0" Option="0" Exc="0" Dur="0" />
+		</ItemPhu1>
+		<ItemPhu2 />
+		<ItemPhu3 />
+		<ItemKetQua Type="0" Index="0" Level="0" Skill="0" Luck="0" Option="0" Exc="0" />
+	</GroupDungLuyen>
+</DungLuyen>

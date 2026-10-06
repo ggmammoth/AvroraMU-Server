@@ -1,0 +1,325 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+// [NPCS] TARKAN
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+240            08             00         197            059            02             //Safety Guardian
+255            08             00         205            062            08             //Lumen the Barmaid
+257            08             00         155            059            09             //Lumen the Barmaid
+257            08             00         205            097            03             //Lumen the Barmaid
+
+end
+
+//=========================================================================================================================================
+// [QUESTS] CIDADES HUNTS MOBS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+735            08             00        192             073            02             //QUEST TARKAN
+end
+
+//=========================================================================================================================================
+// MINI BOSSES
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+end
+
+//=========================================================================================================================================
+// SPOTS   TARKAN
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+end
+
+
+//=========================================================================================================================================
+// [ESPALHADOS] TARKAN
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+
+062            08             2          180           115             3            //Mutant
+062            08             2          180           115             3            //Mutant
+062            08             2          180           115             3            //Mutant
+062            08             2          180           115             3            //Mutant
+062            08             2          180           115             3            //Mutant
+062            08             2          180           115             3            //Mutant
+062            08             2          180           115             3            //Mutant
+062            08             2          180           115             3            //Mutant
+
+062            08             2          150           122             3            //Mutant
+062            08             2          150           122             3            //Mutant
+062            08             2          150           122             3            //Mutant
+062            08             2          150           122             3            //Mutant
+062            08             2          150           122             3            //Mutant
+062            08             2          150           122             3            //Mutant
+062            08             2          150           122             3            //Mutant
+062            08             2          150           122             3            //Mutant
+
+062            08             2          173           093             3            //Mutant
+062            08             2          173           093             3            //Mutant
+062            08             2          173           093             3            //Mutant
+062            08             2          173           093             3            //Mutant
+062            08             2          173           093             3            //Mutant
+062            08             2          173           093             3            //Mutant
+062            08             2          173           093             3            //Mutant
+062            08             2          173           093             3            //Mutant
+
+062            08             2          140           070             3            //Mutant
+062            08             2          140           070             3            //Mutant
+062            08             2          140           070             3            //Mutant
+062            08             2          140           070             3            //Mutant
+062            08             2          140           070             3            //Mutant
+062            08             2          140           070             3            //Mutant
+062            08             2          140           070             3            //Mutant
+062            08             2          140           070             3            //Mutant
+
+062            08             2          156           041             3            //Mutant
+062            08             2          156           041             3            //Mutant
+062            08             2          156           041             3            //Mutant
+062            08             2          156           041             3            //Mutant
+062            08             2          156           041             3            //Mutant
+062            08             2          156           041             3            //Mutant
+062            08             2          156           041             3            //Mutant
+062            08             2          156           041             3            //Mutant
+
+060            08             2          133           016             3            //wolf
+060            08             2          133           016             3            //wolf
+060            08             2          133           016             3            //wolf
+060            08             2          133           016             3            //wolf
+060            08             2          133           016             3            //wolf
+060            08             2          133           016             3            //wolf
+060            08             2          133           016             3            //wolf
+060            08             2          133           016             3            //wolf
+
+060            08             2          096           026             3            //wolf
+060            08             2          096           026             3            //wolf
+060            08             2          096           026             3            //wolf
+060            08             2          096           026             3            //wolf
+060            08             2          096           026             3            //wolf
+060            08             2          096           026             3            //wolf
+060            08             2          096           026             3            //wolf
+060            08             2          096           026             3            //wolf
+
+060            08             2          112           070             3            //wolf
+060            08             2          112           070             3            //wolf
+060            08             2          112           070             3            //wolf
+060            08             2          112           070             3            //wolf
+060            08             2          112           070             3            //wolf
+060            08             2          112           070             3            //wolf
+060            08             2          112           070             3            //wolf
+060            08             2          112           070             3            //wolf
+
+060            08             2          107           106             3            //wolf
+060            08             2          107           106             3            //wolf
+060            08             2          107           106             3            //wolf
+060            08             2          107           106             3            //wolf
+060            08             2          107           106             3            //wolf
+060            08             2          107           106             3            //wolf
+060            08             2          107           106             3            //wolf
+060            08             2          107           106             3            //wolf
+
+060            08             2          087           071             3            //wolf
+060            08             2          087           071             3            //wolf
+060            08             2          087           071             3            //wolf
+060            08             2          087           071             3            //wolf
+060            08             2          087           071             3            //wolf
+060            08             2          087           071             3            //wolf
+060            08             2          087           071             3            //wolf
+060            08             2          087           071             3            //wolf
+
+057            08             2          067           067             3            //iron whell
+057            08             2          067           067             3            //iron whell
+057            08             2          067           067             3            //iron whell
+057            08             2          067           067             3            //iron whell
+057            08             2          067           067             3            //iron whell
+057            08             2          067           067             3            //iron whell
+057            08             2          067           067             3            //iron whell
+057            08             2          067           067             3            //iron whell
+
+057            08             2          040           065             3            //iron whell
+057            08             2          040           065             3            //iron whell
+057            08             2          040           065             3            //iron whell
+057            08             2          040           065             3            //iron whell
+057            08             2          040           065             3            //iron whell
+057            08             2          040           065             3            //iron whell
+057            08             2          040           065             3            //iron whell
+057            08             2          040           065             3            //iron whell
+
+057            08             2          040           088             3            //iron whell
+057            08             2          040           088             3            //iron whell
+057            08             2          040           088             3            //iron whell
+057            08             2          040           088             3            //iron whell
+057            08             2          040           088             3            //iron whell
+057            08             2          040           088             3            //iron whell
+057            08             2          040           088             3            //iron whell
+057            08             2          040           088             3            //iron whell
+
+057            08             2          021           093             3            //iron whell
+057            08             2          021           093             3            //iron whell
+057            08             2          021           093             3            //iron whell
+057            08             2          021           093             3            //iron whell
+057            08             2          021           093             3            //iron whell
+057            08             2          021           093             3            //iron whell
+057            08             2          021           093             3            //iron whell
+057            08             2          021           093             3            //iron whell
+
+057            08             2          064           089             3            //iron whell
+057            08             2          064           089             3            //iron whell
+057            08             2          064           089             3            //iron whell
+057            08             2          064           089             3            //iron whell
+057            08             2          064           089             3            //iron whell
+057            08             2          064           089             3            //iron whell
+057            08             2          064           089             3            //iron whell
+057            08             2          064           089             3            //iron whell
+
+058            08             2          028           139             3            //tantaloss
+058            08             2          028           139             3            //tantaloss
+058            08             2          028           139             3            //tantaloss
+058            08             2          028           139             3            //tantaloss
+058            08             2          028           139             3            //tantaloss
+058            08             2          028           139             3            //tantaloss
+058            08             2          028           139             3            //tantaloss
+058            08             2          028           139             3            //tantaloss
+
+058            08             2          051           139             3            //tantaloss
+058            08             2          051           139             3            //tantaloss
+058            08             2          051           139             3            //tantaloss
+058            08             2          051           139             3            //tantaloss
+058            08             2          051           139             3            //tantaloss
+058            08             2          051           139             3            //tantaloss
+058            08             2          051           139             3            //tantaloss
+058            08             2          051           139             3            //tantaloss
+
+058            08             2          124           124             3            //tantaloss
+058            08             2          124           124             3            //tantaloss
+058            08             2          124           124             3            //tantaloss
+058            08             2          124           124             3            //tantaloss
+058            08             2          124           124             3            //tantaloss
+058            08             2          124           124             3            //tantaloss
+058            08             2          124           124             3            //tantaloss
+058            08             2          124           124             3            //tantaloss
+
+058            08             2          125           149             3            //tantaloss
+058            08             2          125           149             3            //tantaloss
+058            08             2          125           149             3            //tantaloss
+058            08             2          125           149             3            //tantaloss
+058            08             2          125           149             3            //tantaloss
+058            08             2          125           149             3            //tantaloss
+058            08             2          125           149             3            //tantaloss
+058            08             2          125           149             3            //tantaloss
+
+058            08             2          105           141             3            //tantaloss
+058            08             2          105           141             3            //tantaloss
+058            08             2          105           141             3            //tantaloss
+058            08             2          105           141             3            //tantaloss
+058            08             2          105           141             3            //tantaloss
+058            08             2          105           141             3            //tantaloss
+058            08             2          105           141             3            //tantaloss
+058            08             2          105           141             3            //tantaloss
+
+058            08             2          081           137             3            //tantaloss
+058            08             2          081           137             3            //tantaloss
+058            08             2          081           137             3            //tantaloss
+058            08             2          081           137             3            //tantaloss
+058            08             2          081           137             3            //tantaloss
+058            08             2          081           137             3            //tantaloss
+058            08             2          081           137             3            //tantaloss
+058            08             2          081           137             3            //tantaloss
+
+061            08             2          120           215             3            //Beam Knight
+061            08             2          120           215             3            //Beam Knight
+061            08             2          120           215             3            //Beam Knight
+061            08             2          120           215             3            //Beam Knight
+061            08             2          120           215             3            //Beam Knight
+061            08             2          120           215             3            //Beam Knight
+061            08             2          120           215             3            //Beam Knight
+061            08             2          120           215             3            //Beam Knight
+
+061            08             2          152           206             3            //Beam Knight
+061            08             2          152           206             3            //Beam Knight
+061            08             2          152           206             3            //Beam Knight
+061            08             2          152           206             3            //Beam Knight
+061            08             2          152           206             3            //Beam Knight
+061            08             2          152           206             3            //Beam Knight
+061            08             2          152           206             3            //Beam Knight
+061            08             2          152           206             3            //Beam Knight
+
+061            08             2          175           215             3            //Beam Knight
+061            08             2          175           215             3            //Beam Knight
+061            08             2          175           215             3            //Beam Knight
+061            08             2          175           215             3            //Beam Knight
+061            08             2          175           215             3            //Beam Knight
+061            08             2          175           215             3            //Beam Knight
+061            08             2          175           215             3            //Beam Knight
+061            08             2          175           215             3            //Beam Knight
+
+061            08             2          006           219             3            //Beam Knight
+061            08             2          006           219             3            //Beam Knight
+061            08             2          006           219             3            //Beam Knight
+061            08             2          006           219             3            //Beam Knight
+061            08             2          006           219             3            //Beam Knight
+061            08             2          006           219             3            //Beam Knight
+061            08             2          006           219             3            //Beam Knight
+061            08             2          006           219             3            //Beam Knight
+
+061            08             2          044           244             3            //Beam Knight
+061            08             2          044           244             3            //Beam Knight
+061            08             2          044           244             3            //Beam Knight
+061            08             2          044           244             3            //Beam Knight
+061            08             2          044           244             3            //Beam Knight
+061            08             2          044           244             3            //Beam Knight
+061            08             2          044           244             3            //Beam Knight
+061            08             2          044           244             3            //Beam Knight
+
+061            08             2          048           169             3            //Beam Knight
+061            08             2          048           169             3            //Beam Knight
+061            08             2          048           169             3            //Beam Knight
+061            08             2          048           169             3            //Beam Knight
+061            08             2          048           169             3            //Beam Knight
+061            08             2          048           169             3            //Beam Knight
+061            08             2          048           169             3            //Beam Knight
+061            08             2          048           169             3            //Beam Knight
+
+
+
+063            08             2          010           242             3            //Death beam knight event monster
+063            08             2          010           242             3            //Death beam knight event monster
+063            08             2          010           242             3            //Death beam knight event monster
+063            08             2          010           242             3            //Death beam knight event monster
+063            08             2          010           242             3            //Death beam knight event monster
+063            08             2          010           242             3            //Death beam knight event monster
+063            08             2          010           242             3            //Death beam knight event monster
+063            08             2          010           242             3            //Death beam knight event monster
+
+
+062            08             10          155           155             -1            //HOT TARKAN 1
+062            08             10          155           155             -1            //HOT TARKAN 1
+062            08             10          155           155             -1            //HOT TARKAN 1
+062            08             10          155           155             -1            //HOT TARKAN 1
+062            08             10          155           155             -1            //HOT TARKAN 1
+060            08             10          155           155             -1            //HOT TARKAN 1
+060            08             10          155           155             -1            //HOT TARKAN 1
+060            08             10          155           155             -1            //HOT TARKAN 1
+060            08             10          155           155             -1            //HOT TARKAN 1
+060            08             10          155           155             -1            //HOT TARKAN 1
+
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+058            08             10          093           198             -1            //HOT  TARKAN 2
+
+
+
+end

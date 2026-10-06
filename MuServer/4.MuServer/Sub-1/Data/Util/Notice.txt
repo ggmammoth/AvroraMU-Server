@@ -1,0 +1,23 @@
+//Message                                                              					  	Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"[LV, HHHT] items drop in Icarus when announced on the official page. PvP is enabled."	0	0	0	0	0	1	0	0	90
+"Undercutting the posted Bless, Soul, or WCoin market price will result in a permanent IP ban."	0	0	0	0	0	1	0	0	90
+"[Tip] Exchange unwanted Excellent items for WCoin at the ThuMuaExl NPC."	0	0	0	0	0	1	0	0	90
+"[OFFTRAIN] Continue leveling and earning Master Levels while offline."	0	0	0	0	0	1	0	0	90
+"For better Master EXP, train on higher-level monsters."	0	0	0	0	0	1	0	0	90
+"Visit the official website for complete information about ranking competitions."	0	0	0	0	0	1	0	0	90
+"Use the Combination NPC in Lorencia to improve your equipment!"	0	0	0	0	0	1	0	0	90
+"Use EXP Seals to level up and gain Master Levels faster."	0	0	0	0	0	1	0	0	90
+"[Notice] WCoinC is the official currency for all in-game transactions."	0	0	0	0	0	1	0	0	90
+"Use a strong password to protect your account from being stolen!"	0	0	0	0	0	1	0	0	90
+"Extremely cheap item offers are almost certainly scams. Report them to an administrator immediately."	0	0	0	0	0	1	0	0	90
+"[Notice] Use the Chaos Goblin responsibly. Administrators will not restore losses caused by careless mixing!"	0	0	0	0	0	1	0	0	90
+"If you cannot win alone, ask your guild for help. Be respectful and play fairly!"	0	0	0	0	0	1	0	0	90
+"[Notice] Press F8 to view the most accurate in-game event schedule!"	0	0	0	0	0	1	0	0	90
+"The only guaranteed way to win at gambling is not to play. Gambling is not encouraged by the administration!"	0	0	0	0	0	1	0	0	90
+"Be prepared to invest time or money if you want to become one of the strongest players."	0	0	0	0	0	1	0	0	90
+"Super Bosses appear every week from Monday through Saturday at the announced times."	0	0	0	0	0	1	0	0	90
+"Gemstones drop in Kanturu 4 on every server."	0	0	0	0	0	1	0	0	90
+"Bring a strong party if you want to defeat a boss."	0	0	0	0	0	1	0	0	90
+"Scamming will result in a ban. Report suspected scammers to an administrator immediately."	0	0	0	0	0	1	0	0	90
+"Use /setpas to create a password-protected party."	0	0	0	0	0	1	0	0	90
+end

@@ -1,0 +1,884 @@
+//=========================================================================================================================================
+// MAMMOTH MonstersetBase
+// Discord mammoth5555
+// http://avroramu.com
+//=========================================================================================================================================
+// [NPCS] NORIA
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+237            03             00         171            104            03             //Charon
+242            03             00         173            125            01             //Elf Lala
+243            03             00         195            124            02             //Eo the Craftsman
+240            03             00         173            96             03             //Safety Guardian
+238            03             00         180            103            01             //Chaos Goblin
+257            03             00         167            118            01             //Shadow Phantom Soldier
+450            03             00         179            126            01             //Cherry Blossom Spirit
+451            03             00         179            129            03             //Cherry Blossom Tree
+257            03             00         166            085            02             //Shadow Phantom Soldier
+257            03             00         203            130            02             //Shadow Phantom Soldier
+544            03             00         168            102            02             //Gens Vanert Steward
+543            03             00         167            101            02             //Gens Duprian Steward
+233            03             00         171            109             03             //Messenger of Archangel
+253            03             00         172            92             02             //Potion girl
+//371          03             00         171            120            02             //Leo the Helper
+//805            03             00         195            113            02             //Captain Slough
+//375            03             00         173            93             02              //Chaos Card Master
+735            03             00         193            109            02             //Npc Quests
+
+
+end
+
+
+//=========================================================================================================================================
+// [SPOT] NORIA
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+
+end
+
+
+
+
+//=========================================================================================================================================
+// [SPAWN] NORIA
+//=========================================================================================================================================
+2
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+026            03             2          180           058             10            //goblin
+026            03             2          180           058             10            //goblin
+026            03             2          180           058             10            //goblin
+026            03             2          180           058             10            //goblin
+026            03             2          180           058             10            //goblin
+026            03             2          180           058             10            //goblin
+026            03             2          180           058             10            //goblin
+026            03             2          180           058             10            //goblin
+
+026            03             2          178           035             10            //goblin
+026            03             2          178           035             10            //goblin
+026            03             2          178           035             10            //goblin
+026            03             2          178           035             10            //goblin
+026            03             2          178           035             10            //goblin
+026            03             2          178           035             10            //goblin
+026            03             2          178           035             10            //goblin
+026            03             2          178           035             10            //goblin
+
+026            03             2          169           010             10            //goblin
+026            03             2          169           010             10            //goblin
+026            03             2          169           010             10            //goblin
+026            03             2          169           010             10            //goblin
+026            03             2          169           010             10            //goblin
+026            03             2          169           010             10            //goblin
+026            03             2          169           010             10            //goblin
+026            03             2          169           010             10            //goblin
+
+026            03             2          195           011             10            //goblin
+026            03             2          195           011             10            //goblin
+026            03             2          195           011             10            //goblin
+026            03             2          195           011             10            //goblin
+026            03             2          195           011             10            //goblin
+026            03             2          195           011             10            //goblin
+026            03             2          195           011             10            //goblin
+026            03             2          195           011             10            //goblin
+
+026            03             2          206           044             10            //goblin
+026            03             2          206           044             10            //goblin
+026            03             2          206           044             10            //goblin
+026            03             2          206           044             10            //goblin
+026            03             2          206           044             10            //goblin
+026            03             2          206           044             10            //goblin
+026            03             2          206           044             10            //goblin
+026            03             2          206           044             10            //goblin
+
+026            03             2          200           066             10            //goblin
+026            03             2          200           066             10            //goblin
+026            03             2          200           066             10            //goblin
+026            03             2          200           066             10            //goblin
+026            03             2          200           066             10            //goblin
+026            03             2          200           066             10            //goblin
+026            03             2          200           066             10            //goblin
+026            03             2          200           066             10            //goblin
+
+026            03             2          223           076             10            //goblin
+026            03             2          223           076             10            //goblin
+026            03             2          223           076             10            //goblin
+026            03             2          223           076             10            //goblin
+026            03             2          223           076             10            //goblin
+026            03             2          223           076             10            //goblin
+026            03             2          223           076             10            //goblin
+026            03             2          223           076             10            //goblin
+
+026            03             2          230           041             10            //goblin
+026            03             2          230           041             10            //goblin
+026            03             2          230           041             10            //goblin
+026            03             2          230           041             10            //goblin
+026            03             2          230           041             10            //goblin
+026            03             2          230           041             10            //goblin
+026            03             2          230           041             10            //goblin
+026            03             2          230           041             10            //goblin
+
+026            03             2          229           092             10            //goblin
+026            03             2          229           092             10            //goblin
+026            03             2          229           092             10            //goblin
+026            03             2          229           092             10            //goblin
+026            03             2          229           092             10            //goblin
+026            03             2          229           092             10            //goblin
+026            03             2          229           092             10            //goblin
+026            03             2          229           092             10            //goblin
+
+026            03             2          164           072             10            //goblin
+026            03             2          164           072             10            //goblin
+026            03             2          164           072             10            //goblin
+026            03             2          164           072             10            //goblin
+026            03             2          164           072             10            //goblin
+026            03             2          164           072             10            //goblin
+026            03             2          164           072             10            //goblin
+026            03             2          164           072             10            //goblin
+
+026            03             2          183           080             10            //goblin
+026            03             2          183           080             10            //goblin
+026            03             2          183           080             10            //goblin
+026            03             2          183           080             10            //goblin
+026            03             2          183           080             10            //goblin
+026            03             2          183           080             10            //goblin
+026            03             2          183           080             10            //goblin
+026            03             2          183           080             10            //goblin
+
+026            03             2          201           089             10            //goblin
+026            03             2          201           089             10            //goblin
+026            03             2          201           089             10            //goblin
+026            03             2          201           089             10            //goblin
+026            03             2          201           089             10            //goblin
+026            03             2          201           089             10            //goblin
+026            03             2          201           089             10            //goblin
+026            03             2          201           089             10            //goblin
+
+
+027            03             2          160           059             10            //Chain Scorpion
+027            03             2          160           059             10            //Chain Scorpion
+027            03             2          160           059             10            //Chain Scorpion
+027            03             2          160           059             10            //Chain Scorpion
+027            03             2          160           059             10            //Chain Scorpion
+027            03             2          160           059             10            //Chain Scorpion
+027            03             2          160           059             10            //Chain Scorpion
+027            03             2          160           059             10            //Chain Scorpion
+
+027            03             2          149           044             10            //Chain Scorpion
+027            03             2          149           044             10            //Chain Scorpion
+027            03             2          149           044             10            //Chain Scorpion
+027            03             2          149           044             10            //Chain Scorpion
+027            03             2          149           044             10            //Chain Scorpion
+027            03             2          149           044             10            //Chain Scorpion
+027            03             2          149           044             10            //Chain Scorpion
+027            03             2          149           044             10            //Chain Scorpion
+
+027            03             2          125           031             10            //Chain Scorpion
+027            03             2          125           031             10            //Chain Scorpion
+027            03             2          125           031             10            //Chain Scorpion
+027            03             2          125           031             10            //Chain Scorpion
+027            03             2          125           031             10            //Chain Scorpion
+027            03             2          125           031             10            //Chain Scorpion
+027            03             2          125           031             10            //Chain Scorpion
+027            03             2          125           031             10            //Chain Scorpion
+
+027            03             2          107           011             10            //Chain Scorpion
+027            03             2          107           011             10            //Chain Scorpion
+027            03             2          107           011             10            //Chain Scorpion
+027            03             2          107           011             10            //Chain Scorpion
+027            03             2          107           011             10            //Chain Scorpion
+027            03             2          107           011             10            //Chain Scorpion
+027            03             2          107           011             10            //Chain Scorpion
+027            03             2          107           011             10            //Chain Scorpion
+
+027            03             2          132           010             10            //Chain Scorpion
+027            03             2          132           010             10            //Chain Scorpion
+027            03             2          132           010             10            //Chain Scorpion
+027            03             2          132           010             10            //Chain Scorpion
+027            03             2          132           010             10            //Chain Scorpion
+027            03             2          132           010             10            //Chain Scorpion
+027            03             2          132           010             10            //Chain Scorpion
+027            03             2          132           010             10            //Chain Scorpion
+
+027            03             2          144           028             10            //Chain Scorpion
+027            03             2          144           028             10            //Chain Scorpion
+027            03             2          144           028             10            //Chain Scorpion
+027            03             2          144           028             10            //Chain Scorpion
+027            03             2          144           028             10            //Chain Scorpion
+027            03             2          144           028             10            //Chain Scorpion
+027            03             2          144           028             10            //Chain Scorpion
+027            03             2          144           028             10            //Chain Scorpion
+
+027            03             2          151           093             10            //Chain Scorpion
+027            03             2          151           093             10            //Chain Scorpion
+027            03             2          151           093             10            //Chain Scorpion
+027            03             2          151           093             10            //Chain Scorpion
+027            03             2          151           093             10            //Chain Scorpion
+027            03             2          151           093             10            //Chain Scorpion
+027            03             2          151           093             10            //Chain Scorpion
+027            03             2          151           093             10            //Chain Scorpion
+
+027            03             2          144           145             10            //Chain Scorpion
+027            03             2          144           145             10            //Chain Scorpion
+027            03             2          144           145             10            //Chain Scorpion
+027            03             2          144           145             10            //Chain Scorpion
+027            03             2          144           145             10            //Chain Scorpion
+027            03             2          144           145             10            //Chain Scorpion
+027            03             2          144           145             10            //Chain Scorpion
+027            03             2          144           145             10            //Chain Scorpion
+
+027            03             2          119           159             10            //Chain Scorpion
+027            03             2          119           159             10            //Chain Scorpion
+027            03             2          119           159             10            //Chain Scorpion
+027            03             2          119           159             10            //Chain Scorpion
+027            03             2          119           159             10            //Chain Scorpion
+027            03             2          119           159             10            //Chain Scorpion
+027            03             2          119           159             10            //Chain Scorpion
+027            03             2          119           159             10            //Chain Scorpion
+
+
+030            03             2          144           070             10            //Forest Monster
+030            03             2          144           070             10            //Forest Monster
+030            03             2          144           070             10            //Forest Monster
+030            03             2          144           070             10            //Forest Monster
+030            03             2          144           070             10            //Forest Monster
+030            03             2          144           070             10            //Forest Monster
+030            03             2          144           070             10            //Forest Monster
+030            03             2          144           070             10            //Forest Monster
+
+030            03             2          124           061             10            //Forest Monster
+030            03             2          124           061             10            //Forest Monster
+030            03             2          124           061             10            //Forest Monster
+030            03             2          124           061             10            //Forest Monster
+030            03             2          124           061             10            //Forest Monster
+030            03             2          124           061             10            //Forest Monster
+030            03             2          124           061             10            //Forest Monster
+030            03             2          124           061             10            //Forest Monster
+
+030            03             2          098           049             10            //Forest Monster
+030            03             2          098           049             10            //Forest Monster
+030            03             2          098           049             10            //Forest Monster
+030            03             2          098           049             10            //Forest Monster
+030            03             2          098           049             10            //Forest Monster
+030            03             2          098           049             10            //Forest Monster
+030            03             2          098           049             10            //Forest Monster
+030            03             2          098           049             10            //Forest Monster
+
+030            03             2          072           037             10            //Forest Monster
+030            03             2          072           037             10            //Forest Monster
+030            03             2          072           037             10            //Forest Monster
+030            03             2          072           037             10            //Forest Monster
+030            03             2          072           037             10            //Forest Monster
+030            03             2          072           037             10            //Forest Monster
+030            03             2          072           037             10            //Forest Monster
+030            03             2          072           037             10            //Forest Monster
+
+030            03             2          088           017             10            //Forest Monster
+030            03             2          088           017             10            //Forest Monster
+030            03             2          088           017             10            //Forest Monster
+030            03             2          088           017             10            //Forest Monster
+030            03             2          088           017             10            //Forest Monster
+030            03             2          088           017             10            //Forest Monster
+030            03             2          088           017             10            //Forest Monster
+030            03             2          088           017             10            //Forest Monster
+
+030            03             2          049           022             10            //Forest Monster
+030            03             2          049           022             10            //Forest Monster
+030            03             2          049           022             10            //Forest Monster
+030            03             2          049           022             10            //Forest Monster
+030            03             2          049           022             10            //Forest Monster
+030            03             2          049           022             10            //Forest Monster
+030            03             2          049           022             10            //Forest Monster
+030            03             2          049           022             10            //Forest Monster
+
+030            03             2          033           013             10            //Forest Monster
+030            03             2          033           013             10            //Forest Monster
+030            03             2          033           013             10            //Forest Monster
+030            03             2          033           013             10            //Forest Monster
+030            03             2          033           013             10            //Forest Monster
+030            03             2          033           013             10            //Forest Monster
+030            03             2          033           013             10            //Forest Monster
+030            03             2          033           013             10            //Forest Monster
+
+030            03             2          197           142             10            //Forest Monster
+030            03             2          197           142             10            //Forest Monster
+030            03             2          197           142             10            //Forest Monster
+030            03             2          197           142             10            //Forest Monster
+030            03             2          197           142             10            //Forest Monster
+030            03             2          197           142             10            //Forest Monster
+030            03             2          197           142             10            //Forest Monster
+030            03             2          197           142             10            //Forest Monster
+
+030            03             2          188           158             10            //Forest Monster
+030            03             2          188           158             10            //Forest Monster
+030            03             2          188           158             10            //Forest Monster
+030            03             2          188           158             10            //Forest Monster
+030            03             2          188           158             10            //Forest Monster
+030            03             2          188           158             10            //Forest Monster
+030            03             2          188           158             10            //Forest Monster
+030            03             2          188           158             10            //Forest Monster
+
+030            03             2          188           178             10            //Forest Monster
+030            03             2          188           178             10            //Forest Monster
+030            03             2          188           178             10            //Forest Monster
+030            03             2          188           178             10            //Forest Monster
+030            03             2          188           178             10            //Forest Monster
+030            03             2          188           178             10            //Forest Monster
+030            03             2          188           178             10            //Forest Monster
+030            03             2          188           178             10            //Forest Monster
+
+
+028            03             2          151           124             10            //Beetle Monster
+028            03             2          151           124             10            //Beetle Monster
+028            03             2          151           124             10            //Beetle Monster
+028            03             2          151           124             10            //Beetle Monster
+028            03             2          151           124             10            //Beetle Monster
+028            03             2          151           124             10            //Beetle Monster
+028            03             2          151           124             10            //Beetle Monster
+028            03             2          151           124             10            //Beetle Monster
+
+028            03             2          125           126             10            //Beetle Monster
+028            03             2          125           126             10            //Beetle Monster
+028            03             2          125           126             10            //Beetle Monster
+028            03             2          125           126             10            //Beetle Monster
+028            03             2          125           126             10            //Beetle Monster
+028            03             2          125           126             10            //Beetle Monster
+028            03             2          125           126             10            //Beetle Monster
+028            03             2          125           126             10            //Beetle Monster
+
+028            03             2          144           145             10            //Beetle Monster
+028            03             2          144           145             10            //Beetle Monster
+028            03             2          144           145             10            //Beetle Monster
+028            03             2          144           145             10            //Beetle Monster
+028            03             2          144           145             10            //Beetle Monster
+028            03             2          144           145             10            //Beetle Monster
+028            03             2          144           145             10            //Beetle Monster
+028            03             2          144           145             10            //Beetle Monster
+
+028            03             2          083           128             10            //Beetle Monster
+028            03             2          083           128             10            //Beetle Monster
+028            03             2          083           128             10            //Beetle Monster
+028            03             2          083           128             10            //Beetle Monster
+028            03             2          083           128             10            //Beetle Monster
+028            03             2          083           128             10            //Beetle Monster
+028            03             2          083           128             10            //Beetle Monster
+028            03             2          083           128             10            //Beetle Monster
+
+028            03             2          104           137             10            //Beetle Monster
+028            03             2          104           137             10            //Beetle Monster
+028            03             2          104           137             10            //Beetle Monster
+028            03             2          104           137             10            //Beetle Monster
+028            03             2          104           137             10            //Beetle Monster
+028            03             2          104           137             10            //Beetle Monster
+028            03             2          104           137             10            //Beetle Monster
+028            03             2          104           137             10            //Beetle Monster
+
+028            03             2          083           147             10            //Beetle Monster
+028            03             2          083           147             10            //Beetle Monster
+028            03             2          083           147             10            //Beetle Monster
+028            03             2          083           147             10            //Beetle Monster
+028            03             2          083           147             10            //Beetle Monster
+028            03             2          083           147             10            //Beetle Monster
+028            03             2          083           147             10            //Beetle Monster
+028            03             2          083           147             10            //Beetle Monster
+
+028            03             2          054           149             10            //Beetle Monster
+028            03             2          054           149             10            //Beetle Monster
+028            03             2          054           149             10            //Beetle Monster
+028            03             2          054           149             10            //Beetle Monster
+028            03             2          054           149             10            //Beetle Monster
+028            03             2          054           149             10            //Beetle Monster
+028            03             2          054           149             10            //Beetle Monster
+028            03             2          054           149             10            //Beetle Monster
+
+028            03             2          021           165             10            //Beetle Monster
+028            03             2          021           165             10            //Beetle Monster
+028            03             2          021           165             10            //Beetle Monster
+028            03             2          021           165             10            //Beetle Monster
+028            03             2          021           165             10            //Beetle Monster
+028            03             2          021           165             10            //Beetle Monster
+028            03             2          021           165             10            //Beetle Monster
+028            03             2          021           165             10            //Beetle Monster
+
+028            03             2          017           185             10            //Beetle Monster
+028            03             2          017           185             10            //Beetle Monster
+028            03             2          017           185             10            //Beetle Monster
+028            03             2          017           185             10            //Beetle Monster
+028            03             2          017           185             10            //Beetle Monster
+028            03             2          017           185             10            //Beetle Monster
+028            03             2          017           185             10            //Beetle Monster
+028            03             2          017           185             10            //Beetle Monster
+
+028            03             2          022           135             10            //Beetle Monster
+028            03             2          022           135             10            //Beetle Monster
+028            03             2          022           135             10            //Beetle Monster
+028            03             2          022           135             10            //Beetle Monster
+028            03             2          022           135             10            //Beetle Monster
+028            03             2          022           135             10            //Beetle Monster
+028            03             2          022           135             10            //Beetle Monster
+028            03             2          022           135             10            //Beetle Monster
+
+028            03             2          057           131             10            //Beetle Monster
+028            03             2          057           131             10            //Beetle Monster
+028            03             2          057           131             10            //Beetle Monster
+028            03             2          057           131             10            //Beetle Monster
+028            03             2          057           131             10            //Beetle Monster
+028            03             2          057           131             10            //Beetle Monster
+028            03             2          057           131             10            //Beetle Monster
+028            03             2          057           131             10            //Beetle Monster
+
+
+029            03             2          122           108             10            //Hunter
+029            03             2          122           108             10            //Hunter
+029            03             2          122           108             10            //Hunter
+029            03             2          122           108             10            //Hunter
+029            03             2          122           108             10            //Hunter
+029            03             2          122           108             10            //Hunter
+029            03             2          122           108             10            //Hunter
+029            03             2          122           108             10            //Hunter
+
+029            03             2          103           103             10            //Hunter
+029            03             2          103           103             10            //Hunter
+029            03             2          103           103             10            //Hunter
+029            03             2          103           103             10            //Hunter
+029            03             2          103           103             10            //Hunter
+029            03             2          103           103             10            //Hunter
+029            03             2          103           103             10            //Hunter
+029            03             2          103           103             10            //Hunter
+
+029            03             2          098           114             10            //Hunter
+029            03             2          098           114             10            //Hunter
+029            03             2          098           114             10            //Hunter
+029            03             2          098           114             10            //Hunter
+029            03             2          098           114             10            //Hunter
+029            03             2          098           114             10            //Hunter
+029            03             2          098           114             10            //Hunter
+029            03             2          098           114             10            //Hunter
+
+029            03             2          067           113             10            //Hunter
+029            03             2          067           113             10            //Hunter
+029            03             2          067           113             10            //Hunter
+029            03             2          067           113             10            //Hunter
+029            03             2          067           113             10            //Hunter
+029            03             2          067           113             10            //Hunter
+029            03             2          067           113             10            //Hunter
+029            03             2          067           113             10            //Hunter
+
+029            03             2          068           092             10            //Hunter
+029            03             2          068           092             10            //Hunter
+029            03             2          068           092             10            //Hunter
+029            03             2          068           092             10            //Hunter
+029            03             2          068           092             10            //Hunter
+029            03             2          068           092             10            //Hunter
+029            03             2          068           092             10            //Hunter
+029            03             2          068           092             10            //Hunter
+
+029            03             2          045           086             10            //Hunter
+029            03             2          045           086             10            //Hunter
+029            03             2          045           086             10            //Hunter
+029            03             2          045           086             10            //Hunter
+029            03             2          045           086             10            //Hunter
+029            03             2          045           086             10            //Hunter
+029            03             2          045           086             10            //Hunter
+029            03             2          045           086             10            //Hunter
+
+029            03             2          041           108             10            //Hunter
+029            03             2          041           108             10            //Hunter
+029            03             2          041           108             10            //Hunter
+029            03             2          041           108             10            //Hunter
+029            03             2          041           108             10            //Hunter
+029            03             2          041           108             10            //Hunter
+029            03             2          041           108             10            //Hunter
+029            03             2          041           108             10            //Hunter
+
+029            03             2          030           096             10            //Hunter
+029            03             2          030           096             10            //Hunter
+029            03             2          030           096             10            //Hunter
+029            03             2          030           096             10            //Hunter
+029            03             2          030           096             10            //Hunter
+029            03             2          030           096             10            //Hunter
+029            03             2          030           096             10            //Hunter
+029            03             2          030           096             10            //Hunter
+
+029            03             2          028           078             10            //Hunter
+029            03             2          028           078             10            //Hunter
+029            03             2          028           078             10            //Hunter
+029            03             2          028           078             10            //Hunter
+029            03             2          028           078             10            //Hunter
+029            03             2          028           078             10            //Hunter
+029            03             2          028           078             10            //Hunter
+029            03             2          028           078             10            //Hunter
+
+029            03             2          016           107             10            //Hunter
+029            03             2          016           107             10            //Hunter
+029            03             2          016           107             10            //Hunter
+029            03             2          016           107             10            //Hunter
+029            03             2          016           107             10            //Hunter
+029            03             2          016           107             10            //Hunter
+029            03             2          016           107             10            //Hunter
+029            03             2          016           107             10            //Hunter
+
+029            03             2          010           090             10            //Hunter
+029            03             2          010           090             10            //Hunter
+029            03             2          010           090             10            //Hunter
+029            03             2          010           090             10            //Hunter
+029            03             2          010           090             10            //Hunter
+029            03             2          010           090             10            //Hunter
+029            03             2          010           090             10            //Hunter
+029            03             2          010           090             10            //Hunter
+
+029            03             2          010           072             10            //Hunter
+029            03             2          010           072             10            //Hunter
+029            03             2          010           072             10            //Hunter
+029            03             2          010           072             10            //Hunter
+029            03             2          010           072             10            //Hunter
+029            03             2          010           072             10            //Hunter
+029            03             2          010           072             10            //Hunter
+029            03             2          010           072             10            //Hunter
+
+
+031            03             2          213           115             10            //Agon
+031            03             2          213           115             10            //Agon
+031            03             2          213           115             10            //Agon
+031            03             2          213           115             10            //Agon
+031            03             2          213           115             10            //Agon
+031            03             2          213           115             10            //Agon
+031            03             2          213           115             10            //Agon
+031            03             2          213           115             10            //Agon
+
+031            03             2          234           118             10            //Agon
+031            03             2          234           118             10            //Agon
+031            03             2          234           118             10            //Agon
+031            03             2          234           118             10            //Agon
+031            03             2          234           118             10            //Agon
+031            03             2          234           118             10            //Agon
+031            03             2          234           118             10            //Agon
+031            03             2          234           118             10            //Agon
+
+031            03             2          215           149             10            //Agon
+031            03             2          215           149             10            //Agon
+031            03             2          215           149             10            //Agon
+031            03             2          215           149             10            //Agon
+031            03             2          215           149             10            //Agon
+031            03             2          215           149             10            //Agon
+031            03             2          215           149             10            //Agon
+031            03             2          215           149             10            //Agon
+
+031            03             2          230           167             10            //Agon
+031            03             2          230           167             10            //Agon
+031            03             2          230           167             10            //Agon
+031            03             2          230           167             10            //Agon
+031            03             2          230           167             10            //Agon
+031            03             2          230           167             10            //Agon
+031            03             2          230           167             10            //Agon
+031            03             2          230           167             10            //Agon
+
+031            03             2          229           182             10            //Agon
+031            03             2          229           182             10            //Agon
+031            03             2          229           182             10            //Agon
+031            03             2          229           182             10            //Agon
+031            03             2          229           182             10            //Agon
+031            03             2          229           182             10            //Agon
+031            03             2          229           182             10            //Agon
+031            03             2          229           182             10            //Agon
+
+031            03             2          229           199             10            //Agon
+031            03             2          229           199             10            //Agon
+031            03             2          229           199             10            //Agon
+031            03             2          229           199             10            //Agon
+031            03             2          229           199             10            //Agon
+031            03             2          229           199             10            //Agon
+031            03             2          229           199             10            //Agon
+031            03             2          229           199             10            //Agon
+
+031            03             2          206           200             10            //Agon
+031            03             2          206           200             10            //Agon
+031            03             2          206           200             10            //Agon
+031            03             2          206           200             10            //Agon
+031            03             2          206           200             10            //Agon
+031            03             2          206           200             10            //Agon
+031            03             2          206           200             10            //Agon
+031            03             2          206           200             10            //Agon
+
+031            03             2          212           131             10            //Agon
+031            03             2          212           131             10            //Agon
+031            03             2          212           131             10            //Agon
+031            03             2          212           131             10            //Agon
+031            03             2          212           131             10            //Agon
+031            03             2          212           131             10            //Agon
+031            03             2          212           131             10            //Agon
+031            03             2          212           131             10            //Agon
+
+031            03             2          230           134             10            //Agon
+031            03             2          230           134             10            //Agon
+031            03             2          230           134             10            //Agon
+031            03             2          230           134             10            //Agon
+031            03             2          230           134             10            //Agon
+031            03             2          230           134             10            //Agon
+031            03             2          230           134             10            //Agon
+031            03             2          230           134             10            //Agon
+
+031            03             2          238           152             10            //Agon
+031            03             2          238           152             10            //Agon
+031            03             2          238           152             10            //Agon
+031            03             2          238           152             10            //Agon
+031            03             2          238           152             10            //Agon
+031            03             2          238           152             10            //Agon
+031            03             2          238           152             10            //Agon
+031            03             2          238           152             10            //Agon
+
+
+032            03             2          226           216             10            //Stone Golem
+032            03             2          226           216             10            //Stone Golem
+032            03             2          226           216             10            //Stone Golem
+032            03             2          226           216             10            //Stone Golem
+032            03             2          226           216             10            //Stone Golem
+032            03             2          226           216             10            //Stone Golem
+032            03             2          226           216             10            //Stone Golem
+032            03             2          226           216             10            //Stone Golem
+
+032            03             2          177           202             10            //Stone Golem
+032            03             2          177           202             10            //Stone Golem
+032            03             2          177           202             10            //Stone Golem
+032            03             2          177           202             10            //Stone Golem
+032            03             2          177           202             10            //Stone Golem
+032            03             2          177           202             10            //Stone Golem
+032            03             2          177           202             10            //Stone Golem
+032            03             2          177           202             10            //Stone Golem
+
+032            03             2          174           232             10            //Stone Golem
+032            03             2          174           232             10            //Stone Golem
+032            03             2          174           232             10            //Stone Golem
+032            03             2          174           232             10            //Stone Golem
+032            03             2          174           232             10            //Stone Golem
+032            03             2          174           232             10            //Stone Golem
+032            03             2          174           232             10            //Stone Golem
+032            03             2          174           232             10            //Stone Golem
+
+032            03             2          148           233             10            //Stone Golem
+032            03             2          148           233             10            //Stone Golem
+032            03             2          148           233             10            //Stone Golem
+032            03             2          148           233             10            //Stone Golem
+032            03             2          148           233             10            //Stone Golem
+032            03             2          148           233             10            //Stone Golem
+032            03             2          148           233             10            //Stone Golem
+032            03             2          148           233             10            //Stone Golem
+
+032            03             2          150           201             10            //Stone Golem
+032            03             2          150           201             10            //Stone Golem
+032            03             2          150           201             10            //Stone Golem
+032            03             2          150           201             10            //Stone Golem
+032            03             2          150           201             10            //Stone Golem
+032            03             2          150           201             10            //Stone Golem
+032            03             2          150           201             10            //Stone Golem
+032            03             2          150           201             10            //Stone Golem
+
+032            03             2          161           178             10            //Stone Golem
+032            03             2          161           178             10            //Stone Golem
+032            03             2          161           178             10            //Stone Golem
+032            03             2          161           178             10            //Stone Golem
+032            03             2          161           178             10            //Stone Golem
+032            03             2          161           178             10            //Stone Golem
+032            03             2          161           178             10            //Stone Golem
+032            03             2          161           178             10            //Stone Golem
+
+032            03             2          162           153             10            //Stone Golem
+032            03             2          162           153             10            //Stone Golem
+032            03             2          162           153             10            //Stone Golem
+032            03             2          162           153             10            //Stone Golem
+032            03             2          162           153             10            //Stone Golem
+032            03             2          162           153             10            //Stone Golem
+032            03             2          162           153             10            //Stone Golem
+032            03             2          162           153             10            //Stone Golem
+
+032            03             2          132           174             10            //Stone Golem
+032            03             2          132           174             10            //Stone Golem
+032            03             2          132           174             10            //Stone Golem
+032            03             2          132           174             10            //Stone Golem
+032            03             2          132           174             10            //Stone Golem
+032            03             2          132           174             10            //Stone Golem
+032            03             2          132           174             10            //Stone Golem
+032            03             2          132           174             10            //Stone Golem
+
+032            03             2          111           194             10            //Stone Golem
+032            03             2          111           194             10            //Stone Golem
+032            03             2          111           194             10            //Stone Golem
+032            03             2          111           194             10            //Stone Golem
+032            03             2          111           194             10            //Stone Golem
+032            03             2          111           194             10            //Stone Golem
+032            03             2          111           194             10            //Stone Golem
+032            03             2          111           194             10            //Stone Golem
+
+032            03             2          106           227             10            //Stone Golem
+032            03             2          106           227             10            //Stone Golem
+032            03             2          106           227             10            //Stone Golem
+032            03             2          106           227             10            //Stone Golem
+032            03             2          106           227             10            //Stone Golem
+032            03             2          106           227             10            //Stone Golem
+032            03             2          106           227             10            //Stone Golem
+032            03             2          106           227             10            //Stone Golem
+
+032            03             2          073           227             10            //Stone Golem
+032            03             2          073           227             10            //Stone Golem
+032            03             2          073           227             10            //Stone Golem
+032            03             2          073           227             10            //Stone Golem
+032            03             2          073           227             10            //Stone Golem
+032            03             2          073           227             10            //Stone Golem
+032            03             2          073           227             10            //Stone Golem
+032            03             2          073           227             10            //Stone Golem
+
+032            03             2          074           203             10            //Stone Golem
+032            03             2          074           203             10            //Stone Golem
+032            03             2          074           203             10            //Stone Golem
+032            03             2          074           203             10            //Stone Golem
+032            03             2          074           203             10            //Stone Golem
+032            03             2          074           203             10            //Stone Golem
+032            03             2          074           203             10            //Stone Golem
+032            03             2          074           203             10            //Stone Golem
+
+032            03             2          091           171             10            //Stone Golem
+032            03             2          091           171             10            //Stone Golem
+032            03             2          091           171             10            //Stone Golem
+032            03             2          091           171             10            //Stone Golem
+032            03             2          091           171             10            //Stone Golem
+032            03             2          091           171             10            //Stone Golem
+032            03             2          091           171             10            //Stone Golem
+032            03             2          091           171             10            //Stone Golem
+
+032            03             2          047           172             10            //Stone Golem
+032            03             2          047           172             10            //Stone Golem
+032            03             2          047           172             10            //Stone Golem
+032            03             2          047           172             10            //Stone Golem
+032            03             2          047           172             10            //Stone Golem
+032            03             2          047           172             10            //Stone Golem
+032            03             2          047           172             10            //Stone Golem
+032            03             2          047           172             10            //Stone Golem
+
+032            03             2          059           191             10            //Stone Golem
+032            03             2          059           191             10            //Stone Golem
+032            03             2          059           191             10            //Stone Golem
+032            03             2          059           191             10            //Stone Golem
+032            03             2          059           191             10            //Stone Golem
+032            03             2          059           191             10            //Stone Golem
+032            03             2          059           191             10            //Stone Golem
+032            03             2          059           191             10            //Stone Golem
+
+032            03             2          032           211             10            //Stone Golem
+032            03             2          032           211             10            //Stone Golem
+032            03             2          032           211             10            //Stone Golem
+032            03             2          032           211             10            //Stone Golem
+032            03             2          032           211             10            //Stone Golem
+032            03             2          032           211             10            //Stone Golem
+032            03             2          032           211             10            //Stone Golem
+032            03             2          032           211             10            //Stone Golem
+
+032            03             2          018           228             10            //Stone Golem
+032            03             2          018           228             10            //Stone Golem
+032            03             2          018           228             10            //Stone Golem
+032            03             2          018           228             10            //Stone Golem
+032            03             2          018           228             10            //Stone Golem
+032            03             2          018           228             10            //Stone Golem
+032            03             2          018           228             10            //Stone Golem
+032            03             2          018           228             10            //Stone Golem
+
+033            03             2          126           088             10            //Elite Goblin
+033            03             2          126           088             10            //Elite Goblin
+033            03             2          126           088             10            //Elite Goblin
+033            03             2          126           088             10            //Elite Goblin
+033            03             2          126           088             10            //Elite Goblin
+033            03             2          126           088             10            //Elite Goblin
+033            03             2          126           088             10            //Elite Goblin
+033            03             2          126           088             10            //Elite Goblin
+
+033            03             2          119           074             10            //Elite Goblin
+033            03             2          119           074             10            //Elite Goblin
+033            03             2          119           074             10            //Elite Goblin
+033            03             2          119           074             10            //Elite Goblin
+033            03             2          119           074             10            //Elite Goblin
+033            03             2          119           074             10            //Elite Goblin
+033            03             2          119           074             10            //Elite Goblin
+033            03             2          119           074             10            //Elite Goblin
+
+033            03             2          110           091             10            //Elite Goblin
+033            03             2          110           091             10            //Elite Goblin
+033            03             2          110           091             10            //Elite Goblin
+033            03             2          110           091             10            //Elite Goblin
+033            03             2          110           091             10            //Elite Goblin
+033            03             2          110           091             10            //Elite Goblin
+033            03             2          110           091             10            //Elite Goblin
+033            03             2          110           091             10            //Elite Goblin
+
+033            03             2          078           082             10            //Elite Goblin
+033            03             2          078           082             10            //Elite Goblin
+033            03             2          078           082             10            //Elite Goblin
+033            03             2          078           082             10            //Elite Goblin
+033            03             2          078           082             10            //Elite Goblin
+033            03             2          078           082             10            //Elite Goblin
+033            03             2          078           082             10            //Elite Goblin
+033            03             2          078           082             10            //Elite Goblin
+
+033            03             2          081           059             10            //Elite Goblin
+033            03             2          081           059             10            //Elite Goblin
+033            03             2          081           059             10            //Elite Goblin
+033            03             2          081           059             10            //Elite Goblin
+033            03             2          081           059             10            //Elite Goblin
+033            03             2          081           059             10            //Elite Goblin
+033            03             2          081           059             10            //Elite Goblin
+033            03             2          081           059             10            //Elite Goblin
+
+033            03             2          062           049             10            //Elite Goblin
+033            03             2          062           049             10            //Elite Goblin
+033            03             2          062           049             10            //Elite Goblin
+033            03             2          062           049             10            //Elite Goblin
+033            03             2          062           049             10            //Elite Goblin
+033            03             2          062           049             10            //Elite Goblin
+033            03             2          062           049             10            //Elite Goblin
+033            03             2          062           049             10            //Elite Goblin
+
+033            03             2          051           071             10            //Elite Goblin
+033            03             2          051           071             10            //Elite Goblin
+033            03             2          051           071             10            //Elite Goblin
+033            03             2          051           071             10            //Elite Goblin
+033            03             2          051           071             10            //Elite Goblin
+033            03             2          051           071             10            //Elite Goblin
+033            03             2          051           071             10            //Elite Goblin
+033            03             2          051           071             10            //Elite Goblin
+
+033            03             2          029           059             10            //Elite Goblin
+033            03             2          029           059             10            //Elite Goblin
+033            03             2          029           059             10            //Elite Goblin
+033            03             2          029           059             10            //Elite Goblin
+033            03             2          029           059             10            //Elite Goblin
+033            03             2          029           059             10            //Elite Goblin
+033            03             2          029           059             10            //Elite Goblin
+033            03             2          029           059             10            //Elite Goblin
+
+033            03             2          041           036             10            //Elite Goblin
+033            03             2          041           036             10            //Elite Goblin
+033            03             2          041           036             10            //Elite Goblin
+033            03             2          041           036             10            //Elite Goblin
+033            03             2          041           036             10            //Elite Goblin
+033            03             2          041           036             10            //Elite Goblin
+033            03             2          041           036             10            //Elite Goblin
+033            03             2          041           036             10            //Elite Goblin
+
+033            03             2          025           024             10            //Elite Goblin
+033            03             2          025           024             10            //Elite Goblin
+033            03             2          025           024             10            //Elite Goblin
+033            03             2          025           024             10            //Elite Goblin
+033            03             2          025           024             10            //Elite Goblin
+033            03             2          025           024             10            //Elite Goblin
+033            03             2          025           024             10            //Elite Goblin
+033            03             2          025           024             10            //Elite Goblin
+
+033            03             2          011           039             10            //Elite Goblin
+033            03             2          011           039             10            //Elite Goblin
+033            03             2          011           039             10            //Elite Goblin
+033            03             2          011           039             10            //Elite Goblin
+033            03             2          011           039             10            //Elite Goblin
+033            03             2          011           039             10            //Elite Goblin
+033            03             2          011           039             10            //Elite Goblin
+033            03             2          011           039             10            //Elite Goblin
+
+
+end

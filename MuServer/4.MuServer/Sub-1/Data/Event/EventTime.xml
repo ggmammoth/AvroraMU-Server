@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Slot: Event position | Name: Display name | Map: Map | Gate: Teleport gate | Status: 1=Shown, 0=Hidden -->
+<SPK Enable="1">
+	<Message><Msg Index="0" Text="This feature has been disabled" /></Message>
+	<EventTime>
+        <!-- Main events -->
+        <Event Slot="0"  Name="Blood Castle"                          Map="2"     Gate="800"  Status="1"/>
+        <Event Slot="1"  Name="Devil Square"                          Map="3"     Gate="801"  Status="1"/>
+        <Event Slot="2"  Name="Chaos Castle"                          Map="0"     Gate="802"  Status="1"/>
+        <Event Slot="3"  Name="Mini Castle Siege"                     Map="0"     Gate="403"  Status="1"/>
+        <Event Slot="4"  Name="Chaos Battle"                          Map="0"     Gate="804"  Status="1"/>
+        <Event Slot="5"  Name="King of MU"                            Map="0"     Gate="804"  Status="1"/>
+        <Event Slot="6"  Name="God-Demon War"                         Map="0"     Gate="404"  Status="1"/>
+        <Event Slot="7"  Name="Boss Guild"                            Map="0"     Gate="404"  Status="1"/>
+        <Event Slot="8"  Name="Sky Event"                             Map="2"     Gate="0"    Status="1"/>
+        <!-- Invasion: slot 9 is InvasionManager index 0 -->
+        <Event Slot="9"  Name="[Invasion] Golden Invasion"             Map="0"     Gate="0"    Status="1"/>
+        <Event Slot="10" Name="[Invasion] Farm Invasion"               Map="0"     Gate="0"    Status="1"/>
+        <Event Slot="11" Name="[Invasion] Little Boss"                 Map="0"     Gate="0"    Status="1"/>
+        <Event Slot="12" Name="[Boss] Lord Icarus"                     Map="10"    Gate="0"    Status="1"/>
+        <Event Slot="13" Name="[Boss] Arkania"                         Map="117"   Gate="0"    Status="1"/>
+        <Event Slot="14" Name="[Boss] Pharaon"                         Map="6"     Gate="0"    Status="1"/>
+        <Event Slot="15" Name="[Invasion] Mini Boss"                   Map="2"     Gate="0"    Status="1"/>
+        <Event Slot="16" Name="[Boss] Kundun"                          Map="36"    Gate="0"    Status="1"/>
+        <Event Slot="17" Name="[Boss] Medusa"                          Map="56"    Gate="0"    Status="1"/>
+        <Event Slot="18" Name="Invasion BC"                            Map="11"    Gate="0"    Status="1"/>
+        <Event Slot="19" Name="Invasion DS"                            Map="9"     Gate="0"    Status="1"/>
+        <Event Slot="20" Name="[Boss] Boss Battle Together"            Map="99"    Gate="0"    Status="1"/>
+        <Event Slot="21" Name="[Boss] Ferea"                           Map="85"    Gate="0"    Status="1"/>
+        <Event Slot="22" Name="[Boss] Nix"                             Map="84"    Gate="0"    Status="1"/>
+        <Event Slot="23" Name="[World Boss] Abbadon"                   Map="63"    Gate="0"    Status="1"/>
+        <Event Slot="24" Name="[World Boss] Moon God"                  Map="37"    Gate="0"    Status="1"/>
+        <Event Slot="25" Name="[World Boss] Invoker"                   Map="97"    Gate="0"    Status="1"/>
+	</EventTime>
+
+</SPK>
