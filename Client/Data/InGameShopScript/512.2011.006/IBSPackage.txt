@@ -1,0 +1,339 @@
+31@1@111@BUFF PACK 7-DAYS@170@300@Bundle Includes:  #* Scroll of Wizardry (7 Days)  #* Scroll of Wrath (7 Days)  #* Scroll of Quickness (7 Days)  #* Scroll of Health (7 Days)  #* Scroll of Strength (7 Days)  #* Scroll of Battle (7 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10023|10022|10021|10019|10025|10024|@7305@2@1@@0@508@669@0
+31@2@118@BUFF PACK 15-DAYS@170@550@Bundle Includes:  #* Scroll of Quickness (15 Days)  #* Scroll of Wrath (15 Days)  #* Scroll of Wizardry (15 Days)  #* Scroll of Health (15 Days)  #* Scroll of Battle (15 Days)  #* Scroll of Strength (15 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10031|10030|10029|10028|10027|10026|@7304@2@1@@0@508@669@0
+31@3@131@BUFF PACK 31-DAYS@170@1000@Bundle Includes:        #* Scroll of Health (31 Days)        #* Scroll of Quickness (31 Days)        #* Scroll of Wrath (31 Days)        #* Scroll of Wizardry (31 Days)        #* Scroll of Battle (31 Days)        #* Scroll of Strength (31 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10002|10003|10004|10005|10006|10007|@7302@2@1@@0@508@669@0
+31@4@121@EXP PACK 7-DAYS@170@300@Bundle Includes:  #* Pet Panda (7 Days)  #* Panda Ring (7 Days)  #* Seal of Ascension (7 Days)  #* Seal of Wealth (7 Days)  #* Seal of Healing (7 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10061|10058|10000|10001|10051|@7305@2@1@@0@508@669@0
+31@5@122@EXP PACK 15-DAYS@170@550@Bundle Includes:  #* Pet Panda (15 Days)  #* Panda Ring (15 Days)  #* Seal of Healing (15 Days)  #* Seal of Wealth (15 Days)  #* Seal of Ascension (15 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10062|10059|10054|10053|10052|@7304@2@1@@0@508@669@0
+31@6@163@EXP PACK 31-DAYS@170@1000@Bundle Includes:  #* Pet Panda (31 Days)  #* Panda Ring (31 Days)  #* Seal of Wealth (31 Days)  #* Seal of Ascension (31 Days)  #* Seal of Healing (31 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10063|10060|10055|10056|10057|@7302@2@1@@0@508@669@0
+31@7@119@Starter Pack Level 1@170@250@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@7673@2@1@1190|@0@508@669@0
+31@8@120@Starter Pack Level 2@170@650@Check website for more info!@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1200|@7674@2@1@1200|@0@508@669@0
+32@1@123@Orb of Twisting Slash@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1230|@6151@2@1@1230|@0@508@669@0
+32@2@124@Orb of Greater Fortitude@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1240|@6158@2@1@1240|@0@508@669@0
+32@3@125@Orb of Death Stab@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1250|@6163@2@1@1250|@0@508@669@0
+32@4@126@Orb of Rageful Blow@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1260|@6156@2@1@1260|@0@508@669@0
+32@5@156@Crystal of Destruction@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1560|@6188@2@1@1560|@0@508@669@0
+32@6@157@Healing Orb@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1570|@6152@2@1@1570|@0@508@669@0
+32@7@158@Orb of Greater Defense@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1580|@6153@2@1@1580|@0@508@669@0
+32@8@159@Orb of Greater Damage@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1590|@6154@2@1@1590|@0@508@669@0
+32@9@160@Orb of Penetration@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1600|@6161@2@1@1600|@0@508@669@0
+32@10@169@Orb of Ice Arrow@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1690|@6162@2@1@1690|@0@508@669@0
+32@11@192@Crystal of Multi-Shot@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1920|@6189@2@1@1920|@0@508@669@0
+32@12@193@Crystal of Recovery@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1930|@6190@2@1@1930|@0@508@669@0
+32@13@195@Scroll of Flame@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1950|@7684@2@1@1950|@0@508@669@0
+32@14@197@Scroll of Teleport@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1970|@7685@2@1@1970|@0@508@669@0
+32@15@201@Scroll of Evil Spirit@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2010|@7688@2@1@2010|@0@508@669@0
+32@16@202@Scroll of Cometfall@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2020|@7692@2@1@2020|@0@508@669@0
+32@17@204@Scroll of Inferno@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2040|@7693@2@1@2040|@0@508@669@0
+32@18@207@Scroll of Teleport Ally@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2070|@7694@2@1@2070|@0@508@669@0
+32@19@239@Scroll of Soul Barrier@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2390|@7695@2@1@2390|@0@508@669@0
+32@20@252@Scroll of Decay@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2520|@7696@2@1@2520|@0@508@669@0
+32@21@254@Scroll of Ice Storm@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2540|@7697@2@1@2540|@0@508@669@0
+32@22@257@Scroll of Wizardry Enhance@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2570|@7708@2@1@2570|@0@508@669@0
+32@23@267@Orb of Fire Slash@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2670|@6160@2@1@2670|@0@508@669@0
+32@24@268@Crystal of Flame Strike@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2680|@6191@2@1@2680|@0@508@669@0
+32@25@269@Scroll of Gigantic Storm@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2690|@7709@2@1@2690|@0@508@669@0
+32@26@271@Scroll of FireBurst@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2710|@6165@2@1@2710|@0@508@669@0
+32@27@272@Scroll of Summon@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2720|@6166@2@1@2720|@0@508@669@0
+32@28@273@Scroll of Critical Damage@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2730|@6167@2@1@2730|@0@508@669@0
+32@29@274@Scroll of Electric Spark@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2740|@6168@2@1@2740|@0@508@669@0
+32@30@277@Scroll of Fire Scream@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2770|@6179@2@1@2770|@0@508@669@0
+32@31@279@Scroll of Chaotic Diseier@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2790|@6192@2@1@2790|@0@508@669@0
+32@32@321@Chain Lightning Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3210|@7699@2@1@3210|@0@508@669@0
+32@33@322@Drain Life Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3220|@7700@2@1@3220|@0@508@669@0
+32@34@323@Lightning Shock Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3230|@7701@2@1@3230|@0@508@669@0
+32@35@324@Damage Reflection Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3240|@7702@2@1@3240|@0@508@669@0
+32@36@337@Berserker Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3370|@7703@2@1@3370|@0@508@669@0
+32@37@355@Sleep Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3550|@7704@2@1@3550|@0@508@669@0
+32@38@356@Weakness Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3560|@7706@2@1@3560|@0@508@669@0
+32@39@357@Innovation Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3570|@7707@2@1@3570|@0@508@669@0
+32@40@358@Chain Driver Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3580|@7710@2@1@3580|@0@508@669@0
+32@41@359@Dark Side Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3590|@7711@2@1@3590|@0@508@669@0
+32@42@360@Dragon Lore Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3600|@7712@2@1@3600|@0@508@669@0
+32@43@361@Dragon Slayer Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3610|@7713@2@1@3610|@0@508@669@0
+32@44@362@Red Armor Ignore Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3620|@7714@2@1@3620|@0@508@669@0
+32@45@363@Fitness Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3630|@7715@2@1@3630|@0@508@669@0
+32@46@364@Defense Rate Parchment@170@30@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3640|@7716@2@1@3640|@0@508@669@0
+33@1@137@Zen Coin@170@500@This coin gives you 1 billion Zen after it is sold in the shop.@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1370|@7180@2@1@1370|@0@508@669@0
+33@2@196@Jewel Of Luck@170@100@This jewel adds the Luck option to the item it is used on.       #Luck provides the following bonuses:      #+25% chance for successful Soul upgrade      #+5% chance for Critical Damage.    #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1960|@7414@2@1@1960|@0@508@669@0
+33@3@236@Jewel Of Additional@170@100@Jewel of Aditional - Adds Aditional to your items.        #Success Rates 100%%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2360|@7413@2@1@2360|@0@508@669@0
+33@4@198@Jewel Of Remove Adicional@170@50@Jewel Remove Additional - Remove your Aditional on Wings.      #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1980|@7415@2@1@1980|@0@508@669@0
+33@5@181@Jewel Of Excelent@170@50@Jewel Of Excelent add random excelent options to item.   #Success Rates 100%%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1810|@7416@2@1@1810|@0@508@669@0
+33@6@411@Jewel Of Socket@170@100@Jewel Remove Additional - Remove your Aditional on Wings.       #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@4110|@7417@2@1@4110|@0@508@669@0
+33@7@180@Jewel Of Excelent Wings@170@50@This is a jewel that will help you use wings that you didn?t get with any option. Now, this is possible with this jewel.     #Success Rates 60%% (with Premium account 80%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1800|@7422@2@1@1800|@0@508@669@0
+33@8@203@Jewel Of Level +10@170@100@Jewel of Level +10 - Raises item from +9 to +10      #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2030|@7421@2@1@2030|@0@508@669@0
+33@9@320@Jewel Of Level +11@170@100@Jewel of Level +10 - Raises item from +10 to +11      #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3200|@7434@2@1@3200|@0@508@669@0
+33@10@393@Jewel Of Level +12@170@100@Jewel of Level +11 - Raises item from +11 to +12       #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3930|@7435@2@1@3930|@0@508@669@0
+33@11@394@Jewel Of Level +13@170@100@Jewel of Level +12 - Raises item from +12 to +13       #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3940|@7436@2@1@3940|@0@508@669@0
+33@12@238@Jewel Of Level +14@170@100@Jewel of Level +13 - Raises item from +13  to +14        #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2380|@7437@2@1@2380|@0@508@669@0
+33@13@396@Jewel Of Level +15@170@100@Jewel of Level +15 - Raises item from +14  to +15        #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3960|@7438@2@1@3960|@0@508@669@0
+33@14@397@Jewel Of Level MAX@170@500@Use this jewel if you have wings without any options. It doesn?t work on wings with options.     #Success Rates 100%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3970|@7439@2@1@3970|@0@508@669@0
+33@15@439@Socket Upgrade(Lv1)@170@500@Upgrade Socket Level 1 to Socket Level 2    #Success Rates 100%    #Drop from World Boss@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@4390|@7433@2@1@4390|@0@508@669@0
+33@16@350@Socket Upgrade(Lv3)@170@500@Upgrade Socket Level 1 to Socket Level 2    #Success Rates 100%    #Drop from World Boss@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3500|@7441@2@1@3500|@0@508@669@0
+33@17@113@Bundled Jewel of Chaos@170@80@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1130|@6285@2@1@1130|@0@508@669@0
+33@18@208@Bundled Jewel of Bless@170@80@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2080|@6174@2@1@2080|@0@508@669@0
+33@19@209@Bundled Jewel of Soul@170@80@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2090|@6175@2@1@2090|@0@508@669@0
+33@20@210@Bundled Jewel of Life@170@80@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2100|@6280@2@1@2100|@0@508@669@0
+33@21@211@Bundled Jewel of Creation@170@80@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2110|@6281@2@1@2110|@0@508@669@0
+33@22@212@Bundled Jewel of Chaos x20@170@160@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2120|@6285@2@1@2120|@0@508@669@0
+33@23@213@Bundled Jewel of Bless x20@170@160@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2130|@6174@2@1@2130|@0@508@669@0
+33@24@328@Bundled Jewel of Soul x20@170@160@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3280|@6175@2@1@3280|@0@508@669@0
+33@25@329@Bundled Jewel of Life x20@170@160@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3290|@6280@2@1@3290|@0@508@669@0
+33@26@330@Bundled Jewel of Creation x20@170@160@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3300|@6281@2@1@3300|@0@508@669@0
+33@27@331@Bundled Jewel of Chaos x30@170@240@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3310|@6285@2@1@3310|@0@508@669@0
+33@28@332@Bundled Jewel of Bless x30@170@240@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3320|@6174@2@1@3320|@0@508@669@0
+33@29@333@Bundled Jewel of Soul x30@170@240@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3330|@6175@2@1@3330|@0@508@669@0
+33@30@334@Bundled Jewel of Life x30@170@240@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3340|@6280@2@1@3340|@0@508@669@0
+33@31@335@Bundled Jewel of Creation x30@170@240@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3350|@6281@2@1@3350|@0@508@669@0
+34@1@104@Scroll of Health@170@150@Max HP +1000@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1040|@7244@2@3@1040|1041|1042|@0@508@669@0
+34@2@101@Scroll of Defense@170@150@Increase defense +150@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1010|@7241@2@3@1010|1011|1012|@0@508@669@0
+34@3@100@Scroll of Quickness@170@150@Attack Physical increase : +20   #Attack Magic Increase : +20         #               #@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1000|@7240@2@3@1000|1001|1002|@0@508@669@0
+34@4@102@Scroll of Wrath@170@150@Attack power +100@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1020|@7242@2@3@1020|1021|1022|@0@508@669@0
+34@5@103@Scroll of Wizardry@170@150@Wizardry damage +100@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1030|@7243@2@3@1030|1031|1032|@0@508@669@0
+34@6@106@Scroll of Battle@170@250@Critical Damage +12%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1060|@7265@2@3@1060|1061|1062|@0@508@669@0
+34@7@107@Scroll of Strength@170@150@Excellent Damage +8%@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1070|@7266@2@3@1070|1071|1072|@0@508@669@0
+34@8@112@Max AG Boost Aura@170@150@Max AG +1000@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1120|@6760@2@3@1120|1121|1122|@0@508@669@0
+34@9@143@Max SD Boost Aura@170@150@Max SD +1000@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1430|@6761@2@3@1430|1431|1432|@0@508@669@0
+35@1@177@Seal of Ascension@170@150@#            #            #            #@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1770|@6699@2@3@1770|1771|1772|@0@508@669@0
+35@2@178@Seal of Wealth@170@150@#            #            #            #@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1780|@6700@2@3@1780|1781|1782|@0@508@669@0
+35@3@344@Seal of Healing@170@150@#            #            #            #@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3440|@6718@2@3@3440|3441|3442|@0@508@669@0
+35@4@170@Pet Panda@170@150@#            #            #            #@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1700|@6736@2@3@1700|1701|1702|@0@508@669@0
+35@5@206@Panda Ring@170@150@#           #           #           #@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@2060|@6732@2@3@2060|2061|2062|@0@508@669@0
+35@6@346@Party EXP Scroll@170@150@#            #            #            #@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3460|@6759@2@3@3460|3461|3462|@0@508@669@0
+36@1@382@Blood Castle Ticket@170@50@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3820|@6703@2@1@3820|@0@508@669@0
+36@2@383@Devil Square Ticket@170@50@Allows free entrance into the Devil Square 10 times.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3830|@6702@2@1@3830|@0@508@669@0
+36@3@387@Kalima Ticket@170@50@Allows free entrance into the Kalima.@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3870|@6704@2@1@3870|@0@508@669@0
+36@4@418@Illusion Temple Ticket@170@50@Allows free entrance into the Illusion Temple 10 times.@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@4180|@6717@2@1@4180|@0@508@669@0
+36@5@384@Open Access Ticket to Doppelga@170@50@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3840|@6781@2@1@3840|@0@508@669@0
+36@6@385@Open Access Ticket to Varka@170@50@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3850|@6782@2@1@3850|@0@508@669@0
+36@7@386@Open Access Ticket to Varka Ma@170@50@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3860|@6783@2@1@3860|@0@508@669@0
+36@8@135@Magic Backpack@170@50@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1350|@7330@2@1@1350|@0@508@669@0
+36@9@162@Vault Expansion Certificate@170@50@@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1620|@7331@2@1@1620|@0@508@669@0
+36@10@365@Dark Horse@170@500@Description@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3650|@6660@2@1@3650|@0@508@669@0
+36@11@366@Dark Raven@170@500@Description@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@3660|@6661@2@1@3660|@0@508@669@0
+37@1@108@Wings of Elf@170@100@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6144@2@1@1080|@0@508@669@0
+37@2@109@Wings of Heaven@170@100@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1090|@6145@2@1@1090|@0@508@669@0
+37@3@115@Wings of Satan@170@100@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1150|@6146@2@1@1150|@0@508@669@0
+37@4@116@Wing of Curse@170@100@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1160|@6185@2@1@1160|@0@508@669@0
+37@5@199@Wings of Spirits@170@200@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1990|@6147@2@1@1990|@0@508@669@0
+37@6@342@Wings of Soul@170@200@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3420|@6148@2@1@3420|@0@508@669@0
+37@7@388@Wings of Dragon@170@200@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3880|@6149@2@1@3880|@0@508@669@0
+37@8@389@Wings of Darkness@170@200@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3890|@6150@2@1@3890|@0@508@669@0
+37@9@390@Wind of Despair@170@200@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3900|@6186@2@1@3900|@0@508@669@0
+37@10@391@Warrior's Cloak@170@200@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3910|@6193@2@1@3910|@0@508@669@0
+37@11@392@Cape of Lord@170@200@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3920|@6686@2@1@3920|@0@508@669@0
+37@12@266@Cloak of Death@170@500@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2660|@6424@2@1@2660|@0@508@669@0
+37@13@343@Wings of Chaos@170@500@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3430|@6425@2@1@3430|@0@508@669@0
+37@14@398@Wings of Magic@170@500@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3980|@6426@2@1@3980|@0@508@669@0
+37@15@399@Wings of Life@170@500@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@3990|@6427@2@1@3990|@0@508@669@0
+37@16@403@Wing of Storm@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4030|@6180@2@1@4030|@0@508@669@0
+37@17@402@Wing of Eternal@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4020|@6181@2@1@4020|@0@508@669@0
+37@18@404@Wing of Illusion@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4040|@6182@2@1@4040|@0@508@669@0
+37@19@405@Wing of Ruin@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4050|@6183@2@1@4050|@0@508@669@0
+37@20@406@Emperor's Cape@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4060|@6184@2@1@4060|@0@508@669@0
+37@21@407@Wing of Dimension@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4070|@6187@2@1@4070|@0@508@669@0
+37@22@408@Reigning Cloak@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4080|@6194@2@1@4080|@0@508@669@0
+37@23@412@Wings of Condemnation@170@2000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4120|@6434@2@1@4120|@0@508@669@0
+37@24@413@Wings of Eternity@170@2000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4130|@6441@2@1@4130|@0@508@669@0
+37@25@414@Wings of Fate@170@2000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4140|@6432@2@1@4140|@0@508@669@0
+37@26@415@Wings of Silence@170@2000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4150|@6433@2@1@4150|@0@508@669@0
+37@27@416@Pure White Cloak@170@2000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4160|@6442@2@1@4160|@0@508@669@0
+37@28@417@Cape of Steel@170@2000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4170|@6446@2@1@4170|@0@508@669@0
+37@29@425@Wings of Elysium@170@3000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4250|@6412@2@1@4250|@0@508@669@0
+37@30@426@Wings of Flame God@170@3000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4260|@6413@2@1@4260|@0@508@669@0
+37@31@427@Wing of Celestial Body@170@3000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4270|@6414@2@1@4270|@0@508@669@0
+37@32@428@Wings of Annihilation@170@3000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4280|@6415@2@1@4280|@0@508@669@0
+37@33@429@Cloak of Dominator@170@3000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4290|@6416@2@1@4290|@0@508@669@0
+37@34@430@Wings of Other World@170@3000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4300|@6417@2@1@4300|@0@508@669@0
+37@35@431@Cloak of Judgment@170@3000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4310|@6418@2@1@4310|@0@508@669@0
+37@36@433@Wings of Hit@170@4000@SM@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4330|@6438@2@1@4330|@0@508@669@0
+37@37@434@Bloody Wings@170@4000@BK@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4340|@6439@2@1@4340|@0@508@669@0
+37@38@438@Wings of Eternal Blossom@170@4000@ELF@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4380|@6465@2@1@4380|@0@508@669@0
+37@39@435@Storm's Wings@170@4000@MG@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4350|@6440@2@1@4350|@0@508@669@0
+37@40@432@Cloak of Isolation@170@4000@DL@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4320|@6437@2@1@4320|@0@508@669@0
+37@41@437@Wings Yellow Bat@170@4000@SUM@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4370|@6464@2@1@4370|@0@508@669@0
+37@42@436@Cloak of Hatred@170@4000@RF@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@4360|@6449@2@1@4360|@0@508@669@0
+38@1@183@Scroll of the Emperor@170@100@Scroll of the Emperor is a special item in MU Online required for completing the first part of the second class change quest. This item can only be obtained after starting the quest and cannot be traded, sold, or stored in the warehouse.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1830|@7191@2@1@1830|@0@508@669@0
+38@2@184@Broken Sword@170@100@Broken Sword is a special quest item in MU Online required for completing the second part of the second class change quest for your character.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1840|@7192@2@1@1840|@0@508@669@0
+38@3@240@Tear of Elf@170@100@Tear of Elf is a special quest item in MU Online required for completing the second part of the second class change quest. This item can only be obtained after starting the quest and cannot be traded, sold, or stored in the warehouse.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2400|@7193@2@1@2400|@0@508@669@0
+38@4@242@Soul Shard of Wizard@170@100@Soul Shard of Wizard is required only for characters of the Dark Wizard class. Collecting this item is part of the quest to advance from Dark Wizard to Soul Master.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2420|@7194@2@1@2420|@0@508@669@0
+38@5@241@Abyssal Eye@170@100@Abyssal Eye is a special quest item in MU Online required for completing the second part of the second class change quest. This item can only be obtained after starting the quest and cannot be traded, sold, or stored in the warehouse.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2410|@7236@2@1@2410|@0@508@669@0
+38@6@243@Death-beam Knight Flame@170@300@Death-beam Knight Flame is obtained by killing Death Beam Knight in Tarkan 2 (around coordinates 160,210). Requires an active quest from Apostle Devin and cannot be traded, sold, or stored.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2430|@7233@2@1@2430|@0@508@669@0
+38@7@244@Hell-Miner Horn@170@300@Horn of Hell Maine is obtained by killing Hell Maine in Aida (approx. coords 100,160). Requires an active quest from Apostle Devin and cannot be traded, sold, or stored.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2440|@7234@2@1@2440|@0@508@669@0
+38@8@245@Dark Phoenix Feather@170@300@Dark Phoenix Feather is obtained by killing Phoenix of Darkness in Icarus (around coordinates 50,200). Requires an active quest from Apostle Devin and cannot be traded, sold, or stored.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2450|@7235@2@1@2450|@0@508@669@0
+38@9@246@Ring of Honor@170@300@Ring of Honor is required for the Marlon Quest (Hero Status) for characters above level 220.   #It can be obtained only after starting the quest and cannot be traded, sold, or stored.   #   #Where to find it:   #Drops from monsters (level 72?108) in:   #Tarkan, Icarus, Aida, Land of Trials, Kanturu, Acheron ? after accepting the quest from Marlon.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2460|@7191@2@1@2460|@0@508@669@0
+38@10@182@Dark Stone@170@300@Dark Stone is required for the second part of the Marlon Quest (Hero Status) but only for the Blade Knight class. #It can be obtained only after starting the quest and cannot be traded, sold, or stored. # #Where to find it: #Drops from monsters in Tarkan, Icarus, Aida, Kanturu, Land of Trials, and Acheron ? after accepting the quest from Marlon.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1820|@7192@2@1@1820|@0@508@669@0
+38@11@247@Magic Backpack@170@500@Magic Backpack adds +8?4 inventory slots. #Obtained from a quest at Zyro (Lorencia, Devias, Elbeland) with level 400 and Magic Cloth (dropped by Silver Valkyrie in Atlans 3).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2470|@7330@2@1@2470|@0@508@669@0
+38@12@248@Vault Expansion Certificate@170@500@Vault Expansion Certificate expands the vault by +8?15 slots. It activates after relogging and cannot be traded, sold, or stored. # #How to obtain: #From a quest at Zyro (Lorencia, Noria, Devias, Elbeland) with level 400 and Ancient Statue (dropped by Death Knight in Lost Tower 6/7).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2480|@7331@2@1@2480|@0@508@669@0
+38@13@191@Siege Potion@170@20@Quest Item@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1910|@7175@2@1@1910|@0@508@669@0
+38@14@255@Siege Potion@170@20@Quest Item@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2550|@7175@2@1@2550|@0@508@669@0
+39@1@205@Talisman of Chaos Assembly@170@50@Talisman of Luck increases the Chaos Machine success rate by 1% per talisman, up to 10%.    #It's consumed on use and helps reduce the chance of failure.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2050|@7264@2@1@2050|@0@508@669@0
+39@2@258@Talisman of Luck@170@20@Talisman of Luck increases the Chaos Machine success rate by 1% per talisman, up to 10%.   #It's consumed on use and helps reduce the chance of failure.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2580|@7221@2@1@2580|@0@508@669@0
+39@3@259@Talisman of Mobility@170@20@Talisman of Mobility is a special item in MU Online that allows you to teleport to a previously saved location.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2590|@6726@2@1@2590|@0@508@669@0
+39@4@260@Talisman of Resurrection@170@20@Talisman of Resurrection is a special item in MU Online that allows you to resurrect at the spot where you were killed.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2600|@6725@2@1@2600|@0@508@669@0
+39@5@165@Talisman of Wings of Soul@170@200@Talisman of Wings of Soul is a special item in MU Online that increases the success rate of creating Wings of Soul ? wings for the Soul Master class.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1650|@6745@2@1@1650|@0@508@669@0
+39@6@166@Talisman of Wings of Dragon@170@200@Talisman of Wings of Dragon is a special item in MU Online that increases the success rate of creating Wings of Dragon ? second-tier wings for the Blade Knight (BK) class.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1660|@6744@2@1@1660|@0@508@669@0
+39@7@167@Talisman of Wings of Spirits@170@200@Talisman of Wings of Spirits is a special item in MU Online that increases the success rate of creating Wings of Spirits ? second-tier wings designed for the Muse Elf class.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1670|@6746@2@1@1670|@0@508@669@0
+39@8@173@Talisman of Cape of Lord@170@200@Talisman of Cape of Lord is a special item in MU Online that increases the success rate of creating Cape of Lord ? second-tier wings designed for the Dark Lord class.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1730|@6743@2@1@1730|@0@508@669@0
+39@9@171@Talisman of Wings of Despair@170@200@Talisman of Wings of Despair is a special item in MU Online that increases the success rate of creating Wings of Despair ? second-tier wings designed for the Summoner class.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1710|@6747@2@1@1710|@0@508@669@0
+39@10@172@Talisman of Wings of Darkness@170@200@Talisman of Wings of Darkness is a special item in MU Online that increases the success rate of creating Wings of Darkness ? second-tier wings designed for the Magic Gladiator (MG) class.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1720|@6748@2@1@1720|@0@508@669@0
+39@11@174@Talisman Cloak of Warrior@170@200@Talisman Cloak of Warrior is a special item in MU Online that increases the success rate of creating Cloak of Warrior ? second-tier wings designed for the Rage Fighter class.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1740|@6801@2@1@1740|@0@508@669@0
+41@1@130@Scroll of Health@170@100@Max HP +1000@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1300|@7244@3@3@1300|1301|1302|@0@509@669@1
+41@2@132@Scroll of Mana@170@100@Max Mana +1000@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1320|@7245@3@3@1320|1321|1322|@0@509@669@1
+41@3@133@Scroll of Defense@170@100@Increase defense +150@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1330|@7241@3@3@1330|1331|1332|@0@509@669@1
+41@4@134@Scroll of Quickness@170@100@Attack Physical increase : +20   #Attack Magic Increase : +20         #               #@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1340|@7240@3@3@1340|1341|1342|@0@509@669@1
+41@5@146@Scroll of Wrath@170@100@Attack power +100@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1460|@7242@3@3@1460|1461|1462|@0@509@669@1
+41@6@147@Scroll of Wizardry@170@100@Wizardry damage +100@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1470|@7243@3@3@1470|1471|1472|@0@509@669@1
+41@7@155@Scroll of Battle@170@100@Critical Damage +12%@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1550|@7265@3@3@1550|1551|1552|@0@509@669@1
+41@8@336@Scroll of Strength@170@100@Excellent Damage +8%@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3360|@7266@3@3@3360|3361|3362|@0@509@669@1
+42@1@440@Pet Panda@170@100@#    +3% EXP         #    Increase defense +50                         #    Auto collects zen and jewels                         #@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@4400|@6736@3@3@4400|4401|4402|@0@509@669@1
+42@2@441@Panda Ring@170@50@#          #          #          #@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@4410|@6732@3@3@4410|4411|4412|@0@509@669@1
+42@3@368@Seal of Healing@170@100@EXP - 3%@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3680|@6718@3@3@3680|3681|3682|@0@509@669@1
+42@4@369@Party EXP Scroll@170@50@Party EXP Scroll is an item that increases the amount of experience (EXP) gained while playing in a party.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3690|@6759@3@3@3690|3691|3692|@0@509@669@1
+43@1@270@Demon@170@100@#    +30% DMG                       #    Attack Speed +10                       #                   #@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2700|@6720@3@2@2700|2701|@0@509@669@0
+43@2@185@Elemental Elf@170@200@Increases Maximum Life:10%         # You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@1850|@6947@3@2@1850|1851|@0@509@669@0
+43@3@214@Commander (Evolved)@170@200@Damage Rate: 10%      #You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2140|@6939@3@2@2140|2141|@0@509@669@0
+43@4@215@Kundun Mephis and Lemuria@170@200@Decrease Damage Rate: 4%        #You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2150|@6937@3@2@2150|2151|@0@509@669@0
+43@5@216@Dark Wizard@170@200@Double Damage Rate: 7%      #You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2160|@6858@3@2@2160|2161|@0@509@669@0
+43@6@233@Fairy Elf@170@200@Resist Ignore Defense: 7%       #You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2330|@6859@3@2@2330|2331|@0@509@669@0
+43@7@234@Mummified Boy (Evolved)@170@200@Resist Ignore SD: 7%        #You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2340|@6916@3@2@2340|2341|@0@509@669@0
+43@8@235@Desmodus (Evolved)@170@200@Resist Critical Damage: 15%       #You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2350|@6871@3@2@2350|2351|@0@509@669@0
+43@9@237@Dragon Knight@170@200@Resist Excellent Damage: 15%         #You can buy this pet for only 7 days.@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@2370|@6857@3@2@2370|2371|@0@509@669@0
+44@1@161@Sphere (Penta)@170@2000@This empty sphere is necessary to upgrade your socket weapons and sets.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1610|@6218@3@1@1610|@0@509@669@1
+45@1@168@Earring Box@170@3000@From this box, you will receive either a left or right Earring Lv. 1.     #To upgrade it, please read the information in the following section.      #@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@1680|@7669@3@1@1680|@0@509@669@0
+45@2@409@Pentagram Box@170@25000@From this box, you will receive either a Pentagram Lv. 1.           #To upgrade it, please read the information in the following section.            #@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@4090|@7670@3@1@4090|@0@509@669@0
+45@3@348@Silver Key@170@100@Description@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@3480|@7280@3@1@3480|@0@509@669@0
+45@4@349@Gold Key@170@200@Description@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@3490|@7281@3@1@3490|@0@509@669@0
+46@1@176@Pet Panda@170@100@#    +3% EXP         #    Increase defense +50                         #    Auto collects zen and jewels                         #@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1760|@6736@3@3@1760|1761|1762|@0@509@669@1
+46@2@175@Pet Unicorn@170@100@Increases Zen by 50%   #Increases Defence Skill +50   #@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1750|@6762@3@3@1750|1751|1752|@0@509@669@1
+46@3@370@Talisman of Chaos Assembly@170@100@Talisman of Luck increases the Chaos Machine success rate by 1% per talisman, up to 10%.      #It's consumed on use and helps reduce the chance of failure.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3700|@7264@3@1@3700|@0@509@669@1
+46@4@371@Talisman of Luck@170@40@Talisman of Luck increases the Chaos Machine success rate by 1% per talisman, up to 10%.     #It's consumed on use and helps reduce the chance of failure.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3710|@7221@3@1@3710|@0@509@669@1
+46@5@372@Talisman of Mobility@170@40@Talisman of Mobility is a special item in MU Online that allows you to teleport to a previously saved location.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3720|@6726@3@1@3720|@0@509@669@1
+46@6@373@Talisman of Resurrection@170@40@Talisman of Resurrection is a special item in MU Online that allows you to resurrect at the spot where you were killed.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3730|@6725@3@1@3730|@0@509@669@1
+46@7@374@Talisman of Wings of Soul@170@200@Talisman of Wings of Soul is a special item in MU Online that increases the success rate of creating Wings of Soul ? wings for the Soul Master class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3740|@6745@3@1@3740|@0@509@669@1
+46@8@375@Talisman of Wings of Dragon@170@200@Talisman of Wings of Dragon is a special item in MU Online that increases the success rate of creating Wings of Dragon ? second-tier wings for the Blade Knight (BK) class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3750|@6744@3@1@3750|@0@509@669@1
+46@9@376@Talisman of Wings of Spirits@170@200@Talisman of Wings of Spirits is a special item in MU Online that increases the success rate of creating Wings of Spirits ? second-tier wings designed for the Muse Elf class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3760|@6746@3@1@3760|@0@509@669@1
+46@10@377@Talisman of Wings of Spirits@170@200@Talisman of Wings of Spirits is a special item in MU Online that increases the success rate of creating Wings of Spirits ? second-tier wings designed for the Muse Elf class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3770|@6746@3@1@3770|@0@509@669@1
+46@11@378@Talisman of Cape of Lord@170@200@Talisman of Cape of Lord is a special item in MU Online that increases the success rate of creating Cape of Lord ? second-tier wings designed for the Dark Lord class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3780|@6743@3@1@3780|@0@509@669@1
+46@12@379@Talisman of Wings of Despair@170@200@Talisman of Wings of Despair is a special item in MU Online that increases the success rate of creating Wings of Despair ? second-tier wings designed for the Summoner class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3790|@6747@3@1@3790|@0@509@669@1
+46@13@380@Talisman of Wings of Darkness@170@200@Talisman of Wings of Darkness is a special item in MU Online that increases the success rate of creating Wings of Darkness ? second-tier wings designed for the Magic Gladiator (MG) class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3800|@6748@3@1@3800|@0@509@669@1
+46@14@381@Talisman Cloak of Warrior@170@200@Talisman Cloak of Warrior is a special item in MU Online that increases the success rate of creating Cloak of Warrior ? second-tier wings designed for the Rage Fighter class.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3810|@6801@3@1@3810|@0@509@669@1
+47@1@280@Hades Helm@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2800|@3636@3@1@2800|@0@509@669@1
+47@2@281@Hades Armor@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2810|@4148@3@1@2810|@0@509@669@1
+47@3@282@Hades Pants@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2820|@4660@3@1@2820|@0@509@669@1
+47@4@283@Hades Gloves@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2830|@5172@3@1@2830|@0@509@669@1
+47@5@284@Hades Boots@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2840|@5684@3@1@2840|@0@509@669@1
+47@6@285@Brave Helm@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2850|@3630@3@1@2850|@0@509@669@1
+47@7@286@Brave Armor@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2860|@4142@3@1@2860|@0@509@669@1
+47@8@287@Brave Pants@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2870|@4654@3@1@2870|@0@509@669@1
+47@9@288@Brave Gloves@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2880|@5166@3@1@2880|@0@509@669@1
+47@10@289@Brave Boots@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2890|@5678@3@1@2890|@0@509@669@1
+47@11@290@Seraphim Helm@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2900|@3633@3@1@2900|@0@509@669@1
+47@12@291@Seraphim Armor@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2910|@4145@3@1@2910|@0@509@669@1
+47@13@292@Seraphim Pants@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2920|@4657@3@1@2920|@0@509@669@1
+47@14@293@Seraphim Gloves@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2930|@5169@3@1@2930|@0@509@669@1
+47@15@294@Seraphim Boots@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2940|@5681@3@1@2940|@0@509@669@1
+47@16@295@Royal Mask@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2950|@3635@3@1@2950|@0@509@669@1
+47@17@296@Royal Armor@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2960|@4147@3@1@2960|@0@509@669@1
+47@18@297@Royal Pants@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2970|@4659@3@1@2970|@0@509@669@1
+47@19@298@Royal Gloves@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2980|@5171@3@1@2980|@0@509@669@1
+47@20@299@Royal Boots@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2990|@5683@3@1@2990|@0@509@669@1
+47@21@300@Eternal Wing Helm@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3000|@3628@3@1@3000|@0@509@669@1
+47@22@301@Eternal Wing Armor@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3010|@4140@3@1@3010|@0@509@669@1
+47@23@302@Eternal Wing Pants@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3020|@4652@3@1@3020|@0@509@669@1
+47@24@303@Eternal Wing Gloves@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3030|@5164@3@1@3030|@0@509@669@1
+47@25@304@Eternal Wing Boots@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3040|@5676@3@1@3040|@0@509@669@1
+47@26@305@Destroy Armor@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3050|@4144@3@1@3050|@0@509@669@1
+47@27@306@Destroy Pants@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3060|@4656@3@1@3060|@0@509@669@1
+47@28@307@Destroy Gloves@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3070|@5168@3@1@3070|@0@509@669@1
+47@29@308@Destroy Boots@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3080|@5680@3@1@3080|@0@509@669@1
+47@30@309@Tigris Helm@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3090|@3750@3@1@3090|@0@509@669@1
+47@31@311@Tigris Armor@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3110|@4262@3@1@3110|@0@509@669@1
+47@32@310@Tigris Pants@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3100|@4774@3@1@3100|@0@509@669@1
+47@33@312@Tigris Boots@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3120|@5798@3@1@3120|@0@509@669@1
+48@1@313@Sword Breaker@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3130|@27@3@1@3130|@0@509@669@1
+48@2@318@Asura@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3180|@30@3@1@3180|@0@509@669@1
+48@3@315@Pantera Claws@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3150|@107@3@1@3150|@0@509@669@1
+48@4@314@Absolute Scepter@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3140|@1041@3@1@3140|@0@509@669@1
+48@5@316@Devil Crossbow@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3160|@2074@3@1@3160|@0@509@669@1
+48@6@317@Angelic Bow@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3170|@2073@3@1@3170|@0@509@669@1
+48@7@319@Lilium Staff@170@25000@With 5 Socket@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3190|@2580@3@1@3190|@0@509@669@1
+49@1@338@Blood Castle Ticket@170@200@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3380|@6703@3@1@3380|@0@509@669@1
+49@2@339@Devil Square Ticket@170@200@Allows free entrance into the Devil Square 10 times.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3390|@6702@3@1@3390|@0@509@669@1
+49@3@340@Open Access Ticket to Doppelga@170@200@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3400|@6781@3@1@3400|@0@509@669@1
+49@4@341@Open Access Ticket to Varka@170@200@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3410|@6782@3@1@3410|@0@509@669@1
+49@5@345@Open Access Ticket to Varka Ma@170@200@Allows free entrance into the Blood Castle 10 times.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@3450|@6783@3@1@3450|@0@509@669@1
+49@6@200@Kalima Ticket@170@200@Allows free entrance into the Kalima.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2000|@6704@3@1@2000|@0@509@669@1
+49@7@278@Illusion Temple Ticket@170@200@Allows free entrance into the Illusion Temple 10 times.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2780|@6717@3@1@2780|@0@509@669@1
+49@8@105@Silver Key@170@50@Description@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1050|@7280@3@1@1050|@0@509@669@1
+49@9@110@Gold Key@170@100@Description@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1100|@7281@3@1@1100|@0@509@669@1
+51@1@151@Evolution Stone@170@500@Evolution pets@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1510|@6854@2@1@1510|@0@508@669@0
+51@2@152@Dragon Knight@170@300@Increase  maximum HP by 500   #Damage 20%   #Double Damage Rate 5%      #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1520|@6857@2@3@1520|1521|1522|@0@508@669@0
+51@3@153@William@170@300@Reduction Damage Rate 5%   #Reflect Damage 5%      #Increases Exp gain rate by 40%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1530|@6862@2@3@1530|1531|1532|@0@508@669@0
+51@4@154@Wooparoo@170@300@HP 5%   #MP 5%      #Increases Exp gain rate by 30%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1540|@6866@2@3@1540|1541|1542|@0@508@669@0
+51@5@217@Chiron@170@300@Damage 10%    #Magic Damage 5%       #Increases Exp Gain rate 20%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2170|@6868@2@3@2170|2171|2172|@0@508@669@0
+51@6@218@Desmodus@170@300@Damage 5%    #Defence 5%       #Increases Exp Gain rate 20%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2180|@6870@2@3@2180|2181|2182|@0@508@669@0
+51@7@219@Repen@170@300@Increases Attack speed by 50   #Double dmg 2%   #Increases Exp Gain rate 25%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2190|@6880@2@3@2190|2191|2192|@0@508@669@0
+51@8@220@Balrog@170@300@Increases Attack by 150   #Increases Magic Attack by 150   #Increases Exp Gain rate 20%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2200|@6884@2@3@2200|2201|2202|@0@508@669@0
+51@9@221@Skull@170@300@Increases Attack by 100   #Increases Exp Gain rate 30%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2210|@6905@2@3@2210|2211|2212|@0@508@669@0
+51@10@222@Witch@170@300@Increases Magic Dmg by 100   #Increases Exp Gain rate 30%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2220|@6907@2@3@2220|2221|2222|@0@508@669@0
+51@11@223@Pumpkin@170@300@Increases Curse Dmg by 100   #Increases Exp Gain rate 30%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2230|@6909@2@3@2230|2231|2232|@0@508@669@0
+51@12@224@Ghost@170@300@HP 500   #Increases Exp Gain rate 30%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2240|@6913@2@3@2240|2241|2242|@0@508@669@0
+51@13@225@Mummified Boy@170@300@Defence by 120   #Increases Exp Gain rate 30%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2250|@6915@2@3@2250|2251|2252|@0@508@669@0
+51@14@226@Present@170@300@Double Dmg rate 2%   #Increases Exp Gain rate 22%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2260|@6919@2@3@2260|2261|2262|@0@508@669@0
+51@15@227@Gigantes@170@300@Speed by 43   #Increases Exp Gain rate 22%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2270|@6923@2@3@2270|2271|2272|@0@508@669@0
+51@16@228@Christmas Tree@170@300@Zen 40%   #Increases Exp Gain rate 22%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2280|@6925@2@3@2280|2281|2282|@0@508@669@0
+51@17@229@Snow Fairy@170@300@Damage 35%   #Increases Exp Gain rate 22%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2290|@6929@2@3@2290|2291|2292|@0@508@669@0
+51@18@230@Commander@170@300@MP 250   #Damage 40%   #Increases Exp Gain rate 20%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2300|@6938@2@3@2300|2301|2302|@0@508@669@0
+51@19@231@Lance Soldier@170@300@HP 200   #Damage 28%   #Increases Exp Gain rate 25%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2310|@6940@2@3@2310|2311|2312|@0@508@669@0
+51@20@232@Bow Soldier@170@300@HP 200   #Increases attack speed by 40   #Increases Exp Gain rate 25%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2320|@6942@2@3@2320|2321|2322|@0@508@669@0
+61@1@138@Fragment of Resurreccion@170@10000@This material is required for the Ghost Horse, and you only need to buy it 10 times.     #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1380|@7590@5@1@1380|@1@0@669@0
+61@2@249@Seal of the Phantasmal Shield@170@100000@This material is necessary to create a Ghost Horse.     #Besides it, you also need to have:     #Fragment of Resurreccion x10     #Jewel of Bless x10     #Jewel of Soul x10     #Jewel of Chaos x1     #Jewel of Creation x1     #You need to go to the Chaos Goblin and use the Regular Combination.    #The success rate is 100%.     #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@2490|@7591@5@1@2490|@1@0@669@0
+61@3@395@Seal of Ice Dragon@170@200000@With this item, you upgrade Ghost Horse to Ice Dragon.         #Required materials:         #Jewel of Soul x30         #Jewel of Bless x30         #Jewel of Creation x1         #Jewel of Chaos x1         #Seal of Ice Dragon          #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@3950|@7592@5@1@3950|@1@0@669@0
+61@4@410@Seal of Pierce Ryan@170@300000@With this item, you upgrade Pierce Ryan  to Shining Tail.           #Required materials:           #Jewel of Soul x30           #Jewel of Bless x30           #Jewel of Creation x1           #Jewel of Chaos x1           #Seal of Shining Tail            #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4100|@7593@5@1@4100|@1@0@669@0
+61@5@400@Seal of Shining Tail@170@400000@With this item, you upgrade Pierce Ryan  to Shining Tail.          #Required materials:          #Jewel of Soul x30          #Jewel of Bless x30          #Jewel of Creation x1          #Jewel of Chaos x1          #Seal of Shining Tail           #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4000|@7598@5@1@4000|@1@0@669@0
+61@6@419@Seal of Ur@170@500000@With this item, you upgrade Shining Tail  to UR.             #Required materials:             #Jewel of Soul x30             #Jewel of Bless x30             #Jewel of Creation x1             #Jewel of Chaos x1             #Seal of Ur             #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4190|@7602@5@1@4190|@1@0@669@0
+61@7@420@Seal of Leviathan@170@700000@With this item, you upgrade UR  to Leviathan.              #Required materials:              #Jewel of Soul x30              #Jewel of Bless x30              #Jewel of Creation x1              #Jewel of Chaos x1              #Seal of Leviathan            #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4200|@7607@5@1@4200|@1@0@669@0
+61@8@421@Seal of Taurus@170@800000@With this item, you upgrade Leviathan  to Taurus.            #Required materials:            #Jewel of Soul x30            #Jewel of Bless x30            #Jewel of Creation x1            #Jewel of Chaos x1            #Seal of Taurus            #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4210|@7631@5@1@4210|@1@0@669@0
+61@9@422@Seal of Robot Blue@170@1000000@With this item, you upgrade Taurus  to Blue Robot.          #Required materials:          #Jewel of Soul x30          #Jewel of Bless x30          #Jewel of Creation x1          #Jewel of Chaos x1          #Seal of Robot Blue          #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4220|@7628@5@1@4220|@1@0@669@0
+61@10@423@Seal of Robot Red@170@1000000@With this item, you upgrade Taurus  to Red Robot.          #Required materials:          #Jewel of Soul x30          #Jewel of Bless x30          #Jewel of Creation x1          #Jewel of Chaos x1          #Seal of Robot Red         #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4230|@7629@5@1@4230|@1@0@669@0
+61@11@424@Seal of Robot White@170@1000000@With this item, you upgrade Taurus  to White Robot.          #Required materials:          #Jewel of Soul x30          #Jewel of Bless x30          #Jewel of Creation x1          #Jewel of Chaos x1          #Seal of Robot White         #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@4240|@7630@5@1@4240|@1@0@669@0
+62@1@128@Talisman of Resurrection@170@200@Talisman of Resurrection is a special item in MU Online that allows you to resurrect at the spot where you were killed.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1280|@6725@5@1@1280|@1@0@669@2
+62@2@129@Talisman of Mobility@170@200@Talisman of Mobility is a special item in MU Online that allows you to teleport to a previously saved location.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1290|@6726@5@1@1290|@1@0@669@2
+62@3@117@Talisman of Wings of Dragon@170@5000@Talisman of Wings of Dragon is a special item in MU Online that increases the success rate of creating Wings of Dragon ? second-tier wings for the Blade Knight (BK) class.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1170|@6744@5@1@1170|@1@0@669@2
+62@4@114@Talisman of Wings of Soul@170@5000@Talisman of Wings of Soul is a special item in MU Online that increases the success rate of creating Wings of Soul ? wings for the Soul Master class.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1140|@6745@5@1@1140|@1@0@669@2
+62@5@127@Talisman of Wings of Spirits@170@5000@Talisman of Wings of Spirits is a special item in MU Online that increases the success rate of creating Wings of Spirits ? second-tier wings designed for the Muse Elf class.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1270|@6746@5@1@1270|@1@0@669@2
+62@6@136@Talisman of Cape of Lord@170@5000@Talisman of Cape of Lord is a special item in MU Online that increases the success rate of creating Cape of Lord ? second-tier wings designed for the Dark Lord class.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1360|@6743@5@1@1360|@1@0@669@2
+62@7@140@Talisman of Wings of Despair@170@5000@Talisman of Wings of Despair is a special item in MU Online that increases the success rate of creating Wings of Despair ? second-tier wings designed for the Summoner class.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1400|@6747@5@1@1400|@1@0@669@2
+62@8@141@Talisman of Wings of Darkness@170@5000@Talisman of Wings of Darkness is a special item in MU Online that increases the success rate of creating Wings of Darkness ? second-tier wings designed for the Magic Gladiator (MG) class.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1410|@6748@5@1@1410|@1@0@669@2
+62@9@142@Talisman Cloak of Warrior@170@5000@Talisman Cloak of Warrior is a special item in MU Online that increases the success rate of creating Cloak of Warrior ? second-tier wings designed for the Rage Fighter class.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1420|@6801@5@1@1420|@1@0@669@2
+63@1@256@GM Gift@170@5000@This box gives you random custom jewels.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2560|@7220@5@1@2560|@1@0@669@2
+63@2@194@Buffer Box Level 1@170@200000@This box gives you the full Buffer Set Lv. 1.   #To learn how to upgrade it to Level 2, please read the information on the website.     #@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1940|@7671@5@1@1940|@1@0@669@0
+63@3@139@Green Chaos Box@170@20000@This box gives you the entire lucky set. If you take the box with BK, it will give you a set for BK  if you take it with SM, it will give you a set for SM. When you take the box, you need to drop it on the ground.@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1390|@7223@5@1@1390|@1@0@669@0
+63@4@352@Purple Chaos Box@170@3000@The box gives you one items ancient tier 2.Only 1 exl Options.@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@3520|@7225@5@1@3520|@1@0@669@0
+63@5@354@Box of Red Ribbon@170@5000@The box gives you one item 380lvl.Only 1 exl Options@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@3540|@6176@5@1@3540|@1@0@669@0
+63@6@351@Red Chaos Box@170@10000@The box gives you one item socket.@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@3510|@7224@5@1@3510|@1@0@669@0
+63@8@190@Jewel of Elevation@170@500@Jewel of Elevation is used to enhance Lucky Set items by adding unique "golden" options.@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1900|@7329@5@1@1900|@1@0@669@0
+63@9@189@Jewel of Extension@170@500@Jewel of Extension is used to restore 100% durability of Lucky Set items. This is especially important because these items cannot be repaired in the standard way and become unusable once their durability reaches 0.@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1890|@7328@5@1@1890|@1@0@669@0
+64@1@186@Dotto@170@1000@Bonus exp 2%                      #@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1860|@6934@5@3@1860|1861|1862|@1@0@669@2
+64@3@188@Walker@170@1000@Damage 5%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1880|@6935@5@3@1880|1881|1882|@1@0@669@2
+65@1@144@Bundled Jewel of Chaos@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1440|@6285@5@1@1440|@1@0@669@2
+65@2@145@Bundled Jewel of Bless@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1450|@6174@5@1@1450|@1@0@669@2
+65@3@148@Bundled Jewel of Soul@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1480|@6175@5@1@1480|@1@0@669@2
+65@4@149@Bundled Jewel of Life@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1490|@6280@5@1@1490|@1@0@669@2
+65@5@150@Bundled Jewel of Creation@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1500|@6281@5@1@1500|@1@0@669@2
+66@1@164@Bundled Jewel of Chaos x20@170@4000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1640|@6285@5@1@1640|@1@0@669@2
+66@2@261@Bundled Jewel of Bless x20@170@4000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2610|@6174@5@1@2610|@1@0@669@2
+66@3@262@Bundled Jewel of Soul x20@170@4000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2620|@6175@5@1@2620|@1@0@669@2
+66@4@263@Bundled Jewel of Life x20@170@4000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2630|@6280@5@1@2630|@1@0@669@2
+66@5@264@Bundled Jewel of Creation x20@170@4000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2640|@6281@5@1@2640|@1@0@669@2
+67@1@265@Bundled Jewel of Chaos x20@170@6000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2650|@6285@5@1@2650|@1@0@669@2
+67@2@325@Bundled Jewel of Life x30@170@6000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3250|@6280@5@1@3250|@1@0@669@2
+67@3@326@Bundled Jewel of Bless x30@170@6000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3260|@6174@5@1@3260|@1@0@669@2
+67@4@327@Bundled Jewel of Soul x30@170@6000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3270|@6175@5@1@3270|@1@0@669@2
+68@1@179@GM Gift@170@10000@This box gives you random custom jewels.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1790|@7220@5@1@1790|@1@0@669@2
+68@2@253@Buffer Box Level 1@170@200000@This box gives you the full Buffer Set Lv. 1.   #To learn how to upgrade it to Level 2, please read the information on the website.     #https://avroramu-community.gitbook.io/avroramu-season-6@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2530|@7671@5@1@2530|@1@0@669@2
+68@3@187@Green Chaos Box@170@10000@This box gives you the entire lucky set. If you take the box with BK, it will give you a set for BK  if you take it with SM, it will give you a set for SM. When you take the box, you need to drop it on the ground.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1870|@7223@5@1@1870|@1@0@669@2
+68@4@275@Purple Chaos Box@170@3000@The box gives you one item ancient tier 2.Only 1 exl options.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2750|@7225@5@1@2750|@1@0@669@2
+68@5@276@Box of Red Ribbon@170@3000@The box gives you one item 380lvl.Only 1 exl Options@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2760|@6176@5@1@2760|@1@0@669@2
+68@6@347@Red Chaos Box@170@5000@The box gives you one item socket.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@3470|@7224@5@1@3470|@1@0@669@2
+68@7@250@Jewel of Extension@170@500@Jewel of Extension is used to restore 100% durability of Lucky Set items. This is especially important because these items cannot be repaired in the standard way and become unusable once their durability reaches 0.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2500|@7328@5@1@2500|@1@0@669@2
+68@8@251@Jewel of Elevation@170@500@Jewel of Elevation is used to enhance Lucky Set items by adding unique "golden" options.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2510|@7329@5@1@2510|@1@0@669@2
