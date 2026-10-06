@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<ItemData>
-	<Item ItemSection="0" ItemIndex="19" cLevel="15" Option="7" ExlOption="63" DamageRate="4000" DoubleDamageRate="0" TripleDamageRate="0" DefensePvP="10000" CriticalDamage="0" />
-	<Item ItemSection="0" ItemIndex="20" cLevel="15" Option="7" ExlOption="32" DamageRate="4000" DoubleDamageRate="0" TripleDamageRate="0" DefensePvP="10000" CriticalDamage="0" />
-</ItemData>

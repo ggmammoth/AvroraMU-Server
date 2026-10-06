@@ -2,18 +2,19 @@
 
 **[English](#english) | [Български](#български)**
 
-Current files in this package / Текущи файлове в пакета:
-
-| File / Файл | SHA256 | Notes / Бележки |
-|---|---|---|
-| `MuServer\4.MuServer\Test-1\GameServer\GameServerTest.exe` | `E34FD456C5FB08759AB237B779C18CC0A2198EB4215882EAFA635C056E3FB19F` | 06.10.2026 – monster limit 12000 / лимит 12000 чудовища |
-| `Client\Engine.exe` | `69BFAA25FC18A9B238B8B642F95746866549BEAEED8FB49AC49BA14D2104F04B` | 05.10.2026 – map-name splash + mount icons / надписи на картите + иконки на маунтите |
+Every version of this repository is complete: just download the newest one. Nothing has to be replaced by hand.
+Всяка версия на репото е пълна: просто свали най-новата. Нищо не се заменя ръчно.
 
 ---
 
 ## English
 
 ### 06.10.2026
+- **Ready to play:**
+  - `SETUP-DATABASE.bat` creates the database and the ODBC connection;
+  - `START-SERVER.bat` and `START-GAME.bat` start everything;
+  - test account `test` / `test123`.
+  - The package runs only the Test server, which has all the new content.
 - **Monsters on the new maps:** the game server had a hard limit of 8000 monsters. The maps loaded last (Ferea, Old Kethotum, Premium Arenas) and the invasions (Nix…) got none. The limit is now 12000 (new `GameServerTest.exe`).
 - **Invasion monsters (Test-1):** Goats (912-915), Horses (916-919), Monkeys (758-761), Goblins (762-765), Golden Goblin (795) and Chicken (776) were added. Snakes (801/802/804) and Illidan (841) were added for the Premium Arenas. The Goat/Horse invasions now spawn the right monsters.
 - **Inventory looks:** mount icons, seals and wing materials are centred, turned like the shields and equal in size.
@@ -43,6 +44,11 @@ Current files in this package / Текущи файлове в пакета:
 ## Български
 
 ### 06.10.2026
+- **Готово за игра:**
+  - `SETUP-DATABASE.bat` създава базата и ODBC връзката;
+  - `START-SERVER.bat` и `START-GAME.bat` пускат всичко;
+  - тестов акаунт `test` / `test123`.
+  - Пакетът пуска само тестовия сървър, в който са всички нови неща.
 - **Чудовища в новите карти:** гейм сървърът имаше твърд лимит от 8000 чудовища. Картите, които се зареждат последни (Ferea, Old Kethotum, Premium Arenas), и инвазиите (Nix…) оставаха без чудовища. Лимитът вече е 12000 (нов `GameServerTest.exe`).
 - **Чудовища за инвазии (Test-1):** добавени са кози (912-915), коне (916-919), маймуни (758-761), гоблини (762-765), Golden Goblin (795) и пиле (776). За Premium Arenas са добавени змии (801/802/804) и Illidan (841). Инвазиите с кози и коне вече пускат правилните чудовища.
 - **Вид в инвентара:** иконките на маунтите, сеалите и материалите за крила са центрирани, завъртени като щитовете и с еднакъв размер.

@@ -1,3 +1,0 @@
-//INDEX Command		Map	X	Y	MinLevel	MaxLevel	MinReset	MaxReset	MinMReset	MaxMReset	AccountLevel	PKMove
-
-end

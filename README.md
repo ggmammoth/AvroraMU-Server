@@ -6,98 +6,82 @@
 
 ## English
 
-A complete, ready-to-test MU Online Season 6 server and the matching game client, with the AvroraMU custom content (new maps, wings, mounts, jewels, mixes, invasions…).
-Every address in this package points to **127.0.0.1**, so it runs on one PC out of the box.
+A complete MU Online Season 6 server with its game client and all AvroraMU custom content: new maps, wings, mounts, jewels, mixes and invasions.
+Everything is already configured for **one PC (127.0.0.1)**. Nothing needs to be copied or replaced by hand.
+
+### Start in 4 steps
+
+1. Install **SQL Server Express** (free): https://www.microsoft.com/sql-server/sql-server-downloads. If you already have SQL Server, skip this step.
+2. Run **`SETUP-DATABASE.bat`** (it asks for Administrator rights once). It creates the database `SPK5.2` and the ODBC connection `SPK5.2`.
+3. Run **`START-SERVER.bat`** and wait until the GameServer window has finished loading.
+4. Run **`START-GAME.bat`** and log in with **`test`** / **`test123`**.
+
+### Updating
+Download the newest version of this repository (**Code → Download ZIP**, or `git pull`). Every file, `.exe` included, is already up to date. The database stays as it is. `CHANGELOG.md` lists what is new.
 
 ### Folders
 
 | Folder | What it is |
 |---|---|
-| `MuServer\1.ConnectServer` | Server list (`ServerList.xml`) |
-| `MuServer\2.DataServer`, `3.JoinServer` | Database + login servers (ODBC DSN `SPK5.2`) |
-| `MuServer\4.MuServer\Sub-1` | Main game server |
-| `MuServer\4.MuServer\Test-1` | Test game server (newest features, see `CHANGELOG.md`) |
+| `MuServer\1.ConnectServer` | Server list |
+| `MuServer\2.DataServer`, `3.JoinServer` | Database + login servers |
+| `MuServer\4.MuServer\Test-1` | The game server (all new content) |
 | `MuServer\5.AntiServer` | Anti-hack server |
-| `MuServer\7.StartUp` | `AutoStartUP.exe` – starts everything in the right order |
-| `MuServer\Tool` | `MuOnline.bak` (empty database), editors |
-| `Client` | Game client – run `Engine.exe` |
-| `GetMain` | `GetMainInfo.exe` – writes the client settings (IP, port, window name…) into `Client\Data\SPK` |
+| `Client` | Game client |
+| `GetMain` | `GetMainInfo.exe`: writes the client settings (IP, port…) into `Client\Data\SPK` |
+| `Database` | Database script + setup script |
 
-### Quick start (one PC)
-
-1. **SQL Server** (2008 R2 or newer, Express is fine): restore `MuServer\Tool\MuOnline.bak` as database `MuOnline`.
-2. **ODBC**: open *ODBC Data Sources (32-bit)* → *System DSN* → add a **SQL Server** DSN named **`SPK5.2`** pointing to that database.
-3. Start `MuServer\7.StartUp\AutoStartUP.exe` (or start 5 → 1 → 2 → 3 → 4 by hand).
-4. Start `Client\Engine.exe`, create an account in the database (`MEMB_INFO`) and log in.
-
-### Playing over LAN / internet
-
-Change `127.0.0.1` to your IP in:
+### Playing over LAN / internet (optional)
+Replace `127.0.0.1` with your IP in:
 - `MuServer\1.ConnectServer\ServerList.xml`
-- `MuServer\4.MuServer\*\Data\MapServerInfo.ini`
-- `GetMain\GetEngine.ini` (`IpAddress`), then run `GetMain\GetMainInfo.exe` – it rewrites `Client\Data\SPK\ConnectIP.bmd` and `ServerData.bmd`.
+- `MuServer\4.MuServer\Test-1\Data\MapServerInfo.ini`
+- `GetMain\GetEngine.ini` (`IpAddress`)
 
-### Updating an .exe (GameServer.exe / Engine.exe)
-
-New builds are listed in `CHANGELOG.md` together with their SHA256.
-1. Stop the server (close the GameServer window) / close the game.
-2. Keep a copy of the old file (e.g. `GameServer.exe.old`).
-3. Copy the new file over the old one:
-   - game server → `MuServer\4.MuServer\Test-1\GameServer\GameServerTest.exe` (and/or `GameServer.exe`)
-   - client → `Client\Engine.exe`
-4. If you changed `Engine.exe`, run `GetMain\GetMainInfo.exe` again (it stores the client CRC).
-5. Start the server / game again.
+Then run `GetMain\GetMainInfo.exe`.
 
 ### Notes
-- Logs, real accounts and private addresses were removed. Bot passwords in `AutoTrain.xml` are examples (`bot123`), the GM list (`Data\Util\GameMaster.xml`) has one example `admin` entry – put your own accounts there.
-- MU Online is a trademark of Webzen Inc. This package is a non-commercial hobby project for testing and learning.
+- **Game Masters:** add your accounts to `MuServer\4.MuServer\Test-1\Data\Util\GameMaster.xml`.
+- **Other accounts:** create them in the table `MEMB_INFO`, with the same columns as `test`.
+- MU Online is a trademark of Webzen Inc. This is a non-commercial hobby project for testing and learning.
 
 ---
 
 ## Български
 
-Пълен MU Online Season 6 сървър с готов клиент и всички AvroraMU добавки (нови карти, крила, маунти, бижута, миксове, инвазии…).
-Всички адреси в пакета са **127.0.0.1** – тръгва директно на един компютър.
+Пълен MU Online Season 6 сървър с клиент и всички AvroraMU добавки: нови карти, крила, маунти, бижута, миксове и инвазии.
+Всичко е настроено за **един компютър (127.0.0.1)**. Нищо не се копира и не се заменя ръчно.
+
+### Пускане в 4 стъпки
+
+1. Инсталирай **SQL Server Express** (безплатен): https://www.microsoft.com/sql-server/sql-server-downloads. Ако вече имаш SQL Server, пропусни тази стъпка.
+2. Пусни **`SETUP-DATABASE.bat`** (веднъж пита за администраторски права). Той създава базата `SPK5.2` и ODBC връзката `SPK5.2`.
+3. Пусни **`START-SERVER.bat`** и изчакай прозорецът на GameServer да зареди.
+4. Пусни **`START-GAME.bat`** и влез с **`test`** / **`test123`**.
+
+### Обновяване
+Свали най-новата версия на това репо (**Code → Download ZIP** или `git pull`). Всички файлове, включително `.exe`, вече са обновени. Базата остава същата. В `CHANGELOG.md` пише какво е новото.
 
 ### Папки
 
 | Папка | Какво е |
 |---|---|
-| `MuServer\1.ConnectServer` | Списък сървъри (`ServerList.xml`) |
-| `MuServer\2.DataServer`, `3.JoinServer` | База данни + вход (ODBC DSN `SPK5.2`) |
-| `MuServer\4.MuServer\Sub-1` | Основен гейм сървър |
-| `MuServer\4.MuServer\Test-1` | Тестов гейм сървър (най-новите неща, виж `CHANGELOG.md`) |
+| `MuServer\1.ConnectServer` | Списък сървъри |
+| `MuServer\2.DataServer`, `3.JoinServer` | База данни + вход |
+| `MuServer\4.MuServer\Test-1` | Гейм сървърът (всички нови неща) |
 | `MuServer\5.AntiServer` | Анти-хак сървър |
-| `MuServer\7.StartUp` | `AutoStartUP.exe` – пуска всичко в правилния ред |
-| `MuServer\Tool` | `MuOnline.bak` (празна база), редактори |
-| `Client` | Клиентът – стартира се `Engine.exe` |
-| `GetMain` | `GetMainInfo.exe` – записва настройките на клиента (IP, порт, име на прозореца…) в `Client\Data\SPK` |
+| `Client` | Клиентът |
+| `GetMain` | `GetMainInfo.exe`: записва настройките на клиента (IP, порт…) в `Client\Data\SPK` |
+| `Database` | Скрипт за базата + скрипт за настройка |
 
-### Бърз старт (един компютър)
-
-1. **SQL Server** (2008 R2 или по-нов, Express става): възстанови `MuServer\Tool\MuOnline.bak` като база `MuOnline`.
-2. **ODBC**: *ODBC Data Sources (32-bit)* → *System DSN* → добави **SQL Server** DSN с име **`SPK5.2`** към тази база.
-3. Пусни `MuServer\7.StartUp\AutoStartUP.exe` (или ръчно 5 → 1 → 2 → 3 → 4).
-4. Пусни `Client\Engine.exe`, създай акаунт в базата (`MEMB_INFO`) и влез.
-
-### Игра в LAN / интернет
-
+### Игра в LAN / интернет (по желание)
 Смени `127.0.0.1` с твоето IP в:
 - `MuServer\1.ConnectServer\ServerList.xml`
-- `MuServer\4.MuServer\*\Data\MapServerInfo.ini`
-- `GetMain\GetEngine.ini` (`IpAddress`), след това пусни `GetMain\GetMainInfo.exe` – той презаписва `Client\Data\SPK\ConnectIP.bmd` и `ServerData.bmd`.
+- `MuServer\4.MuServer\Test-1\Data\MapServerInfo.ini`
+- `GetMain\GetEngine.ini` (`IpAddress`)
 
-### Смяна на .exe (GameServer.exe / Engine.exe)
-
-Новите билдове са описани в `CHANGELOG.md` заедно с техния SHA256.
-1. Спри сървъра (затвори прозореца на GameServer) / затвори играта.
-2. Запази копие на стария файл (напр. `GameServer.exe.old`).
-3. Копирай новия файл върху стария:
-   - гейм сървър → `MuServer\4.MuServer\Test-1\GameServer\GameServerTest.exe` (и/или `GameServer.exe`)
-   - клиент → `Client\Engine.exe`
-4. Ако си сменил `Engine.exe`, пусни отново `GetMain\GetMainInfo.exe` (записва CRC на клиента).
-5. Пусни отново сървъра / играта.
+След това пусни `GetMain\GetMainInfo.exe`.
 
 ### Бележки
-- Логовете, истинските акаунти и личните адреси са премахнати. Паролите на ботовете в `AutoTrain.xml` са примерни (`bot123`), GM списъкът (`Data\Util\GameMaster.xml`) има един примерен `admin` – сложи там своите акаунти.
-- MU Online е търговска марка на Webzen Inc. Пакетът е некомерсиален хоби проект за тестове и обучение.
+- **Гейм мастъри:** добави своите акаунти в `MuServer\4.MuServer\Test-1\Data\Util\GameMaster.xml`.
+- **Други акаунти:** създават се в таблицата `MEMB_INFO`, със същите колони като `test`.
+- MU Online е търговска марка на Webzen Inc. Това е некомерсиален хоби проект за тестове и обучение.
