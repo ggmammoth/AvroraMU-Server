@@ -3,7 +3,10 @@
 //=========================================================================================================================================
 // [NPCS] LORENCIA
 //=========================================================================================================================================
-0
+0
+842            00             00         135            124            05             //Training Dummy (CASE-20261006-007, like the AvroraMU server)
+818            00             00        131            141            03             //Boss Battle Event - takes 1 Boss Battle Ticket -> Boss Battle (CASE-20261007-008)
+842            00             00         135            132            01             //Training Dummy
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
 
 //=========================================================================================================================================
@@ -21,8 +24,8 @@
 479            00             00         114            124            03             //DoorKeeper
 230            00             00         062            130            03             //Wandering Merchant Alex
 253            00             00         127            086            02             //Potion Girl Amy
-255            00             00         122            135            01             //Lumen the Barmaid
-244            00             00         126            135            01             //Caren the Barmaid
+255            00             00         122            133            01             //Lumen the Barmaid
+244            00             00         126            133            01             //Caren the Barmaid
 249            00             10         131            088            01             //Guard
 240            00             00         147            145            01             //Safety Guardian
 735            00             00         137            140            02             //Npc Quests Lorencia (CASE-20260920-001, IllusionMU class 600 -> 735)

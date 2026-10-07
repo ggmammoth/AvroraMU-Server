@@ -9,6 +9,7 @@
 
 257            94             00        035             124            02             ///Shadow Phantom Soldier
 253            94             00        027             123            02             ///Potion Girl
+920            94             00        112            105            03             //The Nixie's Spirit - Nix boss entrance (CASE-20261006-005)
 240            94             00        024             123            02             ///Safety Guardian
 
 

@@ -1,0 +1,9 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks   DropInventory
+"Horses"	5000000	90	1	0	0	1	1
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   SetOption   DropRate
+14          22     0          0          0       0       0        0           0           10          //Jewel of Creation
+end

@@ -1222,6 +1222,7 @@ end
 // Custom Jewel
 //=====================================
 // Custom Jewels 14/244-252 + 14/259 (Upgrade Jewel), more at 14/274-286
+173     *       0       1       1       1       1       0       "Spirit Nixie's Shard" 0       0   //MuServer2 14/173 - Nix ticket (CASE-20261006-005)
 244	*	0	1	1	1		0	   0	      "Jewel Of Level"			   0	   0
 245	*	0	1	1	1		0	   0	      "Jewel Of Skill"		           0	   0
 246	*	0	1	1	1		0	   0	      "Jewel Of Luck"		           0	   0
@@ -1282,6 +1283,8 @@ end
 424     *       0       2       2       1       1       0       "Seal of Ice Dragon" 0       0
 425     *       0       2       2       1       1       0       "Seal of Pierce Ryan" 0       0
 430     *       0       2       2       1       1       0       "Seal of Shining Tail" 0       0
+431     *       0       1       1       1       1       0       "Boss Battle Ticket" 0       0   //MuServer2 14/431 (CASE-20261007-007)
+432     *       0       1       1       1       0       0       "Zen Coin" 0       0   //MuServer2 14/12 (CASE-20261007-007)
 434     *       0       2       2       1       1       0       "Seal of Ur" 0       0
 439     *       0       2       2       1       1       0       "Seal of Leviathan" 0       0
 460     *       0       2       2       1       1       0       "Seal of Robot Blue" 0       0

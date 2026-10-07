@@ -1,0 +1,9 @@
+0
+//EventName  DropZen ItemDropRate ItemDropCount SetItemDropRate ItemDropType Fireworks DropInventory
+"Golden Devil"  1000 100  1  0  0  0  1
+end
+
+1
+//Index Type MinLlv MaxLvl Skill Luck Option Exc Comment
+14          11     10         10         0       0       0        0           0           10          //Box of Kundun +3
+end

@@ -459,4 +459,5 @@
 // CASE-20261005-002: Hall of Fame (MuServer2 gates)
 651       0      109   150    138    150     138     0            0           1          1000       -1         -1         0   //Hall of Fame
 654       0      109   206    209    206     210     0            0           1          1000       -1         -1         0   //Hall of Fame - Fight
+659	0	117	215	44	215	44	0	0	20	1000	-1	-1	0	//Arkania (MuServer2 gate 659, CASE-20261007-004)
 end

@@ -20,4 +20,5 @@
 12		16		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Fire Slash Jewel
 12		13		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Spinning Stab Jewel
 12		47		0		0		0		0		0		0		0		0		0		255		255		255		255		255		//Fire Sword Jewel
+14	432	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Zen Coin (MuServer2)
 end

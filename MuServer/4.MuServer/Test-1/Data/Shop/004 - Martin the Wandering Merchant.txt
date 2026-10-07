@@ -10,4 +10,5 @@
 
 0			32		0		0		1		1		0		0		0		0		0		255		255		255		255		255		//Body Protection Fist
 0   		33		0		0		1		1		0		0		0		0		0		255		255		255		255		255		//Body Protection Fist
+14	432	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Zen Coin (MuServer2)
 end

@@ -1,3 +1,5 @@
-//Index   Npc	NpcMap	NpcX	NpcY	MoveMap	MoveX	MoveY	MinLevel	MaxLevel	MinReset	MaxReset	MinMReset	MaxMReset	AccountLevel	PKMove	Comment
-
+// CASE-20261006-005: NPC that moves the player (GameServer CustomNpcMove). '*' = no limit. ItemCat/ItemIndex/ItemCount/ItemDelete = ticket
+//Index Npc  NpcMap NpcX NpcY MoveMap MoveX MoveY MinLevel MaxLevel MinReset MaxReset MinMReset MaxMReset AccountLevel PKMove ItemCat ItemIndex ItemCount ItemDelete  Comment
+0      920  94     112  105  94      21    235   250      *        *        *        *         *         *            *      14      173       1         1           // The Nixie's Spirit -> Nix (1 Spirit Nixie's Shard)
+1      818  0      131  141  99      128   109   250      *        *        *        *         *         *            *      14      431       1         1           // Boss Battle Event -> Boss Battle Together (1 Boss Battle Ticket, CASE-20261007-008)
 end

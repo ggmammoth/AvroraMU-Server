@@ -1,0 +1,9 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks   DropInventory
+"Goblin"	5000000	90	1	0	0	1	1
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   SetOption   DropRate
+14          41     0          0          0       0       0        0           0           10          //Gemstone
+end

@@ -9,6 +9,29 @@ Every version of this repository is complete: just download the newest one. Noth
 
 ## English
 
+### 07.10.2026
+- **Invasion drops (EventItemBag):** bags for all snakes (801-804), horses (916-919), goats (912-915) and goblins (762-765), taken from MuServer2.
+- **Purple Snake (803)** added (server + client).
+- **Invasions fixed:**
+  - Golden Devil (494) now spawns in the Golden Invasion.
+  - New bosses Lord Icarus (838), Pharaon (835) and the Arkania invasion (850/851), each with its own drop bag.
+  - Checked all 17 invasions: every one has its monsters, spawn spots and client models.
+- **New town Arkania (map 117):** in the move list (M) after Lorencia, `/move Arkania`, minimap, map-name splash. Map name, minimap and splash come with the next `Engine.exe`.
+- **Kill messages:**
+  - The Golden monsters now show their own name (many showed a wrong one).
+  - Bosses no longer show "Auto Potion has been enabled." when killed.
+  - Every boss now has its own kill message.
+  - The horse/goat invasions are announced as "[Invasion] Horses" / "[Invasion] Goats".
+- **Shops:** the 9 empty shops are filled like MuServer2 (Harold, Isabel, Thompson, Lindsay, Leah, Moss Merchant, Reira, Leina, Bolo).
+- **New items:**
+  - **Zen Coin** costs 1,000,000,000 zen and sells for the same.
+  - **Boss Battle Ticket** costs 1000 WCoinP.
+- **Boss Battle entrance:** NPC "Boss Battle Event" in Lorencia (131,141) takes 1 ticket and moves you to Boss Battle (level 250+). `/move Boss Battle` was removed.
+- **Monster list** (Monster.txt) sorted by number.
+- **Client code (next `Engine.exe`):**
+  - Schriker no longer glows too brightly on the shoulders and legs (the glow effect is drawn like the original again).
+  - FPS shown in the bottom-left corner (PC), like the mobile version.
+
 ### 06.10.2026
 - **SET-IP.bat:** one click sets your server IP (this PC, LAN, internet or any IP) everywhere it is needed, client included, and opens the firewall ports.
 - **Ready to play:**
@@ -43,6 +66,29 @@ Every version of this repository is complete: just download the newest one. Noth
 ---
 
 ## Български
+
+### 07.10.2026
+- **Награди от инвазиите (EventItemBag):** торбички за всички змии (801-804), коне (916-919), кози (912-915) и гоблини (762-765), взети от MuServer2.
+- Добавена е **Purple Snake (803)** (сървър + клиент).
+- **Поправени инвазии:**
+  - Golden Devil (494) вече се появява в Golden Invasion.
+  - Нови босове Lord Icarus (838), Pharaon (835) и инвазията Arkania (850/851), всеки със своя торбичка.
+  - Проверени са всичките 17 инвазии: всяка има чудовищата си, местата за поява и моделите в клиента.
+- **Нов град Arkania (карта 117):** в списъка за преместване (M) след Lorencia, `/move Arkania`, миникарта и картинка с името при влизане. Името на картата, миникартата и картинката идват със следващия `Engine.exe`.
+- **Съобщения при убиване:**
+  - Golden чудовищата вече показват своето име (много показваха грешно).
+  - При убит бос вече не излиза „Auto Potion has been enabled.“.
+  - Всеки бос има свое съобщение.
+  - Инвазиите с коне и кози се обявяват като „[Invasion] Horses“ / „[Invasion] Goats“.
+- **Магазини:** 9-те празни магазина са напълнени като в MuServer2 (Harold, Isabel, Thompson, Lindsay, Leah, Moss Merchant, Reira, Leina, Bolo).
+- **Нови предмети:**
+  - **Zen Coin** се купува за 1 000 000 000 зен и се продава за същото.
+  - **Boss Battle Ticket** струва 1000 WCoinP.
+- **Вход за Boss Battle:** NPC „Boss Battle Event“ в Lorencia (131,141) взима 1 билет и те пренася в Boss Battle (ниво 250+). `/move Boss Battle` е махнат.
+- **Списъкът с чудовища** (Monster.txt) е подреден по номер.
+- **Код на клиента (следващия `Engine.exe`):**
+  - Schriker вече не свети твърде ярко на раменете и краката (ефектът се рисува отново като в оригинала).
+  - FPS в долния ляв ъгъл (PC), като в мобилната версия.
 
 ### 06.10.2026
 - **SET-IP.bat:** с един клик задава IP-то на сървъра (този компютър, LAN, интернет или друго) навсякъде, където трябва, включително в клиента, и отваря портовете във firewall.

@@ -185,4 +185,25 @@
 183     7325        *           *              *              0           //183 - Box Cap 7.txt
 184     7326        *           *              *              0           //184 - Box Cap 8.txt
 185     7327        *           *              *              0           //185 - Box 400.txt
+336     *           *           835            *              0           //336 - Pharaon.txt
+337     *           *           838            *              0           //337 - Lord Icarus.txt
+338     *           *           494            *              0           //338 - Golden Devil.txt
+348     *           *           850            *              0           //348 - Arkania Monsters.txt
+349     *           *           851            *              0           //349 - Arkania Boss.txt
+561     *           *           801            *              0           //561 - Green Snake.txt
+562     *           *           802            *              0           //562 - Yellow Snake.txt
+563     *           *           803            *              0           //563 - Purple Snake.txt
+564     *           *           804            *              0           //564 - Red Snake.txt
+925     *           *           916            *              0           //925 - Green Horse.txt
+926     *           *           917            *              0           //926 - Yellow Horse.txt
+927     *           *           918            *              0           //927 - Brown Horse.txt
+928     *           *           919            *              0           //928 - Blue Horse.txt
+929     *           *           912            *              0           //929 - Green Goat.txt
+930     *           *           913            *              0           //930 - White Goat.txt
+931     *           *           914            *              0           //931 - Purple Goat.txt
+932     *           *           915            *              0           //932 - Red Goat.txt
+937     *           *           762            *              0           //937 - Green Goblin.txt
+938     *           *           763            *              0           //938 - Blue Goblin.txt
+939     *           *           764            *              0           //939 - Red Goblin.txt
+940     *           *           765            *              0           //940 - Yellow Goblin.txt
 end

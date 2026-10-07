@@ -1,37 +1,63 @@
 //=================================================================================================================
-//-- Combo to all Class System
-//-- Defina EnableComboToAllSwitch = 1 no common.dat para utilizar
-//-- Set EnableComboToAllSwitch = 1 in common.dat to enable
+//-- Combo to all Class System (CASE-20261006-008: list from MuServer2, ordered by class, active)
+//-- EnableComboToAllSwitch = 1 in GameServerInfo - Common.ini (already on)
+//-- Combo = 1 primary skill, then 2 DIFFERENT secondary skills within 3 seconds each.
+//-- A skill listed in both sections counts only as primary (section 0 is checked first).
 //=================================================================================================================
-//-- Primary Skills
-//=================================================================================================================
-//	#SkillID - Veja no Skill.txt o ID da skill
+//-- Primary Skills (first skill of the combo)
 //=================================================================================================================
 0
+//---------- SM
 	17	//Energy Ball
+	7	//Ice
+	3	//Lightning
+//---------- BK (weapon skills)
 	19	//Falling Slash
 	20	//Lunge
 	21	//Uppercut
 	22	//Cyclone
+//---------- RF
+	270	//Phoenix Shot
+	264	//Dragon Lore
+//---------- MG
 	23	//Slash
-	6	//Teleport
+	56	//Power Slash
+//---------- SUM
 	45	//Mana Glaive
 	214	//Drain Life
+//---------- DL
+	60	//Force
+	61	//Fire Burst
+//---------- ELF
+	24	//Triple Shot
 end
 //=================================================================================================================
-//-- Secundary and thirty Skills
-//=================================================================================================================
-//	#SkillID - See Skill.txt to get Skill ID
+//-- Secondary / third Skills
 //=================================================================================================================
 1
-	3	//Lightning
-	7	//Ice
-	12	//Aqua Beam
+//---------- SM and MG (energy)
 	14	//Inferno
+	12	//Aqua Beam
+	13	//Blast
+	38	//Decay
+	39	//Ice Storm
+//---------- RF
+	263	//Dark Side
+	262	//Chain Driver
+//---------- MG and BK
+	236	//Sword Slash
+	55	//Fire Slash
 	41	//Twisting Slash
 	42	//Rageful Blow
 	43	//Death Stab
-	232	//Frozen Stab S6+
+//---------- SUM
+	232	//Frozen Stab
 	215	//Chain Lightning
 	230	//Red Storm
+//---------- ELF
+	235	//Five Shot
+	51	//Ice Arrow
+//---------- DL
+	78	//Fire Scream
+	238	//Birds
 end

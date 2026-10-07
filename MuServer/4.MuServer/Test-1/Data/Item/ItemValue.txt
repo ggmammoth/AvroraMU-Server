@@ -208,4 +208,7 @@
 7292       *         *         3000           0         0         0         0
 7388       *         *         300000         0         0         0         0
 7389       *         *         900000         0         0         0         0
+7341       0         *         1000000000     0         0         0         0          // Spirit Nixie's Shard (Nix ticket, MuServer2 price)
+7599       *         *         0              0         1000      0         0          // Boss Battle Ticket (MuServer2 price: 1000 WCoinP)
+7600       *         *         1000000000     0         0         0         1000000000 // Zen Coin: buy 1,000,000,000 / sell 1,000,000,000 zen (owner)
 end

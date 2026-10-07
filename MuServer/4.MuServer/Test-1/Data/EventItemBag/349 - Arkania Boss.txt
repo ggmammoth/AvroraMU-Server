@@ -1,0 +1,95 @@
+
+3
+//Index   DropRate DropInventory
+0         10000
+1         10000
+2         10000
+3         10000
+4         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         7000          0              0             1    1    1    1    1    1    1
+0         6         3000          0              0             1    1    1    1    1    1    1
+1         5         7000          0              0             1    1    1    1    1    1    1
+1         6         3000          0              0             1    1    1    1    1    1    1
+2         5         7000          0              0             1    1    1    1    1    1    1
+2         6         3000          0              0             1    1    1    1    1    1    1
+3         5         7000          0              0             1    1    1    1    1    1    1
+3         6         3000          0              0             1    1    1    1    1    1    1
+4         5         7000          0              0             1    1    1    1    1    1    1
+4         6         3000          0              0             1    1    1    1    1    1    1
+
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+3605      0       0       *         1         3         3         12         *         *         0          //Great Dragon Helm
+4117      0       0       *         1         3         3         12         *         *         0          //Great Dragon Armor
+4629      0       0       *         1         3         3         12         *         *         0          //Great Dragon Pants
+5141      0       0       *         1         3         3         12         *         *         0          //Great Dragon Gloves
+5653      0       0       *         1         3         3         12         *         *         0          //Great Dragon Boots
+
+3606      0       0       *         1         3         3         12         *         *         0          //Dark Soul Helm
+4118      0       0       *         1         3         3         12         *         *         0          //Dark Soul Armor
+4630      0       0       *         1         3         3         12         *         *         0          //Dark Soul Pants
+5142      0       0       *         1         3         3         12         *         *         0          //Dark Soul Gloves
+5654      0       0       *         1         3         3         12         *         *         0          //Dark Soul Boots
+
+3608      0       0       *         1         3         3         12         *         *         0          //Red Spirit Helm
+4120      0       0       *         1         3         3         12         *         *         0          //Red Spirit Armor
+4632      0       0       *         1         3         3         12         *         *         0          //Red Spirit Pants
+5144      0       0       *         1         3         3         12         *         *         0          //Red Spirit Gloves
+5656      0       0       *         1         3         3         12         *         *         0          //Red Spirit Boots
+
+3645      0       0       *         1         3         3         12         *         *         0          //Piercing Helm
+4157      0       0       *         1         3         3         12         *         *         0          //Piercing Armor
+4669      0       0       *         1         3         3         12         *         *         0          //Piercing Pants
+5693      0       0       *         1         3         3         12         *         *         0          //Piercing Boots
+
+3612      0       0       *         1         3         3         12         *         *         0          //Dark Master Helm
+4124      0       0       *         1         3         3         12         *         *         0          //Dark Master Armor
+4636      0       0       *         1         3         3         12         *         *         0          //Dark Master Pants
+5148      0       0       *         1         3         3         12         *         *         0          //Dark Master Gloves
+5660      0       0       *         1         3         3         12         *         *         0          //Dark Master Boots
+
+3626      0       0       *         1         3         3         12         *         *         0          //Demonic Helm
+4138      0       0       *         1         3         3         12         *         *         0          //Demonic Armor
+4650      0       0       *         1         3         3         12         *         *         0          //Demonic Pants
+5162      0       0       *         1         3         3         12         *         *         0          //Demonic Gloves
+5674      0       0       *         1         3         3         12         *         *         0          //Demonic Boots
+
+4119      0       0       *         1         3         3         12         *         *         0          //Hurricane Armor
+4631      0       0       *         1         3         3         12         *         *         0          //Hurricane Pants
+5143      0       0       *         1         3         3         12         *         *         0          //Hurricane Gloves
+5655      0       0       *         1         3         3         12         *         *         0          //Hurricane Boots
+
+7220      0       0       *         0         0         0         0         *         *         0          //GM Gift
+
+end
+
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+20        0       0       *         1         3         3         12         *         *         0          //Knight Blade
+21        0       0       *         1         3         3         12         *         *         0          //Dark Reign Blade
+34        0       0       *         1         3         3         12         *         *         0          //Piercing Gloves
+1036      0       0       *         1         3         3         12         *         *         0          //Great Lord Scepter
+1039      0       0       *         1         3         3         12         *         *         0          //Shining Scepter
+1042      0       0       *         1         3         3         12         *         *         0          //Striker Scepter
+2578      0       0       *         1         3         3         12         *         *         0          //Demonic Stick
+2594      0       0       *         1         3         3         12         *         *         0          //Raven Stick
+2068      0       0       *         1         3         3         12         *         *         0          //Arrow Viper Bow
+2070      0       0       *         1         3         3         12         *         *         0          //Albatross
+2072      0       0       *         1         3         3         12         *         *         0          //Aileen Bow
+2571      0       0       *         1         3         3         12         *         *         0          //Kundun Staff
+2573      0       0       *         1         3         3         12         *         *         0          //Platina Staff
+2593      0       0       *         1         3         3         12         *         *         0          //Chromatic Staff
+
+7220      0       0       *         0         0         0         0         *         *         0          //GM Gift
+end
+
+
+

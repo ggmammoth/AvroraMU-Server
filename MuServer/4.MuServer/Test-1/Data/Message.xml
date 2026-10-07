@@ -102,25 +102,25 @@
 		<Msg Index="98" Text="%s defeated a Dark Lord!" />
 		<Msg Index="99" Text="%s defeated a Summoner!" />
 		<Msg Index="100" Text="%s defeated a Rage Fighter!" />
-		<Msg Index="101" Text="%s defeated Golden Goblin!" />
+		<Msg Index="101" Text="" />
 		<Msg Index="102" Text="%s defeated Golden Fire Flame Ghost!" />
 		<Msg Index="103" Text="%s defeated Golden Titan!" />
 		<Msg Index="104" Text="%s defeated Golden Soldier!" />
-		<Msg Index="105" Text="%s defeated Golden Vepar!" />
-		<Msg Index="106" Text="%s defeated Golden Tantalose!" />
-		<Msg Index="107" Text="%s defeated Golden Great Dragon!" />
-		<Msg Index="108" Text="%s defeated Golden Lizard King!" />
-		<Msg Index="109" Text="%s defeated Golden Assassin!" />
+		<Msg Index="105" Text="" />
+		<Msg Index="106" Text="" />
+		<Msg Index="107" Text="" />
+		<Msg Index="108" Text="" />
+		<Msg Index="109" Text="" />
 		<Msg Index="110" Text="%s defeated Golden Wheel!" />
-		<Msg Index="111" Text="%s defeated Golden Iron Knight!" />
+		<Msg Index="111" Text="" />
 		<Msg Index="112" Text="%s defeated Golden Devil!" />
 		<Msg Index="113" Text="%s defeated Golden Stone Golem!" />
-		<Msg Index="114" Text="%s defeated Golden Warrior!" />
-		<Msg Index="115" Text="%s defeated Golden Crust!" />
-		<Msg Index="116" Text="%s defeated Golden Satyros!" />
-		<Msg Index="117" Text="%s defeated Golden Battle Guard!" />
-		<Msg Index="118" Text="%s defeated Golden Fire Golem!" />
-		<Msg Index="119" Text="%s defeated Golden Dragon!" />
+		<Msg Index="114" Text="" />
+		<Msg Index="115" Text="" />
+		<Msg Index="116" Text="" />
+		<Msg Index="117" Text="" />
+		<Msg Index="118" Text="" />
+		<Msg Index="119" Text="" />
 		<Msg Index="120" Text="%s defeated Golden Rabbit!" />
 		<Msg Index="121" Text="%s destroyed the Small Crystal!" />
 		<Msg Index="122" Text="%s destroyed the Large Crystal!" />
@@ -154,7 +154,7 @@
 		<Msg Index="150" Text="%s defeated the Red Dragon!" />
 		<Msg Index="151" Text="%s defeated the Peerless War God!" />
 		<Msg Index="152" Text="%s defeated Kundun!" />
-		<Msg Index="153" Text="%s is hunting the Jade Rabbit!" />
+		<Msg Index="153" Text="" />
 		<Msg Index="154" Text="154" />
 		<Msg Index="155" Text="155" />
 		<Msg Index="156" Text="156" />
@@ -864,5 +864,21 @@
 		<Msg Index="1564" Text="The Abyss Sovereign Boss Has Begun!" />
 		<Msg Index="1567" Text="The Blood Moon Tyrant Boss Has Begun!" />
 		<Msg Index="1568" Text="The Void Reaper Boss Has Begun!" />
+		<Msg Index="1580" Text="%s defeated the White Wizard!" />
+		<Msg Index="1581" Text="%s defeated Pharaon!" />
+		<Msg Index="1582" Text="%s defeated Lord Icarus!" />
+		<Msg Index="1583" Text="%s defeated the Arkania Warden!" />
+		<Msg Index="1584" Text="%s defeated Medusa in Boss Battle Together!" />
+		<Msg Index="1585" Text="%s defeated Nix in Boss Battle Together!" />
+		<Msg Index="1586" Text="%s defeated Selupan in Boss Battle Together!" />
+		<Msg Index="1587" Text="%s defeated Kundun in Boss Battle Together!" />
+		<Msg Index="1588" Text="%s defeated Nightmare in Boss Battle Together!" />
+		<Msg Index="1589" Text="%s defeated the God of Darkness in Boss Battle Together!" />
+		<Msg Index="1590" Text="%s defeated the Ferea General!" />
+		<Msg Index="1591" Text="%s destroyed the Ferea Crystal Orb!" />
+		<Msg Index="1592" Text="%s defeated Abaddon!" />
+		<Msg Index="1593" Text="%s defeated the Moon God!" />
+		<Msg Index="1594" Text="%s defeated the Invoker!" />
+		<Msg Index="1595" Text="%s destroyed a Statue of Saint!" />
 	</Message>
 </SPK>

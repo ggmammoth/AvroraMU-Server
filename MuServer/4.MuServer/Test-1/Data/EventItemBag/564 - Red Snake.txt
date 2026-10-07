@@ -1,0 +1,14 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks   DropInventory
+"Lucky Coin 1"	1000	100	1	0	0	0	1
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   SetOption   DropRate
+12          30     2          2          0       0       0        0           0           10          //Bundled Jewel of Bless
+12          31     2          2          0       0       0        0           0           10          //Bundled Jewel of Soul
+12          141    2          2          0       0       0        0           0           10          //Bundled Jewel of Chaos
+12          137    2          2          0       0       0        0           0           10          //Bundled Jewel of Creation
+12          136    2          2          0       0       0        0           0           10          //Bundled Jewel of Life
+12          139    2          2          0       0       0        0           0           10          //Bundled Gemstone
+end

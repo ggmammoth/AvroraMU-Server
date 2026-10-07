@@ -23,11 +23,11 @@
         <Event Slot="15" Name="[Invasion] Mini Boss"                   Map="2"     Gate="0"    Status="1"/>
         <Event Slot="16" Name="[Boss] Kundun"                          Map="36"    Gate="0"    Status="1"/>
         <Event Slot="17" Name="[Boss] Medusa"                          Map="56"    Gate="0"    Status="1"/>
-        <Event Slot="18" Name="Invasion BC"                            Map="11"    Gate="0"    Status="1"/>
-        <Event Slot="19" Name="Invasion DS"                            Map="9"     Gate="0"    Status="1"/>
+        <Event Slot="18" Name="[Invasion] Horses"                            Map="11"    Gate="0"    Status="1"/>
+        <Event Slot="19" Name="[Invasion] Goats"                            Map="9"     Gate="0"    Status="1"/>
         <Event Slot="20" Name="[Boss] Boss Battle Together"            Map="99"    Gate="0"    Status="1"/>
-        <Event Slot="21" Name="[Boss] Ferea"                           Map="85"    Gate="0"    Status="1"/>
-        <Event Slot="22" Name="[Boss] Nix"                             Map="84"    Gate="0"    Status="1"/>
+        <Event Slot="21" Name="[Boss] Ferea"                           Map="95"    Gate="0"    Status="1"/>
+        <Event Slot="22" Name="[Boss] Nix"                             Map="94"    Gate="0"    Status="1"/>
         <Event Slot="23" Name="[World Boss] Abbadon"                   Map="63"    Gate="0"    Status="1"/>
         <Event Slot="24" Name="[World Boss] Moon God"                  Map="37"    Gate="0"    Status="1"/>
         <Event Slot="25" Name="[World Boss] Invoker"                   Map="97"    Gate="0"    Status="1"/>
