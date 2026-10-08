@@ -16,7 +16,13 @@ Every version of this repository is complete: just download the newest one. Noth
   - portals inside the map;
   - `/move Uruk Mountain` and an entry in the move list (M).
   - The map name, minimap and splash come with the next `Engine.exe`.
-- The monster spots on the TAB map show up on both maps automatically.
+- **New map Swamp of Darkness (93):**
+  - Swamp Ent, Wooden Beast, Swamp Wizard and Mutanlite;
+  - boss God of Darkness;
+  - portals inside the map;
+  - `/move Swamp of Darkness` and an entry in the move list (M).
+- **Bosses:** Core Magriffy in Nars, God of Darkness in Swamp of Darkness, Lord Silvester in Uruk Mountain.
+- The monster spots on the TAB map show up on all three maps automatically.
 - Acheron is not added yet: its map exists only in an encrypted client.
 
 ### 07.10.2026
@@ -84,7 +90,13 @@ Every version of this repository is complete: just download the newest one. Noth
   - портали в картата;
   - `/move Uruk Mountain` и запис в списъка за преместване (M).
   - Името на картата, миникартата и картинката при влизане идват със следващия `Engine.exe`.
-- Спотовете с чудовища на TAB картата се появяват автоматично и в двете карти.
+- **Нова карта Swamp of Darkness (93):**
+  - Swamp Ent, Wooden Beast, Swamp Wizard и Mutanlite;
+  - бос God of Darkness;
+  - портали в картата;
+  - `/move Swamp of Darkness` и запис в списъка за преместване (M).
+- **Босове:** Core Magriffy в Nars, God of Darkness в Swamp of Darkness, Lord Silvester в Uruk Mountain.
+- Спотовете с чудовища на TAB картата се появяват автоматично и в трите карти.
 - Acheron още не е добавен: картата му я има само в криптиран клиент.
 
 ### 07.10.2026

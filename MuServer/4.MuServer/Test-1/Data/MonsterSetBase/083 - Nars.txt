@@ -115,3 +115,10 @@ end
 923      83       5        231      032      -1 //Nars Elemental Knight
 923      83       5        231      032      -1 //Nars Elemental Knight
 end
+// CASE-20261008-002: Nars bosses/extras from MuServer3 086 - Nars.txt
+1
+777      83       30       00       00       255      255      -1       30 //Green Rooster
+end
+2
+683      83       30       147      141      -1 //Core Magriffy (boss)
+end

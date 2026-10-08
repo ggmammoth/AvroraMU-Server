@@ -482,4 +482,30 @@
 423	2	89	107	225	109	226	0	0	250	400	-1	-1	0	//Uruk Mountain
 424	1	89	108	229	110	230	425	0	250	400	-1	-1	0	//Uruk Mountain
 425	2	89	39	94	40	95	0	0	250	400	-1	-1	0	//Uruk Mountain
+// CASE-20261008-002: Swamp of Darkness (93) entrance 426 + area/portals 427-449, 451 (MuServer2 463, 405-428)
+426	0	93	129	122	139	110	0	0	280	400	-1	-1	0	//Swamp of Darkness
+427	0	93	128	110	140	125	0	0	280	400	-1	-1	0	//Swamp of Darkness
+428	0	93	192	9	193	11	0	0	280	400	-1	-1	0	//Swamp of Darkness
+429	1	93	126	128	127	129	441	0	280	400	-1	-1	0	//Swamp of Darkness
+430	1	93	107	154	108	155	442	0	280	400	-1	-1	0	//Swamp of Darkness
+431	1	93	148	111	148	113	443	0	280	400	-1	-1	0	//Swamp of Darkness
+432	1	93	177	102	177	104	444	0	280	400	-1	-1	0	//Swamp of Darkness
+433	1	93	132	102	133	103	445	0	280	400	-1	-1	0	//Swamp of Darkness
+434	1	93	133	73	135	73	446	0	280	400	-1	-1	0	//Swamp of Darkness
+435	1	93	120	113	121	114	447	0	280	400	-1	-1	0	//Swamp of Darkness
+436	1	93	92	105	92	107	448	0	280	400	-1	-1	0	//Swamp of Darkness
+437	1	93	142	128	144	129	449	0	280	400	-1	-1	0	//Swamp of Darkness
+438	1	93	158	150	160	151	451	0	280	400	-1	-1	0	//Swamp of Darkness
+439	1	93	241	91	242	92	440	0	280	400	-1	-1	0	//Swamp of Darkness
+440	1	93	12	158	13	158	428	0	280	400	-1	-1	0	//Swamp of Darkness
+441	2	93	103	159	104	160	0	0	280	400	-1	-1	0	//Swamp of Darkness
+442	2	93	128	125	129	126	0	0	280	400	-1	-1	0	//Swamp of Darkness
+443	2	93	182	102	183	103	0	0	280	400	-1	-1	0	//Swamp of Darkness
+444	2	93	142	112	143	113	0	0	280	400	-1	-1	0	//Swamp of Darkness
+445	2	93	132	68	133	69	0	0	280	400	-1	-1	0	//Swamp of Darkness
+446	2	93	133	107	134	108	0	0	280	400	-1	-1	0	//Swamp of Darkness
+447	2	93	88	104	89	105	0	0	280	400	-1	-1	0	//Swamp of Darkness
+448	2	93	125	114	126	115	0	0	280	400	-1	-1	0	//Swamp of Darkness
+449	2	93	160	152	161	153	0	0	280	400	-1	-1	0	//Swamp of Darkness
+451	2	93	139	125	140	126	0	0	280	400	-1	-1	0	//Swamp of Darkness
 end

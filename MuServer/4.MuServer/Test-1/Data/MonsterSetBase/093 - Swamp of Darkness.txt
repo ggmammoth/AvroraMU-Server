@@ -1,0 +1,159 @@
+//====================================================================================================
+// Swamp of Darkness (CASE-20261008-002, source: MuServer2 083 - Swamp of Darkness.txt + God of Darkness from MuServer3)
+//====================================================================================================
+0
+end
+1
+918      93       0        00       00       255      255      -1       30 //New Year Brown Horse (Brown Horse = our 918)
+end
+1
+end
+2
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        025      096      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        028      012      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        050      050      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+688      93       5        094      058      -1 //Swamp Ent
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        128      015      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        154      067      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        220      023      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+689      93       5        209      085      -1 //Wooden Beast
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        224      130      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        173      152      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        212      178      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+690      93       5        219      223      -1 //Swamp Wizard
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        155      205      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        086      212      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        095      167      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        050      195      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        024      138      -1 //Mutanlite
+691      93       5        129      163      -1 //Mutanlite     HOT
+691      93       5        129      163      -1 //Mutanlite     HOT
+691      93       5        129      163      -1 //Mutanlite     HOT
+688      93       5        129      163      -1 //Swamp Ent     HOT
+688      93       5        129      163      -1 //Swamp Ent     HOT
+689      93       5        129      163      -1 //Wooden Beast  HOT
+689      93       5        129      163      -1 //Wooden Beast  HOT
+690      93       5        129      163      -1 //Swamp Wizard  HOT
+690      93       5        129      163      -1 //Swamp Wizard  HOT
+690      93       5        129      163      -1 //Swamp Wizard  HOT
+694      93       30       184      18       -1 //God of Darkness (boss, MuServer3 spot)
+end

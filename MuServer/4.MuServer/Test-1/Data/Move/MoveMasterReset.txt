@@ -16,6 +16,7 @@
 34      3               -1              //Raklion
 89      3               -1              //Raklion 2
 33      3               -1              //Swamp_of_Calmness
+93      4               -1              //Swamp of Darkness (MuServer2 MinMasterReset 4)
 68      4               -1              //Nars
 63      5               -1              //Nixies Lake
 62      5               -1              //Ferea
