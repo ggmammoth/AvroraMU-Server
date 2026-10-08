@@ -1,0 +1,109 @@
+//====================================================================================================
+// Uruk Mountain (CASE-20261008-001, source: C:\MUONLINE\MuServer3\Data\MonsterSetBase\088 - Uruk Mountain.txt)
+//====================================================================================================
+1
+777      89       30       00       00       255      255      -1       30 //Green Rooster
+end
+1
+end
+2
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        034      040      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        099      009      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+924      89       5        087      093      -1 //Urk Devil Fairy
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        164      054      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        162      084      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        202      049      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+925      89       5        198      133      -1 //Urk Elemental Beast
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        214      214      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        180      193      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        110      200      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        132      154      -1 //Urk Elemental Knight
+926      89       5        098      070      -1 //Urk Elemental Knight      HOT SPOT
+925      89       5        098      070      -1 //Urk Elemental Beast       HOT SPOT
+924      89       5        098      070      -1 //Urk Devil Fairy           HOT SPOT
+926      89       5        098      070      -1 //Urk Elemental Knight      HOT SPOT
+925      89       5        098      070      -1 //Urk Elemental Beast       HOT SPOT
+924      89       5        098      070      -1 //Urk Devil Fairy           HOT SPOT
+926      89       5        098      070      -1 //Urk Elemental Knight      HOT SPOT
+925      89       5        098      070      -1 //Urk Elemental Beast       HOT SPOT
+924      89       5        098      070      -1 //Urk Devil Fairy           HOT SPOT
+926      89       5        098      070      -1 //Urk Elemental Knight      HOT SPOT
+682      89       30       127      115      -1 //Lord Silvester
+end

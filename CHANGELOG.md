@@ -9,6 +9,16 @@ Every version of this repository is complete: just download the newest one. Noth
 
 ## English
 
+### 08.10.2026
+- **Nars (map 83) rebuilt** from MuServer2: real Nars terrain and objects, Nars monsters (Devil Fairy, Elemental Beast, Elemental Knight), and the portals inside the map work now.
+- **New map Uruk Mountain (89):**
+  - Urk monsters, Lord Silvester and Green Rooster;
+  - portals inside the map;
+  - `/move Uruk Mountain` and an entry in the move list (M).
+  - The map name, minimap and splash come with the next `Engine.exe`.
+- The monster spots on the TAB map show up on both maps automatically.
+- Acheron is not added yet: its map exists only in an encrypted client.
+
 ### 07.10.2026
 - **Invasion drops (EventItemBag):** bags for all snakes (801-804), horses (916-919), goats (912-915) and goblins (762-765), taken from MuServer2.
 - **Purple Snake (803)** added (server + client).
@@ -66,6 +76,16 @@ Every version of this repository is complete: just download the newest one. Noth
 ---
 
 ## Български
+
+### 08.10.2026
+- **Nars (карта 83) е направена наново** от MuServer2: истинският терен и обектите на Nars, чудовищата на Nars (Devil Fairy, Elemental Beast, Elemental Knight), а порталите в картата вече работят.
+- **Нова карта Uruk Mountain (89):**
+  - чудовищата Urk, Lord Silvester и Green Rooster;
+  - портали в картата;
+  - `/move Uruk Mountain` и запис в списъка за преместване (M).
+  - Името на картата, миникартата и картинката при влизане идват със следващия `Engine.exe`.
+- Спотовете с чудовища на TAB картата се появяват автоматично и в двете карти.
+- Acheron още не е добавен: картата му я има само в криптиран клиент.
 
 ### 07.10.2026
 - **Награди от инвазиите (EventItemBag):** торбички за всички змии (801-804), коне (916-919), кози (912-915) и гоблини (762-765), взети от MuServer2.
