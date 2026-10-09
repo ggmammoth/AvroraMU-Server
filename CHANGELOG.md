@@ -9,6 +9,23 @@ Every version of this repository is complete: just download the newest one. Noth
 
 ## English
 
+### 09.10.2026
+- **Item level bonuses (like MuServer2):** sets, wings, weapons and shields get extra bonuses that unlock at +11, +12, +13, +14 and +15 and add up. Taken from MuServer2 for 407 items; for those items the old bonuses were replaced, not added on top.
+  - The item tooltip shows **"Level bonus:"**: unlocked lines are green, locked lines grey with the level they open at.
+  - New bonus types: SD %, SD, Triple damage, Resist double damage / ignore defense / ignore SD / critical / excellent / stun, Full SD restore. The resist bonuses work now (before they always gave 0).
+  - Comes with the next `GameServer.exe` + `Engine.exe` + the new `ItemOptionBEx.xml`.
+- **New items:** King Of Mace (2/23) and the elf buffer sets Gru Hill, Princie and Hirat (7-11/183-185), with client models.
+- **Rings** (Ice, Poison, Fire, Earth, Wind, Magic) keep their level bonuses; "HP +2/+3/+5" is now HP %.
+- **TAB map:** the text of a portal / NPC / monster spot is in a framed box above the marker, so the mouse no longer covers it.
+
+### 08.10.2026 (later)
+- **Acheron (map 85)** from the owner's pack: terrain, portals to Debenter / Uruk / Nars, monsters and NPCs.
+- **TAB map:** NPCs and portals on the map, zoom (round + / - buttons), map centred, zoom on the hero, scaled markers, names on hover.
+- **Party call (Ctrl+S):** the leader calls the party to a point; MU Helper starts automatically.
+- **Boss damage box** at the top centre, under the buffs.
+- **Mount / pet bonuses** in the item tooltip (from `Custom\CustomPet.txt`).
+- **Guild window:** offline members show when they were last online ("3h", "2d"), and on hover the map: "Online - Lorencia" / "Last online: 3 h 20 min ago - Lorencia". Needs the new `DataServer.exe`.
+
 ### 08.10.2026
 - **Nars (map 83) rebuilt** from MuServer2: real Nars terrain and objects, Nars monsters (Devil Fairy, Elemental Beast, Elemental Knight), and the portals inside the map work now.
 - **New map Uruk Mountain (89):**
@@ -82,6 +99,23 @@ Every version of this repository is complete: just download the newest one. Noth
 ---
 
 ## Български
+
+### 09.10.2026
+- **Бонуси по ниво на итема (като в MuServer2):** сетове, крила, оръжия и щитове получават допълнителни бонуси, които се отключват на +11, +12, +13, +14 и +15 и се събират. Взети от MuServer2 за 407 итема; за тях старите бонуси са заменени, не са добавени отгоре.
+  - В описанието на итема има **„Level bonus:“**: отключените редове са зелени, заключените сиви с нивото, на което се отключват.
+  - Нови видове бонуси: SD %, SD, Triple damage, Resist double damage / ignore defense / ignore SD / critical / excellent / stun, Full SD restore. Resist бонусите вече работят (преди винаги даваха 0).
+  - Идва със следващия `GameServer.exe` + `Engine.exe` + новия `ItemOptionBEx.xml`.
+- **Нови итеми:** King Of Mace (2/23) и елф бъферските сетове Gru Hill, Princie и Hirat (7-11/183-185), с модели за клиента.
+- **Пръстените** (Ice, Poison, Fire, Earth, Wind, Magic) запазват бонусите си по ниво; „HP +2/+3/+5“ вече е HP %.
+- **TAB картата:** текстът на портал / NPC / спот е в рамка над точката, мишката вече не го закрива.
+
+### 08.10.2026 (по-късно)
+- **Acheron (карта 85)** от пакета на собственика: терен, портали към Debenter / Uruk / Nars, чудовища и NPC.
+- **TAB картата:** NPC и портали на картата, zoom (кръгли бутони + / -), центрирана карта, zoom към героя, мащабирани точки, имена при посочване.
+- **Party call (Ctrl+S):** лидерът вика групата към точка; MU Helper тръгва сам.
+- **Кутията за щетите по боса** горе в средата, под бъфовете.
+- **Бонусите на маунтите / петовете** в описанието на итема (от `Custom\CustomPet.txt`).
+- **Гилдията:** при офлайн членовете пише кога са били онлайн („3h“, „2d“), а при посочване и картата: „Online - Lorencia“ / „Last online: 3 h 20 min ago - Lorencia“. Иска новия `DataServer.exe`.
 
 ### 08.10.2026
 - **Nars (карта 83) е направена наново** от MuServer2: истинският терен и обектите на Nars, чудовищата на Nars (Devil Fairy, Elemental Beast, Elemental Knight), а порталите в картата вече работят.

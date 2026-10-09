@@ -1,0 +1,192 @@
+//====================================================================================================
+// Acheron (CASE-20261008-004, source: C:\MUONLINE\MuServer3\Data\MonsterSetBase\089 - Acheron.txt, map 89 -> 84)
+//====================================================================================================
+0
+240      84       00       058      205      01 //Safety Guardian
+789      84       00       056      202      02 //Jinn
+790      84       00       034      200      02 //Deruvish
+792      84       00       049      211      02 //Adniel
+end
+1
+777      84       30       00       00       255      255      -1       30 //Green Rooster
+end
+2
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        056      136      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        038      113      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        122      126      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        158      144      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+592      84       5        149      120      -1 //Devilfairy
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        159      066      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        176      038      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        224      018      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+587      84       5        144      011      -1 //Elemental Beast
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        017      020      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        045      040      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        085      018      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+588      84       5        033      083      -1 //Elemental Knight
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        241      230      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      208      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+589      84       5        239      171      -1 //Ubaid Devilfairy
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        190      152      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        225      144      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+590      84       5        239      088      -1 //Ubaid Elemental Beast
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        194      090      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+591      84       5        185      115      -1 //Ubaid Elemental Knight
+588      84       5        239      051      -1 //Elemental Knight          HOT SPOT
+588      84       5        239      051      -1 //Elemental Knight          HOT SPOT
+588      84       5        239      051      -1 //Elemental Knight          HOT SPOT
+588      84       5        239      051      -1 //Elemental Knight          HOT SPOT
+588      84       5        239      051      -1 //Elemental Knight          HOT SPOT
+588      84       5        239      051      -1 //Elemental Knight          HOT SPOT
+591      84       5        239      051      -1 //Ubaid Elemental Knight    HOT SPOT
+591      84       5        239      051      -1 //Ubaid Elemental Knight    HOT SPOT
+591      84       5        239      051      -1 //Ubaid Elemental Knight    HOT SPOT
+591      84       5        239      051      -1 //Ubaid Elemental Knight    HOT SPOT
+end

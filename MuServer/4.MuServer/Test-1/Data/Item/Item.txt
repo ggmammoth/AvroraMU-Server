@@ -91,6 +91,8 @@ end
 //CASE-20261003-004 MuServer2 2/25 Blessed Divine Scepter of Arc (Blessed Archangel)
 //CASE-20261003-007 MuServer2 2/19 Thunderbolt (socket)
 19       0      66      1       4        1            1            0          "Thunderbolt"                           149     127         154         40            78           0                 90                0        111           22             0           0             0               0      0       0       0       0       1       0       0
+//CASE-20261008-015 MuServer2 2/23 King Of Mace
+23       0      19      1       3        1            1            0          "King Of Mace"                          115     107         115         40            190          0                 0                0          193           53             0           0             0               0      0       2       0       1       0       0       0
 25       0      66      1       4        1            1            0          "Blessed Divine Scepter of Arc"         150     140         224         45            90           0                 45               0          90            15             0           0             0               1      0       0       0       0       1       0       0
 //CASE-20261003-007 MuServer2 2/40 Verdant Scepter (socket)
 40      0      66      1       4        1            1            0          "Verdant Scepter"                         149     127         154         40            78           0                 100                0        111           22             0           0             0               0      0       0       0       0       1       0       0
@@ -311,6 +313,12 @@ end
 166      2      0       2       2        1            1            0          "Tigris Helm"                           100     100        0              88           0        105           0              0           85            0               0      0       0       0       0       0       0       1
 //CASE-20261003-007 MuServer2 7/167 Crimson Skull Helm (socket)
 167      2      0       2       2        1            1            0          "Crimson Skull Helm"                    100     120        0              88           0        105           0              0           85            0               0      0       0       0       0       0       0       1
+//CASE-20261008-015 MuServer2 7/183 Gru Hill Helm
+183      2      0       2       2        1            1            0          "Gru Hill Helm"                         40      17        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 7/184 Princie Helm
+184      2      0       2       2        1            1            0          "Princie Helm"                          60      21        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 7/185 Hirat Helm
+185      2      0       2       2        1            1            0          "Hirat Helm"                            80      27        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
 200      2      0       2       2        1            1            0          "Verdant Warden Helm"                   100      140       0              34           0          80            20             0           0             0               0      1       1       1       0       1       1       1
 //CASE-20261003-007 MuServer2 7/201 Blizzardborn Helm (socket)
 201      2      0       2       2        1            1            0          "Blizzardborn Helm"                     100      140        0              34           0          80            20             0           0             0               0      1       1       1       0       1       1       1
@@ -406,6 +414,12 @@ end
 166      3      0       2       3        1            1            0          "Tigris Armor"                          100     100       0              88           0        118           0              0           85            0               0      0       0       0       0       0       0       1
 //CASE-20261003-007 MuServer2 8/167 Crimson Skull Armor (socket)
 167      3      0       2       3        1            1            0          "Crimson Skull Armor"                   100     120       0              88           0        118           0              0           85            0               0      0       0       0       0       0       0       1
+//CASE-20261008-015 MuServer2 8/183 Gru Hill Armor
+183      3      0       2       2        1            1            0          "Gru Hill Armor"                        40      24        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 8/184 Princie Armor
+184      3      0       2       2        1            1            0          "Princie Armor"                         60      28        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 8/185 Hirat Armor
+185      3      0       2       2        1            1            0          "Hirat Armor"                           80      37        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
 200      3      0       2       3        1            1            0          "Verdant Warden Armor"                  100      140       0              34           0          80            20             0           0             0               0      1       1       1       1       1       1       1
 //CASE-20261003-007 MuServer2 8/201 Blizzardborn Armor (socket)
 201      3      0       2       3        1            1            0          "Blizzardborn Armor"                    100      140        0              34           0          80            20             0           0             0               0      1       1       1       1       1       1       1
@@ -501,6 +515,12 @@ end
 166      4      0       2       2        1            1            0          "Tigris Pants"                          100     100        0              88           0        108           0              0           85            0               0      0       0       0       0       0       0       1
 //CASE-20261003-007 MuServer2 9/167 Crimson Skull Pants (socket)
 167      4      0       2       2        1            1            0          "Crimson Skull Pants"                   100     120        0              88           0        108           0              0           85            0               0      0       0       0       0       0       0       1
+//CASE-20261008-015 MuServer2 9/183 Gru Hill Pants
+183      4      0       2       2        1            1            0          "Gru Hill Pants"                        40      20        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 9/184 Princie Pants
+184      4      0       2       2        1            1            0          "Princie Pants"                         60      24        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 9/185 Hirat Pants
+185      4      0       2       2        1            1            0          "Hirat Pants"                           80      30        0              34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
 200      4      0       2       2        1            1            0          "Verdant Warden Pants"                  100      140       0              34           0          80            20             0           0             0               0      1       1       1       1       1       1       1
 //CASE-20261003-007 MuServer2 9/201 Blizzardborn Pants (socket)
 201      4      0       2       2        1            1            0          "Blizzardborn Pants"                    100      140        0              34           0          80            20             0           0             0               0      1       1       1       1       1       1       1
@@ -585,6 +605,12 @@ end
 70       5      0       2       2        0            0            0          "Lucky Red Wing Gloves"              44      18        8             255          150        0             0              0           0             0               0      0       0       0       0       0       1       0
 71       5      0       2       2        0            0            0          "Lucky Atlans Gloves"                70      25        6             255          150        0             0              0           0             0               0      0       0       0       1       0       0       0
 //CASE-20261003-007 MuServer2 10/200 Verdant Warden Gloves (socket)
+//CASE-20261008-015 MuServer2 10/183 Gru Hill Gloves
+183      5      0       2       2        1            1            0          "Gru Hill Gloves"                       40      12        0             34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 10/184 Princie Gloves
+184      5      0       2       2        1            1            0          "Princie Gloves"                        60      15        0             34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 10/185 Hirat Gloves
+185      5      0       2       2        1            1            0          "Hirat Gloves"                          80      20        0             34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
 200      5      0       2       2        1            1            0          "Verdant Warden Gloves"                 100     140       0             34           0          80            20             0           0             0               0      1       1       1       1       1       1       0
 //CASE-20261003-007 MuServer2 10/201 Blizzardborn Gloves (socket)
 201      5      0       2       2        1            1            0          "Blizzardborn Gloves"                   100     140        0             34           0          80            20             0           0             0               0      1       1       1       1       1       1       0
@@ -680,6 +706,12 @@ end
 166      6      0       2       2        1            1            0          "Tigris Boots"                          100     100        2           88           0          108           17             0           85            0               0      0       0       0       0       0       0       1
 //CASE-20261003-007 MuServer2 11/167 Crimson Skull Boots (socket)
 167      6      0       2       2        1            1            0          "Crimson Skull Boots"                   100     120        2           88           0          108           17             0           85            0               0      0       0       0       0       0       0       1
+//CASE-20261008-015 MuServer2 11/183 Gru Hill Boots
+183      6      0       2       2        1            1            0          "Gru Hill Boots"                        40      14        0           34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 11/184 Princie Boots
+184      6      0       2       2        1            1            0          "Princie Boots"                         60      18        0           34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
+//CASE-20261008-015 MuServer2 11/185 Hirat Boots
+185      6      0       2       2        1            1            0          "Hirat Boots"                           80      25        0           34           0          80            0             5000           0             0               0      0       0       3       0       0       0       0
 200      6      0       2       2        1            1            0          "Verdant Warden Boots"                  100      140        0           34           0          80            20             0           0             0               0      1       1       1       1       1       1       1
 //CASE-20261003-007 MuServer2 11/201 Blizzardborn Boots (socket)
 201      6      0       2       2        1            1            0          "Blizzardborn Boots"                    100      140        0           34           0          80            20             0           0             0               0      1       1       1       1       1       1       1
