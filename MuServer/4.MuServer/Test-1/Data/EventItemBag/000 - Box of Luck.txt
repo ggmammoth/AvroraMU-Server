@@ -1,7 +1,7 @@
 
 3
 //Index   DropRate    DropInventory
-0         10000      0
+0         10000    // DropInventory 0 removed (CASE-20261011-004: our parser reads Index DropRate)
 end
 
 4

@@ -1,95 +1,33 @@
-0
-//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
-"Fortune Pouch"	         1000	   100		  1		  0		    0		   0	0
+// CASE-20261012-010: from DangerZoneMU 050 - Fortune Pouch.txt (items remapped by name to Test-1)
+3
+//Index   DropRate DropInventory
+0     10000   
 end
 
-1
-//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent	SetOption	DropRate
-0           9      0          0          1       1      1        1			0			100
-0           10     0          0          1       1      1        1          0			100
-0           11     0          0          1       1      1        1          0			100
-0           12     0          0          1       1      1        1          0			100
-0           15     0          0          1       1      1        1          0			100
-1           5      0          0          1       1      1        1          0			100
-1           6      0          0          1       1      1        1          0			100
-1           7      0          0          1       1      1        1          0			100
-1           8      0          0          1       1      1        1          0			100
-2           3      0          0          1       1      1        1          0			100
-2           4      0          0          1       1      1        1          0			100
-2           5      0          0          1       1      1        1          0			100
-3           0      0          0          1       1      1        1          0			100
-3           1      0          0          1       1      1        1          0			100
-3           2      0          0          1       1      1        1          0			100
-3           3      0          0          1       1      1        1          0			100
-3           4      0          0          1       1      1        1          0			100
-3           5      0          0          1       1      1        1          0			100
-3           6      0          0          1       1      1        1          0			100
-3           7      0          0          1       1      1        1          0			100
-3           8      0          0          1       1      1        1          0			100
-6           11     0          0          1       1      1        1          0			100
-6           12     0          0          1       1      1        1          0			100
-6           13     0          0          1       1      1        1          0			100
-6           14     0          0          1       1      1        1          0			100
-4           3      0          0          1       1      1        1          0			100
-4           4      0          0          1       1      1        1          0			100
-4           5      0          0          1       1      1        1          0			100
-4           11     0          0          1       1      1        1          0			100
-4           12     0          0          1       1      1        1          0			100
-4           13     0          0          1       1      1        1          0			100
-4           14     0          0          1       1      1        1          0			100
-5           3      0          0          0       1      1        1          0			100
-5           4      0          0          0       1      1        1          0			100
-7           0      0          0          0       1      1        1          0			100
-8           0      0          0          0       1      1        1          0			100
-9           0      0          0          0       1      1        1          0			100
-10          0      0          0          0       1      1        1          0			100
-11          0      0          0          0       1      1        1          0			100
-7           2      0          0          0       1      1        1          0			100
-8           2      0          0          0       1      1        1          0			100
-9           2      0          0          0       1      1        1          0			100
-10          2      0          0          0       1      1        1          0			100
-11          2      0          0          0       1      1        1          0			100
-7           4      0          0          0       1      1        1          0			100
-8           4      0          0          0       1      1        1          0			100
-9           4      0          0          0       1      1        1          0			100
-10          4      0          0          0       1      1        1          0			100
-11          4      0          0          0       1      1        1          0			100
-7           5      0          0          0       1      1        1          0			100
-8           5      0          0          0       1      1        1          0			100
-9           5      0          0          0       1      1        1          0			100
-10          5      0          0          0       1      1        1          0			100
-11          5      0          0          0       1      1        1          0			100
-7           6      0          0          0       1      1        1          0			100
-8           6      0          0          0       1      1        1          0			100
-9           6      0          0          0       1      1        1          0			100
-10          6      0          0          0       1      1        1          0			100
-11          6      0          0          0       1      1        1          0			100
-7           7      0          0          0       1      1        1          0			100
-8           7      0          0          0       1      1        1          0			100
-9           7      0          0          0       1      1        1          0			100
-10          7      0          0          0       1      1        1          0			100
-11          7      0          0          0       1      1        1          0			100
-7           8      0          0          0       1      1        1          0			100
-8           8      0          0          0       1      1        1          0			100
-9           8      0          0          0       1      1        1          0			100
-10          8      0          0          0       1      1        1          0			100
-11          8      0          0          0       1      1        1          0			100
-7           9      0          0          0       1      1        1          0			100
-8           9      0          0          0       1      1        1          0			100
-9           9      0          0          0       1      1        1          0			100
-10          9      0          0          0       1      1        1          0			100
-11          9      0          0          0       1      1        1          0			100
-7           13     0          0          0       1      1        1          0			100
-8           13     0          0          0       1      1        1          0			100
-9           13     0          0          0       1      1        1          0			100
-10          13     0          0          0       1      1        1          0			100
-11          13     0          0          0       1      1        1          0			100
-7           14     0          0          0       1      1        1          0			100
-8           14     0          0          0       1      1        1          0			100
-9           14     0          0          0       1      1        1          0			100
-10          14     0          0          0       1      1        1          0			100
-11          14     0          0          0       1      1        1          0			100
-13          14     0          0          0       0      0        0          0			100
-13          52     0          0          0       0      0        0          0			100
-13          53     0          0          0       0      0        0          0			100
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         9000         0             0             1    1    1    1    1    1    1
+0         6         500          0             0             1    1    1    1    1    1    1
+0         7         500          0             0             1    1    1    1    1    1    1
+
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+7181        0       0       *         *         *         *         *         *         *         0          //Jewel of Bless  
+7182        0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6174        0       0       *         *         *         *         *         *         *         0          //Bundled Jewel of Bless  10
+6175        0       0       *         *         *         *         *         *         *         0          //Bundled Jewel of Soul
+end
+
+7
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6174        1       0       *         *         *         *         *         *         *         0          //Bundled Jewel of Bless  20
+6175        1       0       *         *         *         *         *         *         *         0          //Bundled Jewel of Soul
+6174        2       0       *         *         *         *         *         *         *         0          //Bundled Jewel of Bless  30
+6175        2       0       *         *         *         *         *         *         *         0          //Bundled Jewel of Soul
 end

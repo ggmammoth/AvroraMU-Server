@@ -1,11 +1,118 @@
-0
-//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
-"Selupan"		 1000	   50		  10		  0		    0		   0	0
+
+3
+//Index   DropRate DropInventory
+0         10000    // MS2 DropInventory 1 not in our format
+1         10000    // MS2 DropInventory 1 not in our format
+2         10000    // MS2 DropInventory 1 not in our format
+
 end
 
-1
-//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent	SetOption	DropRate
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         10000          0              0             1    1    1    1    1    1    1
+1         5         10000          0              0             1    1    1    1    1    1    1
+2         5         10000          0              0             1    1    1    1    1    1    1
+
 end
-2
-//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   SetOption  DropRate		SocketOption   
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+//7669     0       0       *         *         *         *         *         *         *         0          //Earring Box       // CASE-20261011-004: not in Test-1 Item.txt (MS2 14/501 "Earring Box")
+
+//BK
+//Brave
+3630      0       0       *         1         3         3         11         *         5         0          //Helm
+4142      0       0       *         1         3         3         11         *         5         0          //Armor
+4654      0       0       *         1         3         3         11         *         5         0          //Pants
+5166      0       0       *         1         3         3         11         *         5         0          //Gloves
+5678      0       0       *         1         3         3         11         *         5         0          //Boots
+
+//SM
+//Hades
+3636      0       0       *         1         3         3         11         *         5         0          //Helm
+4148      0       0       *         1         3         3         11         *         5         0          //Armor
+4660      0       0       *         1         3         3         11         *         5         0          //Pants
+5172      0       0       *         1         3         3         11         *         5         0          //Gloves
+5684      0       0       *         1         3         3         11         *         5         0          //Boots
+
+//ELF
+//Seraphim 
+3633      0       0       *         1         3         3         11         *         5         0          //Helm
+4145      0       0       *         1         3         3         11         *         5         0          //Armor
+4657      0       0       *         1         3         3         11         *         5         0          //Pants
+5169      0       0       *         1         3         3         11         *         5         0          //Gloves
+5681      0       0       *         1         3         3         11         *         5         0          //Boots
+
+
+//DL
+//Royal
+3635      0       0       *         1         3         3         11         *         5         0          //Helm
+4147      0       0       *         1         3         3         11         *         5         0          //Armor
+4659      0       0       *         1         3         3         11         *         5         0          //Pants
+5171      0       0       *         1         3         3         11         *         5         0          //Gloves
+5683      0       0       *         1         3         3         11         *         5         0          //Boots
+
+
+//SUMM
+//Eternal Wing
+//3628      0       0       *         1         3         3         11         *         5         0          //Helm   // CASE-20261011-004: not in Test-1 Item.txt (MS2 7/44 "Ethernal Wing Helm")
+//4140      0       0       *         1         3         3         11         *         5         0          //Armor   // CASE-20261011-004: not in Test-1 Item.txt (MS2 8/44 "Ethernal Wing Armor")
+//4652      0       0       *         1         3         3         11         *         5         0          //Pants   // CASE-20261011-004: not in Test-1 Item.txt (MS2 9/44 "Ethernal Wing Pants")
+5164      0       0       *         1         3         3         11         *         5         0          //Gloves
+5676      0       0       *         1         3         3         11         *         5         0          //Boots
+
+
+//RF
+//Tigris
+3750      0       0       *         1         3         3         11         *         5         0          //Helm
+4262      0       0       *         1         3         3         11         *         5         0          //Armor
+4774      0       0       *         1         3         3         11         *         5         0          //Pants
+5798      0       0       *         1         3         3         11         *         5         0          //Boots
+
+//MG
+//Destroy 
+4144      0       0       *         1         3         3         11         *         5         0          //Armor
+4656      0       0       *         1         3         3         11         *         5         0          //Pants
+5168      0       0       *         1         3         3         11         *         5         0          //Gloves
+5680      0       0       *         1         3         3         11         *         5         0          //Boots
+
+
+//BK
+27      0       0       *         1         3         3         11         *         6         0          //Sword Breaker
+
+107     0       0       *         1         3         3         11         *         6         0          //Pantera Claws
+
+//1547    0       0       *         1         3         3         11         *        6         0          //Brova
+//1548    0       0       *         1         3         3         11         *        6         0          //Magmus Peer
+
+//DL
+1041     0       0       *         1         3         3         11         *         6         0          //Absolute Scepter
+
+//1044     0       0       *         1         3         3         11         *         6         0          //Horn of Steal   // CASE-20261011-004: not in Test-1 Item.txt (MS2 2/20 "Horn of Steal")
+
+//ELF
+//2074     0       0       *         1         3         3         11         *         6         0          //Devil Crossbow   // CASE-20261011-004: not in Test-1 Item.txt (MS2 4/26 "Devil Crossbow")
+2071     0       0       *         1         3         3         11         *         6         0          //Dark Stringer
+//2103     0       0       *         1         3         3         11         *         6         0          //Seraphim Quiver   // CASE-20261011-004: not in Test-1 Item.txt (MS2 4/55 "Holyangel Quiver")
+
+1040     0       0       *         1         3         3         11         *         6         0          //Frost Mace
+
+2591     0       0       *         1         3         3         11         *         6         0          //Inberial Staff
+
+//SUMM
+2580     0       0       *         1         3         3         11         *         6         0          //Ethernal Wing Stick
+
+//MG
+30      0       0       *         1         3         3         11         *         6         0          //Asura
+//2595     0       0       *         1         3         3         11         *         6         0          //Miracle Staff   // CASE-20261011-004: not in Test-1 Item.txt (MS2 5/35 "Miracle Staff")
+
+
+//2620     0       0       *         1         3         3         11         *         6         0          //Book of Bloodangel   // CASE-20261011-004: not in Test-1 Item.txt (MS2 5/60 "Book of Bloodangel")
+
+//7669     0       0       *         *         *         *         *         *         *         0          //Earring Box       // CASE-20261011-004: not in Test-1 Item.txt (MS2 14/501 "Earring Box")
+
+
+
 end
+

@@ -1,0 +1,59 @@
+
+3
+//Index   DropRate DropInventory
+0         10000    // MS2 DropInventory 0 not in our format
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         7000          0              0             1    1    1    1    1    1    1
+0         6         3000          0              0             1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+20        0       0       *         1         3         3         11         *         *         0          //Knight Blade
+21        0       0       *         1         3         3         11         *         *         0          //Dark Reign Blade
+1036      0       0       *         1         3         3         11         *         *         0          //Great Lord Scepter
+1039      0       0       *         1         3         3         11         *         *         0          //Shining Scepter
+1038      0       0       *         1         3         3         11         *         *         0          //Soleil Sceptor
+1042      0       0       *         1         3         3         11         *         *         0          //Striker Scepter
+1047      0       0       *         1         3         3         11         *         *         0          //Mace of King
+2578      0       0       *         1         3         3         11         *         *         0          //Demonic Stick
+2594      0       0       *         1         3         3         11         *         *         0          //Raven Stick
+2068      0       0       *         1         3         3         11         *         *         0          //Arrow Viper Bow
+2070      0       0       *         1         3         3         11         *         *         0          //Albatross
+//2072      0       0       *         1         3         3         11         *         *         0          //Aileen Bow   // CASE-20261011-004: not in Test-1 Item.txt (MS2 4/24 "Aileen Bow")
+2571      0       0       *         1         3         3         11         *         *         0          //Kundun Staff
+2573      0       0       *         1         3         3         11         *         *         0          //Platina Staff
+2593      0       0       *         1         3         3         11         *         *         0          //Chromatic Staff
+7577      0       0       *         *         *         *         *          *         *         0          //Steel of Heaven
+
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+19      0       0       *           1         3         3         11         *         *         0          //Divine Sword of Archangel
+105     0       0       *           1         3         3         11         *         *         0          //Archangel Absolute Claws
+1037    0       0       *           1         3         3         11         *         *         0          //Divine Scepter of Archangel
+2066    0       0       *           1         3         3         11         *         *         0          //Divine Crossbow of Archangel
+2570    0       0       *           1         3         3         11         *         *         0          //Divine Staff of Archangel
+2596    0       0       *           1         3         3         11         *         *         0          //Divine Stick of Archangel
+
+7445      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +10   // CASE-20261011-004: MS2 14/253 -> 14/277
+7446      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +11   // CASE-20261011-004: MS2 14/266 -> 14/278
+7447      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +12   // CASE-20261011-004: MS2 14/267 -> 14/279
+7448      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +13   // CASE-20261011-004: MS2 14/268 -> 14/280
+7449      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +14   // CASE-20261011-004: MS2 14/269 -> 14/281
+7450      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +15   // CASE-20261011-004: MS2 14/270 -> 14/282
+7414      0       0       *         *         *         *         *          *         *         0      //Jewel Of Luck
+7415      0       0       *         *         *         *         *          *         *         0      //Jewel Of Additional   // CASE-20261011-004: MS2 14/245 -> 14/247
+7442      0       0       *         *         *         *         *          *         *         0      //Jewel Of Remove Adicional   // CASE-20261011-004: MS2 14/247 -> 14/274
+7416      0       0       *         *         *         *         *          *         *         0      //Jewel Of Excelent
+7443      0       0       *         *         *         *         *          *         *         0      //Jewel Of Remove Excelent   // CASE-20261011-004: MS2 14/252 -> 14/275
+7417      0       0       *         *         *         *         *          *         *         0      //Jewel Of Socket
+7444      0       0       *         *         *         *         *          *         *         0      //Jewel Of Exl Wings   // CASE-20261011-004: MS2 14/254 -> 14/276
+
+
+end
+

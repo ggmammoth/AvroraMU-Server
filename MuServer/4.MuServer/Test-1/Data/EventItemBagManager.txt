@@ -206,4 +206,16 @@
 938     *           *           763            *              0           //938 - Blue Goblin.txt
 939     *           *           764            *              0           //939 - Red Goblin.txt
 940     *           *           765            *              0           //940 - Yellow Goblin.txt
+350     *           *           18             *              0           //350 - Boss Gorgon.txt   // CASE-20261011-004 (MuServer2 bag)
+351     *           *           25             *              0           //351 - Boss Ice Queen.txt   // CASE-20261011-004 (MuServer2 bag)
+352     *           *           38             *              0           //352 - Boss Balrog.txt   // CASE-20261011-004 (MuServer2 bag)
+353     *           *           59             *              0           //353 - Boss Zaikan.txt   // CASE-20261011-004 (MuServer2 bag)
+354     *           *           49             *              0           //354 - Boss Hydra.txt   // CASE-20261011-004 (MuServer2 bag)
+454     7673        *           *              *              1           //454 - Starter Pack 1.txt   // CASE-20261012-010 (DangerZone)
+455     7674        *           *              *              1           //455 - Starter Pack 2.txt   // CASE-20261012-010 (DangerZone)
+456     7675        *           *              *              1           //456 - Starter Pack 3.txt   // CASE-20261012-010 (DangerZone)
+355     *           *           776            *              0           //355 - Chicken.txt   // CASE-20261012-010 (DangerZone 180)
+356     *           *           56             *              0           //356 - Death Bone.txt   // CASE-20261012-010 (DangerZone 195)
+357     *           *           136            *              0           //357 - Orc Soldier.txt   // CASE-20261012-010 (DangerZone 169)
+358     *           *           137            *              0           //358 - Orc Archer.txt   // CASE-20261012-010 (DangerZone 170)
 end

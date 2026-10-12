@@ -1,0 +1,44 @@
+// CASE-20261012-010: from DangerZoneMU 170 - Orcs White Wizard.txt (items remapped by name to Test-1)
+3
+//Index   DropRate DropInventory
+0     10000   
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         10000         0             0             1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+//6676        0       0       *         *         *         *         *         *         *         3600       //Wizzard Ring  1H 
+//6676        0       0       *         *         *         *         *         *         *         7200       //Wizzard Ring  2H 
+//6676        0       0       *         *         *         *         *         *         *         10800      //Wizzard Ring  3H 
+//6676        0       0       *         *         *         *         *         *         *         14400      //Wizzard Ring  4H 
+//6676        0       0       *         *         *         *         *         *         *         18000      //Wizzard Ring  5H
+//6676        0       0       *         *         *         *         *         *         *         21600      //Wizzard Ring  6H
+//6676        0       0       *         *         *         *         *         *         *         25200      //Wizzard Ring  7H
+//6676        0       0       *         *         *         *         *         *         *         28800      //Wizzard Ring  8H
+//6676        0       0       *         *         *         *         *         *         *         32400      //Wizzard Ring  9H
+//6676        0       0       *         *         *         *         *         *         *         36000      //Wizzard Ring  10H
+//6676        0       0       *         *         *         *         *         *         *         39600      //Wizzard Ring  11H
+6676        0       0       *         *         *         *         *         *         *         43200      //Wizzard Ring  12H
+6676        0       0       *         *         *         *         *         *         *         86400      //Wizzard Ring  24H
+
+//6763        0       0       *         *         *         *         *         *         *         3600       //Lethal Wizard's Ring  1H 
+//6763        0       0       *         *         *         *         *         *         *         7200       //Lethal Wizard's Ring  2H 
+//6763        0       0       *         *         *         *         *         *         *         10800      //Lethal Wizard's Ring  3H 
+//6763        0       0       *         *         *         *         *         *         *         14400      //Lethal Wizard's Ring  4H 
+//6763        0       0       *         *         *         *         *         *         *         18000      //Lethal Wizard's Ring  5H
+//6763        0       0       *         *         *         *         *         *         *         21600      //Lethal Wizard's Ring  6H
+//6763        0       0       *         *         *         *         *         *         *         25200      //Lethal Wizard's Ring  7H
+//6763        0       0       *         *         *         *         *         *         *         28800      //Lethal Wizard's Ring  8H
+//6763        0       0       *         *         *         *         *         *         *         32400      //Lethal Wizard's Ring  9H
+//6763        0       0       *         *         *         *         *         *         *         36000      //Lethal Wizard's Ring  10H
+//6763        0       0       *         *         *         *         *         *         *         39600      //Lethal Wizard's Ring  11H
+6763        0       0       *         *         *         *         *         *         *         43200      //Lethal Wizard's Ring  12H
+6763        0       0       *         *         *         *         *         *         *         86400      //Lethal Wizard's Ring  24H
+
+
+end
+

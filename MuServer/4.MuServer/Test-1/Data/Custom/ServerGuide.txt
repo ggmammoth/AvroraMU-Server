@@ -1,0 +1,239 @@
+//=====================================================================================================
+// ServerGuide.txt - F1 Server Guide (CASE-20261010-003 / 004)
+// Everything that is not written here is read LIVE from the server config (Monster.txt, MonsterSetBase,
+// InvasionManager.ini, EventItemBagManager.txt + EventItemBag, ItemDrop.txt, CustomMix.txt, ChaosMix.ini),
+// so a change there shows up in the window by itself. Texts: max 63 characters, no quotes, "-" = no text.
+// Item numbers = Section * 512 + Index (e.g. 14/11 Box of Kundun = 7179).
+//=====================================================================================================
+
+// Section 0 = Bosses tab: WHICH monsters + one line of text. Level, HP, respawn, places and the drop list
+// (EventItemBagManager MonsterClass -> EventItemBag file) come by themselves. Invasion bosses are added
+// by themselves too. Order = order in the window. Max 40.
+0
+//Class   Text
+900       "-"     // Abaddon
+835       "-"     // Pharaon
+295       "-"     // Erohim
+694       "-"     // God of Darkness
+682       "-"     // Lord Silvester
+683       "-"     // Core Magriffy
+412       "-"     // Dark Elf
+309       "-"     // Hell Maine
+275       "-"     // Kundun
+561       "-"     // Medusa
+end
+
+// Section 1 = Boxes tab: WHICH boxes (item + level). The drop list comes from EventItemBagManager
+// (ItemIndex / ItemLevel -> EventItemBag file). Level -1 = any level. Max 30.
+1
+//Item    Level   Text
+7179      8       "-"     // Box of Kundun +1
+7179      9       "-"     // Box of Kundun +2
+7179      10      "-"     // Box of Kundun +3
+7179      11      "-"     // Box of Kundun +4
+7179      12      "-"     // Box of Kundun +5
+7179      7       "-"     // Box of Heaven
+7179      0       "-"     // Box of Luck
+7673      -1      "-"     // Starter Pack Level 1 (CASE-20261012-011)
+7674      -1      "-"     // Starter Pack Level 2 (CASE-20261012-011)
+7675      -1      "-"     // Starter Pack Level 3 (CASE-20261012-011)
+end
+
+// Section 2 = Guides tab: the pages. Max 40.
+2
+//Page    Title
+1         "Chaos Weapon"
+2         "Wings 1st level"
+3         "Wings 2nd level"
+4         "Capes (Lord / Fighter)"
+5         "Feather of Condor"
+6         "Wings 3rd level"
+7         "Wings 2.5"
+8         "Garuda's Feather"
+9         "Wings 3.5"
+10        "Wings 4.0"
+11        "Wings 4.5"
+12        "Relic 5th Wing"
+13        "Wings 5.0"
+end
+
+// Section 3 = the lines of the pages:  Page  Kind  Value  Level  Count  Text
+//   Kind 0 = text (a text that ends with ':' is a gold heading)
+//   Kind 1 = item: Value = item number, Level, Count; the window shows its icon + name,
+//            and when you point at it: where it drops (ItemDrop.txt, bosses, boxes) - live
+//   Kind 2 = custom mix: Value = CustomMix.txt index - zen, rate and every item are filled in live
+//   Kind 3 = Chaos Machine rate: Value 1 Chaos weapon, 2 Wings 1, 3 Wings 2 / Capes, 4 Wings 3,
+//            5 Feather of Condor - read live from GameServerInfo - ChaosMix.ini
+3
+1     0  0     0  0  "The first Chaos Machine mix."
+1     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+1     0  0     0  0  "Put in the Chaos Machine:"
+1     1  6159  0  1  "-"
+1     0  0     0  0  "+ an item +4 or higher with an additional option"
+1     0  0     0  0  "  (more items / jewels raise the rate when it is by value)"
+1     1  7181  0  1  "optional"
+1     1  7182  0  1  "optional"
+1     3  1     0  0  "-"
+1     0  0     0  0  "Result (one of them, at random):"
+1     1  1030  0  1  "= RESULT"
+1     1  2054  0  1  "= RESULT"
+1     1  2567  0  1  "= RESULT"
+1     0  0     0  0  "Fail: the items are lost."
+2     0  0     0  0  "Needs a Chaos weapon (page Chaos Weapon)."
+2     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+2     0  0     0  0  "Put in the Chaos Machine:"
+2     1  6159  0  1  "-"
+2     1  1030  4  1  "or the Bow / Staff"
+2     0  0     0  0  "  the Chaos weapon must be +4 or higher with an option"
+2     0  0     0  0  "  (extra items +4 with an option / jewels add value)"
+2     3  2     0  0  "-"
+2     0  0     0  0  "Result (one of them, at random):"
+2     1  6144  0  1  "= RESULT"
+2     1  6145  0  1  "= RESULT"
+2     1  6146  0  1  "= RESULT"
+2     1  6185  0  1  "= RESULT"
+3     0  0     0  0  "Needs a 1st level wing."
+3     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+3     0  0     0  0  "Put in the Chaos Machine:"
+3     1  6159  0  1  "-"
+3     1  6670  0  1  "-"
+3     1  6144  0  1  "or another 1st wing"
+3     0  0     0  0  "Optional: excellent items +4 or higher (only add rate"
+3     0  0     0  0  "  when the rate is by the value of the items)."
+3     3  3     0  0  "-"
+3     0  0     0  0  "Result (one of them, at random):"
+3     1  6147  0  1  "= RESULT"
+3     1  6148  0  1  "= RESULT"
+3     1  6149  0  1  "= RESULT"
+3     1  6150  0  1  "= RESULT"
+3     1  6186  0  1  "= RESULT"
+4     0  0     0  0  "Like the 2nd level wings, with the Crest of Monarch"
+4     0  0     0  0  "instead of the Loch's Feather."
+4     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+4     0  0     0  0  "Put in the Chaos Machine:"
+4     1  6159  0  1  "-"
+4     1  6670  1  1  "Crest of Monarch"
+4     1  6144  0  1  "or another 1st wing"
+4     3  3     0  0  "-"
+4     0  0     0  0  "Result (one of them, at random):"
+4     1  6686  0  1  "= RESULT"
+4     1  6193  0  1  "= RESULT"
+5     0  0     0  0  "Needed for the 3rd level wings."
+5     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+5     0  0     0  0  "Put in the Chaos Machine:"
+5     1  6159  0  1  "-"
+5     1  7190  0  1  "-"
+5     1  6175  0  1  "10 Souls"
+5     0  0     0  0  "+ a 2nd level wing or cape +9 or higher with an option"
+5     0  0     0  0  "+ an ancient (set) item +7 or higher with an option"
+5     0  0     0  0  "  (the value of the ancient items decides the rate)"
+5     3  5     0  0  "-"
+5     0  0     0  0  "Result:"
+5     1  6709  0  1  "= RESULT"
+6     0  0     0  0  "Needs the Feather of Condor (page Feather of Condor)."
+6     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+6     0  0     0  0  "Put in the Chaos Machine:"
+6     1  6159  0  1  "-"
+6     1  7190  0  1  "-"
+6     1  6175  0  1  "10 Souls"
+6     1  6174  0  1  "10 Blesses"
+6     1  6708  0  1  "-"
+6     1  6709  0  1  "-"
+6     0  0     0  0  "+ an excellent item +9 or higher with an option"
+6     3  4     0  0  "-"
+6     0  0     0  0  "Result (one of them, at random):"
+6     1  6180  0  1  "= RESULT"
+6     1  6181  0  1  "= RESULT"
+6     1  6182  0  1  "= RESULT"
+6     1  6183  0  1  "= RESULT"
+6     1  6184  0  1  "= RESULT"
+6     1  6187  0  1  "= RESULT"
+6     1  6194  0  1  "= RESULT"
+7     0  0     0  0  "Each variant gives the wing of its class."
+7     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+7     2  120   0  0  "-"
+7     2  121   0  0  "-"
+7     2  122   0  0  "-"
+7     2  123   0  0  "-"
+8     0  0     0  0  "Needed for the Wings 4.0."
+8     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+8     2  124   0  0  "-"
+9     0  0     0  0  "The 3.5 wing of the same class as the 3rd wing you put in."
+9     0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+9     2  127   0  0  "-"
+10    0  0     0  0  "Needs the Garuda's Feather (page Garuda's Feather)."
+10    0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+10    2  125   0  0  "-"
+11    0  0     0  0  "The 4.5 wing of the same class as the wing you put in."
+11    0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+11    2  128   0  0  "-"
+12    0  0     0  0  "Needed for the Wings 5.0."
+12    0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+12    2  129   0  0  "-"
+13    0  0     0  0  "Needs the Relic 5th Wing (page Relic 5th Wing)."
+13    0  0     0  0  "Chaos Goblin: Noria (180,103) or Devias (209,59)."
+13    2  130   0  0  "-"
+//----------------------------------------------------------------------------------------------------
+// Event rewards (CASE-20261011-003): Page = 200 + Event Board slot (EventTime.xml). Shown in the Events tab.
+//   Kind 0 text, Kind 1 item, Kind 4 = reward bag by SpecialValue (EventItemBagManager column 5),
+//   Kind 5 = reward bag by its EventItemBagManager index. The items of a bag are read LIVE.
+//   Bag lines: Page Kind Value 0 0 "label shown above the items"
+//----------------------------------------------------------------------------------------------------
+// Slot 0 Blood Castle - the winner gets the bag of his Blood Castle level (BloodCastle.cpp)
+200   0  0     0  0  "Reward:"
+200   0  0     0  0  "The winner gets an item of the bag of his Blood Castle level."
+200   4  0     0  0  "Blood Castle 1"
+200   4  1     0  0  "Blood Castle 2"
+200   4  2     0  0  "Blood Castle 3"
+200   4  3     0  0  "Blood Castle 4"
+200   4  4     0  0  "Blood Castle 5"
+200   4  5     0  0  "Blood Castle 6"
+200   4  6     0  0  "Blood Castle 7"
+200   4  7     0  0  "Blood Castle 8"
+200   4  62    0  0  "VIP reward"
+// Slot 1 Devil Square - EXP + Zen by place (DevilSquare.ini), VIP bag
+201   0  0     0  0  "Reward:"
+201   0  0     0  0  "EXP and Zen by your place in the ranking."
+201   4  63    0  0  "VIP reward"
+// Slot 2 Chaos Castle - the winner gets the bag of his Chaos Castle level (ChaosCastle.cpp)
+202   0  0     0  0  "Reward:"
+202   0  0     0  0  "The winner gets an item of the bag of his Chaos Castle level."
+202   4  8     0  0  "Chaos Castle 1"
+202   4  9     0  0  "Chaos Castle 2"
+202   4  10    0  0  "Chaos Castle 3"
+202   4  11    0  0  "Chaos Castle 4"
+202   4  12    0  0  "Chaos Castle 5"
+202   4  13    0  0  "Chaos Castle 6"
+202   4  14    0  0  "Chaos Castle 7"
+202   4  64    0  0  "VIP reward"
+// Slot 3 Mini Castle Siege (Event\CTCMini\CongThanhChien.xml)
+203   0  0     0  0  "Reward:"
+203   0  0     0  0  "Breaking a gate: 2,000 WCoin + 1 Ruud"
+203   0  0     0  0  "Breaking a pillar: 2,000 WCoin + 1 Ruud"
+203   0  0     0  0  "Winning guild: 5,000 WCoin + 1 Ruud"
+// Slot 4 Chaos Battle (Event\EventGreatPK.xml, ConfigRewardTop1-5 = bag index 166-170 + 20,000 WCoin)
+204   0  0     0  0  "Reward:"
+204   0  0     0  0  "Top 1 - 5: 20,000 WCoin each + the items of their bag."
+204   5  166   0  0  "Top 1"
+204   5  167   0  0  "Top 2"
+204   5  168   0  0  "Top 3"
+204   5  169   0  0  "Top 4"
+204   5  170   0  0  "Top 5"
+// Slot 5 King of MU (Event\ReiDoMU.ini sections 2 / 3)
+205   0  0     0  0  "Reward:"
+205   0  0     0  0  "Winning guild: 10 WCoin"
+205   0  0     0  0  "Winner: 8 WCoin"
+// Slot 6 God-Demon War (Event\ThanMaChien.xml)
+206   0  0     0  0  "Entry: 50,000 Zen + 100 WCoin, level 200 - 400."
+206   0  0     0  0  "Reward:"
+206   0  0     0  0  "Every enemy killed: 500 WCoin"
+206   0  0     0  0  "Winning team: 100,000 WCoin"
+// Slot 7 Boss Guild (Event\BossGuild.xml)
+207   0  0     0  0  "Reward:"
+207   0  0     0  0  "Winning guild: 5,000 WCoin for every member."
+207   0  0     0  0  "Killing a boss: 50,000 WCoin."
+// Slot 8 Sky Event (Event\SkyEvent\Config.xml)
+208   0  0     0  0  "Reward:"
+208   0  0     0  0  "Extra EXP by stage: 100 / 200 / 300."
+208   1  6159  0  1  "for the winner"
+end

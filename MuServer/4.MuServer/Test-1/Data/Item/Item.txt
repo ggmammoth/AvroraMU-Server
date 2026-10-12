@@ -1324,6 +1324,12 @@ end
 462     *       0       2       2       1       1       0       "Seal of Robot White" 0       0
 463     *       0       2       2       1       1       0       "Seal of Taurus" 0       0
 464     *       0       2       2       1       1       0       "Seal of Rhino" 0       0
+//CASE-20261012-010 DangerZoneMU 14/505 Starter Pack Level 1
+505       *     0       1       1        1            0            0          "Starter Pack Level 1"                  0       0
+//CASE-20261012-010 DangerZoneMU 14/506 Starter Pack Level 2
+506       *     0       1       1        1            0            0          "Starter Pack Level 2"                  0       0
+//CASE-20261012-010 DangerZoneMU 14/507 Starter Pack Level 3
+507       *     0       1       1        1            0            0          "Starter Pack Level 3"                  0       0
 end
 
 15

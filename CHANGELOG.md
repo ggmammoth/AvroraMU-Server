@@ -9,6 +9,34 @@ Every version of this repository is complete: just download the newest one. Noth
 
 ## English
 
+### 12.10.2026
+- **Starter Pack Level 1 / 2 / 3** (14/505-507, new items with models): open them and you get the whole starter set of your class in the inventory (taken from DangerZoneMU). They are also in the F1 Boxes tab.
+- **Invasion drops rebuilt:**
+  - Farm Invasion: Chicken (new bag), Pouch of Blessing, Lunar Rabbit and Fire Flame Ghost now give Jewels and Bundled Jewels.
+  - Little Boss: Skeleton King, Red Dragon and White Wizard give Bundled Jewels and custom jewels (Level +10..+15, Luck, Socket ...); Death Bone and both Orcs got their own bags.
+  - Gorgon, Ice Queen, Balrog, Zaikan and Hydra drops (from 11.10) checked: the same as the original files.
+- **Item level bonuses:**
+  - Fixed: 174 items (boots, wings, Seeds, Spheres, Seed Spheres ...) had wrong extra bonuses from a typo in the MuServer2 file. Seed Spheres no longer show +11..+15 bonuses.
+  - 34 items that had only an old text get real bonuses (Dark Breaker, Rune Blade, Ashcrow set, custom wings 12/200-214, Wings of Eternity, Pendants of Ice / Wind / Water / Ability ...).
+  - The tooltip shows one list only (the old fixed texts are gone), two rows of the same bonus are shown as one line with the sum, and long tooltips no longer cut the list.
+- **Seed Spheres:** all socket option names in English; Earth Strength / Agility / Energy now have their name and value.
+- **Wings:** the MuServer2 wing effects (1063 effects on 26 wings); 15 new wings use their animated renderer (Annihilation ...); the glowing parts of Storm's Wings, Wings of Fantasy, Cloak of Zero 5.5 and 8 more wings no longer look black; capes show the whole cloak in the inventory; the white trail of Cloak of Zero + Core is removed.
+- **F1 Server Guide:** Abyss Sovereign no longer closes the client; no double bosses; the drop lists are read again every time F1 is opened, so a server reload shows at once.
+- **TAB map:** the legend is inside the map frame.
+- The client part comes with the next `Engine.exe` (some of it is already in this `Client`).
+
+### 11.10.2026
+- **F1 Server Guide, rounds 1-3:** one Boss / Invasion tab with arrows, the drops of every monster with item icons, bosses centred, Golden Invasion in gold, event rewards, Kundun boxes, more room in the wing guides.
+- **Boss drops from MuServer2:** Medusa, Selupan, Gorgon, Ice Queen, Balrog, Zaikan and Hydra (item numbers matched by name).
+
+### 10.10.2026
+- **New F1 Server Guide window:** events with countdowns, invasions, bosses with a rotating 3D model and a "Go" button, drops, boxes and guides (Chaos weapon, all wings) with live mix rates.
+- **MU Helper "Route" tab** (premium): a route of maps (Move costs zen) with auto reset.
+- **TAB map:** walking to a free point needs Ctrl + click; legend and how-to box.
+
+### 09.10.2026 (later)
+- **HUD:** the Reset / M.Reset buttons hide behind every open window (guild, NPC dialogs, shops ...).
+
 ### 09.10.2026
 - **Item level bonuses (like MuServer2):** sets, wings, weapons and shields get extra bonuses that unlock at +11, +12, +13, +14 and +15 and add up. Taken from MuServer2 for 407 items; for those items the old bonuses were replaced, not added on top.
   - The item tooltip shows **"Level bonus:"**: unlocked lines are green, locked lines grey with the level they open at.
@@ -99,6 +127,34 @@ Every version of this repository is complete: just download the newest one. Noth
 ---
 
 ## Български
+
+### 12.10.2026
+- **Starter Pack Level 1 / 2 / 3** (14/505-507, нови итеми с модели): като го отвориш, получаваш целия стартов сет за класа си в инвентара (взети от DangerZoneMU). Има ги и в раздел Boxes на F1.
+- **Дропът на инвазиите е направен наново:**
+  - Farm Invasion: Chicken (нов бег), Pouch of Blessing, Lunar Rabbit и Fire Flame Ghost вече дават Jewels и Bundled Jewels.
+  - Little Boss: Skeleton King, Red Dragon и White Wizard дават Bundled Jewels и custom jewels (Level +10..+15, Luck, Socket ...); Death Bone и двата Orc-а получиха собствени бегове.
+  - Дропът на Gorgon, Ice Queen, Balrog, Zaikan и Hydra (от 11.10) е проверен: същият като в оригиналните файлове.
+- **Бонуси по ниво на итема:**
+  - Поправено: 174 итема (ботуши, крила, Seed, Sphere, Seed Sphere ...) имаха грешни допълнителни бонуси заради грешка във файла на MuServer2. Seed Sphere вече не показват бонуси +11..+15.
+  - 34 итема, които имаха само стар текст, получиха истински бонуси (Dark Breaker, Rune Blade, сетът Ashcrow, custom крилата 12/200-214, Wings of Eternity, Pendant of Ice / Wind / Water / Ability ...).
+  - В описанието има само един списък (старите твърди текстове са махнати), два реда за един и същ бонус се показват като един ред със сбора, а дългите описания вече не режат списъка.
+- **Seed Sphere:** всички имена на socket опциите са на английски; Earth Strength / Agility / Energy вече имат име и стойност.
+- **Крила:** ефектите на крилата от MuServer2 (1063 ефекта на 26 крила); 15 нови крила ползват анимирания си рендер (Annihilation ...); светещите части на Storm's Wings, Wings of Fantasy, Cloak of Zero 5.5 и още 8 крила вече не са черни; пелерините показват целия плащ в инвентара; бялата следа на Cloak of Zero + Core е махната.
+- **F1 Server Guide:** Abyss Sovereign вече не затваря клиента; няма двойни босове; дропът се чете наново при всяко отваряне на F1, така че reload на сървъра се вижда веднага.
+- **TAB картата:** легендата е вътре в рамката на картата.
+- Клиентската част идва със следващия `Engine.exe` (част от нея вече е в този `Client`).
+
+### 11.10.2026
+- **F1 Server Guide, кръг 1-3:** един раздел Boss / Invasion със стрелки, дропът на всяко чудовище с иконки, центрирани босове, Golden Invasion в злато, награди за събитията, кутиите на Kundun, повече място в гайдовете за крилата.
+- **Дроп на босовете от MuServer2:** Medusa, Selupan, Gorgon, Ice Queen, Balrog, Zaikan и Hydra (номерата на итемите по име).
+
+### 10.10.2026
+- **Нов прозорец F1 Server Guide:** събития с отброяване, инвазии, босове с въртящ се 3D модел и бутон „Go“, дроп, кутии и гайдове (Chaos weapon, всички крила) с живи шансове за миксовете.
+- **MU Helper раздел „Route“** (premium): маршрут от карти (Move струва зен) с автоматичен reset.
+- **TAB картата:** ходене до свободна точка с Ctrl + клик; легенда и кутия с указания.
+
+### 09.10.2026 (по-късно)
+- **HUD:** бутоните Reset / M.Reset се скриват зад всеки отворен прозорец (гилдия, NPC диалози, магазини ...).
 
 ### 09.10.2026
 - **Бонуси по ниво на итема (като в MuServer2):** сетове, крила, оръжия и щитове получават допълнителни бонуси, които се отключват на +11, +12, +13, +14 и +15 и се събират. Взети от MuServer2 за 407 итема; за тях старите бонуси са заменени, не са добавени отгоре.

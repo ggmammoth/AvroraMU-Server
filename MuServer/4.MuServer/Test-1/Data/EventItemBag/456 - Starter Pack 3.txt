@@ -1,0 +1,549 @@
+// CASE-20261012-010: from DangerZoneMU 456 - Starter Pack 3.txt (items remapped by name to Test-1)
+3
+//Index DropRate DropInventory
+0     10000   
+1     10000   
+2     10000   
+3     10000   
+4     10000   
+5     10000   
+6     10000   
+7     10000   
+8     10000   
+9     10000   
+10    10000   
+11    10000   
+12    10000   
+13    10000   
+14    10000   
+15    10000   
+16    10000   
+17    10000   
+18    10000   
+19    10000   
+20    10000   
+21    10000   
+22    10000   
+23    10000   
+24    10000   
+25    10000   
+26    10000   
+27    10000   
+28    10000   
+29    10000   
+30    10000   
+31    10000   
+32    10000   
+33    10000   
+34    10000   
+35    10000   
+36    10000   
+37    10000   
+38    10000   
+39    10000   
+40    10000   
+41    10000   
+42    10000   
+43    10000   
+44    10000   
+45    10000   
+46    10000   
+47    10000   
+48    10000   
+49    10000   
+50    10000   
+51    10000   
+52    10000   
+53    10000   
+54    10000   
+55    10000   
+56    10000   
+57    10000   
+58    10000   
+59    10000   
+60    10000   
+61    10000   
+62    10000   
+63    10000   
+64    10000   
+65    10000   
+66    10000   
+67    10000   
+68    10000   
+69    10000   
+70    10000   
+71    10000   
+72    10000   
+73    10000   
+74    10000   
+75    10000   
+76    10000   
+77    10000   
+78    10000   
+79    10000   
+80    10000   
+81    10000   
+82    10000   
+83    10000   
+
+end
+
+4
+//Index Section   Rate      Money    OptionValue DW DK FE MG DL SU RF
+0       5         10000     0        0           0  1  0  0  0  0  0
+1       6         10000     0        0           0  1  0  0  0  0  0
+2       7         10000     0        0           0  1  0  0  0  0  0
+3       8         10000     0        0           0  1  0  0  0  0  0
+4       9         10000     0        0           0  1  0  0  0  0  0
+5       10        10000     0        0           0  1  0  0  0  0  0
+6       11        10000     0        0           0  1  0  0  0  0  0
+7       12        10000     0        0           0  1  0  0  0  0  0
+8       13        10000     0        0           0  1  0  0  0  0  0
+9       14        10000     0        0           0  1  0  0  0  0  0
+10      15        10000     0        0           0  1  0  0  0  0  0
+
+11      16        10000     0        0           1  0  0  0  0  0  0
+12      17        10000     0        0           1  0  0  0  0  0  0
+13      18        10000     0        0           1  0  0  0  0  0  0
+14      19        10000     0        0           1  0  0  0  0  0  0
+15      20        10000     0        0           1  0  0  0  0  0  0
+16      21        10000     0        0           1  0  0  0  0  0  0
+17      22        10000     0        0           1  0  0  0  0  0  0
+18      23        10000     0        0           1  0  0  0  0  0  0
+19      24        10000     0        0           1  0  0  0  0  0  0
+20      25        10000     0        0           1  0  0  0  0  0  0
+21      26        10000     0        0           1  0  0  0  0  0  0
+
+22      27        10000     0        0           0  0  1  0  0  0  0
+23      28        10000     0        0           0  0  1  0  0  0  0
+24      29        10000     0        0           0  0  1  0  0  0  0
+25      30        10000     0        0           0  0  1  0  0  0  0
+26      31        10000     0        0           0  0  1  0  0  0  0
+27      32        10000     0        0           0  0  1  0  0  0  0
+28      33        10000     0        0           0  0  1  0  0  0  0
+29      34        10000     0        0           0  0  1  0  0  0  0
+30      35        10000     0        0           0  0  1  0  0  0  0
+31      36        10000     0        0           0  0  1  0  0  0  0
+
+32      37        10000     0        0           0  0  0  1  0  0  0
+33      38        10000     0        0           0  0  0  1  0  0  0
+34      39        10000     0        0           0  0  0  1  0  0  0
+35      40        10000     0        0           0  0  0  1  0  0  0
+36      41        10000     0        0           0  0  0  1  0  0  0
+37      42        10000     0        0           0  0  0  1  0  0  0
+38      43        10000     0        0           0  0  0  1  0  0  0
+39      44        10000     0        0           0  0  0  1  0  0  0
+40      45        10000     0        0           0  0  0  1  0  0  0
+41      46        10000     0        0           0  0  0  1  0  0  0
+
+42      47        10000     0        0           0  0  0  0  1  0  0
+43      48        10000     0        0           0  0  0  0  1  0  0
+44      49        10000     0        0           0  0  0  0  1  0  0
+45      50        10000     0        0           0  0  0  0  1  0  0
+46      51        10000     0        0           0  0  0  0  1  0  0
+47      52        10000     0        0           0  0  0  0  1  0  0
+48      53        10000     0        0           0  0  0  0  1  0  0
+49      54        10000     0        0           0  0  0  0  1  0  0
+50      55        10000     0        0           0  0  0  0  1  0  0
+51      56        10000     0        0           0  0  0  0  1  0  0
+52      57        10000     0        0           0  0  0  0  1  0  0
+
+53      58        10000     0        0           0  0  0  0  0  1  0
+54      59        10000     0        0           0  0  0  0  0  1  0
+55      60        10000     0        0           0  0  0  0  0  1  0
+56      61        10000     0        0           0  0  0  0  0  1  0
+57      62        10000     0        0           0  0  0  0  0  1  0
+58      63        10000     0        0           0  0  0  0  0  1  0
+59      64        10000     0        0           0  0  0  0  0  1  0
+60      65        10000     0        0           0  0  0  0  0  1  0
+61      66        10000     0        0           0  0  0  0  0  1  0
+62      67        10000     0        0           0  0  0  0  0  1  0
+63      68        10000     0        0           0  0  0  0  0  1  0
+
+64      69        10000     0        0           0  0  0  0  0  0  1
+65      70        10000     0        0           0  0  0  0  0  0  1
+66      71        10000     0        0           0  0  0  0  0  0  1
+67      72        10000     0        0           0  0  0  0  0  0  1
+68      73        10000     0        0           0  0  0  0  0  0  1
+69      74        10000     0        0           0  0  0  0  0  0  1
+70      75        10000     0        0           0  0  0  0  0  0  1
+71      76        10000     0        0           0  0  0  0  0  0  1
+72      77        10000     0        0           0  0  0  0  0  0  1
+73      78        10000     0        0           0  0  0  0  0  0  1
+74      79        10000     0        0           1  1  1  1  1  1  1
+75      80        10000     0        0           1  1  1  1  1  1  1
+76      81        10000     0        0           1  1  1  1  1  1  1
+77      82        10000     0        0           1  1  1  1  1  1  1
+78      83        10000     0        0           1  1  1  1  1  1  1
+79      84        10000     0        0           1  1  1  1  1  1  1
+80      85        10000     0        0           1  1  1  1  1  1  1
+81      86        10000     0        0           1  1  1  1  1  1  1
+82      87        10000     0        0           1  1  1  1  1  1  1
+83      88        10000     0        0           1  1  1  1  1  1  1
+
+
+
+end
+
+5
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6796       0     0     *       *       *       *       *      *           *         0        //1st Lucky Armor Ticket
+end
+6
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6797       0     0     *       *       *       *       *      *           *         0        //1st Lucky Pants Ticket
+end
+7
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6798       0     0     *       *       *       *       *      *           *         0        //1st Lucky Helm Ticket
+end
+8
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6799       0     0     *       *       *       *       *      *           *         0        //1st Lucky Gloves Ticket
+end
+9
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6800       0     0     *       *       *       *       *      *           *         0        //1st Lucky Boots Ticket
+end
+10
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+20       11    0     *       1       10       18       *      *           *         0        //Knight Blade
+end
+11
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+20       11    0     *       1       10       18       *      *           *         0        //Knight Blade
+end
+12
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6151    0     0    *        *       *       *       *      *           *         0        //Orb of Twisting Slash
+end
+13
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6703    0     0    *        *       *       *       *      *           *         0        //Blood Castle Ticket
+end
+14
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6702    0     0    *        *       *       *       *      *           *         0        //Devil Square Ticket
+end
+15
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6278    0     0    *        *       *       *       *      *           *         0        //Small Wings of Satan
+end
+
+
+
+16
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6796       0     0     *       *       *       *       *      *           *         0        //1st Lucky Armor Ticket
+end
+17
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6797       0     0     *       *       *       *       *      *           *         0        //1st Lucky Pants Ticket
+end
+18
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6798       0     0     *       *       *       *       *      *           *         0        //1st Lucky Helm Ticket
+end
+19
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6799       0     0     *       *       *       *       *      *           *         0        //1st Lucky Gloves Ticket
+end
+20
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6800       0     0     *       *       *       *       *      *           *         0        //1st Lucky Boots Ticket
+end
+21
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+2571       11    0     *       1       10       18       *      *           *         0        //Kundun Staff
+end
+22
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+3087       11    0     *       1       10       18       *      *           *         0        //Grand Soul Shield
+end
+23
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7688    0     0    *        *       *       *       *      *           *         0        //Scroll of Evil Spirit
+end
+24
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6703    0     0    *        *       *       *       *      *           *         0        //Blood Castle Ticket
+end
+25
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6702    0     0    *        *       *       *       *      *           *         0        //Devil Square Ticket
+end
+26
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6277    0     0    *        *       *       *       *      *           *         0        //Small Wings of Heaven
+end
+
+
+27
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6796       0     0     *       *       *       *       *      *           *         0        //1st Lucky Armor Ticket
+end
+28
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6797       0     0     *       *       *       *       *      *           *         0        //1st Lucky Pants Ticket
+end
+29
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6798       0     0     *       *       *       *       *      *           *         0        //1st Lucky Helm Ticket
+end
+30
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6799       0     0     *       *       *       *       *      *           *         0        //1st Lucky Gloves Ticket
+end
+31
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6800       0     0     *       *       *       *       *      *           *         0        //1st Lucky Boots Ticket
+end
+32
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+2068       11    0     *       1       10       18       *      *           *         0        //Arrow Viper Bow
+end
+33
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6161    0     0    *        *       *       *       *      *           *         0        //Orb of Penetration
+end
+34
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6703    0     0    *        *       *       *       *      *           *         0        //Blood Castle Ticket
+end
+35
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6702    0     0    *        *       *       *       *      *           *         0        //Devil Square Ticket
+end
+36
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6276    0     0    *        *       *       *       *      *           *         0        //Small Wings of Elf
+end
+
+
+
+37
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6796       0     0     *       *       *       *       *      *           *         0        //1st Lucky Armor Ticket
+end
+38
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6797       0     0     *       *       *       *       *      *           *         0        //1st Lucky Pants Ticket
+end
+39
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6799       0     0     *       *       *       *       *      *           *         0        //1st Lucky Gloves Ticket
+end
+40
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6800       0     0     *       *       *       *       *      *           *         0        //1st Lucky Boots Ticket
+end
+41
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+21        11    0     *       1       10       18       *      *           *         0        //Rune Blade
+end
+42
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+2571       11    0     *       1       10       18       *      *           *         0        //Kundun Staff
+end
+43
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7688    0     0    *        *       *       *       *      *           *         0        //Scroll of Evil Spirit
+end
+44
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6703    0     0    *        *       *       *       *      *           *         0        //Blood Castle Ticket
+end
+45
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6702    0     0    *        *       *       *       *      *           *         0        //Devil Square Ticket
+end
+46
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6278    0     0    *        *       *       *       *      *           *         0        //Small Wings of Satan
+end
+
+
+
+47
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6796       0     0     *       *       *       *       *      *           *         0        //1st Lucky Armor Ticket
+end
+48
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6797       0     0     *       *       *       *       *      *           *         0        //1st Lucky Pants Ticket
+end
+49
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6798       0     0     *       *       *       *       *      *           *         0        //1st Lucky Helm Ticket
+end
+50
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6799       0     0     *       *       *       *       *      *           *         0        //1st Lucky Gloves Ticket
+end
+51
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6800       0     0     *       *       *       *       *      *           *         0        //1st Lucky Boots Ticket
+end
+52
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+1036    11    0     *       1       10       18       *      *           *         0        //Great Lord Scepter
+end
+53
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+3080    11    0     *       1       10       18       *      *           *         0        //Tower Shield
+end
+54
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6165    0     0    *        *       *       *       *      *           *         0        //Scroll of FireBurst
+end
+55
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6703    0     0    *        *       *       *       *      *           *         0        //Blood Castle Ticket
+end
+56
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6702    0     0    *        *       *       *       *      *           *         0        //Devil Square Ticket
+end
+57
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6274    0     0    *        *       *       *       *      *           *         0        //Small Cape of Lord
+end
+
+
+58
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6796       0     0     *       *       *       *       *      *           *         0        //1st Lucky Armor Ticket
+end
+59
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6797       0     0     *       *       *       *       *      *           *         0        //1st Lucky Pants Ticket
+end
+60
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6798       0     0     *       *       *       *       *      *           *         0        //1st Lucky Helm Ticket
+end
+61
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6799       0     0     *       *       *       *       *      *           *         0        //1st Lucky Gloves Ticket
+end
+62
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6800       0     0     *       *       *       *       *      *           *         0        //1st Lucky Boots Ticket
+end
+63
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+2578       11    0     *       1       10       18       *      *           *         0        //Demonic Stick
+end
+64
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+2583       11    0     *       1       10       18       *      *           *         0        //Book of Lagle
+end
+65
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7699    0     0    *        *       *       *       *      *           *         0        //Chain Lightning Parchment
+end
+66
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6703    0     0    *        *       *       *       *      *           *         0        //Blood Castle Ticket
+end
+67
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6702    0     0    *        *       *       *       *      *           *         0        //Devil Square Ticket
+end
+68
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6275    0     0    *        *       *       *       *      *           *         0        //Small Wing of Curse
+end
+
+
+69
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6796       0     0     *       *       *       *       *      *           *         0        //1st Lucky Armor Ticket
+end
+70
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6797       0     0     *       *       *       *       *      *           *         0        //1st Lucky Pants Ticket
+end
+71
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6798       0     0     *       *       *       *       *      *           *         0        //1st Lucky Helm Ticket
+end
+72
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6800       0     0     *       *       *       *       *      *           *         0        //1st Lucky Boots Ticket
+end
+73
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+34       11     0     *       1       10       18       *      *           *         0        //Piercing Gloves
+end
+74
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+34      11     0     *       1       10       18       *      *           *         0        //Piercing Gloves
+end
+75
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7711    0     0    *        *       *       *       *      *           *         0        //Dark Side Parchment
+end
+76
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6703    0     0    *        *       *       *       *      *           *         0        //Blood Castle Ticket
+end
+77
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6702    0     0    *        *       *       *       *      *           *         0        //Devil Square Ticket
+end
+78
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6279    0     0    *        *       *       *       *      *           *         0        //Small Cloak of Warrior
+end
+
+79
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7171    0     255   *        *       *       *       *      *           *         0        //Large Healing Potion
+end
+
+80
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7174    0     255   *        *       *       *       *      *           *         0        //Large Mana Potion
+end
+
+81
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7171    0     255   *        *       *       *       *      *           *         0        //Large Healing Potion
+end
+
+82
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7174    0     255   *        *       *       *       *      *           *         0        //Large Mana Potion
+end
+
+83
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7176    0     255   *        *       *       *       *      *           *         0        //Antidote
+end
+
+84
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+7177    0     255   *        *       *       *       *      *           *         0        //Ale
+end
+
+85
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6657    0     0     *        *       *       *       *      *           *         0        //Imp
+end
+
+
+86
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6664    0     0     *        *       *      14       *      *           *         0        //Ring of Ice
+end
+
+87
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6665    0     0     *        *       *      14       *      *           *         0        //Ring of Poison
+end
+
+88
+//Index Level Grade Option0 Option1 Option2 Option3 Option4 Option5 Option6 Duration Comment
+6668    0     0     *        *       *      14       *      *           *         0        //Pendant of Lighting
+end

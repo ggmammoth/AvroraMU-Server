@@ -1,0 +1,617 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks DropInventory
+"Zaikan"              1000    100        1            0              0     0  0
+end
+
+
+2
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   SetOption   SocketOption
+
+
+//================================================
+//         DRAGON
+//================================================
+
+7   1    0 0 0 1 1 1 5 1 0   //Hyon Dragon Helm
+11  1    0 0 0 1 1 1 5 1 0   //Hyon Dragon Boots
+10  1    0 0 0 1 1 1 5 1 0   //Hyon Dragon Gloves
+0   14   0 0 0 1 1 1 5 1 0   //Hyon Lightning Sword
+
+7   1    0 0 0 1 1 1 6 1 0   //Vicious Dragon Helm
+8   1    0 0 0 1 1 1 6 1 0   //Vicious Dragon Armor
+9   1    0 0 0 1 1 1 6 1 0   //Vicious Dragon Pants
+13  22   0 0 0 1 1 1 6 1 0   //Vicious Ring of Earth
+
+//================================================
+//         LEGENDARY
+//================================================
+
+7   3    0 0 0 1 1 1 5 1 0   //Anubis Legendary Helm
+8   3    0 0 0 1 1 1 5 1 0   //Anubis Legendary Armor
+10  3    0 0 0 1 1 1 5 1 0   //Anubis Legendary Gloves
+13  21   0 0 0 1 1 1 5 1 0   //Anubis Ring of Fire
+
+7   3    0 0 0 1 1 1 6 1 0   //Enis Legendary Helm
+8   3    0 0 0 1 1 1 6 1 0   //Enis Legendary Armor
+9   3    0 0 0 1 1 1 6 1 0   //Enis Legendary Pants
+11  3    0 0 0 1 1 1 6 1 0   //Enis Legendary Boots
+
+
+//================================================
+//         GUARDIAN
+//================================================
+
+7   14   0 0 0 1 1 1 6 1 0   //Aruane Guardian Helm
+8   14   0 0 0 1 1 1 6 1 0   //Aruane Guardian Armor
+9   14   0 0 0 1 1 1 6 1 0   //Aruane Guardian Pants
+11  14   0 0 0 1 1 1 6 1 0   //Aruane Guardian Boots
+
+8   14   0 0 0 1 1 1 5 1 0   //Gywen guardian Armor
+10  14   0 0 0 1 1 1 5 1 0   //Gywen guardian Gloves
+11  14   0 0 0 1 1 1 5 1 0   //Gywen guardian Boots
+4   5    0 0 0 1 1 1 5 1 0   //Gywen Sliver bow
+13  28   0 0 0 1 1 1 5 1 0   //Gywen Pendant of ability
+
+//================================================
+//         STORM CROW
+//================================================
+
+11  15   0 0 0 1 1 1 5 1 0   //Gaion Storm Crow Helm
+9   15   0 0 0 1 1 1 5 1 0   //Gaion Storm Crow Pants
+8   15   0 0 0 1 1 1 5 1 0   //Gaion Storm Crow Armor
+13  27   0 0 0 1 1 1 5 1 0   //Gaion Pendant of Water
+
+8   15   0 0 0 1 1 1 6 1 0   //Muren Storm Crow Armor
+9   15   0 0 0 1 1 1 6 1 0   //Muren Storm Crow Pants
+10  15   0 0 0 1 1 1 6 1 0   //Muren Storm Crow Gloves
+13  21   0 0 0 1 1 1 6 1 0   //Muren Ring of fire
+
+//================================================
+//         ADAMANTINE
+//================================================
+
+7   26   0 0 0 1 1 1 6 1 0   //Agnis adamantine Helm
+8   26   0 0 0 1 1 1 6 1 0   //Agnis adamantine Armor
+9   26   0 0 0 1 1 1 6 1 0   //Agnis adamantine Pants
+13  9    0 0 0 1 1 1 6 1 0   //Agnis Ring of Poison
+
+9   26   0 0 0 1 1 1 5 1 0   //Browii adamantine Pants
+10  26   0 0 0 1 1 1 5 1 0   //Browii adamantine Gloves
+11  26   0 0 0 1 1 1 5 1 0   //Browii adamantine Boots
+13  25   0 0 0 1 1 1 6 1 0   //Browii Pendant of Ice
+
+//================================================
+//         RED WING
+//================================================
+
+7   40   0 0 0 1 1 1 5 1 0   //Semeden Red Wing Helm
+8   40   0 0 0 1 1 1 5 1 0   //Semeden Red Wing Armor
+10  40   0 0 0 1 1 1 5 1 0   //Semeden Red Wing Gloves
+11  40   0 0 0 1 1 1 5 1 0   //Semeden Red Wing Boots
+
+7   40   0 0 0 1 1 1 6 1 0   //Krono Red Wing Helm
+9   40   0 0 0 1 1 1 6 1 0   //Krono Red Wing Pants
+10  40   0 0 0 1 1 1 6 1 0   //Krono Red Wing Gloves
+13  24   0 0 0 1 1 1 6 1 0   //Krono Ring of Magic
+
+//================================================
+//         SACRED
+//================================================
+7   59   0 0 0 1 1 1 5 1 0   //Vega's Sacred Helm
+8   59   0 0 0 1 1 1 5 1 0   //Vega's Sacred Armor
+9   59   0 0 0 1 1 1 5 1 0   //Vega's Sacred Pants
+0   32   0 0 1 1 1 1 5 1 0   //Vega's Sacred Glove
+
+8   59   0 0 0 1 1 1 6 1 0   //Chamereuui's Sacred Armor
+9   59   0 0 0 1 1 1 6 1 0   //Chamereuui's Sacred Pants
+11  59   0 0 0 1 1 1 5 1 0   //Chamereuui's Sacred Boots
+0   32   0 0 1 1 1 1 6 1 0   //Chamereuui's Sacred Glove
+
+
+//================================================
+//         DRAGON
+//================================================
+
+7   1    0 0 0 1 1 2 5 1 0   //Hyon Dragon Helm
+11  1    0 0 0 1 1 2 5 1 0   //Hyon Dragon Boots
+10  1    0 0 0 1 1 2 5 1 0   //Hyon Dragon Gloves
+0   14   0 0 0 1 1 2 5 1 0   //Hyon Lightning Sword
+
+7   1    0 0 0 1 1 2 6 1 0   //Vicious Dragon Helm
+8   1    0 0 0 1 1 2 6 1 0   //Vicious Dragon Armor
+9   1    0 0 0 1 1 2 6 1 0   //Vicious Dragon Pants
+13  22   0 0 0 1 1 2 6 1 0   //Vicious Ring of Earth
+
+
+
+//================================================
+//         LEGENDARY
+//================================================
+
+7   3    0 0 0 1 1 2 5 1 0   //Anubis Legendary Helm
+8   3    0 0 0 1 1 2 5 1 0   //Anubis Legendary Armor
+10  3    0 0 0 1 1 2 5 1 0   //Anubis Legendary Gloves
+13  21   0 0 0 1 1 2 5 1 0   //Anubis Ring of Fire
+
+7   3    0 0 0 1 1 2 6 1 0   //Enis Legendary Helm
+8   3    0 0 0 1 1 2 6 1 0   //Enis Legendary Armor
+9   3    0 0 0 1 1 2 6 1 0   //Enis Legendary Pants
+11  3    0 0 0 1 1 2 6 1 0   //Enis Legendary Boots
+
+//================================================
+//         GUARDIAN
+//================================================
+
+7   14   0 0 0 1 1 2 6 1 0   //Aruane Guardian Helm
+8   14   0 0 0 1 1 2 6 1 0   //Aruane Guardian Armor
+9   14   0 0 0 1 1 2 6 1 0   //Aruane Guardian Pants
+11  14   0 0 0 1 1 2 6 1 0   //Aruane Guardian Boots
+
+8   14   0 0 0 1 1 2 5 1 0   //Gywen guardian Armor
+10  14   0 0 0 1 1 2 5 1 0   //Gywen guardian Gloves
+11  14   0 0 0 1 1 2 5 1 0   //Gywen guardian Boots
+4   5    0 0 0 1 1 2 5 1 0   //Gywen Sliver bow
+13  28   0 0 0 1 1 2 5 1 0   //Gywen Pendant of ability
+
+//================================================
+//         STORM CROW
+//================================================
+
+11  15   0 0 0 1 1 2 5 1 0   //Gaion Storm Crow Helm
+9   15   0 0 0 1 1 2 5 1 0   //Gaion Storm Crow Pants
+8   15   0 0 0 1 1 2 5 1 0   //Gaion Storm Crow Armor
+13  27   0 0 0 1 1 2 5 1 0   //Gaion Pendant of Water
+
+8   15   0 0 0 1 1 2 6 1 0   //Muren Storm Crow Armor
+9   15   0 0 0 1 1 2 6 1 0   //Muren Storm Crow Pants
+10  15   0 0 0 1 1 2 6 1 0   //Muren Storm Crow Gloves
+13  21   0 0 0 1 1 2 6 1 0   //Muren Ring of fire
+
+//================================================
+//         ADAMANTINE
+//================================================
+
+7   26   0 0 0 1 1 2 6 1 0   //Agnis adamantine Helm
+8   26   0 0 0 1 1 2 6 1 0   //Agnis adamantine Armor
+9   26   0 0 0 1 1 2 6 1 0   //Agnis adamantine Pants
+13  9    0 0 0 1 1 2 6 1 0   //Agnis Ring of Poison
+
+9   26   0 0 0 1 1 2 5 1 0   //Browii adamantine Pants
+10  26   0 0 0 1 1 2 5 1 0   //Browii adamantine Gloves
+11  26   0 0 0 1 1 2 5 1 0   //Browii adamantine Boots
+13  25   0 0 0 1 1 2 6 1 0   //Browii Pendant of Ice
+
+//================================================
+//         RED WING
+//================================================
+
+7   40   0 0 0 1 1 2 5 1 0   //Semeden Red Wing Helm
+8   40   0 0 0 1 1 2 5 1 0   //Semeden Red Wing Armor
+10  40   0 0 0 1 1 2 5 1 0   //Semeden Red Wing Gloves
+11  40   0 0 0 1 1 2 5 1 0   //Semeden Red Wing Boots
+
+7   40   0 0 0 1 1 2 6 1 0   //Krono Red Wing Helm
+9   40   0 0 0 1 1 2 6 1 0   //Krono Red Wing Pants
+10  40   0 0 0 1 1 2 6 1 0   //Krono Red Wing Gloves
+13  24   0 0 0 1 1 2 6 1 0   //Krono Ring of Magic
+
+//================================================
+//         SACRED
+//================================================
+7   59   0 0 0 1 1 2 5 1 0   //Vega's Sacred Helm
+8   59   0 0 0 1 1 2 5 1 0   //Vega's Sacred Armor
+9   59   0 0 0 1 1 2 5 1 0   //Vega's Sacred Pants
+0   32   0 0 1 1 1 2 5 1 0   //Vega's Sacred Glove
+
+8   59   0 0 0 1 1 2 6 1 0   //Chamereuui's Sacred Armor
+9   59   0 0 0 1 1 2 6 1 0   //Chamereuui's Sacred Pants
+11  59   0 0 0 1 1 2 5 1 0   //Chamereuui's Sacred Boots
+0   32   0 0 1 1 1 2 6 1 0   //Chamereuui's Sacred Glove
+
+
+//================================================
+//         DRAGON
+//================================================
+
+7   1    0 0 0 1 1 3 5 1 0   //Hyon Dragon Helm
+11  1    0 0 0 1 1 3 5 1 0   //Hyon Dragon Boots
+10  1    0 0 0 1 1 3 5 1 0   //Hyon Dragon Gloves
+0   14   0 0 0 1 1 3 5 1 0   //Hyon Lightning Sword
+
+7   1    0 0 0 1 1 3 6 1 0   //Vicious Dragon Helm
+8   1    0 0 0 1 1 3 6 1 0   //Vicious Dragon Armor
+9   1    0 0 0 1 1 3 6 1 0   //Vicious Dragon Pants
+13  22   0 0 0 1 1 3 6 1 0   //Vicious Ring of Earth
+
+//================================================
+//         LEGENDARY
+//================================================
+
+7   3    0 0 0 1 1 3 5 1 0   //Anubis Legendary Helm
+8   3    0 0 0 1 1 3 5 1 0   //Anubis Legendary Armor
+10  3    0 0 0 1 1 3 5 1 0   //Anubis Legendary Gloves
+13  21   0 0 0 1 1 3 5 1 0   //Anubis Ring of Fire
+
+7   3    0 0 0 1 1 3 6 1 0   //Enis Legendary Helm
+8   3    0 0 0 1 1 3 6 1 0   //Enis Legendary Armor
+9   3    0 0 0 1 1 3 6 1 0   //Enis Legendary Pants
+11  3    0 0 0 1 1 3 6 1 0   //Enis Legendary Boots
+
+//================================================
+//         GUARDIAN
+//================================================
+
+7   14   0 0 0 1 1 3 6 1 0   //Aruane Guardian Helm
+8   14   0 0 0 1 1 3 6 1 0   //Aruane Guardian Armor
+9   14   0 0 0 1 1 3 6 1 0   //Aruane Guardian Pants
+11  14   0 0 0 1 1 3 6 1 0   //Aruane Guardian Boots
+
+8   14   0 0 0 1 1 3 5 1 0   //Gywen guardian Armor
+10  14   0 0 0 1 1 3 5 1 0   //Gywen guardian Gloves
+11  14   0 0 0 1 1 3 5 1 0   //Gywen guardian Boots
+4   5    0 0 0 1 1 3 5 1 0   //Gywen Sliver bow
+13  28   0 0 0 1 1 3 5 1 0   //Gywen Pendant of ability
+
+//================================================
+//         STORM CROW
+//================================================
+
+11  15   0 0 0 1 1 3 5 1 0   //Gaion Storm Crow Helm
+9   15   0 0 0 1 1 3 5 1 0   //Gaion Storm Crow Pants
+8   15   0 0 0 1 1 3 5 1 0   //Gaion Storm Crow Armor
+13  27   0 0 0 1 1 3 5 1 0   //Gaion Pendant of Water
+
+8   15   0 0 0 1 1 3 6 1 0   //Muren Storm Crow Armor
+9   15   0 0 0 1 1 3 6 1 0   //Muren Storm Crow Pants
+10  15   0 0 0 1 1 3 6 1 0   //Muren Storm Crow Gloves
+13  21   0 0 0 1 1 3 6 1 0   //Muren Ring of fire
+
+//================================================
+//         ADAMANTINE
+//================================================
+
+7   26   0 0 0 1 1 3 6 1 0   //Agnis adamantine Helm
+8   26   0 0 0 1 1 3 6 1 0   //Agnis adamantine Armor
+9   26   0 0 0 1 1 3 6 1 0   //Agnis adamantine Pants
+13  9    0 0 0 1 1 3 6 1 0   //Agnis Ring of Poison
+
+9   26   0 0 0 1 1 3 5 1 0   //Browii adamantine Pants
+10  26   0 0 0 1 1 3 5 1 0   //Browii adamantine Gloves
+11  26   0 0 0 1 1 3 5 1 0   //Browii adamantine Boots
+13  25   0 0 0 1 1 3 6 1 0   //Browii Pendant of Ice
+
+//================================================
+//         RED WING
+//================================================
+
+7   40   0 0 0 1 1 3 5 1 0   //Semeden Red Wing Helm
+8   40   0 0 0 1 1 3 5 1 0   //Semeden Red Wing Armor
+10  40   0 0 0 1 1 3 5 1 0   //Semeden Red Wing Gloves
+11  40   0 0 0 1 1 3 5 1 0   //Semeden Red Wing Boots
+
+7   40   0 0 0 1 1 3 6 1 0   //Krono Red Wing Helm
+9   40   0 0 0 1 1 3 6 1 0   //Krono Red Wing Pants
+10  40   0 0 0 1 1 3 6 1 0   //Krono Red Wing Gloves
+13  24   0 0 0 1 1 3 6 1 0   //Krono Ring of Magic
+
+//================================================
+//         SACRED
+//================================================
+7   59   0 0 0 1 1 3 5 1 0   //Vega's Sacred Helm
+8   59   0 0 0 1 1 3 5 1 0   //Vega's Sacred Armor
+9   59   0 0 0 1 1 3 5 1 0   //Vega's Sacred Pants
+0   32   0 0 1 1 1 3 5 1 0   //Vega's Sacred Glove
+
+8   59   0 0 0 1 1 3 6 1 0   //Chamereuui's Sacred Armor
+9   59   0 0 0 1 1 3 6 1 0   //Chamereuui's Sacred Pants
+11  59   0 0 0 1 1 3 5 1 0   //Chamereuui's Sacred Boots
+0   32   0 0 1 1 1 3 6 1 0   //Chamereuui's Sacred Glove
+
+//================================================
+//         DRAGON
+//================================================
+
+7   1    0 0 0 0 0 1 5 1 0   //Hyon Dragon Helm
+11  1    0 0 0 0 0 1 5 1 0   //Hyon Dragon Boots
+10  1    0 0 0 0 0 1 5 1 0   //Hyon Dragon Gloves
+0   14   0 0 0 0 0 1 5 1 0   //Hyon Lightning Sword
+
+7   1    0 0 0 0 0 1 6 1 0   //Vicious Dragon Helm
+8   1    0 0 0 0 0 1 6 1 0   //Vicious Dragon Armor
+9   1    0 0 0 0 0 1 6 1 0   //Vicious Dragon Pants
+13  22   0 0 0 0 0 1 6 1 0   //Vicious Ring of Earth
+
+
+
+//================================================
+//         LEGENDARY
+//================================================
+
+7   3    0 0 0 0 0 1 5 1 0   //Anubis Legendary Helm
+8   3    0 0 0 0 0 1 5 1 0   //Anubis Legendary Armor
+10  3    0 0 0 0 0 1 5 1 0   //Anubis Legendary Gloves
+13  21   0 0 0 0 0 1 5 1 0   //Anubis Ring of Fire
+
+7   3    0 0 0 0 0 1 6 1 0   //Enis Legendary Helm
+8   3    0 0 0 0 0 1 6 1 0   //Enis Legendary Armor
+9   3    0 0 0 0 0 1 6 1 0   //Enis Legendary Pants
+11  3    0 0 0 0 0 1 6 1 0   //Enis Legendary Boots
+
+//================================================
+//         GUARDIAN
+//================================================
+
+7   14   0 0 0 0 0 1 6 1 0   //Aruane Guardian Helm
+8   14   0 0 0 0 0 1 6 1 0   //Aruane Guardian Armor
+9   14   0 0 0 0 0 1 6 1 0   //Aruane Guardian Pants
+11  14   0 0 0 0 0 1 6 1 0   //Aruane Guardian Boots
+
+8   14   0 0 0 0 0 1 5 1 0   //Gywen guardian Armor
+10  14   0 0 0 0 0 1 5 1 0   //Gywen guardian Gloves
+11  14   0 0 0 0 0 1 5 1 0   //Gywen guardian Boots
+4   5    0 0 0 0 0 1 5 1 0   //Gywen Sliver bow
+13  28   0 0 0 0 0 1 5 1 0   //Gywen Pendant of ability
+
+//================================================
+//         STORM CROW
+//================================================
+
+11  15   0 0 0 0 0 1 5 1 0   //Gaion Storm Crow Helm
+9   15   0 0 0 0 0 1 5 1 0   //Gaion Storm Crow Pants
+8   15   0 0 0 0 0 1 5 1 0   //Gaion Storm Crow Armor
+13  27   0 0 0 0 0 1 5 1 0   //Gaion Pendant of Water
+
+8   15   0 0 0 0 0 1 6 1 0   //Muren Storm Crow Armor
+9   15   0 0 0 0 0 1 6 1 0   //Muren Storm Crow Pants
+10  15   0 0 0 0 0 1 6 1 0   //Muren Storm Crow Gloves
+13  21   0 0 0 0 0 1 6 1 0   //Muren Ring of fire
+
+//================================================
+//         ADAMANTINE
+//================================================
+
+7   26   0 0 0 0 0 1 6 1 0   //Agnis adamantine Helm
+8   26   0 0 0 0 0 1 6 1 0   //Agnis adamantine Armor
+9   26   0 0 0 0 0 1 6 1 0   //Agnis adamantine Pants
+13  9    0 0 0 0 0 1 6 1 0   //Agnis Ring of Poison
+
+9   26   0 0 0 0 0 1 5 1 0   //Browii adamantine Pants
+10  26   0 0 0 0 0 1 5 1 0   //Browii adamantine Gloves
+11  26   0 0 0 0 0 1 5 1 0   //Browii adamantine Boots
+13  25   0 0 0 0 0 1 6 1 0   //Browii Pendant of Ice
+
+//================================================
+//         RED WING
+//================================================
+
+7   40   0 0 0 0 0 1 5 1 0   //Semeden Red Wing Helm
+8   40   0 0 0 0 0 1 5 1 0   //Semeden Red Wing Armor
+10  40   0 0 0 0 0 1 5 1 0   //Semeden Red Wing Gloves
+11  40   0 0 0 0 0 1 5 1 0   //Semeden Red Wing Boots
+
+7   40   0 0 0 0 0 1 6 1 0   //Krono Red Wing Helm
+9   40   0 0 0 0 0 1 6 1 0   //Krono Red Wing Pants
+10  40   0 0 0 0 0 1 6 1 0   //Krono Red Wing Gloves
+13  24   0 0 0 0 0 1 6 1 0   //Krono Ring of Magic
+
+//================================================
+//         SACRED
+//================================================
+7   59   0 0 0 0 0 1 5 1 0   //Vega's Sacred Helm
+8   59   0 0 0 0 0 1 5 1 0   //Vega's Sacred Armor
+9   59   0 0 0 0 0 1 5 1 0   //Vega's Sacred Pants
+0   32   0 0 1 1 1 1 5 1 0   //Vega's Sacred Glove
+
+8   59   0 0 0 0 0 1 6 1 0   //Chamereuui's Sacred Armor
+9   59   0 0 0 0 0 1 6 1 0   //Chamereuui's Sacred Pants
+11  59   0 0 0 0 0 1 5 1 0   //Chamereuui's Sacred Boots
+0   32   0 0 1 1 1 1 6 1 0   //Chamereuui's Sacred Glove
+
+
+//================================================
+//         DRAGON
+//================================================
+
+7   1    0 0 0 0 0 2 5 1 0   //Hyon Dragon Helm
+11  1    0 0 0 0 0 2 5 1 0   //Hyon Dragon Boots
+10  1    0 0 0 0 0 2 5 1 0   //Hyon Dragon Gloves
+0   14   0 0 0 0 0 2 5 1 0   //Hyon Lightning Sword
+
+7   1    0 0 0 0 0 2 6 1 0   //Vicious Dragon Helm
+8   1    0 0 0 0 0 2 6 1 0   //Vicious Dragon Armor
+9   1    0 0 0 0 0 2 6 1 0   //Vicious Dragon Pants
+13  22   0 0 0 0 0 2 6 1 0   //Vicious Ring of Earth
+
+
+
+//================================================
+//         LEGENDARY
+//================================================
+
+7   3    0 0 0 0 0 2 5 1 0   //Anubis Legendary Helm
+8   3    0 0 0 0 0 2 5 1 0   //Anubis Legendary Armor
+10  3    0 0 0 0 0 2 5 1 0   //Anubis Legendary Gloves
+13  21   0 0 0 0 0 2 5 1 0   //Anubis Ring of Fire
+
+7   3    0 0 0 0 0 2 6 1 0   //Enis Legendary Helm
+8   3    0 0 0 0 0 2 6 1 0   //Enis Legendary Armor
+9   3    0 0 0 0 0 2 6 1 0   //Enis Legendary Pants
+11  3    0 0 0 0 0 2 6 1 0   //Enis Legendary Boots
+
+
+//================================================
+//         GUARDIAN
+//================================================
+
+7   14   0 0 0 0 0 2 6 1 0   //Aruane Guardian Helm
+8   14   0 0 0 0 0 2 6 1 0   //Aruane Guardian Armor
+9   14   0 0 0 0 0 2 6 1 0   //Aruane Guardian Pants
+11  14   0 0 0 0 0 2 6 1 0   //Aruane Guardian Boots
+
+8   14   0 0 0 0 0 2 5 1 0   //Gywen guardian Armor
+10  14   0 0 0 0 0 2 5 1 0   //Gywen guardian Gloves
+11  14   0 0 0 0 0 2 5 1 0   //Gywen guardian Boots
+4   5    0 0 0 0 0 2 5 1 0   //Gywen Sliver bow
+13  28   0 0 0 0 0 2 5 1 0   //Gywen Pendant of ability
+
+//================================================
+//         STORM CROW
+//================================================
+
+11  15   0 0 0 0 0 2 5 1 0   //Gaion Storm Crow Helm
+9   15   0 0 0 0 0 2 5 1 0   //Gaion Storm Crow Pants
+8   15   0 0 0 0 0 2 5 1 0   //Gaion Storm Crow Armor
+13  27   0 0 0 0 0 2 5 1 0   //Gaion Pendant of Water
+
+8   15   0 0 0 0 0 2 6 1 0   //Muren Storm Crow Armor
+9   15   0 0 0 0 0 2 6 1 0   //Muren Storm Crow Pants
+10  15   0 0 0 0 0 2 6 1 0   //Muren Storm Crow Gloves
+13  21   0 0 0 0 0 2 6 1 0   //Muren Ring of fire
+
+//================================================
+//         ADAMANTINE
+//================================================
+
+7   26   0 0 0 0 0 2 6 1 0   //Agnis adamantine Helm
+8   26   0 0 0 0 0 2 6 1 0   //Agnis adamantine Armor
+9   26   0 0 0 0 0 2 6 1 0   //Agnis adamantine Pants
+13  9    0 0 0 0 0 2 6 1 0   //Agnis Ring of Poison
+
+9   26   0 0 0 0 0 2 5 1 0   //Browii adamantine Pants
+10  26   0 0 0 0 0 2 5 1 0   //Browii adamantine Gloves
+11  26   0 0 0 0 0 2 5 1 0   //Browii adamantine Boots
+13  25   0 0 0 0 0 2 6 1 0   //Browii Pendant of Ice
+
+//================================================
+//         RED WING
+//================================================
+
+7   40   0 0 0 0 0 2 5 1 0   //Semeden Red Wing Helm
+8   40   0 0 0 0 0 2 5 1 0   //Semeden Red Wing Armor
+10  40   0 0 0 0 0 2 5 1 0   //Semeden Red Wing Gloves
+11  40   0 0 0 0 0 2 5 1 0   //Semeden Red Wing Boots
+
+7   40   0 0 0 0 0 2 6 1 0   //Krono Red Wing Helm
+9   40   0 0 0 0 0 2 6 1 0   //Krono Red Wing Pants
+10  40   0 0 0 0 0 2 6 1 0   //Krono Red Wing Gloves
+13  24   0 0 0 0 0 2 6 1 0   //Krono Ring of Magic
+
+//================================================
+//         SACRED
+//================================================
+7   59   0 0 0 0 0 2 5 1 0   //Vega's Sacred Helm
+8   59   0 0 0 0 0 2 5 1 0   //Vega's Sacred Armor
+9   59   0 0 0 0 0 2 5 1 0   //Vega's Sacred Pants
+0   32   0 0 1 1 1 2 5 1 0   //Vega's Sacred Glove
+
+8   59   0 0 0 0 0 2 6 1 0   //Chamereuui's Sacred Armor
+9   59   0 0 0 0 0 2 6 1 0   //Chamereuui's Sacred Pants
+11  59   0 0 0 0 0 2 5 1 0   //Chamereuui's Sacred Boots
+0   32   0 0 1 1 1 2 6 1 0   //Chamereuui's Sacred Glove
+
+
+//================================================
+//         DRAGON
+//================================================
+
+7   1    0 0 0 0 0 3 5 1 0   //Hyon Dragon Helm
+11  1    0 0 0 0 0 3 5 1 0   //Hyon Dragon Boots
+10  1    0 0 0 0 0 3 5 1 0   //Hyon Dragon Gloves
+0   14   0 0 0 0 0 3 5 1 0   //Hyon Lightning Sword
+
+7   1    0 0 0 0 0 3 6 1 0   //Vicious Dragon Helm
+8   1    0 0 0 0 0 3 6 1 0   //Vicious Dragon Armor
+9   1    0 0 0 0 0 3 6 1 0   //Vicious Dragon Pants
+13  22   0 0 0 0 0 3 6 1 0   //Vicious Ring of Earth
+
+
+
+//================================================
+//         LEGENDARY
+//================================================
+
+7   3    0 0 0 0 0 3 5 1 0   //Anubis Legendary Helm
+8   3    0 0 0 0 0 3 5 1 0   //Anubis Legendary Armor
+10  3    0 0 0 0 0 3 5 1 0   //Anubis Legendary Gloves
+13  21   0 0 0 0 0 3 5 1 0   //Anubis Ring of Fire
+
+7   3    0 0 0 0 0 3 6 1 0   //Enis Legendary Helm
+8   3    0 0 0 0 0 3 6 1 0   //Enis Legendary Armor
+9   3    0 0 0 0 0 3 6 1 0   //Enis Legendary Pants
+11  3    0 0 0 0 0 3 6 1 0   //Enis Legendary Boots
+
+
+//================================================
+//         GUARDIAN
+//================================================
+
+7   14   0 0 0 0 0 3 6 1 0   //Aruane Guardian Helm
+8   14   0 0 0 0 0 3 6 1 0   //Aruane Guardian Armor
+9   14   0 0 0 0 0 3 6 1 0   //Aruane Guardian Pants
+11  14   0 0 0 0 0 3 6 1 0   //Aruane Guardian Boots
+
+8   14   0 0 0 0 0 3 5 1 0   //Gywen guardian Armor
+10  14   0 0 0 0 0 3 5 1 0   //Gywen guardian Gloves
+11  14   0 0 0 0 0 3 5 1 0   //Gywen guardian Boots
+4   5    0 0 0 0 0 3 5 1 0   //Gywen Sliver bow
+13  28   0 0 0 0 0 3 5 1 0   //Gywen Pendant of ability
+
+//================================================
+//         STORM CROW
+//================================================
+
+11  15   0 0 0 0 0 3 5 1 0   //Gaion Storm Crow Helm
+9   15   0 0 0 0 0 3 5 1 0   //Gaion Storm Crow Pants
+8   15   0 0 0 0 0 3 5 1 0   //Gaion Storm Crow Armor
+13  27   0 0 0 0 0 3 5 1 0   //Gaion Pendant of Water
+
+8   15   0 0 0 0 0 3 6 1 0   //Muren Storm Crow Armor
+9   15   0 0 0 0 0 3 6 1 0   //Muren Storm Crow Pants
+10  15   0 0 0 0 0 3 6 1 0   //Muren Storm Crow Gloves
+13  21   0 0 0 0 0 3 6 1 0   //Muren Ring of fire
+
+//================================================
+//         ADAMANTINE
+//================================================
+
+7   26   0 0 0 0 0 3 6 1 0   //Agnis adamantine Helm
+8   26   0 0 0 0 0 3 6 1 0   //Agnis adamantine Armor
+9   26   0 0 0 0 0 3 6 1 0   //Agnis adamantine Pants
+13  9    0 0 0 0 0 3 6 1 0   //Agnis Ring of Poison
+
+9   26   0 0 0 0 0 3 5 1 0   //Browii adamantine Pants
+10  26   0 0 0 0 0 3 5 1 0   //Browii adamantine Gloves
+11  26   0 0 0 0 0 3 5 1 0   //Browii adamantine Boots
+13  25   0 0 0 0 0 3 6 1 0   //Browii Pendant of Ice
+
+//================================================
+//         RED WING
+//================================================
+
+7   40   0 0 0 0 0 3 5 1 0   //Semeden Red Wing Helm
+8   40   0 0 0 0 0 3 5 1 0   //Semeden Red Wing Armor
+10  40   0 0 0 0 0 3 5 1 0   //Semeden Red Wing Gloves
+11  40   0 0 0 0 0 3 5 1 0   //Semeden Red Wing Boots
+
+7   40   0 0 0 0 0 3 6 1 0   //Krono Red Wing Helm
+9   40   0 0 0 0 0 3 6 1 0   //Krono Red Wing Pants
+10  40   0 0 0 0 0 3 6 1 0   //Krono Red Wing Gloves
+13  24   0 0 0 0 0 3 6 1 0   //Krono Ring of Magic
+
+//================================================
+//         SACRED
+//================================================
+7   59   0 0 0 0 0 3 5 1 0   //Vega's Sacred Helm
+8   59   0 0 0 0 0 3 5 1 0   //Vega's Sacred Armor
+9   59   0 0 0 0 0 3 5 1 0   //Vega's Sacred Pants
+0   32   0 0 1 1 1 3 5 1 0   //Vega's Sacred Glove
+
+8   59   0 0 0 0 0 3 6 1 0   //Chamereuui's Sacred Armor
+9   59   0 0 0 0 0 3 6 1 0   //Chamereuui's Sacred Pants
+11  59   0 0 0 0 0 3 5 1 0   //Chamereuui's Sacred Boots
+0   32   0 0 1 1 1 3 6 1 0   //Chamereuui's Sacred Glove
+
+
+
+
+end

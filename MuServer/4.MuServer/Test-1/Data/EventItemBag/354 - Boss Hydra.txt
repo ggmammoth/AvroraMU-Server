@@ -1,0 +1,58 @@
+
+3
+//Index   DropRate DropInventory
+0         10000    // MS2 DropInventory 0 not in our format
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         6000         0              0             1    1    1    1    1    1    1
+0         6         2000         0              0             1    1    1    1    1    1    1
+0         7         2000         0              0             1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+7221     0       0       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       2       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       3       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       4       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       5       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       6       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       7       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       8       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       9       *         *         *         *         *         *         *         0          //Talisman of Luck
+7221     0       10      *         *         *         *         *         *         *         0          //Talisman of Luck
+7577     0       0       *         *         *         *         *         *         *         0          //Steel of Heaven
+
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6736      0       0       *         *         *         *         *          *         *         43200      //Panda 12H
+6736      0       0       *         *         *         *         *          *         *         86400      //Panda 24H
+7445      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +10   // CASE-20261011-004: MS2 14/253 -> 14/277
+7446      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +11   // CASE-20261011-004: MS2 14/266 -> 14/278
+7447      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +12   // CASE-20261011-004: MS2 14/267 -> 14/279
+7448      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +13   // CASE-20261011-004: MS2 14/268 -> 14/280
+7449      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +14   // CASE-20261011-004: MS2 14/269 -> 14/281
+7450      0       0       *         *         *         *         *          *         *         0      //Jewel Of Level +15   // CASE-20261011-004: MS2 14/270 -> 14/282
+7414      0       0       *         *         *         *         *          *         *         0      //Jewel Of Luck
+7415      0       0       *         *         *         *         *          *         *         0      //Jewel Of Additional   // CASE-20261011-004: MS2 14/245 -> 14/247
+7442      0       0       *         *         *         *         *          *         *         0      //Jewel Of Remove Adicional   // CASE-20261011-004: MS2 14/247 -> 14/274
+7416      0       0       *         *         *         *         *          *         *         0      //Jewel Of Excelent
+7443      0       0       *         *         *         *         *          *         *         0      //Jewel Of Remove Excelent   // CASE-20261011-004: MS2 14/252 -> 14/275
+7417      0       0       *         *         *         *         *          *         *         0      //Jewel Of Socket
+7444      0       0       *         *         *         *         *          *         *         0      //Jewel Of Exl Wings   // CASE-20261011-004: MS2 14/254 -> 14/276
+7577     0       0       *         *         *         *         *         *         *         0          //Steel of Heaven
+
+end
+
+7
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+7577     0       0       *         *         *         *         *         *         *         0          //Steel of Heaven
+7264     0       0       *         *         *         *         *         *         *         0          //Talisman of Chaos Assembly
+
+
+end
