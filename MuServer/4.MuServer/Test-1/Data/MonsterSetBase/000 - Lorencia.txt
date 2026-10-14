@@ -29,6 +29,7 @@
 249            00             10         131            088            01             //Guard
 240            00             00         147            145            01             //Safety Guardian
 735            00             00         137            140            02             //Npc Quests Lorencia (CASE-20260920-001, IllusionMU class 600 -> 735)
+579            00             00         143            140            02             //David - Lucky Items (CASE-20261014-009, like MuServer2 Lorencia; Elbeland David stays)
 
 230            00             00         113            135            03             //Wandering Merchant Alex
 578            00             00         113            133            03             //Weapons Merchant Bolo

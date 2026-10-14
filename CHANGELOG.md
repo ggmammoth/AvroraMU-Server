@@ -9,6 +9,26 @@ Every version of this repository is complete: just download the newest one. Noth
 
 ## English
 
+### 14.10.2026
+- **New full Android APK (5241):** it has all game files inside (23 995 files) - after installing it downloads almost nothing. Same version as the update APK, so it does not ask for another APK.
+- **Fast start on Android:** the launcher remembers the CRC of every game file (`Data/.crc-cache`); only changed files are read again - the start check takes seconds instead of minutes.
+- **X Shop:**
+  - currency tabs on top like the MuServer2 In-Game Shop (W Coin / Hunt Points / Goblin Points - only the used ones), pages "1 / 2" with arrows under the items, full currency names under the price;
+  - a pack can be sold for a choice of time with its own price: chips 7d / 15d / 31d next to the pack icon (EXP PACK and BUFF PACK: 300 / 550 / 950 WC), the pack items get the chosen time;
+  - Package Box A / B / C packs (EXP / BUFF packs like MuServer2), EXP PACK and BUFF PACK above the Starter Packs.
+- **X Shop editor inside the GameServer window** (Config -> SPK -> CustomShop.xml): the same work as the desktop X Shop Editor; SAVE + RELOAD writes the file (with a backup) and reloads the shop at once.
+- **Test-1 is open for everyone** (it was still locked to GM accounts - players got "No related information found").
+- **NPC David** (Lucky Items) also in Lorencia 143,140.
+- In the source for the next build: Lucky Items switched on in the clients (Lucky tickets with a picture, the David window, Lucky sets), F1 Guide shows no % for boxes that always give everything (Starter Packs).
+
+### 13.10.2026
+- **Vendor update 12.0 (MU SPK v12.3) merged:** chat up to 200 characters, MU Helper Party / Guild / Combo options, PC / Android icon next to the character name, password change without a fee, Android update screen with a Retry button, maps in `Data\Map`, new ServerData.bmd.
+- **Fresh PC and Android clients** with all files, Test-1 is the players' server.
+- **X Shop (from the MuExp package):** tabs ZEN / WC / WP / GP / RUUD / ATM / MONTHLY / EVENT, packs, a result box after buying, buff time adds up, endless seal buff fixed, item time shown in the shop.
+- **Android:** Guide button (the F1 Server Guide) next to Voice and in the menu, MU Helper "Route", TAB map legend and sharp zoom buttons (they showed as 4 blurry buttons), wings fixed.
+- **PC:** the TAB map no longer touches the top of the screen.
+- **Grand Reset:** needs 100 resets, back to level 1 with 0 resets and the starting stats, 1000 points and +500 HP for every Grand Reset.
+
 ### 12.10.2026
 - **Starter Pack Level 1 / 2 / 3** (14/505-507, new items with models): open them and you get the whole starter set of your class in the inventory (taken from DangerZoneMU). They are also in the F1 Boxes tab.
 - **Invasion drops rebuilt:**
@@ -127,6 +147,26 @@ Every version of this repository is complete: just download the newest one. Noth
 ---
 
 ## Български
+
+### 14.10.2026
+- **Нов пълен Android APK (5241):** вътре са всички файлове на играта (23 995) - след инсталация не тегли почти нищо. Същата версия като update APK-то, така че не иска друг APK.
+- **Бърз старт на Android:** лаунчърът помни CRC на всеки файл (`Data/.crc-cache`); чете наново само променените - проверката при пускане е секунди, не минути.
+- **X Shop:**
+  - табове по валута отгоре като In-Game Shop-а на MuServer2 (W Coin / Hunt Points / Goblin Points - само използваните), страници "1 / 2" със стрелки под предметите, пълни имена на валутите под цената;
+  - пакет може да се продава с избор на срок и своя цена: бутончета 7d / 15d / 31d до иконата (EXP PACK и BUFF PACK: 300 / 550 / 950 WC), предметите в пакета получават избрания срок;
+  - пакетите Package Box A / B / C (EXP / BUFF пакети като в MuServer2), EXP PACK и BUFF PACK над Starter Pack-овете.
+- **X Shop редактор в прозореца на GameServer** (Config -> SPK -> CustomShop.xml): същото като X Shop Editor на десктопа; SAVE + RELOAD записва файла (с бекъп) и презарежда магазина веднага.
+- **Test-1 е отворен за всички** (беше заключен само за GM акаунти - играчите получаваха "No related information found").
+- **NPC David** (Lucky Items) и в Lorencia 143,140.
+- В кода за следващия билд: Lucky Items включени в клиентите (Lucky билети с картинка, прозорецът на David, Lucky сетове), F1 Guide без % за кутии, които дават всичко (Starter Pack-овете).
+
+### 13.10.2026
+- **Вграден ъпдейт 12.0 на производителя (MU SPK v12.3):** чат до 200 знака, MU Helper отметки Party / Guild / Combo, иконка PC / Android до името на героя, смяна на паролата без такса, екран за ъпдейт на Android с бутон Retry, картите в `Data\Map`, нов ServerData.bmd.
+- **Нови PC и Android клиенти** с всички файлове, Test-1 е сървърът на играчите.
+- **X Shop (от MuExp пакета):** табове ZEN / WC / WP / GP / RUUD / ATM / MONTHLY / EVENT, пакети, прозорец с резултата след покупка, времето на бафовете се добавя, поправен безкраен seal баф, срокът на предмета се вижда в магазина.
+- **Android:** бутон Guide (F1 Server Guide) до Voice и в менюто, MU Helper "Route", легенда на TAB картата и ясни бутони за zoom (бяха 4 размазани), поправени крилата.
+- **PC:** TAB картата вече не опира в горния край на екрана.
+- **Grand Reset:** иска 100 ресета, връща на ниво 1 с 0 ресета и стартови статове, 1000 точки и +500 HP за всеки Grand Reset.
 
 ### 12.10.2026
 - **Starter Pack Level 1 / 2 / 3** (14/505-507, нови итеми с модели): като го отвориш, получаваш целия стартов сет за класа си в инвентара (взети от DangerZoneMU). Има ги и в раздел Boxes на F1.

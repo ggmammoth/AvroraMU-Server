@@ -1,0 +1,142 @@
+// Select individual Excellent option bits after ItemOptionRate selects the count.
+// Item index = category * 512 + index. Weights below are preserved per item range.
+// OptionIndex ItemMinIndex ItemMaxIndex Name             OptionRate
+   1       0         2559         "Add Hunt MP"                        50         //General Weapon
+   2       0         2559         "Add Hunt HP"                        50         //General Weapon
+   4       0         2559         "Add Speed"                          20          //General Weapon
+   8       0         2559         "Mul Physi Damage"                   5          //General Weapon
+   16      0         2559         "Add Physi Damage By Level"          10          //General Weapon
+   32      0         2559         "Add Excellent Damage Rate"          5          //General Weapon
+   
+   1       2560         2579         "Add Hunt MP"                        50         //General Staff
+   2       2560         2579         "Add Hunt HP"                        50         //General Staff
+   4       2560         2579         "Add Speed"                          20         //General Staff
+   8       2560         2579         "Mul Magic Damage"                   5          //General Staff
+   16      2560         2579         "Add Magic Damage By Level"          10         //General Staff
+   32      2560         2579         "Add Excellent Damage Rate"          5          //General Staff
+   
+   1       2580         2589         "Add Hunt MP"                        50         //General Book
+   2       2580         2589         "Add Hunt HP"                        50         //General Book
+   4       2580         2589         "Add Speed"                          20         //General Book
+   8       2580         2589         "Mul Curse Damage"                   5          //General Book
+   16      2580         2589         "Add Curse Damage By Level"          10         //General Book
+   32      2580         2589         "Add Excellent Damage Rate"          5          //General Book
+   
+   1       2590         3071         "Add Hunt MP"                        50         //General Staff
+   2       2590         3071         "Add Hunt HP"                        50         //General Staff
+   4       2590         3071         "Add Speed"                          20         //General Staff
+   8       2590         3071         "Mul Magic Damage"                   5          //General Staff
+   16      2590         3071         "Add Magic Damage By Level"          10         //General Staff
+   32      2590         3071         "Add Excellent Damage Rate"          5          //General Staff
+   
+   1       3072         3583         "Add Money Amount Drop Rate"         50         //General Shield
+   2       3072         3583         "Mul Defense Success Rate"           20         //General Shield
+   4       3072         3583         "Add Damage Reflect"                 5          //General Shield
+   8       3072         3583         "Add Damage Reduction"               5          //General Shield
+   16      3072         3583         "Mul MP"                             50         //General Shield
+   32      3072         3583         "Mul HP"                             20         //General Shield
+   
+   1       3584         6143         "Add Money Amount Drop Rate"         50         //General Armor
+   2       3584         6143         "Mul Defense Success Rate"           20         //General Armor
+   4       3584         6143         "Add Damage Reflect"                 5          //General Armor
+   8       3584         6143         "Add Damage Reduction"               5          //General Armor
+   16      3584         6143         "Mul MP"                             50         //General Armor
+   32      3584         6143         "Mul HP"                             20         //General Armor
+   
+   1       6664         6665         "Add Money Amount Drop Rate"         50         //Ring 
+   2       6664         6665         "Mul Defense Success Rate"           10          //Ring 
+   4       6664         6665         "Add Damage Reflect"                 3          //Ring 
+   8       6664         6665         "Add Damage Reduction"               3          //Ring 
+   16      6664         6665         "Mul MP"                             50         //Ring 
+   32      6664         6665         "Mul HP"                             10          //Ring 
+   
+   1       6677         6680         "Add Money Amount Drop Rate"         50         //Ring 
+   2       6677         6680         "Mul Defense Success Rate"           10         //Ring 
+   4       6677         6680         "Add Damage Reflect"                 3          //Ring 
+   8       6677         6680         "Add Damage Reduction"               3          //Ring 
+   16      6677         6680         "Mul MP"                             50         //Ring 
+   32      6677         6680         "Mul HP"                             10         //Ring 
+
+   1       6668         6669         "Add Hunt MP"                        50         //Pedant
+   2       6668         6669         "Add Hunt HP"                        50         //Pedant
+   4       6668         6669         "Add Speed"                          20          //Pedant
+   8       6668         6669         "Mul Magic Damage"                   3          //Pedant
+   16      6668         6669         "Add Magic Damage By Level"          3          //Pedant
+   32      6668         6669         "Add Excellent Damage Rate"          3          //Pedant
+   
+   1       6681         6684         "Add Hunt MP"                        50         //Pedant
+   2       6681         6684         "Add Hunt HP"                        50         //Pedant
+   4       6681         6684         "Add Speed"                          20         //Pedant
+   8       6681         6684         "Mul Magic Damage"                   3          //Pedant
+   16      6681         6684         "Add Magic Damage By Level"          3          //Pedant
+   32      6681         6684         "Add Excellent Damage Rate"          3          //Pedant
+
+   1       6147         6147         "Add Wing HP"                        5         //Wings of Spirit
+   2       6147         6147         "Add Wing MP"                        5         //Wings of Spirit
+   4       6147         6147         "Add Ignore Defense Rate"            0          //Wings of Spirit
+   8       6147         6147         "Add BP"                             5         //Wings of Spirit
+   16      6147         6147         "Add Speed"                          5         //Wings of Spirit
+   1       6148         6148         "Add Wing HP"                        5         //Wings of Soul
+   2       6148         6148         "Add Wing MP"                        5          //Wings of Soul
+   4       6148         6148         "Add Ignore Defense Rate"            0          //Wings of Soul
+   8       6148         6148         "Add BP"                             5          //Wings of Soul
+   16      6148         6148         "Add Speed"                          5          //Wings of Soul
+   1       6149         6149         "Add Wing HP"                        5          //Wings of Devil
+   2       6149         6149         "Add Wing MP"                        5          //Wings of Devil
+   4       6149         6149         "Add Ignore Defense Rate"            0          //Wings of Devil
+   8       6149         6149         "Add BP"                             5          //Wings of Devil
+   16      6149         6149         "Add Speed"                          5          //Wings of Devil
+   1       6150         6150         "Add Wing HP"                        5          //Wings of Darkness
+   2       6150         6150         "Add Wing MP"                        5          //Wings of Darkness
+   4       6150         6150         "Add Ignore Defense Rate"            0          //Wings of Darkness
+   8       6150         6150         "Add BP"                             5          //Wings of Darkness
+   16      6150         6150         "Add Speed"                          5          //Wings of Darkness
+   1       6186         6186         "Add Wing HP"                        5          //Wings of Despair
+   2       6186         6186         "Add Wing MP"                        5          //Wings of Despair
+   4       6186         6186         "Add Ignore Defense Rate"            0          //Wings of Despair
+   8       6186         6186         "Add BP"                             5          //Wings of Despair
+   16      6186         6186         "Add Speed"                          5          //Wings of Despair
+   1       6193         6193         "Add Wing HP"                        5          //Cloak of Fighter
+   2       6193         6193         "Add Wing MP"                        5          //Cloak of Fighter
+   4       6193         6193         "Add Ignore Defense Rate"            0          //Cloak of Fighter
+   8       6193         6193         "Add BP"                             5          //Cloak of Fighter
+   16      6193         6193         "Add Spped"                          5          //Cloak of Fighter
+   1       6686         6686         "Add Wing HP"                        5          //Cape of Lord
+   2       6686         6686         "Add Wing MP"                        5          //Cape of Lord
+   4       6686         6686         "Add Ignore Defense Rate"            0          //Cape of Lord
+   8       6686         6686         "Add Wing Leadership"                5          //Cape of Lord
+   1       6180         6180         "Add Ignore Defense Rate"            0          //Wings of Storm
+   2       6180         6180         "Add Full Damage Reflect Rate"       5          //Wings of Storm
+   4       6180         6180         "Add D. Full HP Restore Rate"        5          //Wings of Storm
+   8       6180         6180         "Add D. Full MP Restore Rate"        5          //Wings of Storm
+   1       6181         6181         "Add Ignore Defense Rate"            0          //Wings of Space Time
+   2       6181         6181         "Add Full Damage Reflect Rate"       5          //Wings of Space Time
+   4       6181         6181         "Add D. Full HP Restore Rate"        5          //Wings of Space Time
+   8       6181         6181         "Add D. Full MP Restore Rate"        5          //Wings of Space Time
+   1       6182         6182         "Add Ignore Defense Rate"            0          //Wings of Illusion
+   2       6182         6182         "Add Full Damage Reflect Rate"       5          //Wings of Illusion
+   4       6182         6182         "Add D. Full HP Restore Rate"        5          //Wings of Illusion
+   8       6182         6182         "Add D. Full MP Restore Rate"        5          //Wings of Illusion
+   1       6183         6183         "Add Ignore Defense Rate"            0          //Wings of Hurricane
+   2       6183         6183         "Add Full Damage Reflect Rate"       5          //Wings of Hurricane
+   4       6183         6183         "Add D. Full HP Restore Rate"        5          //Wings of Hurricane
+   8       6183         6183         "Add D. Full MP Restore Rate"        5          //Wings of Hurricane
+   1       6184         6184         "Add Ignore Defense Rate"            0          //Mantle of Monarch
+   2       6184         6184         "Add Full Damage Reflect Rate"       5          //Mantle of Monarch
+   4       6184         6184         "Add D. Full HP Restore Rate"        5          //Mantle of Monarch
+   8       6184         6184         "Add D. Full MP Restore Rate"        5          //Mantle of Monarch
+   1       6187         6187         "Add Ignore Defense Rate"            0          //Wings of Violent Wind
+   2       6187         6187         "Add Full Damage Reflect Rate"       5          //Wings of Violent Wind
+   4       6187         6187         "Add D. Full HP Restore Rate"        5          //Wings of Violent Wind
+   8       6187         6187         "Add D. Full MP Restore Rate"        5          //Wings of Violent Wind
+   1       6194         6194         "Add Ignore Defense Rate"            0          //Mantle of Warrior
+   2       6194         6194         "Add Full Damage Reflect Rate"       5         //Mantle of Warrior
+   4       6194         6194         "Add D. Full HP Restore Rate"        5         //Mantle of Warrior
+   8       6194         6194         "Add D. Full MP Restore Rate"        5         //Mantle of Warrior
+   1       6659         6659         "Add Dinorant 1"                     50         //Dinorant
+   2       6659         6659         "Add BP"                             50         //Dinorant
+   4       6659         6659         "Add Speed"                          50         //Dinorant
+   1       6693         6693         "Add Fenrir 1"                       1          //Fenrir
+   2       6693         6693         "Add Fenrir 2"                       1          //Fenrir
+   4       6693         6693         "Add Fenrir 3"                       100        //Fenrir
+end
